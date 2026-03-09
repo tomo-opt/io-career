@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "io-career"
+version = "0.1.0"
+description = "Global IO internship crawler with daily diff and GitHub Pages export"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "io-career contributors" }]
+dependencies = [
+  "beautifulsoup4>=4.12.3",
+  "lxml>=5.2.2",
+  "PyYAML>=6.0.1",
+  "python-dateutil>=2.9.0",
+  "requests>=2.32.3",
+  "tzdata>=2025.2",
+]
+
+[project.scripts]
+io-career = "io_career.main:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

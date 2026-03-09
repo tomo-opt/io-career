@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>io-career dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Global IO Internship Tracker</h1>
+    <p id="updatedAt">Loading latest update...</p>
+  </header>
+  <main>
+    <section class="filters">
+      <input id="searchInput" type="search" placeholder="Search by title, location, organization" />
+      <select id="orgFilter"><option value="">All organizations</option></select>
+      <select id="typeFilter"><option value="">All job types</option></select>
+      <label><input id="newOnly" type="checkbox" /> New today only</label>
+    </section>
+    <section>
+      <p id="countLabel"></p>
+      <div id="jobList" class="cards"></div>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

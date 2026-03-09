@@ -1,0 +1,81 @@
+﻿version: 1
+sources:
+  - id: unjobs_feed
+    org_name: UNJobs Aggregator
+    org_group: Aggregators
+    source_url: https://unjobs.org/feeds/all.rss
+    source_type: aggregator
+    strategy: rss
+    options:
+      title_keyword_any: [intern, internship, traineeship, young professionals]
+      deny_keyword_any: [webinar, training course, newsletter]
+      max_items: 100
+    fail_silently: true
+
+  - id: unjobs_html
+    org_name: UNJobs Aggregator (HTML)
+    org_group: Aggregators
+    source_url: https://unjobs.org/
+    source_type: aggregator
+    strategy: html_links
+    options:
+      link_keyword_any: [intern, internship, trainee, traineeship]
+      url_keyword_any: [/vacancy/, /jobs/, intern]
+      deny_keyword_any: [login, privacy, cookie, donate, newsletter]
+      deny_url_keyword_any: [/feeds/, /about, /contact]
+      strict_title_keyword_match: true
+      max_items: 100
+
+  - id: impactpool_jobs
+    org_name: Impactpool
+    org_group: Aggregators
+    source_url: https://www.impactpool.org/search?keyword=intern
+    source_type: aggregator
+    strategy: html_links
+    options:
+      link_keyword_any: [intern, internship, trainee, junior professional]
+      url_keyword_any: [/jobs/, /career]
+      deny_keyword_any: [login, privacy, cookie, terms]
+      deny_url_keyword_any: [/blog, /about, /events, /courses]
+      strict_title_keyword_match: true
+      max_items: 120
+
+  - id: devex_jobs
+    org_name: Devex Jobs
+    org_group: Aggregators
+    source_url: https://www.devex.com/jobs/search?filter%5Binternship%5D=true
+    source_type: aggregator
+    strategy: html_links
+    options:
+      link_keyword_any: [intern, internship, trainee]
+      url_keyword_any: [/jobs/, /job/]
+      deny_keyword_any: [login, privacy, cookie, terms]
+      deny_url_keyword_any: [/articles, /news, /events]
+      strict_title_keyword_match: true
+      max_items: 120
+    fail_silently: true
+
+  - id: globaljobs_jobs
+    org_name: Globaljobs
+    org_group: Aggregators
+    source_url: https://www.globaljobs.org/jobs
+    source_type: aggregator
+    strategy: html_links
+    options:
+      link_keyword_any: [intern, internship, trainee, junior, associate]
+      url_keyword_any: [/jobs/]
+      deny_keyword_any: [post a job, sign in, login, newsletter]
+      strict_title_keyword_match: false
+      min_title_len: 8
+      max_items: 120
+
+  - id: reliefweb_feed
+    org_name: ReliefWeb Aggregator
+    org_group: Aggregators
+    source_url: https://reliefweb.int/jobs/rss.xml
+    source_type: aggregator
+    strategy: rss
+    options:
+      title_keyword_any: [intern, internship, trainee, entry level, junior]
+      deny_keyword_any: [volunteer, webinar, newsletter]
+      max_items: 120

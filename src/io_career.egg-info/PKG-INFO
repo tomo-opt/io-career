@@ -1,0 +1,46 @@
+Metadata-Version: 2.4
+Name: io-career
+Version: 0.1.0
+Summary: Global IO internship crawler with daily diff and GitHub Pages export
+Author: io-career contributors
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: beautifulsoup4>=4.12.3
+Requires-Dist: lxml>=5.2.2
+Requires-Dist: PyYAML>=6.0.1
+Requires-Dist: python-dateutil>=2.9.0
+Requires-Dist: requests>=2.32.3
+Requires-Dist: tzdata>=2025.2
+Dynamic: license-file
+
+﻿# io-career
+
+Global IO internship and early-career crawler with daily diff, archives, and GitHub Pages dashboard.
+
+## Quickstart
+```bash
+python -m venv .venv
+# Windows
+.venv\\Scripts\\activate
+pip install -r requirements.txt
+pip install -e .
+python -m io_career.main validate-sources
+python -m io_career.main run
+python -m io_career.main export-site
+```
+
+## CLI
+```bash
+python -m io_career.main run
+python -m io_career.main validate-sources
+python -m io_career.main export-site
+python -m io_career.main compare
+```
+
+## Outputs
+- `data/processed/latest/`
+- `data/processed/daily_new/`
+- `data/archive/`
+- `site/data/`

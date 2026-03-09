@@ -1,0 +1,786 @@
+[Organization] WHO
+[Position] International Health Regulations
+[Location] 
+[Deadline] 
+[Link] https://www.who.int/mega-menu/emergencies/who-in-emergencies/international-health-regulations
+--------------------------------------------------
+[Organization] WHO
+[Position] Internal audit and investigations
+[Location] 
+[Deadline] 
+[Link] https://www.who.int/mega-menu/about-us/accountability/internal-audit-and-investigations
+--------------------------------------------------
+[Organization] WHO
+[Position] Apply now
+[Location] 
+[Deadline] 
+[Link] https://careers.who.int/careersection/intern/jobsearch.ftl?lang=en
+--------------------------------------------------
+[Organization] WHO
+[Position] Frequently asked questions
+[Location] 
+[Deadline] 
+[Link] https://www.who.int/careers/internship-programme/frequently-asked-questions
+--------------------------------------------------
+[Organization] WHO
+[Position] Apply for a position
+[Location] 
+[Deadline] 
+[Link] https://www.who.int/careers/apply-for-a-position
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Senior Officer (Lead Officer) Financial Sustainability & Strategic Finance (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest-Senior-Officer-%28Lead-Officer%29-Financial-Sustainability-&-Strategic-Finance-DC-20577/1371179600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Principal/Lead Development Effectiveness Officer (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest-PrincipalLead-Development-Effectiveness-Officer-DC-20577/1371143500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - IT Project Manager & Business Analyst (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest-IT-Project-Manager-&-Business-Analyst-DC-20577/1370643200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Associate - Financial Sector - Andean Region (Bogotá, CO)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Bogot%C3%A1-IDB-Invest-Associate-Financial-Sector-Andean-Region/1370057900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Financial Analyst Consultant - Financial Institutions (Santo Domingo, DO, 10100)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Santo-Domingo-IDB-Invest-Financial-Analyst-Consultant-Financial-Institutions-10100/1370184300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Operations Senior Analyst (Kingston, JM)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Kingston-Operations-Senior-Analyst/1369783900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Development Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50057-remote-new-york-center-for-international-environmental-law-ciel-development-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Volunteer: Grants Sector
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50056-chimoio-mozambique-technoserve-volunteer-grants-sector
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Support Intern, MIGRA-FLEX Niger (French-speaking)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50055-brussels-belgium-deutsche-gesellschaft-fur-internationale-zusammenarbeit-project-support-intern-migra-flex-niger-french-speaking
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] North Africa & West Bank Prog Assistant (AME)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50054-washington-dc-universal-strategy-group-inc-north-africa-west-bank-prog-assistant-ame
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Director of the Biosecurity and Pandemic Policy Center
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50053-washington-dc-texas-a-m-university-assistant-director-of-the-biosecurity-and-pandemic-policy-center
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] DevOps Application Engineer (AWS Focused)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50052-manila-philippines-cambridge-university-press-assessment-devops-application-engineer-aws-focused
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior MEAL Officer Atlas - Tchad
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50051-chad-handicap-international-humanity-inclusion-senior-meal-officer-atlas-tchad
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, International Strategic Initiatives
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50050-washington-dc-joint-commission-director-international-strategic-initiatives
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Reporter/Producer, CNN Investigative
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50049-new-york-cnn-senior-reporter-producer-investigative
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] EU Policy Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50048-brussels-belgium-international-emissions-trading-association-eu-policy-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Associate, Technology and Geoeconomic Affairs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50047-washington-dc-the-national-bureau-of-asian-research-project-associate-technology-and-geoeconomic-affairs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Russia Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50046-washington-dc-c4ads-russia-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Office, Tunisia
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50045-tunis-tunisia-geneva-centre-for-security-sector-governance-head-of-office
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Partnership Delegate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50044-kyiv-ukraine-danish-red-cross-partnership-delegate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Airport Economics Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50043-brussels-belgium-aci-europe-airports-council-international-airport-economics-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Political Science-Adjunct Faculty (Pool)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50042-gardner-massachusetts-mount-wachusett-community-college-political-science-adjunct-faculty-pool
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50041-zimbabwe-sightsavers-project-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Manager - Digital Transformation
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50040-noumea-new-caledonia-the-pacific-community-spc-project-manager-digital-transformation
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Field Support Assistant - Hygiene Promotion and Risk Communication
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50039-nigeria-ctg-committed-to-good-field-support-assistant-hygiene-promotion-and-risk-communication
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Development Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50038-new-york-doctors-of-the-world-development-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] International Relations, Senior Rank Faculty Position in Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50037-stanford-california-university-international-relations-senior-rank-faculty-position-in-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager - Public Policy - Production & Creative Engagement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50036-los-angeles-california-netflix-manager-public-policy-production-creative-engagement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director for External Engagement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50035-washington-dc-korea-economic-institute-director-for-external-engagement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Finance and Administration Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50034-brussels-belgium-european-civic-forum-finance-and-administration-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Capability Development Approach Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50033-thailand-international-organization-for-migration-capability-development-approach-consultant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Project Manager, Global Programs - US remote
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50032-remote-dc-mercy-corps-senior-project-manager-global-programs-us
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Practice Lead Governance and Politics Centre of Expertise
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50031-london-united-kingdom-westminster-foundation-for-democracy-wfd-practice-lead-governance-and-politics-centre-of-expertise
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate, Poland
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50030-poland-regulatory-assistance-project-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Projects Coordinator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50029-brussels-belgium-a-spire-projects-coordinator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Instructor - Pol. Sci., History, Geography
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50028-lakeland-florida-southern-college-adjunct-instructor-pol-sci-history-geography
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50027-remote-dc-global-action-to-end-smoking-inc-program-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Administration Assistant (German- and French-speaking)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50026-brussels-belgium-chamber-of-labour-for-vienna-administration-assistant-german-and-french-speaking
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Programme Assistant - Middle East and Gulf
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50025-brussels-belgium-european-institute-of-peace-programme-assistant-middle-east-and-gulf
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Syria Project Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50024-damascus-syrian-arab-republic-altai-consulting-syria-project-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Comparative Politics, Open Rank Faculty Position in Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50023-stanford-california-university-comparative-politics-open-rank-faculty-position-in-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Management Support Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50022-geneva-sweden-unops-project-management-support-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Finance Coordinator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50021-new-york-the-foundation-for-city-college-finance-coordinator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Volunteer Opportunities: Digital Media Manager and Website Developer & Designer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50020-remote-south-africa-apo-group-african-press-organization-volunteer-opportunities-digital-media-manager-and-website-developer-designer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Editorial intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50019-new-york-the-nation-editorial-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Schwarzman Academy Fellowship 2026-2027
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50018-hybrid-united-kingdom-chatham-house-schwarzman-academy-fellowship-2026-2027
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Policy Analyst – Community Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50017-brussels-belgium-joint-research-centre-policy-analyst-community-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50016-brussels-belgium-friends-of-the-earth-europe-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Instructor/Criminology & Criminal Justice, Economics, History, International Studies, And Power & Politics
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50015-ashland-oregon-southern-university-adjunct-instructor-criminology-criminal-justice-economics-history-international-studies-and-power-politics
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Digital Media Producer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50014-arlington-virginia-national-defense-industrial-association-ndia-digital-media-producer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Manager, Rights and Economic Renewal in the U.S.
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50013-washington-dc-or-new-york-open-society-foundations-program-manager-rights-and-economic-renewal-in-the-u-s
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Digital Communications Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50012-new-york-the-century-foundation-digital-communications-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Advocacy and Communications
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50011-remote-dc-prospera-international-network-of-women-s-funds-director-advocacy-and-communications
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Executive Assistant, Executive Office
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50010-new-york-global-impact-investing-network-senior-executive-assistant-office
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Manager, Leadership Giving (FT, NYC Hybrid)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50009-new-york-unfpa-senior-manager-leadership-giving-ft-nyc-hybrid
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Regional Director, Africa
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50008-nairobi-kenya-international-maize-and-wheat-improvement-center-regional-director-africa
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Lecturer in Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50007-evansville-illinois-university-of-southern-indiana-lecturer-in-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50006-nairobi-kenya-eastern-and-southern-africa-trade-development-bank-project-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] International Trade Compliance Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50005-linthicum-heights-maryland-northrop-grumman-international-trade-compliance-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Vice President and Director, National Security Research Division (NSRD)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50004-washington-dc-rand-corporation-vice-president-and-director-national-security-research-division-nsrd
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Chinese Multidisciplined Language Analyst / Language Analyst Development Program (LADP)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50003-fort-meade-maryland-national-security-agency-chinese-multidisciplined-language-analyst-development-program-ladp
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Member of the Legal Service
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50002-brussels-belgium-european-data-protection-supervisor-member-of-the-legal-service
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Deputy Commissioner
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50001-dublin-ireland-an-garda-siochana-deputy-commissioner
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Scope 3 GHG and Member Engagement Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50000-brussels-belgium-together-for-sustainability-scope-3-ghg-and-member-engagement-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Philanthropy Director/ Transformational Giving
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49999-south-florida-or-central-texas-american-red-cross-senior-philanthropy-director-transformational-giving
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of International Research and Engagement Services (IRES)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49998-harrisonburg-virginia-james-madison-university-head-of-international-research-and-engagement-services-ires
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Part-time Adjunct Teaching Positions - Department of Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49997-morgantown-west-virginia-university-part-time-adjunct-teaching-positions-department-of-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Risk Analyst (USTDA)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49996-arlington-virginia-ascendant-senior-risk-analyst-ustda
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Arabic Translator Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49995-beirut-lebanon-un-economic-and-social-commission-for-western-asia-unescwa-arabic-translator-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Programme Manager, RoLAC
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49994-abuja-nigeria-international-institute-for-democracy-and-electoral-assistance-idea-senior-programme-manager-rolac
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Digital Fundraising Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49993-remote-dc-globalgiving-foundation-inc-digital-fundraising-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] National Director - WV Laos
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49992-lao-people-s-democratic-republic-world-vision-national-director-wv-laos
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Management Intern (Monitoring, Evaluation and Learning)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49991-helsinki-finland-unops-project-management-intern-monitoring-evaluation-and-learning
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Political Science Faculty
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49990-phoenix-arizona-college-political-science-faculty
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Officer/Program Manager, China in the World
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49989-washington-dc-cipe-program-officer-manager-china-in-the-world
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Individual Giving Launch Campaign & Capacity Building
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49988-remote-dc-together-for-girls-individual-giving-launch-campaign-capacity-building
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Sr. People & Talent Business Partner, U.S. People Operations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49987-stamford-california-americares-sr-people-talent-business-partner-u-s-operations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Tenure-Track Assistant Professor / Associate Professor in International Relations in the Department of Politics and Public Administration
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49986-hong-kong-university-of-tenure-track-assistant-professor-associate-in-international-relations-the-department-politics-and-public-administration
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Postdoctoral Fellowship
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49985-new-york-the-school-postdoctoral-fellowship
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Managing Editor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49984-remote-dc-the-war-horse-news-managing-editor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Environmental Justice Foundation
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49983-brussles-or-london-united-kingdom-ocean-campaigner-eu-fisheries-transparency-environmental-justice-foundation
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Grants Management Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49982-new-york-rockefeller-brothers-fund-grants-management-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Environmental Assessment Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49981-remote-dc-miyamoto-international-senior-environmental-assessment-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Philanthropy Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49980-new-york-the-guardian-us-philanthropy-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] EU Affairs Trainee
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49979-brussels-belgium-fuelseurope-eu-affairs-trainee
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Director, Philanthropic Partnerships, Counterpart International
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49978-hybrid-dc-counterpart-international-senior-director-philanthropic-partnerships
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Advocacy and Communications
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49977-remote-dc-prospera-international-network-of-women-s-funds-director-advocacy-and-communications
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Deployment Coordinator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49976-global-flexible-belgium-plan-international-deployment-coordinator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Sales Associate SAM Risk Intelligence
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49975-new-york-lseg-london-stock-exchange-group-sales-associate-sam-risk-intelligence
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Security Intelligence Analyst, Senior
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49974-oakland-california-blue-shield-of-security-intelligence-analyst-senior
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Travel Security and Risk Principal, Global Physical Security
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49973-arlington-virginia-oracle-travel-security-and-risk-principal-global-physical
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Global Director Of HR
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49972-brussels-belgium-vvob-education-for-development-global-director-of-hr
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intern: United Nations 2026 Water Conference
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49971-nairobi-kenya-un-environment-programme-intern-united-nations-2026-water-conference
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate Underwriter
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49970-jeddah-saudi-arabia-islamic-development-bank-isdb-associate-underwriter
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Internship: Legal Office
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49969-the-hague-netherlands-international-criminal-court-icc-internship-legal-office
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Lecturer in International Political Economy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49968-medford-massachusetts-tufts-university-adjunct-lecturer-in-international-political-economy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Global Director Of HR
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49967-brussels-belgium-vvob-education-for-development-global-director-of-hr
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Individual Environmental Expert
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49966-apo-abuja-fct-nigeria-federal-ministry-of-water-resources-and-sanitation-individual-environmental-expert
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Assistant Professor of American Political Thought
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49965-lexington-virginia-washington-and-lee-university-visiting-assistant-professor-of-american-political-thought
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Researcher (Postdoctoral Research Associate)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49964-new-york-university-researcher-postdoctoral-research-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Youth Project Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49963-brussels-belgium-european-disability-forum-youth-project-consultant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] User Engagement and Training Event Administrator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49962-darmstadt-germany-european-organisation-for-the-exploitation-of-meteorological-satellites-user-engagement-and-training-event-administrator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Government Affairs Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49961-remote-dc-nvidia-senior-government-affairs-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Team Leader – Planning, Monitoring, Evaluation, Learning (PMEL) and Adaptive Management
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49960-suva-fiji-the-pacific-community-spc-team-leader-planning-monitoring-evaluation-learning-pmel-and-adaptive-management
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Manager, Rwanda
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49959-rwanda-vital-strategies-program-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Child Justice Expert
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49958-ukraine-global-rights-compliance-senior-child-justice-expert
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Partnerships Senior Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49957-remote-dc-globalgiving-foundation-inc-partnerships-senior-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Business Development Principle - Intelligence Community
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49956-herndon-virginia-lockheed-martin-business-development-principle-intelligence-community
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Programme Officer - Community Health
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49955-taolagnaro-madagascar-seed-programme-officer-community-health
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communication & Project Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49954-brussels-belgium-international-yehudi-menuhin-foundation-communication-project-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Global Corporate Relations Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49953-remote-dc-the-humane-league-global-corporate-relations-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, External & International Relations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49952-washington-dc-national-council-of-architectural-registration-boards-ncarb-manager-external-international-relations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Full-Time Faculty Position, Political Science (Comparative Politics)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49951-worcester-massachusetts-college-of-the-holy-cross-visiting-full-time-faculty-position-political-science-comparative-politics
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49950-brussels-belgium-icf-project-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director-General (Dutch- and French-speaking)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49949-brussels-belgium-egmont-royal-institute-for-international-relations-director-general-dutch-and-french-speaking
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, IFC Corporate Strategy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49948-washington-dc-world-bank-group-director-ifc-corporate-strategy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] US Bureau Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49947-washington-dc-the-telegraph-us-bureau-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Officer (Socio-Economic Integration, Child Protection, and Livelihood) (P2) Conakry, Guinea
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49946-guinea-international-organization-for-migration-project-officer-socio-economic-integration-child-protection-and-livelihood-p2-conakry
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] European View Research and Editor Internship
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49945-brussels-belgium-wilfried-martens-centre-for-european-studies-view-research-and-editor-internship
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] 2026 IFAC Summer Internship - Communications
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49944-new-york-international-federation-of-accountants-2026-ifac-summer-internship-communications
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Market Intelligence Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49943-new-york-international-federation-of-accountants-market-intelligence-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Grants and Partnerships Manager at Inclusive Development International
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49942-remote-dc-inclusive-development-international-grants-and-partnerships-manager-at
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Interim Global Campaigns & Networks Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49941-remote-united-kingdom-350-org-interim-global-campaigns-networks-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications and Engagement Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49940-washington-dc-congressional-hunger-center-communications-and-engagement-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Media Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49939-new-york-human-rights-watch-media-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] President – War Child Switzerland (Voluntary)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/49938-switzerland-war-child-international-president-voluntary
+--------------------------------------------------

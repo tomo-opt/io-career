@@ -1,0 +1,759 @@
+version: 1
+sources:
+- id: un_secretariat_careers
+  org_name: United Nations Secretariat
+  org_group: United Nations System
+  source_url: https://careers.un.org/api/site/jobOpening/latestJobOpening
+  source_type: official
+  strategy: json_api
+  options:
+    data_path: data.result
+    max_items: 200
+    field_map:
+      job_title: jobCodeTitle
+      location: dutyStation.0.description
+      deadline: endDate
+      posted_date: insertedDate
+      job_url: url
+      summary: jobFamilyCode.Name
+    job_url_template: https://careers.un.org/job-openings?job-id={jobId}
+  fallback_urls:
+  - https://careers.un.org/api/site/jobOpening/popularjobopening
+- id: un_careers_portal
+  org_name: UN Careers Portal
+  org_group: United Nations System
+  source_url: https://careers.un.org/api/site/jobOpening/popularjobopening
+  source_type: official
+  strategy: json_api
+  options:
+    data_path: data.result
+    max_items: 200
+    field_map:
+      job_title: jobCodeTitle
+      location: dutyStation.0.description
+      deadline: endDate
+      posted_date: insertedDate
+      job_url: url
+      summary: jobFamilyCode.Name
+    job_url_template: https://careers.un.org/job-openings?job-id={jobId}
+  fallback_urls:
+  - https://careers.un.org/api/site/jobOpening/latestJobOpening
+- id: undp_jobs
+  org_name: UNDP
+  org_group: United Nations System
+  source_url: https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX_1,keyword=intern
+  source_type: official
+  strategy: oracle_ce_api
+  options:
+    title_keyword_any:
+    - intern
+    - internship
+    - trainee
+    - entry
+    - associate
+    - assistant
+    deny_keyword_any:
+    - consultancy
+    - consultant
+    job_url_template: https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo={Id};pCalledFrom=FUSESHELL
+    max_items: 120
+  fallback_urls:
+  - https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX_1,keyword=trainee
+  fail_silently: true
+- id: unicef_jobs
+  org_name: UNICEF
+  org_group: United Nations System
+  source_url: https://jobs.unicef.org/en-us/listing/
+  source_type: official
+  strategy: html_structured
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+- id: unesco_careers
+  org_name: UNESCO
+  org_group: United Nations System
+  source_url: https://careers.unesco.org/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - young professional
+    url_keyword_any:
+    - intern
+    - internship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+- id: who_careers
+  org_name: WHO
+  org_group: United Nations System
+  source_url: https://www.who.int/careers/internship-programme
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - apply now
+    - internship
+    - intern
+    url_keyword_any:
+    - careersection/intern/jobsearch
+    - /careers/apply-for-a-position
+    deny_keyword_any:
+    - faq
+    - privacy
+    - cookie
+    strict_title_keyword_match: false
+    min_title_len: 4
+    max_items: 20
+  fallback_urls:
+  - https://careers.who.int/careersection/intern/jobsearch.ftl?lang=en
+- id: fao_jobs
+  org_name: FAO
+  org_group: United Nations System
+  source_url: https://www.fao.org/employment/en/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    url_keyword_any:
+    - intern
+    - internship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any:
+    - icsc.un.org
+    - .pdf
+- id: ilo_jobs
+  org_name: ILO
+  org_group: United Nations System
+  source_url: https://jobs.ilo.org/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - junior professional
+    url_keyword_any:
+    - intern
+    - internship
+    - trainee
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+- id: unwomen_jobs
+  org_name: UN Women
+  org_group: United Nations System
+  source_url: https://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=XX
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    - consultancy
+    - consultant
+    max_items: 60
+    strict_title_keyword_match: true
+    deny_url_keyword_any:
+    - consultancies
+    - contracts
+    - procurement
+- id: wfp_jobs
+  org_name: WFP
+  org_group: United Nations System
+  source_url: https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs
+  source_type: official
+  strategy: workday_api
+  options:
+    title_keyword_any:
+    - intern
+    - internship
+    - trainee
+    - officer
+    - assistant
+    - associate
+    deny_keyword_any:
+    - consultancy
+    job_host: https://wd3.myworkdaysite.com/recruiting/wfp/job_openings
+    max_items: 120
+  fallback_urls:
+  - https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs
+  fail_silently: true
+  request_payload:
+    appliedFacets: {}
+    limit: 120
+    offset: 0
+    searchText: ''
+- id: unhcr_jobs
+  org_name: UNHCR
+  org_group: United Nations System
+  source_url: https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs
+  source_type: official
+  strategy: workday_api
+  options:
+    title_keyword_any:
+    - intern
+    - internship
+    - assistant
+    - associate
+    - officer
+    - entry
+    deny_keyword_any:
+    - consultancy
+    job_host: https://unhcr.wd3.myworkdayjobs.com/External
+    max_items: 120
+  fallback_urls:
+  - https://unhcr.wd3.myworkdayjobs.com/External/jobs
+  fail_silently: true
+  request_payload:
+    appliedFacets: {}
+    limit: 120
+    offset: 0
+    searchText: ''
+- id: unfpa_jobs
+  org_name: UNFPA
+  org_group: United Nations System
+  source_url: https://www.unfpa.org/jobs
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - young professionals
+    url_keyword_any:
+    - intern
+    - internship
+    - jobs
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any:
+    - contract-types
+- id: unops_jobs
+  org_name: UNOPS
+  org_group: United Nations System
+  source_url: https://careers.unops.org/careersmarketplace/SearchJobs
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - trainee
+    - officer
+    - specialist
+    - assistant
+    - associate
+    - analyst
+    - coordinator
+    - programme
+    url_keyword_any:
+    - searchjobs
+    - job
+    - vacancy
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 100
+    deny_url_keyword_any: []
+    strict_title_keyword_match: true
+  fallback_urls:
+  - https://careers.unops.org/
+  fail_silently: true
+- id: world_bank_jobs
+  org_name: World Bank Group
+  org_group: International Financial Institutions
+  source_url: https://www.worldbank.org/en/about/careers
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - young professional
+    - young professionals
+    - ypp
+    url_keyword_any:
+    - intern
+    - internship
+    - ypp
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    - overview
+    - program details
+    max_items: 80
+    strict_title_keyword_match: false
+    deny_url_keyword_any:
+    - overview
+  fallback_urls:
+  - https://www.worldbank.org/en/about/careers/programs-and-internships
+- id: imf_jobs
+  org_name: IMF
+  org_group: International Financial Institutions
+  source_url: https://www.imf.org/en/About/Recruitment
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - economist program
+    url_keyword_any:
+    - intern
+    - internship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    - recruitment process
+    max_items: 80
+    strict_title_keyword_match: true
+    deny_url_keyword_any:
+    - find-the-right-imf-job
+    - data.imf.org
+    - /news/
+  fallback_urls:
+  - https://www.imf.org/en/About/Recruitment/working-at-the-imf
+  - https://www.imf.org/en/About/Recruitment
+  fail_silently: true
+- id: adb_jobs
+  org_name: Asian Development Bank
+  org_group: International Financial Institutions
+  source_url: https://www.adb.org/work-with-us/careers
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - young professionals
+    url_keyword_any:
+    - intern
+    - internship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    - recruitment process
+    - staff association
+    max_items: 60
+    strict_title_keyword_match: true
+    deny_url_keyword_any:
+    - recruitment-process
+    - staff-association
+- id: afdb_jobs
+  org_name: African Development Bank
+  org_group: International Financial Institutions
+  source_url: https://afdb.jobs2web.com/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - young professional
+    - consultant
+    url_keyword_any:
+    - /go/
+    - intern
+    - job
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+    strict_title_keyword_match: true
+  fallback_urls:
+  - https://www.afdb.org/en/about-us/careers
+  fail_silently: true
+- id: idb_jobs
+  org_name: Inter-American Development Bank
+  org_group: International Financial Institutions
+  source_url: https://jobs.iadb.org/services/rss/job/?locale=en_US
+  source_type: official
+  strategy: rss
+  options:
+    title_keyword_any:
+    - intern
+    - internship
+    - trainee
+    - young professional
+    - associate
+    - analyst
+    - officer
+    deny_keyword_any:
+    - no jobs currently available
+    max_items: 120
+  fallback_urls:
+  - https://jobs.iadb.org/services/rss/job/?locale=en_US&keywords=(intern)
+  fail_silently: true
+- id: ebrd_jobs
+  org_name: EBRD
+  org_group: International Financial Institutions
+  source_url: https://www.ebrd.com/careers.html
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - graduate
+    url_keyword_any:
+    - intern
+    - internship
+    - graduate
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+- id: oecd_jobs
+  org_name: OECD
+  org_group: Global Governance Organizations
+  source_url: https://www.oecd.org/careers/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - young associates
+    url_keyword_any:
+    - intern
+    - internship
+    - careers
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    strict_title_keyword_match: true
+    deny_url_keyword_any: []
+  fallback_urls:
+  - https://www.oecd.org/careers/internship-programme/
+  fail_silently: true
+- id: wto_jobs
+  org_name: WTO
+  org_group: Global Governance Organizations
+  source_url: https://www.wto.org/english/thewto_e/vacan_e/vacan_e.htm
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - young professionals
+    url_keyword_any:
+    - intern
+    - internship
+    - traineeship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    - compensation
+    - career
+    max_items: 80
+    strict_title_keyword_match: true
+    deny_url_keyword_any:
+    - compensation_e
+    - career_e
+- id: iom_jobs
+  org_name: IOM
+  org_group: Global Governance Organizations
+  source_url: https://www.iom.int/careers
+  source_type: official
+  strategy: html_structured
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - trainee
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    - events
+    - who we are
+    - international days
+    max_items: 80
+    strict_title_keyword_match: true
+    deny_url_keyword_any:
+    - events-and-international-days
+    - who-we-are
+    - international-migration-law
+  fail_silently: true
+- id: icrc_jobs
+  org_name: ICRC
+  org_group: Global Governance Organizations
+  source_url: https://careers.icrc.org/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - traineeship
+    url_keyword_any:
+    - intern
+    - internship
+    - trainee
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+- id: ifrc_jobs
+  org_name: IFRC
+  org_group: Global Governance Organizations
+  source_url: https://ifrc.csod.com/ux/ats/careersite/1/search/results
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - trainee
+    - officer
+    url_keyword_any:
+    - requisition
+    - job
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+  fallback_urls:
+  - https://www.ifrc.org/careers
+  fail_silently: true
+- id: coe_jobs
+  org_name: Council of Europe
+  org_group: Global Governance Organizations
+  source_url: https://talents.coe.int/en_GB/careersmarketplace
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - trainee
+    - vacancies
+    - job
+    url_keyword_any:
+    - searchjobs
+    - careersmarketplace
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+  fallback_urls:
+  - https://www.coe.int/en/web/jobs
+  fail_silently: true
+- id: eu_traineeships
+  org_name: European Commission traineeships
+  org_group: Global Governance Organizations
+  source_url: https://traineeships.ec.europa.eu/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - traineeship
+    - internship
+    url_keyword_any:
+    - traineeship
+    - internship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 80
+    deny_url_keyword_any:
+    - index_bg
+    - index_nl
+    - index_fr
+    - index_de
+    - index_es
+    - index_it
+    - index_pt
+    - index_pl
+    - index_ro
+    - index_fi
+    - index_sv
+    - index_cs
+    - index_da
+- id: african_union_jobs
+  org_name: African Union
+  org_group: Regional Organizations
+  source_url: https://careers.au.int/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - trainee
+    url_keyword_any:
+    - intern
+    - internship
+    - careers
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+- id: asean_jobs
+  org_name: ASEAN Secretariat
+  org_group: Regional Organizations
+  source_url: https://asean.org/about-asean/work-with-asean/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - trainee
+    url_keyword_any:
+    - intern
+    - internship
+    - careers
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+  fallback_urls:
+  - https://asean.org/careers/
+  - https://asean.org/about-us/
+- id: apec_jobs
+  org_name: APEC Secretariat
+  org_group: Regional Organizations
+  source_url: https://www.apec.org/about-us
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    url_keyword_any:
+    - internship
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+    strict_title_keyword_match: false
+    min_title_len: 6
+  fallback_urls:
+  - https://www.apec.org/about-us/apec-secretariat/internship
+  fail_silently: true
+- id: oas_jobs
+  org_name: Organization of American States
+  org_group: Regional Organizations
+  source_url: https://www.oas.org/en/jobs/
+  source_type: official
+  strategy: html_links
+  options:
+    link_keyword_any:
+    - intern
+    - internship
+    - vacancy
+    - career
+    url_keyword_any:
+    - job
+    - career
+    - intern
+    deny_keyword_any:
+    - login
+    - privacy
+    - cookie
+    - faq
+    - terms
+    max_items: 60
+    deny_url_keyword_any: []
+  fallback_urls:
+  - https://www.oas.org/en/saf/dhr/
+  fail_silently: true

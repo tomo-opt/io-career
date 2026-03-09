@@ -1,0 +1,55 @@
+﻿:root {
+  --bg: #f4f7fb;
+  --panel: #ffffff;
+  --ink: #1d2939;
+  --muted: #4d5761;
+  --accent: #0055a5;
+  --new: #0f9d58;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Noto Sans", sans-serif;
+  background: radial-gradient(circle at top right, #dfeeff, var(--bg));
+  color: var(--ink);
+}
+.hero { padding: 2rem 1rem 1rem; text-align: center; }
+.hero h1 { margin: 0; font-size: 1.8rem; }
+.hero p { color: var(--muted); }
+main { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+.filters {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr auto;
+  gap: .6rem;
+  background: var(--panel);
+  border-radius: 12px;
+  padding: .8rem;
+  box-shadow: 0 8px 25px rgba(7, 24, 44, .08);
+}
+input, select { width: 100%; border: 1px solid #cfd6e4; border-radius: 8px; padding: .6rem; }
+.cards {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: .8rem;
+}
+.card {
+  background: var(--panel);
+  border-radius: 12px;
+  padding: .9rem;
+  box-shadow: 0 10px 18px rgba(7, 24, 44, .08);
+  border-left: 4px solid transparent;
+}
+.card.new { border-left-color: var(--new); }
+.card h3 { margin: 0 0 .4rem; font-size: 1rem; }
+.meta { color: var(--muted); font-size: .9rem; }
+.badge {
+  display: inline-block;
+  margin-top: .4rem;
+  background: #ecfdf3;
+  color: #067647;
+  border-radius: 999px;
+  padding: .1rem .5rem;
+  font-size: .75rem;
+}
+@media (max-width: 900px) { .filters { grid-template-columns: 1fr; } }
