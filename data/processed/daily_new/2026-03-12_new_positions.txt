@@ -1,0 +1,312 @@
+[Organization] United Nations Secretariat
+[Position] ECONOMIC AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-04-25
+[Link] https://careers.un.org/job-openings?job-id=271915
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LEGAL OFFICER
+[Location] NEW YORK
+[Deadline] 2026-03-18
+[Link] https://careers.un.org/job-openings?job-id=273476
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DRUG CONTROL AND CRIME PREVENTION OFFICER
+[Location] PRETORIA
+[Deadline] 2026-03-19
+[Link] https://careers.un.org/job-openings?job-id=273943
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LEGAL OFFICER
+[Location] NEW YORK
+[Deadline] 2026-03-18
+[Link] https://careers.un.org/job-openings?job-id=273475
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Computational Linguist
+[Location] THE HAGUE
+[Deadline] 2026-04-25
+[Link] https://careers.un.org/job-openings?job-id=273372
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ECONOMIC AFFAIRS OFFICER
+[Location] GENEVA
+[Deadline] 2026-03-18
+[Link] https://careers.un.org/job-openings?job-id=273923
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Management Specialist (GCF-SACCR project) [Open to internal and external applicants]
+[Location] Ha Noi, Viet Nam
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32278;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Associate [Open to Tier 0, 1 & 2 applicants]
+[Location] Belgrade, Serbia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32527;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Management Specialist (GCF-SACCR project) [Open to internal and external applicants] Post level NPSA-11 Apply by Mar-25-26 Agency UNDP Location Ha Noi, Viet Nam
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32278
+--------------------------------------------------
+[Organization] WFP
+[Position] Vulnerability Analysis & Mapping Officer, NOB
+[Location] Bridgetown, Barbados
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bridgetown-Barbados/Vulnerability-Analysis---Mapping-Officer--NOB_JR120562
+--------------------------------------------------
+[Organization] WFP
+[Position] Communications and Monitoring Assistant
+[Location] Yaounde, Cameroon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Yaounde-Cameroon-The-Republic-Of/Communications-and-Monitoring-Assistant_JR121151
+--------------------------------------------------
+[Organization] WFP
+[Position] Human Resources Assistant G5
+[Location] Dushanbe, Tajikistan, Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dushanbe-Tajikistan-Republic-Of/Human-Resources-Assistant-G5_JR121149-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance, Budget and Programming Officer SC8
+[Location] Tunis, Tunisia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Tunis-Tunisia-The-Republic-Of/Finance--Budget-and-Programming-Officer-SC8_JR120756
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnership Officer (Government Engagement & Development Finance Advisor) NOD
+[Location] Nairobi, Kenya, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Partnership-Officer--Government-Engagement---Development-Finance-Advisor--NOD_JR121072
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Partnerships Officer - CST 1 (P2)
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Programme-Partnerships-Officer---CST-1--P2-_JR121137
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Social Norms / Behavior Change Analyst - NOA - Cotabato, Philippines
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/social-norms-behavior-change-analyst-noa-cotabato-philippines
+--------------------------------------------------
+[Organization] UNFPA
+[Position] SRH Analyst (Programme Analyst)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/srh-analyst-programme-analyst
+--------------------------------------------------
+[Organization] UNFPA
+[Position] INDIVIDUAL CONSULTANT (International) – Evaluation Team Leader, UNFPA Kyrgyzstan 5th Country Programme Evaluation
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-international-%E2%80%93-evaluation-team-leader-unfpa-kyrgyzstan-5th-country
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Capacity Building Senior Officer
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Capacity-Building-Senior-Officer/2240
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Operations Associate (Brasilia, BR)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Brasilia-Operations-Associate/1372262900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Head, International Cooperation (P-5), The Hague
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1773251641004
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Quality Management and Performance Monitoring
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1773253247371
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - PROGRAMME MANAGEMENT (Multiple Positions), Vientiane, Lao PDR
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1773253900036
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Summer Intern - Programme Management (Digital Cooperation), New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1773253901630
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern-Economic Affairs, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1773253903014
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship - Quality Management and Performance Monitoring CTBTO - Comprehensive Nuclear-Test-Ban Treaty Vienna INT
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201755
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior IMS Officer - PRoL IRC - International Rescue Committee Dhaka Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201750
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Provincial Education Officer IRC - International Rescue Committee Badghis Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201749
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Case Worker (Child Protection) - Emergency Response IRC - International Rescue Committee Beirut Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201748
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection Enumerator - Emergency Response IRC - International Rescue Committee Zahle | Beirut Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201747
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection and Rule of Law Coordinator IRC - International Rescue Committee Kyiv Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201746
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Walk-in Services Intern (Summer 2026) IRC - International Rescue Committee United States of America Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201745
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Program & Award Officer IRC - International Rescue Committee Remote | London | Nairobi Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201744
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Refugee Resettlement Intern (Summer 2026) IRC - International Rescue Committee United States of America Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201743
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Clinical Advisor IRC - International Rescue Committee Remote | United States of America Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201742
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant for Documentary Production & Visual Content Development REACHING EVERY CHILD IN HUMANITARIAN SETTINGS (REACH Project) – Nigeria IRC - International Rescue Committee Maiduguri | Abuja Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201741
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Anti-Trafficking Intern (Summer 2026) IRC - International Rescue Committee United States of America Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201740
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Walk-in Casework Intern (Summer 2026) IRC - International Rescue Committee United States of America Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201739
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Summer 2026 Digital Innovation Internship - UNPAID IRC - International Rescue Committee Miami Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201738
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant IOM - International Organization for Migration Istanbul | Kayseri UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201728
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ​​Field Security Associate IOM - International Organization for Migration Poltava | Dnipro | Kharkiv GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201727
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Mouvement Support Associate IOM - International Organization for Migration Kinshasa GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201726
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Project Associate (Protection Mainstreaming) IOM - International Organization for Migration Kinshasa GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201725
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Information Management Associate IOM - International Organization for Migration Kinshasa GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201724
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Protection Associate IOM - International Organization for Migration Kinshasa GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201723
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Migration Health Physician IOM - International Organization for Migration Democratic Republic of Congo NO-B, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201722
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Support Associate IOM - International Organization for Migration Kinshasa GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201721
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Data Information Management Associate IOM - International Organization for Migration Kinshasa GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201720
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Migration Health Nurse IOM - International Organization for Migration Kinshasa GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201719
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Migration Health Physician IOM - International Organization for Migration Pretoria UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201718
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection Caseworker Associate IOM - International Organization for Migration Kinshasa GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201717
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Migration Health Nurse IOM - International Organization for Migration Pretoria UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1201716
+--------------------------------------------------
