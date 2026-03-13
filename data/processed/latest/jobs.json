@@ -1,5 +1,1139 @@
 [
   {
+    "record_id": "42f192dabcb100c4",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Assistant Admissions Director",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50106-new-york-united-nations-international-school-assistant-admissions-director",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739096+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "eef0cc3861fab644",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Communication Assistant (Internship)",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50101-brussels-belgium-european-federation-of-allergy-and-airways-diseases-patients-associations-communication-assistant-internship",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739152+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "2e9db9900fedc3b4",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Communications Officer",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50096-bonn-germany-european-centre-for-medium-range-weather-forecasts-communications-officer",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739199+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "019d2873bf285bf2",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Development Manager",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50100-washington-dc-the-lawfare-institute-development-manager",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739164+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "8949ed8c5f7d4963",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Employment-Intensive Investment Programme (EIIP) Workshop",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50111-duhok-iraq-international-labour-organization-employment-intensive-investment-programme-eiip-workshop",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739034+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "b71dbd132394695a",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "HR Senior Associate",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50103-copenhagen-denmark-unops-hr-senior-associate",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739121+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "02d9dae076a18308",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Intern: Study on Life in Kyrgyzstan",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50102-manila-philippines-asian-development-bank-adb-intern-study-on-life-in-kyrgyzstan",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739129+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "feb855b0885b5f33",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Lead, Global Virtual Health Alliance",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50109-new-york-world-economic-forum-llc-lead-global-virtual-health-alliance",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739069+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "1812102a13653cef",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Lecturer, Full-Time, Temporary - Political Science",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50104-waco-texas-baylor-university-lecturer-full-time-temporary-political-science",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739113+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "46062a0337e6939f",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Policy and Membership Development Officer",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50095-brussels-belgium-eurodiaconia-policy-and-membership-development-officer",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739207+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "6cf512343fdaefb3",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Political Advisor",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50110-brussels-belgium-european-centre-for-workers-questions-political-advisor",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739057+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "34229b3ddec1ab28",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Procurement Officer",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50108-amman-jordan-weworld-procurement-officer",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739078+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "9eb075ab73c0c8a2",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Provincial Associate, Malaria & NTDs",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50097-luanda-angola-clinton-health-access-initiative-inc-chai-provincial-associate-malaria-ntds",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739190+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "16c7a6e6cf6a3f51",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Senior Associate, Business Development",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50098-washington-dc-aceli-africa-senior-associate-business-development",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739182+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "30aa6b7b70287546",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Senior Project Administrator, STRIDES, Global Health Programs",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50099-washington-dc-path-senior-project-administrator-strides-global-health-programs",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739173+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "d33e99f237341ad2",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Vice President, International Program",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50107-new-york-carnegie-corporation-of-vice-president-international-program",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739087+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "1dc61d84f9428aec",
+    "org_name": "Globaljobs",
+    "org_group": "Aggregators",
+    "job_title": "Washington, D.C. Bureau Chief (Chief Federal Policy Advocate)",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.globaljobs.org/jobs/50105-washington-dc-office-of-hawaiian-affairs-oha-bureau-chief-federal-policy-advocate",
+    "source_url": "https://www.globaljobs.org/jobs",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.739105+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "4beabd3010ac3ce9",
+    "org_name": "Impactpool",
+    "org_group": "Aggregators",
+    "job_title": "Advisor Standards and Operations GICHD - Geneva International Centre for Humanitarian Demining Geneva Senior - Senior level",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.impactpool.org/jobs/1202063",
+    "source_url": "https://www.impactpool.org/search?keyword=intern",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.109428+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "ca07e838ab4e846e",
+    "org_name": "Impactpool",
+    "org_group": "Aggregators",
+    "job_title": "Chef/fe d’équipe, Expert (e) international en politique fiscale environnementale / fiscalité verte UNEP - United Nations Environment Programme Bamako | Paris CON",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.impactpool.org/jobs/1202031",
+    "source_url": "https://www.impactpool.org/search?keyword=intern",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.109443+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "936591086753ccdf",
+    "org_name": "Impactpool",
+    "org_group": "Aggregators",
+    "job_title": "International Consultant - NDC Capacity Building Expert UNEP - United Nations Environment Programme Remote | Paris CON",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.impactpool.org/jobs/1202029",
+    "source_url": "https://www.impactpool.org/search?keyword=intern",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.109463+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "93ec25ffaa0d1d85",
+    "org_name": "Impactpool",
+    "org_group": "Aggregators",
+    "job_title": "Programme Analyst [Open to Tier 0 & 1 & 2 applicants] UNDP - United Nations Development Programme Kigali IPSA-9, International Personnel Services Agreement - Junior level",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.impactpool.org/jobs/1202067",
+    "source_url": "https://www.impactpool.org/search?keyword=intern",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.109407+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "e4047e1b46bf865e",
+    "org_name": "Impactpool",
+    "org_group": "Aggregators",
+    "job_title": "Team Lead (International Expert, LT-LEDS and Climate Policy) UNEP - United Nations Environment Programme Paris | Windhoek CON",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.impactpool.org/jobs/1202030",
+    "source_url": "https://www.impactpool.org/search?keyword=intern",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:09.109454+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "9fe5beba707a1ab6",
+    "org_name": "Inter-American Development Bank",
+    "org_group": "International Financial Institutions",
+    "job_title": "Internship to Support Strategic Partnerships in Europe - Internship Program Office in Europe 2026 (Madrid, ES, 28005)",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "2026-03-12",
+    "job_url": "https://jobs.iadb.org/job/Madrid-Internship-to-Support-Strategic-Partnerships-in-Europe-Internship-Program-Office-in-Europe-2026-28005/1372655300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "source_url": "https://jobs.iadb.org/services/rss/job/?locale=en_US",
+    "source_type": "official",
+    "summary": "<div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><H2 style=\"font-size:1.0em;margin:0.0px\">We improve lives</H2>\n</div><div><p>The IDB Group is a community of diverse, versatile, and passionate people who come together on a journey to improve lives in Latin America and the Caribbean. Our people find purpose and do what they love in an inclusive, collaborative, agile, and rewarding environment.</p></div></div><div style=\"paddi",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:37.032098+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "33ed9de8cf6aaae6",
+    "org_name": "UN Women",
+    "org_group": "United Nations System",
+    "job_title": "Job Title Analista de Cumplimiento Contractual de Proyectos de Ciudad Inteligente y Tecnología [Open to internal and external applicants] Post level NPSA-8 Apply by Mar-26-26 Agency UNDP Location Guatemala City, Guatemala",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32538",
+    "source_url": "https://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=XX",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:17.826066+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "20dfff2ed266be4c",
+    "org_name": "UN Women",
+    "org_group": "United Nations System",
+    "job_title": "Job Title Director of Communications [Open to internal and external applicants] Post level D1 Apply by Apr-2-26 Agency UNDP Location New York, United States",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32580",
+    "source_url": "https://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=XX",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:17.826238+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "0d2a165a4b78d55c",
+    "org_name": "UN Women",
+    "org_group": "United Nations System",
+    "job_title": "Job Title Director, German Rep Office [Open to internal and external applicants] Post level D1 Apply by Apr-2-26 Agency UNDP Location Berlin, Germany",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32579",
+    "source_url": "https://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=XX",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:17.826229+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "6ee5540e43ab011f",
+    "org_name": "UN Women",
+    "org_group": "United Nations System",
+    "job_title": "Job Title Procurement Associate [Open to internal and external applicants] Post level NPSA-6 Apply by Mar-26-26 Agency UNDP Location Panama City, Panama",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32576",
+    "source_url": "https://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=XX",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:17.826221+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "8f34d5f5b5e4a47b",
+    "org_name": "UN Women",
+    "org_group": "United Nations System",
+    "job_title": "Job Title Team Leader – Strategic Philanthropy and Innovative Giving [Open to Internal & External Candidates] Post level P5 Apply by Apr-2-26 Agency UNDP Location Bonn, Germany",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32583",
+    "source_url": "https://jobs.undp.org/cj_view_jobs.cfm?cur_rgn_id_c=XX",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:17.826249+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "2b9622b70a92af69",
+    "org_name": "UNDP",
+    "org_group": "United Nations System",
+    "job_title": "Analista de Cumplimiento Contractual de Proyectos de Ciudad Inteligente y Tecnología [Open to internal and external applicants]",
+    "job_type": "Internship",
+    "location": "Guatemala City, Guatemala",
+    "country_or_region": "Guatemala City, Guatemala",
+    "deadline": "None",
+    "posted_date": "2026-03-12",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32538;pCalledFrom=FUSESHELL",
+    "source_url": "https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX_1,keyword=intern",
+    "source_type": "official",
+    "summary": "El/la Analista de Cumplimiento Contractual de Proyectos de Ciudad Inteligente y Tecnología reportará y estará bajo la supervisión directa del/la Gerente de Portafolio de la Unidad Ejecutora del PNUD.  La supervisión se podrá realizar en jornadas diurnas, mixtas o nocturnas según la necesidad de la operación",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:13.590810+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "2db18a83aef82c15",
+    "org_name": "UNDP",
+    "org_group": "United Nations System",
+    "job_title": "Director of Communications [Open to internal and external applicants]",
+    "job_type": "Internship",
+    "location": "New York, United States",
+    "country_or_region": "New York, United States",
+    "deadline": "None",
+    "posted_date": "2026-03-12",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32580;pCalledFrom=FUSESHELL",
+    "source_url": "https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX_1,keyword=intern",
+    "source_type": "official",
+    "summary": "The Director of Communications reports to the Bureau for External Relations and Advocacy and the Bureau for Policy and Programme Support, setting, coordinating, and executing strategic communications direction and corporate standards and ensuring delivery across the functions of partnerships, marketing, thematics, and external and internal communications within UNDP.",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:13.589879+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "5a59a295f0d469c5",
+    "org_name": "UNDP",
+    "org_group": "United Nations System",
+    "job_title": "Director, German Rep Office [Open to internal and external applicants]",
+    "job_type": "Internship",
+    "location": "Berlin, Germany",
+    "country_or_region": "Berlin, Germany",
+    "deadline": "None",
+    "posted_date": "2026-03-12",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32579;pCalledFrom=FUSESHELL",
+    "source_url": "https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX_1,keyword=intern",
+    "source_type": "official",
+    "summary": "Under the supervision of the BERA Deputy Director, the Director of Germany Representation Office represents and strategically position UNDP to key constituencies, mobilises resources for the work of UNDP and demonstrates accountability for these investments.",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:13.590483+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "647c2c3aff0c47fa",
+    "org_name": "UNDP",
+    "org_group": "United Nations System",
+    "job_title": "Procurement Associate [Open to internal and external applicants]",
+    "job_type": "Internship",
+    "location": "Panama City, Panama",
+    "country_or_region": "Panama City, Panama",
+    "deadline": "None",
+    "posted_date": "2026-03-12",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32576;pCalledFrom=FUSESHELL",
+    "source_url": "https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX_1,keyword=intern",
+    "source_type": "official",
+    "summary": "Duties and Responsibilities",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:13.590217+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "04ed0577524c9d05",
+    "org_name": "UNDP",
+    "org_group": "United Nations System",
+    "job_title": "Project Associate (Admin & Finance) [NPSA-6], LAND Project",
+    "job_type": "Early Career",
+    "location": "Dhaka, Bangladesh",
+    "country_or_region": "Dhaka, Bangladesh",
+    "deadline": "None",
+    "posted_date": "2026-03-12",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32546;pCalledFrom=FUSESHELL",
+    "source_url": "https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX_1,keyword=intern",
+    "source_type": "official",
+    "summary": "Duties and Responsibilities",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:13.590872+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "fae740fc50fd073e",
+    "org_name": "UNDP",
+    "org_group": "United Nations System",
+    "job_title": "Team Leader – Strategic Philanthropy and Innovative Giving [Open to Internal & External Candidates]",
+    "job_type": "Internship",
+    "location": "Bonn, Germany",
+    "country_or_region": "Bonn, Germany",
+    "deadline": "None",
+    "posted_date": "2026-03-12",
+    "job_url": "https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32583;pCalledFrom=FUSESHELL",
+    "source_url": "https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX_1,keyword=intern",
+    "source_type": "official",
+    "summary": "The incumbent leads a team based in both New York and Bonn and is responsible for enhancing and bridging a strengthened focus on philanthropy with innovative, tech-enabled, and market-based giving. As a senior advisor to BERA leadership, the Team Leader spearheads the co-creation of innovative financial mechanisms to deliver funding streams which are flexible, predictable and resilient while stewarding complex, high-value relationships and a growing network of contributors to drive sustainable r",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:13.590679+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "e5eae30804b39735",
+    "org_name": "UNFPA",
+    "org_group": "United Nations System",
+    "job_title": "Evaluation Associate, Independent Evaluation Office (IEO), G-7, Nairobi, HQ",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.unfpa.org/jobs/evaluation-associate-independent-evaluation-office-ieo-g-7-nairobi-hq",
+    "source_url": "https://www.unfpa.org/jobs",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:20.030498+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "7dde4b0726fac5d7",
+    "org_name": "UNFPA",
+    "org_group": "United Nations System",
+    "job_title": "INDIVIDUAL CONSULTANT (National) – National Quality Services and Social Accountability Expert, UNFPA Kyrgyzstan 5th Country Programme Evaluation",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.unfpa.org/jobs/individual-consultant-national-%E2%80%93-national-quality-services-and-social-accountability-expert",
+    "source_url": "https://www.unfpa.org/jobs",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:20.030479+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "aa8e21dc143bdfc7",
+    "org_name": "UNFPA",
+    "org_group": "United Nations System",
+    "job_title": "NATIONAL POST: Communications Officer, Freetown, Sierra Leone, NOB",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.unfpa.org/jobs/national-post-communications-officer-freetown-sierra-leone-nob",
+    "source_url": "https://www.unfpa.org/jobs",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:20.030489+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "c28fd0de30aa5bef",
+    "org_name": "UNFPA",
+    "org_group": "United Nations System",
+    "job_title": "National Post: Programme Analyst,NOB, Federated States of Micronesia",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.unfpa.org/jobs/national-post-programme-analystnob-federated-states-micronesia",
+    "source_url": "https://www.unfpa.org/jobs",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:20.030506+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "1c5a3c69ffe1ca5d",
+    "org_name": "UNFPA",
+    "org_group": "United Nations System",
+    "job_title": "Programme Analyst, Sexual and Reproductive Health in Emergencies (SRHiE), NOB -…",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://www.unfpa.org/jobs/programme-analyst-sexual-and-reproductive-health-emergencies-srhie-nob-tacloban-city",
+    "source_url": "https://www.unfpa.org/jobs",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:20.030613+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "402badbf3bffc758",
+    "org_name": "UNHCR",
+    "org_group": "United Nations System",
+    "job_title": "Operations Support Assistant (NIL/NIL Contract)",
+    "job_type": "Internship",
+    "location": "Tokyo, Japan",
+    "country_or_region": "Tokyo, Japan",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Tokyo-Japan/Operations-Support-Assistant--NIL-NIL-Contract-_JR2665322",
+    "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
+    "source_type": "official",
+    "summary": "JR2665322 | Affiliate/Internship > Hire",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:19.705327+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "1ec04f74609d58b5",
+    "org_name": "UNHCR",
+    "org_group": "United Nations System",
+    "job_title": "Shelter Associate",
+    "job_type": "Early Career",
+    "location": "Dnipro, Ukraine",
+    "country_or_region": "Dnipro, Ukraine",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Dnipro-Ukraine/Shelter-Associate_JR2664691-2",
+    "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
+    "source_type": "official",
+    "summary": "JR2664691 | GS6 | Regular > Regular Assignment",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:19.705385+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "6dca165429cf8610",
+    "org_name": "United Nations Secretariat",
+    "org_group": "United Nations System",
+    "job_title": "CHIEF SECURITY ADVISER",
+    "job_type": "Early Career",
+    "location": "DUBAI",
+    "country_or_region": "DUBAI",
+    "deadline": "2026-03-19",
+    "posted_date": "2026-03-13",
+    "job_url": "https://careers.un.org/job-openings?job-id=274127",
+    "source_url": "https://careers.un.org/api/site/jobOpening/latestJobOpening",
+    "source_type": "official",
+    "summary": "Security",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:06.919707+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "2fe768b523734e27",
+    "org_name": "United Nations Secretariat",
+    "org_group": "United Nations System",
+    "job_title": "SECURITY COORDINATION OFFICER",
+    "job_type": "Early Career",
+    "location": "BEIRUT",
+    "country_or_region": "BEIRUT",
+    "deadline": "2026-03-26",
+    "posted_date": "2026-03-13",
+    "job_url": "https://careers.un.org/job-openings?job-id=272741",
+    "source_url": "https://careers.un.org/api/site/jobOpening/latestJobOpening",
+    "source_type": "official",
+    "summary": "Sécurité",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:06.919335+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "02e41082ea72fe4c",
+    "org_name": "United Nations Secretariat",
+    "org_group": "United Nations System",
+    "job_title": "SENIOR HUMAN RIGHTS OFFICER",
+    "job_type": "Early Career",
+    "location": "GENEVA",
+    "country_or_region": "GENEVA",
+    "deadline": "2026-04-26",
+    "posted_date": "2026-03-12",
+    "job_url": "https://careers.un.org/job-openings?job-id=273622",
+    "source_url": "https://careers.un.org/api/site/jobOpening/latestJobOpening",
+    "source_type": "official",
+    "summary": "Human Rights Affairs",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:06.920033+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "5dc295b94d33d513",
+    "org_name": "UNJobs Aggregator (HTML)",
+    "org_group": "Aggregators",
+    "job_title": "Consultant - Internal Governance Process Assessment, Dhaka, Bangladesh",
+    "job_type": "Internship",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://unjobs.org/vacancies/1773329983324",
+    "source_url": "https://unjobs.org/",
+    "source_type": "aggregator",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:20:08.764341+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "285861ad26d72003",
+    "org_name": "UNOPS",
+    "org_group": "United Nations System",
+    "job_title": "Administration and ICT Senior Associate",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://careers.unops.org/careersmarketplace/JobDetail/Administration-and-ICT-Senior-Associate/2476",
+    "source_url": "https://careers.unops.org/careersmarketplace/SearchJobs",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:21.342595+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "a43f5a2843b65f4c",
+    "org_name": "UNOPS",
+    "org_group": "United Nations System",
+    "job_title": "Administration Senior Associate",
+    "job_type": "Early Career",
+    "location": "",
+    "country_or_region": "",
+    "deadline": "",
+    "posted_date": "",
+    "job_url": "https://careers.unops.org/careersmarketplace/JobDetail/Administration-Senior-Associate/2415",
+    "source_url": "https://careers.unops.org/careersmarketplace/SearchJobs",
+    "source_type": "official",
+    "summary": "",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:21.342626+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "83b3edf8d902c338",
+    "org_name": "WFP",
+    "org_group": "United Nations System",
+    "job_title": "Aviation Assistant (G5) – Galkayo & Garowe | 2 Positions",
+    "job_type": "Early Career",
+    "location": "2 Locations",
+    "country_or_region": "2 Locations",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://wd3.myworkdaysite.com/job/Galkayo-Somalia-The-Dem-Rep-Of/Aviation-Assistant--G5----Galkayo---Garowe---2-Positions_JR121145",
+    "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
+    "source_type": "official",
+    "summary": "JR121145",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:18.791807+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "b8a116f20da4df5c",
+    "org_name": "WFP",
+    "org_group": "United Nations System",
+    "job_title": "Aviation Associate –Customer Service G6",
+    "job_type": "Early Career",
+    "location": "Mogadiscio, Somalia, The Dem. Rep. Of",
+    "country_or_region": "Mogadiscio, Somalia, The Dem. Rep. Of",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Customer-Service--G6----Mogadishu_JR121146-1",
+    "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
+    "source_type": "official",
+    "summary": "JR121146",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:18.791655+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "8c1f9f6fe9e31cb8",
+    "org_name": "WFP",
+    "org_group": "United Nations System",
+    "job_title": "Finance Assistant (G5) - Mogadishu",
+    "job_type": "Early Career",
+    "location": "Mogadiscio, Somalia, The Dem. Rep. Of",
+    "country_or_region": "Mogadiscio, Somalia, The Dem. Rep. Of",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Finance-Assistant--G5----Mogadishu_JR121144",
+    "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
+    "source_type": "official",
+    "summary": "JR121144",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:18.791768+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "788361b31a1f183d",
+    "org_name": "WFP",
+    "org_group": "United Nations System",
+    "job_title": "Finance Officer (NOA) - Mogadishu",
+    "job_type": "Early Career",
+    "location": "Mogadiscio, Somalia, The Dem. Rep. Of",
+    "country_or_region": "Mogadiscio, Somalia, The Dem. Rep. Of",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Finance-Officer--NOA----Mogadishu_JR121143",
+    "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
+    "source_type": "official",
+    "summary": "JR121143",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:18.791694+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "49ab4e42412cf407",
+    "org_name": "WFP",
+    "org_group": "United Nations System",
+    "job_title": "Partnerships Officer CST I (Lilongwe)",
+    "job_type": "Early Career",
+    "location": "Lilongwe, Malawi, The Republic Of",
+    "country_or_region": "Lilongwe, Malawi, The Republic Of",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://wd3.myworkdaysite.com/job/Lilongwe-Malawi-The-Republic-Of/Partnerships-Officer-CST-I--Lilongwe-_JR121152",
+    "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
+    "source_type": "official",
+    "summary": "JR121152",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:18.791607+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "c24175be45d9bafe",
+    "org_name": "WFP",
+    "org_group": "United Nations System",
+    "job_title": "Programme Associate (School Feeding) G6- Garowe",
+    "job_type": "Early Career",
+    "location": "Garoowe, Somalia, The Dem. Rep. Of",
+    "country_or_region": "Garoowe, Somalia, The Dem. Rep. Of",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://wd3.myworkdaysite.com/job/Garoowe-Somalia-The-Dem-Rep-Of/Programme-Associate--School-Feeding--G6--Garowe_JR121170",
+    "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
+    "source_type": "official",
+    "summary": "JR121170",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:18.791732+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "record_id": "57b83f8ae9704d4e",
+    "org_name": "WFP",
+    "org_group": "United Nations System",
+    "job_title": "Risk & Compliance Officer CST I (Lilongwe)",
+    "job_type": "Early Career",
+    "location": "Lilongwe, Malawi, The Republic Of",
+    "country_or_region": "Lilongwe, Malawi, The Republic Of",
+    "deadline": "",
+    "posted_date": "Posted Today",
+    "job_url": "https://wd3.myworkdaysite.com/job/Lilongwe-Malawi-The-Republic-Of/Risk---Compliance-Officer-CST-I--Lilongwe-_JR121174",
+    "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
+    "source_type": "official",
+    "summary": "JR121174",
+    "language": "en",
+    "scraped_at": "2026-03-13T04:19:18.791553+00:00",
+    "scraped_date_bj": "2026-03-13",
+    "is_new_today": true,
+    "last_seen_date": "2026-03-13",
+    "status": "active"
+  },
+  {
     "record_id": "e36e1fb33b16913b",
     "org_name": "African Union",
     "org_group": "Regional Organizations",
@@ -14,10 +1148,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:18.510501+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:58.144512+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -35,10 +1169,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:19.752199+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:02.609350+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -245,10 +1379,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:55.586943+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:35.930019+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -539,10 +1673,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:55.586955+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:35.930030+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -560,10 +1694,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:55.586924+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:35.930000+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -581,10 +1715,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:16.703180+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:56.258947+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -602,10 +1736,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:16.703200+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:56.258967+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -623,10 +1757,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:16.703222+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:56.258989+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -644,10 +1778,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:16.703212+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:56.258978+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -665,10 +1799,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:57.660567+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:37.844982+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -686,10 +1820,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:57.660546+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:37.844962+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -770,10 +1904,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:17.374060+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:56.881923+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -791,10 +1925,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:17.374080+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:56.881942+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -854,10 +1988,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:35.350176+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:15.726334+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -896,10 +2030,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117117+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739337+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -917,10 +2051,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117355+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739476+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -938,10 +2072,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117942+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739754+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -959,10 +2093,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118156+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739860+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1001,10 +2135,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117978+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739770+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1022,10 +2156,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117694+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739634+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1043,10 +2177,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118524+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.740023+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1064,10 +2198,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117524+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739548+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1085,10 +2219,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117231+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739410+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1106,10 +2240,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117017+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739257+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1148,10 +2282,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117903+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739738+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1190,10 +2324,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117852+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739714+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1211,10 +2345,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118352+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739958+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1274,10 +2408,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118026+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739794+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1295,10 +2429,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117065+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739302+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1316,10 +2450,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117328+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739460+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1341,7 +2475,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "f2f1f9ac3cfde24d",
@@ -1358,10 +2492,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118415+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739974+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1379,10 +2513,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117460+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739515+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1400,10 +2534,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117771+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739674+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1421,10 +2555,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117541+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739556+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1442,10 +2576,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118200+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739885+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1463,10 +2597,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117391+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739484+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1484,10 +2618,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118542+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.740039+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1505,10 +2639,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118171+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739868+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1526,10 +2660,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118141+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739851+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1547,10 +2681,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117822+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739698+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1568,10 +2702,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118215+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739893+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1593,7 +2727,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "0282da7886ec8fb9",
@@ -1610,10 +2744,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117430+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739500+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1652,10 +2786,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117580+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739572+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1694,10 +2828,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118091+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739826+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1719,7 +2853,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "d96ba63d07af5ce2",
@@ -1740,7 +2874,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "cc996708134d39be",
@@ -1757,10 +2891,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117614+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739587+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1799,10 +2933,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117755+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739666+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1820,10 +2954,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117838+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739705+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1841,10 +2975,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118060+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739810+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1862,10 +2996,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.116998+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739241+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -1971,7 +3105,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "b21e3606fee14f24",
@@ -1988,10 +3122,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118471+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739998+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2009,10 +3143,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117665+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739618+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2030,10 +3164,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117147+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739362+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2051,10 +3185,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117155+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739370+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2072,10 +3206,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117138+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739354+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2118,7 +3252,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "44252fe73922881f",
@@ -2135,10 +3269,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117259+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739426+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2177,10 +3311,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117008+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739249+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2219,10 +3353,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117073+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739309+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2240,10 +3374,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117785+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739681+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2261,10 +3395,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118318+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739941+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2282,10 +3416,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117197+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739394+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2324,10 +3458,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118280+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739926+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2345,10 +3479,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117807+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739690+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2366,10 +3500,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117129+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739346+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2412,7 +3546,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "4b09041dc1c51c1d",
@@ -2471,10 +3605,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118394+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739966+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2492,10 +3626,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117215+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739402+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2513,10 +3647,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118550+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.740047+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2534,10 +3668,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117508+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739539+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2555,10 +3689,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117245+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739418+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2576,10 +3710,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118490+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.740007+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2597,10 +3731,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117446+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739508+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2618,10 +3752,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117680+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739626+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2664,7 +3798,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "1405c4a84f0e830d",
@@ -2681,10 +3815,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118126+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739843+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2702,10 +3836,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117341+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739468+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2723,10 +3857,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117047+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739285+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2748,7 +3882,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "557928e228ef9c15",
@@ -2765,10 +3899,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117709+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739642+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2786,10 +3920,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117311+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739452+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2811,7 +3945,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "0070bb363850b546",
@@ -2828,10 +3962,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117886+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739730+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2870,10 +4004,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117180+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739386+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2891,10 +4025,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117960+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739762+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2912,10 +4046,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118186+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739876+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2954,10 +4088,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117413+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739492+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -2979,7 +4113,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "fb0ebc87ab704bdf",
@@ -2996,10 +4130,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117995+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739778+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3017,10 +4151,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117036+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739274+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3038,10 +4172,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117277+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739436+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3080,10 +4214,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118300+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739934+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3101,10 +4235,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117631+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739602+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3143,10 +4277,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118558+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.740055+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3164,10 +4298,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118043+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739802+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3185,10 +4319,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117740+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739658+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3206,10 +4340,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117724+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739650+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3248,10 +4382,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117493+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739531+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3269,10 +4403,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117918+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739746+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3290,10 +4424,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117083+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739320+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3311,10 +4445,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.116953+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739216+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3332,10 +4466,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118263+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739918+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3353,10 +4487,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117164+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739378+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3374,10 +4508,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.116976+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739225+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3416,10 +4550,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117649+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739610+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3441,7 +4575,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "e006604e22a27992",
@@ -3458,10 +4592,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118108+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739834+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3479,10 +4613,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118434+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739982+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3504,7 +4638,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "4670c3247fac4518",
@@ -3542,10 +4676,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117027+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739266+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3567,7 +4701,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "a5a37d8c9d50419e",
@@ -3588,7 +4722,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "57cdf1de0a2ba3ed",
@@ -3605,10 +4739,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118229+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739901+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3626,10 +4760,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117056+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739293+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3668,10 +4802,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118247+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739910+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3689,10 +4823,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117558+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739564+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3710,10 +4844,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118453+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739990+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3731,10 +4865,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118533+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.740031+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3752,10 +4886,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117868+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739721+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3773,10 +4907,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117598+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739580+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3794,10 +4928,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118510+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.740015+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3819,7 +4953,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "3f00d9aa5ba456a2",
@@ -3836,10 +4970,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118010+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739786+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3882,7 +5016,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "6b3373d58bc1f8f6",
@@ -3899,10 +5033,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117107+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739329+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -3983,10 +5117,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118335+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739950+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -4046,10 +5180,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.118076+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739818+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -4067,10 +5201,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117475+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739523+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -4088,10 +5222,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.117292+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739444+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -4109,10 +5243,10 @@
     "source_type": "aggregator",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:27.116988+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:09.739233+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -4151,10 +5285,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:14.032714+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:54.123822+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -4172,10 +5306,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:36.427836+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:16.761815+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -4193,10 +5327,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:36.427857+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:16.761837+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -4512,7 +5646,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "4695bab0832e1d6a",
@@ -4554,7 +5688,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "532bdc4cc63b8561",
@@ -4617,7 +5751,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "e35f78aab7095f91",
@@ -4680,7 +5814,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "db79887aab4b4620",
@@ -4701,7 +5835,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "8479080b8f87874d",
@@ -4764,7 +5898,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "38f18d35ce7d3603",
@@ -5037,7 +6171,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "d5d92275f0d39a07",
@@ -5142,7 +6276,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "e61ed9b230672bdb",
@@ -5163,7 +6297,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "945c3b8c7299358d",
@@ -5184,7 +6318,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "9f2f7b47affee4ce",
@@ -5205,7 +6339,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "e925aa9f8a79b04d",
@@ -5226,7 +6360,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "88d653aaf404b3e9",
@@ -5436,7 +6570,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "3bee0c2e47d33752",
@@ -5604,7 +6738,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "89b7d582f2118ae6",
@@ -5625,7 +6759,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "65946c6cc69837f7",
@@ -5646,7 +6780,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "1bc29a450ff4800b",
@@ -5667,7 +6801,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "c30408828ff17528",
@@ -5688,7 +6822,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "81429091abb6d88b",
@@ -5709,7 +6843,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "bfa16707837b666b",
@@ -5877,7 +7011,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "55b3d3b0e4742a2e",
@@ -5940,7 +7074,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "55112f18f844ae4d",
@@ -6003,7 +7137,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "5bf8ffe7032015bc",
@@ -6024,7 +7158,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "6230f8eaf94a305b",
@@ -6087,7 +7221,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "fb427ba328ef7f0b",
@@ -6297,7 +7431,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "5ecccb725d2e976e",
@@ -6318,7 +7452,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "9da9048ab6a65103",
@@ -6360,7 +7494,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "9bd6549b529c5e33",
@@ -6377,10 +7511,10 @@
     "source_type": "official",
     "summary": "<div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><H2 style=\"font-size:1.0em;margin:0.0px\"><b>We improve lives</b></H2>\n</div><div><p>The IDB Group is a community of diverse, versatile, and passionate people who come together on a journey to improve lives in Latin America and the Caribbean. Our people find purpose and do what they love in an inclusive, collaborative, agile, and rewarding environment.</p></div></div><div style",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:57.027916+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:37.032643+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6461,10 +7595,10 @@
     "source_type": "official",
     "summary": "<div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><H2 style=\"font-size:1.0em;margin:0.0px\">Location</H2>\n</div><div><p><span>The position can be based in Washington DC.</span><span> </span></p></div></div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><H2 style=\"font-size:1.0em;margin:0.0px\">We improve lives</H2>\n</div><div><div> </div>\n<div>\n<p><span>IDB In",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:57.028252+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:37.032952+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6482,10 +7616,10 @@
     "source_type": "official",
     "summary": "<div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><H2 style=\"font-size:1.0em;margin:0.0px\"><b>We improve lives</b></H2>\n</div><div><p>IDB Invest is the private sector arm of the IDB Group and an international financial institution committed to addressing the development needs of Latin America and the Caribbean. Our mission is to support sustainable enterprises and projects that deliver financial results while maximizing socia",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:57.028087+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:37.032796+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6503,10 +7637,10 @@
     "source_type": "official",
     "summary": "<div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><H2 style=\"font-size:1.0em;margin:0.0px\"><b>Location</b></H2>\n</div><div><p>This position can be based in any of the following cities: Lima (Peru), Bogota (Colombia), or Santiago (Chile).</p></div></div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><H2 style=\"font-size:1.0em;margin:0.0px\"><b>We improve lives",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:57.027753+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:37.032496+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6524,10 +7658,10 @@
     "source_type": "official",
     "summary": "<div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><H2 style=\"font-size:1.0em;margin:0.0px\">We improve lives</H2>\n</div><div><p style=\"text-align:justify;margin:0.0in 0.0in 8.0pt;line-height:115%;font-size:12.0pt;font-family:Aptos, sans-serif\"><span style=\"font-family:arial, helvetica, sans-serif\">O Grupo BID é uma comunidade de pessoas diversas, versáteis e apaixonadas que se unem em uma jornada para melhorar vidas na América",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:57.027552+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:37.032320+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6755,10 +7889,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:20.053589+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:02.772475+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6776,10 +7910,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:20.053579+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:02.772465+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6797,10 +7931,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:20.053549+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:02.772435+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6818,10 +7952,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:20.053568+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:20:02.772454+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -6906,7 +8040,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "24d234dd7d99bd38",
@@ -6923,10 +8057,10 @@
     "source_type": "official",
     "summary": "Affaires civiles",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:26.550803+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:07.455545+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -7049,10 +8183,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643137+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826100+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -7217,10 +8351,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643198+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826204+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -7343,10 +8477,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643149+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826109+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -7427,10 +8561,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643189+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826193+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -7511,10 +8645,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643114+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826086+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -7553,10 +8687,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643231+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826259+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -7826,10 +8960,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643207+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826213+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -7994,10 +9128,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643169+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826127+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8183,10 +9317,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643178+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826162+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8204,10 +9338,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643159+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826118+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8225,10 +9359,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643252+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826277+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8288,10 +9422,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643260+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826285+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8376,7 +9510,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "aa291ca948961f95",
@@ -8393,10 +9527,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:37.643241+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:17.826268+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8519,10 +9653,10 @@
     "source_type": "official",
     "summary": "De conformidad con las normas y procedimientos, el/la Analista en Transformación Digital Inclusiva desempeña las siguientes funciones: Gestión de Proyectos y acompañamiento técnico, Generación de alianzas y movilización de recursos, Desarrollo e Implementación de la estrategia de M&E, Apoyo en la Gestión del Conocimiento, Tareas Administrativas y Operacionales",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687586+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590611+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8540,10 +9674,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.686949+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590006+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8603,10 +9737,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687080+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590067+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8645,10 +9779,10 @@
     "source_type": "official",
     "summary": "The UNDP Economic Lab is UNDP’s analytical and modelling unit supporting the Government of Mauritius and Seychelles in areas such as macroeconomic policy, SDG-aligned planning, fiscal analysis, competitiveness, investment, and national development strategies (including Vision 2050 and NDP10). The Lab produces economic diagnostics, modelling, foresight analysis, and evidence-based policy recommendations to support national decision making.",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687153+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590292+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8729,10 +9863,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.686797+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.589652+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8771,10 +9905,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687221+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.589812+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8813,10 +9947,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687718+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590932+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8834,10 +9968,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.686879+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.589944+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8880,7 +10014,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "3d3756bb72328220",
@@ -8918,10 +10052,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687651+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590740+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8939,10 +10073,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687353+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590356+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8960,10 +10094,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687287+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590129+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -8981,10 +10115,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687441+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590420+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9002,10 +10136,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687508+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.590544+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9023,10 +10157,10 @@
     "source_type": "official",
     "summary": "Duties and Responsibilities",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:32.687014+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:13.589735+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9086,10 +10220,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:34.778048+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:15.100448+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9107,10 +10241,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754419+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030577+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9149,11 +10283,11 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-10T04:16:06.215293+00:00",
-    "scraped_date_bj": "2026-03-10",
+    "scraped_at": "2026-03-13T04:19:20.030516+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-10",
-    "status": "not_seen_today"
+    "last_seen_date": "2026-03-13",
+    "status": "active"
   },
   {
     "record_id": "945929ec50ec6726",
@@ -9191,10 +10325,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754310+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030534+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9233,10 +10367,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754439+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030594+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9254,10 +10388,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754448+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030603+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9275,10 +10409,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754389+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030466+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9363,7 +10497,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "d7c579ada375ea2a",
@@ -9401,10 +10535,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754408+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030568+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9464,10 +10598,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754428+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030585+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9489,7 +10623,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "f9ecfe99b87a7d26",
@@ -9506,10 +10640,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754288+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030551+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9527,10 +10661,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754268+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030559+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9548,10 +10682,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754329+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030404+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9573,7 +10707,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "2d3df4f55ee38c47",
@@ -9611,10 +10745,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754320+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030525+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9636,7 +10770,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "12bd96fc33a4d704",
@@ -9716,10 +10850,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754300+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030543+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9737,10 +10871,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754338+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030425+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9762,7 +10896,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "f73bf9ab87cfced9",
@@ -9800,10 +10934,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754347+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030438+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9821,10 +10955,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.754356+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:20.030453+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9899,16 +11033,16 @@
     "location": "Bangui, Central African Republic",
     "country_or_region": "Bangui, Central African Republic",
     "deadline": "",
-    "posted_date": "Posted Yesterday",
+    "posted_date": "2026-03-02",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Bangui-Central-African-Republic/Associate-IT-Service-Delivery-Management-Officer_JR2664631-1",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2664631 | PR2 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.534894+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705753+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9962,16 +11096,16 @@
     "location": "Panama (RB), Panama",
     "country_or_region": "Panama (RB), Panama",
     "deadline": "",
-    "posted_date": "Posted Yesterday",
+    "posted_date": "2026-03-02",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Panama-RB-Panama/Economic-Integration-Intern_JR2665162",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2665162 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.534935+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705810+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -9983,16 +11117,16 @@
     "location": "Sofia, Bulgaria",
     "country_or_region": "Sofia, Bulgaria",
     "deadline": "",
-    "posted_date": "2026-03-02",
+    "posted_date": "2026-03-03",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Sofia-Bulgaria/External-Relations-Intern_JR2665189-1",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2665189 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.535134+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705979+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10004,16 +11138,16 @@
     "location": "Cairo, Egypt",
     "country_or_region": "Cairo, Egypt",
     "deadline": "",
-    "posted_date": "2026-03-03",
+    "posted_date": "2026-03-04",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Cairo-Egypt/External-Relations-Officer_JR2664624-1",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2664624 | PR3 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.535194+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.706035+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10067,16 +11201,16 @@
     "location": "Mandalay, Myanmar",
     "country_or_region": "Mandalay, Myanmar",
     "deadline": "",
-    "posted_date": "Posted Today",
+    "posted_date": "Posted Yesterday",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Mandalay-Myanmar/Protection-Associate_JR2665206",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2665206 | GS6 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.534658+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705432+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10172,16 +11306,16 @@
     "location": "Warsaw (MCO), Poland",
     "country_or_region": "Warsaw (MCO), Poland",
     "deadline": "",
-    "posted_date": "2026-03-02",
+    "posted_date": "2026-03-03",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Warsaw-MCO-Poland/Protection-Internship_JR2665181-1",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2665181 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.535074+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705923+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10193,16 +11327,16 @@
     "location": "Algiers, Algeria",
     "country_or_region": "Algiers, Algeria",
     "deadline": "",
-    "posted_date": "Posted Yesterday",
+    "posted_date": "2026-03-02",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Algiers-Algeria/Registration-Associate_JR2665147-1",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2665147 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.534764+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705572+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10214,16 +11348,16 @@
     "location": "Algiers, Algeria",
     "country_or_region": "Algiers, Algeria",
     "deadline": "",
-    "posted_date": "Posted Yesterday",
+    "posted_date": "2026-03-02",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Algiers-Algeria/Senior-Call-Center-Assistant_JR2665142-1",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2665142 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.534853+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705694+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10245,7 +11379,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "bd3ecb58c4b44298",
@@ -10298,16 +11432,16 @@
     "location": "Esquipulas, Guatemala",
     "country_or_region": "Esquipulas, Guatemala",
     "deadline": "",
-    "posted_date": "2026-03-02",
+    "posted_date": "2026-03-03",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Esquipulas-Guatemala/Senior-Protection-Assistant_JR2665195-2",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2665195 | GS5 | Regular > Regular Assignment",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.535010+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705867+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10340,16 +11474,16 @@
     "location": "Copenhagen (HQ), Denmark",
     "country_or_region": "Copenhagen (HQ), Denmark",
     "deadline": "",
-    "posted_date": "Posted Yesterday",
+    "posted_date": "2026-03-02",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Copenhagen-HQ-Denmark/Senior-PSP-Associate--Full-Stack-Developer-_JR2664802",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2664802 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.534718+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705508+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10361,16 +11495,16 @@
     "location": "Tindouf, Algeria",
     "country_or_region": "Tindouf, Algeria",
     "deadline": "",
-    "posted_date": "Posted Yesterday",
+    "posted_date": "2026-03-02",
     "job_url": "https://unhcr.wd3.myworkdayjobs.com/job/Tindouf-Algeria/Senior-Public-Health-Associate_JR2665046-1",
     "source_url": "https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/External/jobs",
     "source_type": "official",
     "summary": "JR2665046 | Affiliate/Internship > Hire",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:39.534806+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:19.705634+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10451,10 +11585,10 @@
     "source_type": "official",
     "summary": "Internship programme",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:33.789550+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:14.448226+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -10602,7 +11736,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "5c3be3b890fa4acc",
@@ -10623,7 +11757,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "12320dec66307a48",
@@ -10644,7 +11778,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "a3dcf1dd6adb52b7",
@@ -10665,7 +11799,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "af069487aad72f5a",
@@ -10896,7 +12030,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "ff8837be47b98835",
@@ -10917,7 +12051,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "aec71432c0e25b05",
@@ -11127,7 +12261,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "97fa5031da9ea803",
@@ -11190,7 +12324,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "ca9f26cf95e69c19",
@@ -11270,10 +12404,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:41.007313+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:21.342615+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11291,10 +12425,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:41.007333+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:21.342636+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11316,7 +12450,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "5a246fdf2e40cab2",
@@ -11337,7 +12471,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "d210470f552ea4b2",
@@ -11432,16 +12566,16 @@
     "location": "Yaounde, Cameroon, The Republic Of",
     "country_or_region": "Yaounde, Cameroon, The Republic Of",
     "deadline": "",
-    "posted_date": "Posted Today",
+    "posted_date": "Posted Yesterday",
     "job_url": "https://wd3.myworkdaysite.com/job/Yaounde-Cameroon-The-Republic-Of/Communications-and-Monitoring-Assistant_JR121151",
     "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
     "source_type": "official",
     "summary": "JR121151",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:38.583705+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:18.791878+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11474,16 +12608,16 @@
     "location": "Tunis, Tunisia, The Republic Of",
     "country_or_region": "Tunis, Tunisia, The Republic Of",
     "deadline": "",
-    "posted_date": "Posted Today",
+    "posted_date": "Posted Yesterday",
     "job_url": "https://wd3.myworkdaysite.com/job/Tunis-Tunisia-The-Republic-Of/Finance--Budget-and-Programming-Officer-SC8_JR120756",
     "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
     "source_type": "official",
     "summary": "JR120756",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:38.583809+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:18.791950+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11495,16 +12629,16 @@
     "location": "Dushanbe, Tajikistan, Republic Of",
     "country_or_region": "Dushanbe, Tajikistan, Republic Of",
     "deadline": "",
-    "posted_date": "Posted Today",
+    "posted_date": "Posted Yesterday",
     "job_url": "https://wd3.myworkdaysite.com/job/Dushanbe-Tajikistan-Republic-Of/Human-Resources-Assistant-G5_JR121149-2",
     "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
     "source_type": "official",
     "summary": "JR121149",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:38.583762+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:18.791913+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11579,16 +12713,16 @@
     "location": "Nairobi, Kenya, The Republic Of",
     "country_or_region": "Nairobi, Kenya, The Republic Of",
     "deadline": "",
-    "posted_date": "Posted Today",
+    "posted_date": "Posted Yesterday",
     "job_url": "https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Partnership-Officer--Government-Engagement---Development-Finance-Advisor--NOD_JR121072",
     "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
     "source_type": "official",
     "summary": "JR121072",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:38.583852+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:18.791986+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11652,7 +12786,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "99da891879edfae6",
@@ -11711,10 +12845,10 @@
     "source_type": "official",
     "summary": "JR121137",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:38.583894+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:18.791842+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11736,7 +12870,7 @@
     "scraped_date_bj": "2026-03-12",
     "is_new_today": false,
     "last_seen_date": "2026-03-12",
-    "status": "active"
+    "status": "not_seen_today"
   },
   {
     "record_id": "a01c90295b10c08c",
@@ -11768,16 +12902,16 @@
     "location": "Port Sudan, Sudan, The Republic Of The",
     "country_or_region": "Port Sudan, Sudan, The Republic Of The",
     "deadline": "",
-    "posted_date": "Posted Yesterday",
+    "posted_date": "2026-03-02",
     "job_url": "https://wd3.myworkdaysite.com/job/Port-Sudan-Sudan-The-Republic-Of-The/Programme-Policy-Officer--IFI-Safeguards-Compliance--CST---II--Port-Sudan_JR121064",
     "source_url": "https://wd3.myworkdaysite.com/wday/cxs/wfp/job_openings/jobs",
     "source_type": "official",
     "summary": "JR121064",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:38.583936+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:18.792056+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11858,10 +12992,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:35.109242+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:15.531453+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11879,10 +13013,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:35.109223+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:15.531434+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11900,10 +13034,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:35.109233+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:15.531444+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11921,10 +13055,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:35.109211+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:15.531422+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11942,10 +13076,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:35.109191+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:15.531401+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -11963,10 +13097,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:20:41.147354+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:21.497432+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -12047,10 +13181,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:07.607217+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:47.785093+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -12236,10 +13370,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:07.607184+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:47.785062+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -12467,10 +13601,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:07.607205+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:47.785082+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   },
   {
@@ -12509,10 +13643,10 @@
     "source_type": "official",
     "summary": "",
     "language": "en",
-    "scraped_at": "2026-03-12T04:21:07.607228+00:00",
-    "scraped_date_bj": "2026-03-12",
+    "scraped_at": "2026-03-13T04:19:47.785103+00:00",
+    "scraped_date_bj": "2026-03-13",
     "is_new_today": false,
-    "last_seen_date": "2026-03-12",
+    "last_seen_date": "2026-03-13",
     "status": "active"
   }
 ]
