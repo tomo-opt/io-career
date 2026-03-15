@@ -1,0 +1,138 @@
+[Organization] United Nations Secretariat
+[Position] HEAVY VEHICLE OPERATOR
+[Location] PORT-AU-PRINCE - LOCAL
+[Deadline] 2026-03-22
+[Link] https://careers.un.org/job-openings?job-id=274224
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] VEHICLE TECHNICIAN
+[Location] PORT-AU-PRINCE - LOCAL
+[Deadline] 2026-03-22
+[Link] https://careers.un.org/job-openings?job-id=274225
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SECTION, FINANCE
+[Location] NEW YORK
+[Deadline] 2026-03-20
+[Link] https://careers.un.org/job-openings?job-id=272446
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Operations Manager (IOM), Bujumbura, Burundi
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-operations-manager-iom-bujumbura-burundi
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Program Coordinator (IPC) - FTA- P4- Tripoli, Libya
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-program-coordinator-ipc-fta-p4-tripoli-libya
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Asociado/a para coordinar la implementación del proyecto de alianzas público…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/asociadoa-para-coordinar-la-implementaci%C3%B3n-del-proyecto-de-alianzas-p%C3%BAblico-privadas-con-0
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship Program: Translator/Interpreter (AfCFTA)
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1773429195514
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Housing Specialist IRC - International Rescue Committee Remote | Charlottesville Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202424
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Call for International Development and Humanitarian Experts (World Bank))– Various locations, Global IRC - International Rescue Committee Remote Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202423
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative / Office Assistant IRC - International Rescue Committee Richmond Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202422
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Operations Assistant IRC - International Rescue Committee Baltimore Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202421
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Caseworker IRC - International Rescue Committee Wichita Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202420
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Business Development Manager, Retail Sales AeroFarms United States of America Senior - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202414
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associado(a) de Conformidade (2 vagas) (Home Based) - [Open to internal and external applicants] UNDP - United Nations Development Programme Remote | Home Based - May require travel NPSA-7, National Personnel Services Agreement - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202409
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant for preparing Situation Analysis of Children and Women in the Kyrgyz Republic UNICEF - United Nations Children’s Fund Bishkek Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202405
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant for the development of the UNICEF Kyrgyzstan Country Programme 2028-2032 UNICEF - United Nations Children’s Fund Remote | Bishkek Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202404
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Manager IFRC - International Federation of Red Cross and Red Crescent Societies Abuja Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202395
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Laboratory Technician (Stable Isotopes)(TERC)(G6) IAEA - International Atomic Energy Agency Vienna | Monaco | Seibersdorf GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202394
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Technical Specialist (Economist), Rome IFAD - International Fund for Agricultural Development Rome P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202391
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associate Director, Clinical Artificial Intelligence (AI) CHAI - Clinton Health Access Initiative Remote | United States Managerial Level - Open for both International and National Professionals - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202390
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN-US10-2026-034 Senior Private Sector Engagement Officer IOM - International Organization for Migration Washington D.C. NO-D, National Professional Officer - Locally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202389
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 2026-03 HR Assistant G4 (Temporary Replacement) IOM - International Organization for Migration Brussels GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202388
+--------------------------------------------------
+[Organization] Impactpool
+[Position] EC-CO-008-27 Consultoría de apoyo técnico y operativo [Huaquillas] IOM - International Organization for Migration Huaquillas UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1202387
+--------------------------------------------------
