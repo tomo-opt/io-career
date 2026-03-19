@@ -1,0 +1,240 @@
+[Organization] UNDP
+[Position] Partnership Analyst [Open to internal and external applicants]
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32279;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Data Development & Partnership Assistant [Open to internal and external applicants]
+[Location] Kuala Lumpur, Malaysia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32687;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Program Analyst NCE (Nature Climate and Environment) - [Open to internal and external applicants]
+[Location] Luanda, Angola
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32697;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Program Analyst NCE (Nature Climate and Environment) - [Open to internal and external applicants] Post level NPSA-9 Apply by Mar-25-26 Agency UNDP Location Luanda, Angola
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32697
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Data Development & Partnership Assistant [Open to internal and external applicants] Post level NPSA-4 Apply by Mar-25-26 Agency UNDP Location Kuala Lumpur, Malaysia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32687
+--------------------------------------------------
+[Organization] WFP
+[Position] Intern Programme Salemata
+[Location] Kedougou, Senegal, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kedougou-Senegal-The-Republic-Of/Intern-Programme-Salemata_JR121386
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer - Head of Programme
+[Location] Kananga, Congo, The Dem. Rep.Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kananga-Congo-The-Dem-RepOf/Programme-Policy-Officer---Head-of-Programme_JR121334-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer (Funds Management), CST I
+[Location] Juba, Sudan, Republic of South
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Juba-Sudan-Republic-of-South/Logistics-Officer--Funds-Management---CST-I_JR121371-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Livelihood and Economic Inclusion Assistant
+[Location] Cali, Colombia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Cali-Colombia/Senior-Livelihood-and-Economic-Inclusion-Assistant_JR2665364-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] External Relations Intern
+[Location] Stockholm, Sweden
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Stockholm-Sweden/External-Relations-Intern_JR2665405-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Data Management Associate
+[Location] Erbil, Iraq
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Erbil-Iraq/Data-Management-Associate_JR2664763-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Internship, Programme Coordination Unit, Johannesburg ESARO.
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/internship-programme-coordination-unit-johannesburg-esaro
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Internship,Youth Team , Johannesburg ESARO.
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/internshipyouth-team-johannesburg-esaro
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Specialist, Commodities, Sexual and Reproductive Health and Rights Branch…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-specialist-commodities-sexual-and-reproductive-health-and-rights-branch-programme
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship u2013 Databases and Dashboards, Vienna, Austria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1773841693143
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant: Unintentional Injury prevention and Sensory functions, New Delhi, India
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1773841737075
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Multi-Core Competency Coordinator Mozambique Pemba (internal only) NRC - Norwegian Refugee Council Pemba Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203245
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Portfolio Management and Communications Intern UNEP - United Nations Environment Programme Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203236
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Lead Operational and Programme Delivery Risk Officer, Rome IFAD - International Fund for Agricultural Development Rome P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203228
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Procurement and Agreements Officer, P3 - Integrated Business Centre UNSSC - United Nations System Staff College Turin | Rome P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203223
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Director, Program Advocacy & Engagement (Fixed term until 31st January 2027) IRC - International Rescue Committee London Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203222
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Subnational Technical and Liaison Officer IRC - International Rescue Committee Odessa Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203221
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Admin Officer IRC - International Rescue Committee Gusau | Abuja Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203220
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Adult Education Internship - Summer 2026 (UNPAID) IRC - International Rescue Committee Richmond Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203219
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ESOL Internship - Summer 2026 (UNPAID) IRC - International Rescue Committee Richmond Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203218
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Finance Manager (d/f/m) IRC - International Rescue Committee Remote | Berlin Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203217
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Director (Regulation and Prequalification of Medicines and Health Products) WHO - World Health Organization D-2, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203207
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Technical Officer - Planning, Monitoring and Evaluation WHO - World Health Organization P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203206
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] National Security and Intelligence Analysis Internship Summer 2026
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50174-washington-dc-institute-for-the-study-of-war-isw-national-security-and-intelligence-analysis-internship-summer-2026
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Russia Researcher
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50173-washington-dc-institute-for-the-study-of-war-russia-researcher
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Office Management Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50172-washington-dc-social-impact-office-management-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Events
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50171-waterloo-ontario-canada-centre-for-international-governance-innovation-cigi-manager-events
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Consultant for Assistive Technology Policy Paper
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50170-brussels-belgium-european-disability-forum-consultant-for-assistive-technology-policy-paper
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Vice President of Advancement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50169-remote-washington-the-max-foundation-vice-president-of-advancement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Economic Affairs Intern: Development Cooperation
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50168-new-york-un-department-of-economic-and-social-affairs-undesa-intern-development-cooperation
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intelligence Analyst I
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50167-rosslyn-virginia-obsidian-solutions-group-llc-intelligence-analyst-i
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Part-Time Faculty: PSC 124 International Relations (Summer Session I)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50166-syracuse-new-york-university-part-time-faculty-psc-124-international-relations-summer-session-i
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Wargame Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50165-quantico-virginia-mantech-assistant-wargame-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of the Mission Innovation Secretariat
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50164-paris-france-organisation-for-economic-cooperation-and-development-head-of-the-mission-innovation-secretariat
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Strategic Communications Adviser
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50163-brussels-belgium-fern-strategic-communications-adviser
+--------------------------------------------------
