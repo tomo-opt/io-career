@@ -1,0 +1,204 @@
+[Organization] United Nations Secretariat
+[Position] ENVIRONMENTAL AFFAIRS OFFICER
+[Location] GENEVA
+[Deadline] 2026-03-30
+[Link] https://careers.un.org/job-openings?job-id=274085
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Evaluation Quality Assessment Consultants (Home-Based)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/evaluation-quality-assessment-consultants-home-based
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Asociado/a Financiera, Administrativa y de Operaciones, Bogotá, LSC
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/asociadoa-financiera-administrativa-y-de-operaciones-bogot%C3%A1-lsc
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, Gender and SRH, Beijing, China, NOA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-gender-and-srh-beijing-china-noa
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Partnerships and South-South Cooperation Specialist, Beijing, China, NOC
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/partnerships-and-south-south-cooperation-specialist-beijing-china-noc
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultancy to develop the National Guidelines and tools for Menstrual Health and Hygiene Management in Liberia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultancy-develop-national-guidelines-and-tools-menstrual-health-and-hygiene
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant for capacity building for youth-led entities and digital content creators…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-capacity-building-youth-led-entities-and-digital-content-creators-digital-cse
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Internships / fellowships
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/level/internships-fellowships
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Specialist – Internal Audit Capability EU Careers by EPSO The Hague AD-6, Administrator - Open to citizens of an EU country - Mid/Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203669
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Assistant IRC - International Rescue Committee Abuja Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203668
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Driver IRC - International Rescue Committee Beirut Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203667
+--------------------------------------------------
+[Organization] Impactpool
+[Position] RSS Employment Specialist IRC - International Rescue Committee Wichita Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203666
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Employment Specialist IRC - International Rescue Committee Remote | Tucson Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203665
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Officer - Labour Market & Mobilty Trends Analysis ICMPD - International Centre for Migration Policy Development New Delhi LP2, Local Professional 2 - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203664
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internal Call - (RFP500555) Scientist I - Multifunctional Landscapes Alliance Bioversity & CIAT Peru Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203662
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee German Translator ECB - European Central Bank Remote | Frankfurt Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203656
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Emergency Logistics Manager - Gaza / Amman HI - Humanity & Inclusion - Handicap International Amman Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203654
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, Health System Strengthening and Global Health Partnership Development IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203653
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, Development and Strengthening Global Health Platforms IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203652
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Pasante de Planificación, Monitoreo, Evaluación y Reportes IFRC - International Federation of Red Cross and Red Crescent Societies Tegucigalpa Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203651
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Officer COE - Council of Europe Bucharest B4 -Mid-Level - Administrative Assistants - International recruitment - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1203650
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Advocacy & Communications Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50201-stockholm-sweden-international-rescue-committee-advocacy-communications-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Press Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50200-brussels-belgium-embassy-press-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Institutional Relations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50199-new-york-amfar-manager-institutional-relations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Public Relations Fellow
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50198-new-york-the-hayes-initiative-public-relations-fellow
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate Director - Global Operations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50197-stanford-california-seed-associate-director-global-operations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Advisor, Training and Learning
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50196-remote-dc-internet-society-program-advisor-training-and-learning
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Global Partnership Governance Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50195-poland-polish-humanitarian-action-polska-akcja-humanitarna-global-partnership-governance-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Research & Technical Support Expert: Gender Pay Transparency in Audiovisual Production
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50194-belgium-uni-europa-research-technical-support-expert-gender-pay-transparency-in-audiovisual-production
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Professor for Political & Economic Philosophy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50193-bronx-new-york-metropolitan-college-of-adjunct-professor-for-political-economic-philosophy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Cybersecurity Operations Monitoring Team Lead
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50192-multiple-locations-spain-unicc-cybersecurity-operations-monitoring-team-lead
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Trade Policy Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50191-washington-dc-first-solar-trade-policy-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50190-brussels-belgium-carbon-market-watch-communications-director
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] Advocacy & Communications Intern
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4203867/advocacy-communications-intern
+--------------------------------------------------
