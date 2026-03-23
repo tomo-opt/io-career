@@ -1,25 +1,16 @@
 | org_name | job_title | job_type | location | deadline | job_url | is_new_today |
 |---|---|---|---|---|---|---|
-| Impactpool | Advocacy & Communications Intern IRC - International Rescue Committee Remote | Stockholm Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203721 | True |
-| Impactpool | Finance Supervisor IRC - International Rescue Committee Remote | United States of America Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203719 | True |
-| Impactpool | Gerente de Protección IRC - International Rescue Committee Remote | Huehuetenango | Guatemala City Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203713 | True |
-| Impactpool | Innovation Strategy Lead IRC - International Rescue Committee Remote | New York City Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1203720 | True |
-| Impactpool | Multilingual Youth Program Specialist (Secondary Programs) IRC - International Rescue Committee Remote | Kent | Tukwila | Auburn | Federal Way Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1203714 | True |
-| Impactpool | Officer, Program Visits IRC - International Rescue Committee Remote | New York City Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203717 | True |
-| Impactpool | Oficial de Protección y Estado de Derecho IRC - International Rescue Committee Guatemala City | Huehuetenango Junior - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1203708 | True |
-| Impactpool | Oficial Manejo de Efectivo/ ERD IRC - International Rescue Committee Guatemala City Junior - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1203722 | True |
-| Impactpool | Summer 2026: Asylum Seekers and Families Program Intern (Unpaid) IRC - International Rescue Committee Remote | United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203715 | True |
-| Impactpool | Summer 2026: Career Programs Intern (Unpaid) IRC - International Rescue Committee Remote | United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203711 | True |
-| Impactpool | Summer 2026: Community Fridge Intern (Unpaid) IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203712 | True |
-| Impactpool | Summer 2026: Development & Communications Intern (Unpaid) IRC - International Rescue Committee Remote | United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203718 | True |
-| Impactpool | Summer 2026: Refugee Field Work Intern (Unpaid) IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203709 | True |
-| Impactpool | Summer 2026: Resettlement Administrative Intern (Unpaid) IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203710 | True |
-| Impactpool | Summer 2026: Women’s Resilience Center Intern IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203716 | True |
-| UNFPA | HR Adviser, Talent Acquisition, Client Services and Outreach Branch, Division for Human Resources, New York, P-5 | Early Career |  |  | https://www.unfpa.org/jobs/hr-adviser-talent-acquisition-client-services-and-outreach-branch-division-human-resources-new | True |
-| UNFPA | National Consultant: Multi-Country Scoping Review on Masculinities and Child, Early and Forced Marriage | Early Career |  |  | https://www.unfpa.org/jobs/national-consultant-multi-country-scoping-review-masculinities-and-child-early-and-forced | True |
-| UNFPA | National Post: Administrative and Finance Assistant, Patna, Bihar, India - G5 | Early Career |  |  | https://www.unfpa.org/jobs/national-post-administrative-and-finance-assistant-patna-bihar-india-g5-0 | True |
-| UNFPA | RE- ADVERTISMENT - NATIONAL POST: Driver (GS 2) | Early Career |  |  | https://www.unfpa.org/jobs/re-advertisment-national-post-driver-gs-2 | True |
-| UNFPA | Re-Advertisement: Programme Specialist, Gender-Based Violence (GBV), Phnom Penh, Cambodia, P-3 | Early Career |  |  | https://www.unfpa.org/jobs/re-advertisement-programme-specialist-gender-based-violence-gbv-phnom-penh-cambodia-p-3 | True |
+| Impactpool | Advocacy & Communications Intern IRC - International Rescue Committee Stockholm Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203721 | True |
+| Impactpool | Finance Supervisor IRC - International Rescue Committee United States of America Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203719 | True |
+| Impactpool | Gerente de Protección IRC - International Rescue Committee Huehuetenango | Guatemala City Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203713 | True |
+| Impactpool | Multilingual Youth Program Specialist (Secondary Programs) IRC - International Rescue Committee Remote | Tukwila | Kent | Auburn | Federal Way Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1203714 | True |
+| Impactpool | Programme Officer (Transition and Recovery) (P) IOM - International Organization for Migration Juba P-2, International Professional - Internationally recruited position - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1203727 | True |
+| Impactpool | Project Officer (Disaster Risk Reduction and Climate Change Adaptation (DRR CCA)) (P) IOM - International Organization for Migration Kinshasa P-2, International Professional - Internationally recruited position - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1203728 | True |
+| Impactpool | Thai Finance and Operations MAnager ILGA Asia - International Lesbian, Gay, Bisexual, Trans and Intersex Association Bangkok Senior - Senior level | Internship |  |  | https://www.impactpool.org/jobs/1203729 | True |
+| UN Careers Portal | Associate Programme Management Officer | Early Career | MONTREAL | 2026-03-28 | https://careers.un.org/job-openings?job-id=269191 | True |
+| UNFPA | Consultant to conduct a mid-term review of the FGM regional programme | Early Career |  |  | https://www.unfpa.org/jobs/consultant-conduct-mid-term-review-fgm-regional-programme | True |
+| UNFPA | National Consultancy to develop the National Guidelines and tools for Menstrual… | Early Career |  |  | https://www.unfpa.org/jobs/national-consultancy-develop-national-guidelines-and-tools-menstrual-health-and-hygiene | True |
+| UNJobs Aggregator (HTML) | Internship-Library and Knowledge Management, Geneva, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1774161191655 | True |
 | African Union | Go back to Homepage | Early Career |  |  | https://careers.au.int/en | False |
 | APEC Secretariat | Internships | Internship |  |  | https://www.apec.org/about-us/apec-secretariat/internship | False |
 | Asian Development Bank | ADB Recruitment Process | Early Career |  |  | https://www.adb.org/work-with-us/careers/adb-recruitment-process | False |
@@ -352,6 +343,7 @@
 | Impactpool | Administrative Specialist JICA (Japan International Cooperation Agency) Ukraine Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1201265 | False |
 | Impactpool | Adult Education Internship - Summer 2026 (UNPAID) IRC - International Rescue Committee Richmond Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203219 | False |
 | Impactpool | Advisor Standards and Operations GICHD - Geneva International Centre for Humanitarian Demining Geneva Senior - Senior level | Internship |  |  | https://www.impactpool.org/jobs/1202063 | False |
+| Impactpool | Advocacy & Communications Intern IRC - International Rescue Committee Remote | Stockholm Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203721 | False |
 | Impactpool | Analyst - Multiple OPEC Fund for International Development Vienna Junior - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1202684 | False |
 | Impactpool | Anti-Trafficking Intern (Summer 2026) IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1201740 | False |
 | Impactpool | Associado(a) de Conformidade (2 vagas) (Home Based) - [Open to internal and external applicants] UNDP - United Nations Development Programme Remote | Home Based - May require travel NPSA-7, National Personnel Services Agreement - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1202409 | False |
@@ -416,6 +408,8 @@
 | Impactpool | Finance Associate IUCN - International Union for Conservation of Nature Dhaka A3 - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1201069 | False |
 | Impactpool | Finance Manager - Zambia CHAI - Clinton Health Access Initiative Lusaka Managerial Level - Open for both International and National Professionals - Senior level | Internship |  |  | https://www.impactpool.org/jobs/1201025 | False |
 | Impactpool | Finance Manager IFRC - International Federation of Red Cross and Red Crescent Societies Abuja Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1202395 | False |
+| Impactpool | Finance Supervisor IRC - International Rescue Committee Remote | United States of America Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203719 | False |
+| Impactpool | Gerente de Protección IRC - International Rescue Committee Remote | Huehuetenango | Guatemala City Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203713 | False |
 | Impactpool | GIS Assistant IUCN - International Union for Conservation of Nature Dhaka A2 - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1202436 | False |
 | Impactpool | Global Specialist Coordination & Intégration Logistique F/H HI - Humanity & Inclusion - Handicap International Brussels Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1201459 | False |
 | Impactpool | Head of Office IOM - International Organization for Migration Baku NO-C, National Professional Officer - Locally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1202326 | False |
@@ -427,6 +421,7 @@
 | Impactpool | Humanitarian Policy adviser BRC - British Red Cross Remote | London Advisor - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1202347 | False |
 | Impactpool | Individual Consultant - Review of Capital Adequacy Framework OPEC Fund for International Development Remote | Vienna Consultant - Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1201477 | False |
 | Impactpool | Individual Consultant - Senior Communications Consultant (Modern Standard Arabic and Gulf Region Dialects) OPEC Fund for International Development Remote | Vienna Consultant - Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1201476 | False |
+| Impactpool | Innovation Strategy Lead IRC - International Rescue Committee Remote | New York City Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1203720 | False |
 | Impactpool | INTERN - Communications, Cultural diplomacy, Knowledge outreach UNOG - United Nations Office at Geneva Geneva Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1201220 | False |
 | Impactpool | Internal Call - (RFP500555) Scientist I - Multifunctional Landscapes Alliance Bioversity & CIAT Peru Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203662 | False |
 | Impactpool | International Consultancy For Yemen_Nutrition Prevention Consultant_6 Months_Home-Based UNICEF - United Nations Children’s Fund Remote | Home Based - May require travel Consultant - Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1202427 | False |
@@ -459,12 +454,14 @@
 | Impactpool | Movement Operations Assistant (Field Support) - Expedited Recruitment IOM - International Organization for Migration Panama City GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1201021 | False |
 | Impactpool | Movement Operations Associate (Beneficiary-Facing Activities) - Expedited Recruitment IOM - International Organization for Migration Panama City GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1201020 | False |
 | Impactpool | Multi-Core Competency Coordinator Mozambique Pemba (internal only) NRC - Norwegian Refugee Council Pemba Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1203245 | False |
+| Impactpool | Multilingual Youth Program Specialist (Secondary Programs) IRC - International Rescue Committee Remote | Kent | Tukwila | Auburn | Federal Way Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1203714 | False |
 | Impactpool | National Consultant Agribusiness Investment and Responsible Business Conduct ITC - International Trade Centre Remote | Geneva | Yaoundé CON | Internship |  |  | https://www.impactpool.org/jobs/1201244 | False |
 | Impactpool | National Media and Communications Officer IOM - International Organization for Migration Algiers Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1201081 | False |
 | Impactpool | National Migration Health Nurse IOM - International Organization for Migration UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1201082 | False |
 | Impactpool | National Project Coordinator - NOA (DC) 1 ILO - International Labour Organization Quito NO-A, National Professional Officer - Locally recruited position - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1202972 | False |
 | Impactpool | National Team Leader (NPSA 11) ITC - International Trade Centre Hanoi CON | Internship |  |  | https://www.impactpool.org/jobs/1201227 | False |
 | Impactpool | New Ireland Provincial Intern GGGI - Global Green Growth Institute Ireland Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203327 | False |
+| Impactpool | Officer, Program Visits IRC - International Rescue Committee Remote | New York City Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203717 | False |
 | Impactpool | Officier Senior Grants IRC - International Rescue Committee Bujumbura Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1202335 | False |
 | Impactpool | Officier Senior MEAL IRC - International Rescue Committee Ruyigi | Bujumbura Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1202340 | False |
 | Impactpool | Officier Suivi et Evaluation IRC - International Rescue Committee Bujumbura | Muyinga Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1202336 | False |
@@ -474,6 +471,8 @@
 | Impactpool | OFFICIER(E) GESTIONNAIRE DE CAS PROL ET ASSISTANCE LEGAL (PROTECTION ET ETAT DE DROIT) - RÉPONSE D’URGENCE-3 IRC - International Rescue Committee Baraka | Minova Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1202344 | False |
 | Impactpool | Oficial de Comunicaciones IRC - International Rescue Committee San Pedro Sula | Tegucigalpa Junior - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1201044 | False |
 | Impactpool | Oficial de Comunicaciones IRC - International Rescue Committee Tegucigalpa | San Pedro Sula Junior - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1201044 | False |
+| Impactpool | Oficial de Protección y Estado de Derecho IRC - International Rescue Committee Guatemala City | Huehuetenango Junior - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1203708 | False |
+| Impactpool | Oficial Manejo de Efectivo/ ERD IRC - International Rescue Committee Guatemala City Junior - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1203722 | False |
 | Impactpool | Operations Assistant IRC - International Rescue Committee Baltimore Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1202421 | False |
 | Impactpool | Operations Intern IOM - International Organization for Migration Buenos Aires UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1202327 | False |
 | Impactpool | Operations Officer IRC - International Rescue Committee Dhaka Junior - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1201263 | False |
@@ -545,6 +544,13 @@
 | Impactpool | Student Assistant Marketing Deutsche Welthungerhilfe Remote | Bonn Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1201464 | False |
 | Impactpool | Subnational Technical and Liaison Officer IRC - International Rescue Committee Odessa Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203221 | False |
 | Impactpool | Summer 2026 Digital Innovation Internship - UNPAID IRC - International Rescue Committee Miami Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1201738 | False |
+| Impactpool | Summer 2026: Asylum Seekers and Families Program Intern (Unpaid) IRC - International Rescue Committee Remote | United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203715 | False |
+| Impactpool | Summer 2026: Career Programs Intern (Unpaid) IRC - International Rescue Committee Remote | United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203711 | False |
+| Impactpool | Summer 2026: Community Fridge Intern (Unpaid) IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203712 | False |
+| Impactpool | Summer 2026: Development & Communications Intern (Unpaid) IRC - International Rescue Committee Remote | United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203718 | False |
+| Impactpool | Summer 2026: Refugee Field Work Intern (Unpaid) IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203709 | False |
+| Impactpool | Summer 2026: Resettlement Administrative Intern (Unpaid) IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203710 | False |
+| Impactpool | Summer 2026: Women’s Resilience Center Intern IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203716 | False |
 | Impactpool | SUPERVISEUR(E) WASH PCI- REPONSE D’URGENCE-2 IRC - International Rescue Committee Minova | Baraka Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1202339 | False |
 | Impactpool | Supply Chain Assistant IRC - International Rescue Committee Gaza City Administrative Services and Support - Generally no need for Higher Education - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1202451 | False |
 | Impactpool | SVN 0104 2026 - ASISENTE DE COMUNICACIONES, BOGOTA G-3 IOM - International Organization for Migration Bogotá GS-3, General Service - No need for Higher Education - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1201019 | False |
@@ -768,6 +774,7 @@
 | UNFPA | Disability Data Mapping Consultant (National) | Early Career |  |  | https://www.unfpa.org/jobs/disability-data-mapping-consultant-national | False |
 | UNFPA | Evaluation Associate, Independent Evaluation Office (IEO), G-7, Nairobi, HQ | Early Career |  |  | https://www.unfpa.org/jobs/evaluation-associate-independent-evaluation-office-ieo-g-7-nairobi-hq | False |
 | UNFPA | Evaluation Quality Assessment Consultants (Home-Based) | Early Career |  |  | https://www.unfpa.org/jobs/evaluation-quality-assessment-consultants-home-based | False |
+| UNFPA | HR Adviser, Talent Acquisition, Client Services and Outreach Branch, Division for Human Resources, New York, P-5 | Early Career |  |  | https://www.unfpa.org/jobs/hr-adviser-talent-acquisition-client-services-and-outreach-branch-division-human-resources-new | False |
 | UNFPA | INDIVIDUAL CONSULTANT (International) – Evaluation Team Leader, UNFPA Kyrgyzstan 5th Country Programme Evaluation | Internship |  |  | https://www.unfpa.org/jobs/individual-consultant-international-%E2%80%93-evaluation-team-leader-unfpa-kyrgyzstan-5th-country | False |
 | UNFPA | INDIVIDUAL CONSULTANT (International) – Evaluation Team Leader, UNFPA Kyrgyzstan 5th… | Internship |  |  | https://www.unfpa.org/jobs/individual-consultant-international-%E2%80%93-evaluation-team-leader-unfpa-kyrgyzstan-5th-country | False |
 | UNFPA | INDIVIDUAL CONSULTANT (National) – National Quality Services and Social Accountability Expert, UNFPA Kyrgyzstan 5th Country Programme Evaluation | Early Career |  |  | https://www.unfpa.org/jobs/individual-consultant-national-%E2%80%93-national-quality-services-and-social-accountability-expert | False |
@@ -788,11 +795,13 @@
 | UNFPA | National Consultancy: Admin\Logistics Consultant - 3 Months - Tunisia | Early Career |  |  | https://www.unfpa.org/jobs/national-consultancy-adminlogistics-consultant-3-months-tunisia | False |
 | UNFPA | National Consultant Gender Equality & Women’s Empowerment Expert - Endline Evaluation of the UNFPA/Norway Project (NOC) | Early Career |  |  | https://www.unfpa.org/jobs/national-consultant-gender-equality-women%E2%80%99s-empowerment-expert-endline-evaluation-unfpanorway | False |
 | UNFPA | National consultant on communication and social norm change, Tashkent, Uzbeksitan | Early Career |  |  | https://www.unfpa.org/jobs/national-consultant-communication-and-social-norm-change-tashkent-uzbeksitan | False |
+| UNFPA | National Consultant: Multi-Country Scoping Review on Masculinities and Child, Early and Forced Marriage | Early Career |  |  | https://www.unfpa.org/jobs/national-consultant-multi-country-scoping-review-masculinities-and-child-early-and-forced | False |
 | UNFPA | National Individual Consultant-FLE Programme Coordinator- FSM | Early Career |  |  | https://www.unfpa.org/jobs/national-individual-consultant-fle-programme-coordinator-fsm | False |
 | UNFPA | National Individual Consultant: FLE Programme Coordinator RMI | Early Career |  |  | https://www.unfpa.org/jobs/national-individual-consultant-fle-programme-coordinator-rmi | False |
 | UNFPA | National Individual Consultant: SRHR Coordinator RMI | Early Career |  |  | https://www.unfpa.org/jobs/national-individual-consultant-srhr-coordinator-rmi | False |
 | UNFPA | National Position: Admin/HR Associate, Islamabad, Pakistan, G-6 | Early Career |  |  | https://www.unfpa.org/jobs/national-position-adminhr-associate-islamabad-pakistan-g-6 | False |
 | UNFPA | National Post- Driver (AV)- Temporary Appointmnet (TA)-G2- Tripoli, Libya | Early Career |  |  | https://www.unfpa.org/jobs/national-post-driver-av-temporary-appointmnet-ta-g2-tripoli-libya | False |
+| UNFPA | National Post: Administrative and Finance Assistant, Patna, Bihar, India - G5 | Early Career |  |  | https://www.unfpa.org/jobs/national-post-administrative-and-finance-assistant-patna-bihar-india-g5-0 | False |
 | UNFPA | NATIONAL POST: Communications Officer, Freetown, Sierra Leone, NOB | Early Career |  |  | https://www.unfpa.org/jobs/national-post-communications-officer-freetown-sierra-leone-nob | False |
 | UNFPA | NATIONAL POST: Extension_Re-Advertisement_Data and Foresight Analyst, Yangon, Myanmar, NOB, FTA | Early Career |  |  | https://www.unfpa.org/jobs/national-post-extensionre-advertisementdata-and-foresight-analyst-yangon-myanmar-nob-fta | False |
 | UNFPA | NATIONAL POST: Extension_Re-Advertisement_Data and Foresight Analyst, Yangon,… | Early Career |  |  | https://www.unfpa.org/jobs/national-post-extensionre-advertisementdata-and-foresight-analyst-yangon-myanmar-nob-fta | False |
@@ -811,6 +820,8 @@
 | UNFPA | Programme Specialist, Commodities, Sexual and Reproductive Health and Rights Branch… | Early Career |  |  | https://www.unfpa.org/jobs/programme-specialist-commodities-sexual-and-reproductive-health-and-rights-branch-programme | False |
 | UNFPA | Programme Specialist, Governance, Sexual & Reproductive Health and Rights Branch, Programme Division, P3, Nairobi HQ | Early Career |  |  | https://www.unfpa.org/jobs/programme-specialist-governance-sexual-reproductive-health-and-rights-branch-programme | False |
 | UNFPA | Programme Specialist, Governance, Sexual & Reproductive Health and Rights Branch… | Early Career |  |  | https://www.unfpa.org/jobs/programme-specialist-governance-sexual-reproductive-health-and-rights-branch-programme | False |
+| UNFPA | RE- ADVERTISMENT - NATIONAL POST: Driver (GS 2) | Early Career |  |  | https://www.unfpa.org/jobs/re-advertisment-national-post-driver-gs-2 | False |
+| UNFPA | Re-Advertisement: Programme Specialist, Gender-Based Violence (GBV), Phnom Penh, Cambodia, P-3 | Early Career |  |  | https://www.unfpa.org/jobs/re-advertisement-programme-specialist-gender-based-violence-gbv-phnom-penh-cambodia-p-3 | False |
 | UNFPA | Readvertised : Individual Consultant (Local): Resource Mobilization and Partnerships, New Delhi | Early Career |  |  | https://www.unfpa.org/jobs/readvertised-individual-consultant-local-resource-mobilization-and-partnerships-new-delhi | False |
 | UNFPA | Readvertised : Individual Consultant (Local): Resource Mobilization and Partnerships… | Early Career |  |  | https://www.unfpa.org/jobs/readvertised-individual-consultant-local-resource-mobilization-and-partnerships-new-delhi | False |
 | UNFPA | Regional Monitoring, Evaluation and Learning Adviser | Early Career |  |  | https://www.unfpa.org/jobs/regional-monitoring-evaluation-and-learning-adviser | False |
@@ -842,9 +853,9 @@
 | UNHCR | Programme Risk Management Intern | Internship | Dakar (RB), Senegal |  | https://unhcr.wd3.myworkdayjobs.com/job/Dakar-RB-Senegal/Programme-Risk-Management-Intern_JR2665382 | False |
 | UNHCR | Protection and Solution Intern | Internship | Sofia, Bulgaria |  | https://unhcr.wd3.myworkdayjobs.com/job/Sofia-Bulgaria/Protection-and-Solution-Intern_JR2665415-1 | False |
 | UNHCR | Protection Assistant | Internship | Bassikounou, Mauritania |  | https://unhcr.wd3.myworkdayjobs.com/job/Bassikounou-Mauritania/Protection-Assistant_JR2664823 | False |
+| UNHCR | Protection Associate | Internship | Mandalay, Myanmar |  | https://unhcr.wd3.myworkdayjobs.com/job/Mandalay-Myanmar/Protection-Associate_JR2665206 | False |
 | UNHCR | Protection Associate | Early Career | Bratislava, Slovakia |  | https://unhcr.wd3.myworkdayjobs.com/job/Bratislava-Slovakia/Protection-Associate_JR2665308 | False |
 | UNHCR | Protection Associate | Internship | Ankara, Turkiye |  | https://unhcr.wd3.myworkdayjobs.com/job/Ankara-Turkiye/Protection-Associate_JR2665154-1 | False |
-| UNHCR | Protection Associate | Internship | Mandalay, Myanmar |  | https://unhcr.wd3.myworkdayjobs.com/job/Mandalay-Myanmar/Protection-Associate_JR2665206 | False |
 | UNHCR | Protection Associate | Internship | Dakar (RB), Senegal |  | https://unhcr.wd3.myworkdayjobs.com/job/Dakar-RB-Senegal/Protection-Associate_JR2665163-1 | False |
 | UNHCR | Protection Associate | Early Career | Kaoma, Zambia |  | https://unhcr.wd3.myworkdayjobs.com/job/Kaoma-Zambia/Protection-Associate_JR2665129 | False |
 | UNHCR | Protection Associate | Internship | Ankara, Turkiye |  | https://unhcr.wd3.myworkdayjobs.com/job/Ankara-Turkiye/Protection-Associate_JR2665088-1 | False |
