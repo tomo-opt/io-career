@@ -1,0 +1,534 @@
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] ISLAMABAD
+[Deadline] 2026-04-11
+[Link] https://careers.un.org/job-openings?job-id=274927
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Security Coordination Officer
+[Location] PORT MORESBY
+[Deadline] 2026-04-11
+[Link] https://careers.un.org/job-openings?job-id=274154
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CONTINGENT OWNED EQUIPMENT OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-04-04
+[Link] https://careers.un.org/job-openings?job-id=274951
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CONTINGENT OWNED EQUIPMENT ASSISTANT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-04-04
+[Link] https://careers.un.org/job-openings?job-id=274952
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] STAFF ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-04-10
+[Link] https://careers.un.org/job-openings?job-id=274287
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NAIROBI
+[Deadline] 2026-04-04
+[Link] https://careers.un.org/job-openings?job-id=272105
+--------------------------------------------------
+[Organization] UNDP
+[Position] ICT Engineering Internship
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32950;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Software Developer Internship
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32952;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] IoT Operations Support Internship
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32954;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Green Energy Support Internship
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32948;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Cloud Service Engineering Internship
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32946;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Communication and Collaboration Engineer Internship
+[Location] New York, United States
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32956;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] ICT Architecture and Projects Internship
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32951;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Business Development Support Internship
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32942;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Green Energy Civil/Structural Engineering Internship
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32949;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Strategic Partnership Intern
+[Location] Beijing, China
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32937;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Finance Associate-[Open to internal and external applicants]
+[Location] Madrid, Spain
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32914;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Operations Assistant-[Open to internal and external applicants]
+[Location] Madrid, Spain
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32916;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Treasury Associate-[Open to internal and external applicants]
+[Location] Madrid, Spain
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32917;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Digitalization Analyst [Open to internal and external applicants]
+[Location] Madrid, Spain
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32913;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a Técnico/a en Mecanismos Financieros para la Biodiversidad y el Cambio Climático- [Open to internal and external applicants] Post level NPSA-7 Apply by Apr-3-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32931
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Business Development Support Internship Post level Apply by Apr-26-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32942
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Cloud Service Engineering Internship Post level IN Apply by Apr-26-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32946
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Green Energy Support Internship Post level IN Apply by Apr-26-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32948
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Green Energy Civil/Structural Engineering Internship Post level IN Apply by Apr-26-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32949
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title ICT Architecture and Projects Internship Post level IN Apply by Apr-26-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32951
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Software Developer Internship Post level IN Apply by Apr-26-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32952
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title IoT Operations Support Internship Post level IN Apply by Apr-26-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32954
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communication and Collaboration Engineer Internship Post level IN Apply by Apr-26-26 Agency UNDP Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32956
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst on Youth Empowerment and Climate Resilience Building [Open to internal and external applicants] Post level NPSA-8 Apply by Apr-10-26 Agency UNDP Location Tashkent, Uzbekistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32281
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Assistente de Projetos (1 vaga) (Office Based) - [Open to internal and external applicants] Post level NPSA-5 Apply by Apr-2-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32732
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Digitalization Analyst [Open to internal and external applicants] Post level P2 Apply by Apr-10-26 Agency UNDP Location Madrid, Spain
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32913
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Finance Associate-[Open to internal and external applicants] Post level G7 Apply by Apr-10-26 Agency UNDP Location Madrid, Spain
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32914
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Operations Assistant-[Open to internal and external applicants] Post level G5 Apply by Apr-10-26 Agency UNDP Location Madrid, Spain
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32916
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Treasury Associate-[Open to internal and external applicants] Post level G6 Apply by Apr-10-26 Agency UNDP Location Madrid, Spain
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32917
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Investment Specialist (Foreign Exchange Trader & Treasury Operations) - [Open to internal and external applicants] Post level P4 Apply by Apr-10-26 Agency UNDP Location Madrid, Spain
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32919
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Strategic Partnership Intern Post level IN Apply by Apr-3-26 Agency UNDP Location Beijing, China
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32937
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Assistant G5
+[Location] Panama City, Panama, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Panama-City-Panama-The-Republic-Of/Finance-Assistant-G5_JR121695
+--------------------------------------------------
+[Organization] WFP
+[Position] Regional and Country Support Officer
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Regional-and-Country-Support-Officer_JR121385
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer, NOB, Kuajok, South Sudan
+[Location] Kuajok, Sudan, Republic of South
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kuajok-Sudan-Republic-of-South/Logistics-Officer--NOB--Kuajok--South-Sudan_JR121681
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Gender, Protection & Inclusion Community Engagement) SSAP L9
+[Location] Abuja, Nigeria, The Federal Rep.O
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Abuja-Nigeria-The-Federal-RepO/Programme-Policy-Officer--Gender--Protection---Inclusion-Community-Engagement--SSAP-L9_JR121688
+--------------------------------------------------
+[Organization] WFP
+[Position] CST - Social Protection Officer
+[Location] Niamey, Niger, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Niamey-Niger-The-Republic-Of-The/CST---Social-Protection-Officer_JR121561
+--------------------------------------------------
+[Organization] WFP
+[Position] Supply Chain Officer (Head), SCL9
+[Location] Kathmandu, Nepal,The Fed Dem.Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kathmandu-NepalThe-Fed-DemRepublic/Supply-Chain-Officer--Head---SCL9_JR121674
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Assistant - Helpdesk Support
+[Location] Kazulu, Tanzania, The United Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kazulu-Tanzania-The-United-Rep/Monitoring-Assistant---Helpdesk-Support_JR121649
+--------------------------------------------------
+[Organization] UNFPA
+[Position] HR Associate, Client Services and Outreach Branch, Division for Human Resources, Nairobi, Kenya, G-7
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/hr-associate-client-services-and-outreach-branch-division-human-resources-nairobi-kenya-g-7
+--------------------------------------------------
+[Organization] UNFPA
+[Position] HR Business Partner, ASRO, Client Services and Outreach Branch, Division for Human Resources, Cairo, Egypt, P-5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/hr-business-partner-asro-client-services-and-outreach-branch-division-human-resources-cairo
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026 Legal Internship (US) CIEL - Center for International Environmental Law Remote | Washington D.C. Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204949
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Finance and Administration Coordinator, Western Balkans/Ukraine, LES 7 (Re-advertised) ICMP - International Commission on Missing Persons Kyiv | Sarajevo Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204948
+--------------------------------------------------
+[Organization] Impactpool
+[Position] C-26-04 Consultor para la Elaboración de expediente técnico-legal para Zona de Agrobiodiversidad CIP - International Potato Center Huánuco | Peru Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204946
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR PROGRAMME MANAGEMENT OFFICER UNEP - United Nations Environment Programme Nairobi P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204942
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Monitoring & Evaluation (M&E) Consultant ITC - International Trade Centre Remote | Geneva CON
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204939
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Support Intern UNODC - United Nations Office on Drugs and Crime Uga Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204935
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ADMINISTRATIVE OFFICER UNEP - United Nations Environment Programme Nairobi P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204933
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Trade Facilitation ITC - International Trade Centre Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204927
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Technical Energy Efficiency Implementation Expert UNEP - United Nations Environment Programme Paris CON
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204925
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Support Intern UNODC - United Nations Office on Drugs and Crime Kampala | Uga Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204924
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship 2027 - Intern (Continuing Airworthiness) NATO - North Atlantic Treaty Organization Geilenkirchen Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204915
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CON 2026/10 Local consultant to provide communication and visibility expertise, including technical advisory support for projects communication and donor visibility activities IOM - International Organization for Migration Albania UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204909
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Local Consultant CC-2026-04 IOM - International Organization for Migration Yerevan UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204908
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultoría Tipo B: Movilización de Recursos Proactivas. IOM - International Organization for Migration Costa Rica UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204907
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Assistant IOM - International Organization for Migration Helsinki GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204906
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Media and Communications Associate IOM - International Organization for Migration Helsinki GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204905
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Independent Living Facilitator IOM - International Organization for Migration Athens UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204904
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Project Officer – Migration Governance IOM - International Organization for Migration Nouakchott NO-A, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204903
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship Korea Visa Application Centre IOM - International Organization for Migration Berlin UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204902
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Supply Chain Assistant IOM - International Organization for Migration Ankara | Gaziantep GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204901
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Project Officer (District Health Information System (DHIS)) IOM - International Organization for Migration Nairobi NO-A, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204900
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Government Liaison and Capacity Development Officer IOM - International Organization for Migration Kyiv NO-C, National Professional Officer - Locally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204899
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Equine Assisted Psychosocial Support Consultant IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204898
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Outreach Associate IOM - International Organization for Migration Ireland GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204897
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFA2026/003_ Graphic Designer_ International Consultant_ Category A_ Home-based IOM - International Organization for Migration Remote | Port-au-Prince UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204896
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant(e) international en apprentissage des adultes pour la conception d’un toolkit et la formation des formateurs (ToT) IOM - International Organization for Migration Nouakchott UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204895
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Project Support Officer (MHD) IOM - International Organization for Migration Dakar NO-B, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204894
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Movement Operations Associate (Beneficiary-Facing Activities) IOM - International Organization for Migration Kinshasa GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204893
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Movement Operations Assistant (Field support) IOM - International Organization for Migration Kinshasa GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204892
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Analytic Careers
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50272-washington-dc-u-s-central-intelligence-agency-analytic-careers
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Programmes
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50271-brussels-belgium-trans-european-policy-studies-association-director-of-programmes
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Development Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50270-new-york-democracy-now-productions-development-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intelligence Analyst Intermediate (Intelligence Center)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50269-mclean-virginia-the-mitre-corporation-intelligence-analyst-intermediate-center
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Executive Protection and Travel Security
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50268-cambridge-massachusetts-biogen-head-of-executive-protection-and-travel-security
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Manager, International Operations (Onsite)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50267-arlington-virginia-raytheon-senior-manager-international-operations-onsite
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Finance Assistant G5
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50266-panama-city-world-food-programme-finance-assistant-g5
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Innovation, Access to Medicines and Health Technologies
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50265-washington-dc-pan-american-health-organization-director-innovation-access-to-medicines-and-technologies
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Assistant Professor of Japanese Domestic Politics
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50264-bloomington-indiana-university-visiting-assistant-professor-of-japanese-domestic-politics
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Community Relations Analyst -Temp Position
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50263-new-york-mizuho-americas-community-relations-analyst-temp-position
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Humanitarian Affairs Technical Advisor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50262-bogota-colombia-credence-senior-humanitarian-affairs-technical-advisor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate or Full Professor of Government (International Security)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50261-williamsburg-virginia-william-mary-associate-or-full-professor-of-government-international-security
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Impact Manager - Monitoring, Evaluation and Learning
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50260-nairobi-kenya-acumen-impact-manager-monitoring-evaluation-and-learning
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Operations Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50259-washington-dc-hudson-institute-operations-assistant
+--------------------------------------------------
