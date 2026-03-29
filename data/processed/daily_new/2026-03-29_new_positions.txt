@@ -1,0 +1,66 @@
+[Organization] UN Women
+[Position] Job Title ICT Engineering Internship Post level IN Apply by Apr-26-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32950
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Local Consultancy: Constitution Development for the Society of Midwives of South…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/local-consultancy-constitution-development-society-midwives-south-africa
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Information Technology Officer or Senior Officer (IT Operation & Transformation Team) (Sao Paulo, BR)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Sao-Paulo-IDB-Invest-Information-Technology-Officer-or-Senior-Officer-%28IT-Operation-&-Transformation-Team%29/1377643500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Information Technology Officer or Senior Officer (IT Operation & Transformation Team) (Bogotá, CO)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Bogot%C3%A1-IDB-Invest-Information-Technology-Officer-or-Senior-Officer-%28IT-Operation-&-Transformation-Team%29/1377643700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Strategic Partnerships & Storytelling Program Assistant - Sacramento IRC - International Rescue Committee Sacramento Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204977
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Casework Supervisor IRC - International Rescue Committee Denver Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204976
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Division Chief (Language Services) - CSF IMF - International Monetary Fund Washington D.C. A14/A15-B3
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204975
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Legal Analyst-[Open to Tier 1 Applicants] UNDP - United Nations Development Programme Bonn P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204974
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Recrutement 03 Consultants International/national: Appui technique à l’élaboration de la demande de financement de VIH, Paludisme, Tuberculose du Fonds Mondial UNICEF Guinée UNICEF - United Nations Children’s Fund Conakry Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204963
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communications Specialist (Locally recruited) CIMMYT - International Maize and Wheat Improvement Center Mexico City Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204962
+--------------------------------------------------
+[Organization] Impactpool
+[Position] FCSP Education Officer- Aleta Wendo SOS Children’s Villages International Addis Ababa | Wendo Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204960
+--------------------------------------------------
