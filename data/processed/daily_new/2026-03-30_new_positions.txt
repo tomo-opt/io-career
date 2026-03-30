@@ -1,0 +1,96 @@
+[Organization] UNDP
+[Position] Investment Specialist (Foreign Exchange Trader & Treasury Operations) - [Open to internal and external applicants]
+[Location] Madrid, Spain
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32919;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] WFP
+[Position] HR Assistant (SC5) - Damascus - VA010-2026
+[Location] Damascus, Syria, The Arab Republic O
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Damascus-Syria-The-Arab-Republic-O/HR-Assistant--SC5----Damascus---VA010-2026_JR121637
+--------------------------------------------------
+[Organization] WFP
+[Position] HR Officer (NOC) - Damascus - VA012-2026
+[Location] Damascus, Syria, The Arab Republic O
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Damascus-Syria-The-Arab-Republic-O/HR-Officer--NOC----Damascus---VA012-2026_JR121656
+--------------------------------------------------
+[Organization] UNHCR
+[Position] WASH Associate
+[Location] Cox's Bazaar, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Coxs-Bazaar-Bangladesh/WASH-Associate_JR2665209-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant WASH Officer
+[Location] Cox's Bazaar, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Coxs-Bazaar-Bangladesh/Assistant-WASH-Officer_JR2665212-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior PPH Assistant
+[Location] Seoul, Korea, Republic of
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Seoul-Korea-Republic-of/Senior-PPH-Assistant_JR2664915
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Protection Associate
+[Location] Cairo, Egypt
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Cairo-Egypt/Senior-Protection-Associate_JR2561105-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Protection Associate
+[Location] Cairo, Egypt
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Cairo-Egypt/Protection-Associate_JR2561460-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, CRSV Prevention and Response, NOB, FTA, Kyiv, Ukraine
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-crsv-prevention-and-response-nob-fta-kyiv-ukraine
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Driver & Operational Clerk
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/driver-operational-clerk
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Movement Cooperation Coordinator ICRC - International Committee of the Red Cross Philippines Mid level - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204993
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Caseworker IOM - International Organization for Migration Port Sudan GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204986
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Information and Communication Technology Intern IOM - International Organization for Migration Panama City UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204985
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Caseworker IOM - International Organization for Migration Kassala GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204984
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Environmental Specialist Consultant IOM - International Organization for Migration Port Sudan UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204983
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Family & Community Strengthening Officer SOS Children’s Villages International Hawassa Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204982
+--------------------------------------------------
