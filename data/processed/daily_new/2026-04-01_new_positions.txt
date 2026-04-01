@@ -1,0 +1,318 @@
+[Organization] United Nations Secretariat
+[Position] HUMAN RIGHTS OFFICER
+[Location] GENEVA
+[Deadline] 2026-04-08
+[Link] https://careers.un.org/job-openings?job-id=274926
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RIGHTS OFFICER
+[Location] GENEVA
+[Deadline] 2026-04-08
+[Link] https://careers.un.org/job-openings?job-id=274911
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] STATISTICIAN
+[Location] SANTIAGO
+[Deadline] 2026-05-15
+[Link] https://careers.un.org/job-openings?job-id=274442
+--------------------------------------------------
+[Organization] UNDP
+[Position] INTERNSHIP: Regional Security Intern (29920)
+[Location] Istanbul, Türkiye
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33018;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Intern - Effective Development Cooperation
+[Location] New York, United States
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33028;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Information and Communication Technologies (ICT) Intern
+[Location] Istanbul, Türkiye
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33012;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst (Coordinator) [Open to internal and external applicants]
+[Location] Yerevan, Armenia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33022;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Investigations Specialist - Office Based (Open to internal and external applicants)
+[Location] Panama City, Panama
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32488;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado(a) de Proyecto en Procesos de Gestión Institucional y Temas Internacionales Post level NPSA-6 Apply by Apr-6-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33030
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista de Proyecto en Cadenas de Valor [Open to internal and external applicants] Post level NPSA-8 Apply by Apr-7-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32991
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a Técnico/a en Mecanismos Financieros para la Biodiversidad y el Cambio Climático- [Open to internal and external applicants] Post level NPSA-7 Apply by Apr-11-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32931
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager – Open-Source Programme Office (OSPO) [Open to internal and external applicants] Post level NPSA-9 Apply by Apr-13-26 Agency UNDP Location Port of Spain, Trinidad and Tobago
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32992
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Intern - Effective Development Cooperation Post level Apply by Apr-13-26 Agency UNDP Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33028
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst (Coordinator) [Open to internal and external applicants] Post level NPSA-9 Apply by Apr-7-26 Agency UNDP Location Yerevan, Armenia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33022
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociada(o) de políticas públicas [Open to internal and external applicants] Post level NPSA-7 Apply by Apr-14-26 Agency UNDP Location San Jose, Costa Rica
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33024
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Senior Finance Specialist-[Open to internal and external applicants who are nationals of the EU, EEA and Switzerland] Post level NPSA-10 Apply by Apr-9-26 Agency UNDP Location Madrid, Spain
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32887
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Investigations Specialist - Office Based (Open to internal and external applicants) Post level IPSA-10 Apply by Apr-14-26 Agency UNDP Location Panama City, Panama
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32488
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Information and Communication Technologies (ICT) Intern Post level IN Apply by Apr-15-26 Agency UNDP Location Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33012
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title INTERNSHIP: Regional Security Intern (29920) Post level IN Apply by Apr-15-26 Agency UNDP Location Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33018
+--------------------------------------------------
+[Organization] WFP
+[Position] International Consultant - Partnerships Officer CST I (Locally Recruited - Lilongwe, Malawi)
+[Location] Lilongwe, Malawi, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lilongwe-Malawi-The-Republic-Of/Partnerships-Officer-CST-I--Lilongwe-_JR121152
+--------------------------------------------------
+[Organization] WFP
+[Position] Risk and Compliance Officer
+[Location] Port Sudan, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-Sudan-Sudan-The-Republic-Of-The/Risk-and-Compliance-Officer_JR121804-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Head WFP Western Nepal Region) , SCL9_Surkhet
+[Location] Surkhet, Nepal,The Fed Dem.Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Surkhet-NepalThe-Fed-DemRepublic/Programme-Policy-Officer--Head-WFP-Western-Nepal-Region----SCL9-Surkhet_JR121814
+--------------------------------------------------
+[Organization] WFP
+[Position] Policy & Advocacy Officer
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Policy---Advocacy-Officer_JR121758
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Digital Adoption & Communications Intern
+[Location] Budapest (GSC), Hungary
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Budapest-GSC-Hungary/Digital-Adoption---Communications-Intern_JR2665649
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Protection Officer
+[Location] Pemba, Mozambique
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Pemba-Mozambique/Associate-Protection-Officer_JR2665728-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Protection Officer
+[Location] Pemba, Mozambique
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Pemba-Mozambique/Protection-Officer_JR2665726-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Information Management Officer
+[Location] Ankara, Turkiye
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Ankara-Turkiye/Associate-Information-Management-Officer_JR2665699-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy: Reporting & Donor Engagement International Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-reporting-donor-engagement-international-consultant
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Re-Advertisement: National Consultant, GBV Trainer, Phnom Penh, Cambodia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-national-consultant-gbv-trainer-phnom-penh-cambodia
+--------------------------------------------------
+[Organization] UNFPA
+[Position] HR Business Partner, ASRO, Client Services and Outreach Branch, Division for Human…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/hr-business-partner-asro-client-services-and-outreach-branch-division-human-resources-cairo
+--------------------------------------------------
+[Organization] UNFPA
+[Position] HR Analyst, Career Development and Talent Mobility, Career Development and Talent…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/hr-analyst-career-development-and-talent-mobility-career-development-and-talent-mobility-0
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Communications Specialist
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Communications-Specialist/2650
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Lead Officer - Infrastructure & Energy - Central America & Caribbean (Santo Domingo, DO, 10100)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Santo-Domingo-IDB-Invest-Lead-Officer-Infrastructure-&-Energy-Central-America-&-Caribbean-10100/1362133500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Operations Specialist CI - Children International Kansas City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1204682
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Analyst (Coordinator) [Open to internal and external applicants] UNDP - United Nations Development Programme Yerevan NPSA-9, National Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205456
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Assistant Lawyer - Croatian Law COE - Council of Europe Strasbourg B3 -Junior/Mid-Level - Support staff - International recruitment - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205439
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Team Leader and SME Training & Coaching Expert with International Expertise (Consultant) DRC - Danish Refugee Council Erbil Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205437
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Recovery & Development Manager IRC - International Rescue Committee Lashio Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205431
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Recovery & Development Officer IRC - International Rescue Committee Lashio Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205429
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Education Project Officer IRC - International Rescue Committee Maroua | Yaoundé Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205428
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Nutrition Child Protection Assistant IRC - International Rescue Committee Abuja Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205427
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Cash Program Officer IRC - International Rescue Committee Maiduguri | Abuja Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205426
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection Case Worker IRC - International Rescue Committee Abuja Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205425
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Children's Legal Intern (Unpaid) IRC - International Rescue Committee New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205424
+--------------------------------------------------
+[Organization] Impactpool
+[Position] MEAL Officer IRC - International Rescue Committee Yaoundé | Kousseri Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205423
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Principal Director, International Programs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50297-sydney-australia-health-equity-matters-formerly-australian-federation-of-aids-organizations-principal-director-international-programs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] International Relations Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50296-arlington-virginia-u-s-naval-intelligence-activity-international-relations-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Corporate and Event Development
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50295-new-york-public-radio-manager-corporate-and-event-development
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Instructor, Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50294-portland-oregon-university-of-adjunct-instructor-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Advocacy and Operations Coordinator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50293-new-york-physicians-for-human-rights-advocacy-and-operations-coordinator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50292-washington-dc-center-for-climate-and-energy-solutions-communications-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] EU Projects Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50291-brussels-belgium-european-heat-pump-association-eu-projects-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Climate & Energy Attaché
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50290-brussels-belgium-foreign-commonwealth-development-office-climate-energy-attache
+--------------------------------------------------
