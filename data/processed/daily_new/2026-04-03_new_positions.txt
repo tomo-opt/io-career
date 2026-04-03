@@ -1,0 +1,246 @@
+[Organization] United Nations Secretariat
+[Position] COMMUNICATIONS ASSISTANT
+[Location] GENEVA
+[Deadline] 2026-04-10
+[Link] https://careers.un.org/job-openings?job-id=275238
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TELECOMMUNICATIONS ENGINEER
+[Location] OTHER
+[Deadline] 2027-01-01
+[Link] https://careers.un.org/job-openings?job-id=275167
+--------------------------------------------------
+[Organization] UNDP
+[Position] Country Coordinator (Open to internal and external applicants)
+[Location] Bridgetown, Barbados
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32788;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Management Specialist (GCF-SACCR project) [Open to internal and external applicants] Post level NPSA-11 Apply by Apr-3-26 Agency UNDP Location Ha Noi, Viet Nam
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32278
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista de Resposta a Incidentes e Recuperação Operacional (1 vaga) (Home Based) - [Open to internal and external applicants] Post level NPSA-8 Apply by Apr-16-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33102
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Country Coordinator (Open to internal and external applicants) Post level NPSA-9 Apply by Apr-16-26 Agency UNV Location Bridgetown, Barbados
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32788
+--------------------------------------------------
+[Organization] WFP
+[Position] Field Monitoring Assistant (Roster), SC, L4, Gaza
+[Location] Gaza, West Bank & Gaza
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Gaza-West-Bank--Gaza/Field-Monitoring-Assistant--Roster---SC--L4--Gaza_JR121912
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant SC5
+[Location] Beirut, Lebanon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beirut-Lebanon-The-Republic-Of/Logistics-Assistant-SC5_JR121905-1
+--------------------------------------------------
+[Organization] WFP
+[Position] HR Associate
+[Location] Dar-es-Salaam, Tanzania, The United Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dar-es-Salaam-Tanzania-The-United-Rep/HR-Associate_JR121902-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Partnership Assistant), SC5
+[Location] Dili, Timor-Leste
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dili-Timor-Leste/Business-Support-Assistant--Partnership-Assistant---SC5_JR121890
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International consultant on adoption of cervical and breast cancer treatment clinical protocols and development of compliance monitoring indicators
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-adoption-cervical-and-breast-cancer-treatment-clinical-protocols-and
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy - SRH Consultancy - Mapping of SRH in UHC - ASRO
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-srh-consultancy-mapping-srh-uhc-asro
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Internship, Resource Mobilization and Partnerships Intern - ASRO
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/internship-resource-mobilization-and-partnerships-intern-asro
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Architectural Engineering Technician - Analyst
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Architectural-Engineering-Technician-Analyst-Early-Warning-System-EWS/2641
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Manager, Strategy Design & Delivery Gavi, Vaccine Alliance Geneva CS4 - Career Step 4 - Professional - Both internationally and locally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205979
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Manager, HR Services Gavi, Vaccine Alliance Geneva CS4 - Career Step 4 - Professional - Both internationally and locally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205977
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Grants Coordinator Gavi, Vaccine Alliance Geneva CS2 - Career Step 2 - Professional - Both internationally and locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205976
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Country Coordinator (Open to internal and external applicants) UNDP - United Nations Development Programme Bridgetown NPSA-9, National Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205970
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance and Admin Assistant - National Position Malteser International Katsina | Abuja Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205969
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Logistics Assistant - National Position Malteser International Katsina | Abuja Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205968
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Epidemiologist, Research Associate - Asia CHAI - Clinton Health Access Initiative Phnom Penh Associate Level - Open for both International and National Professionals - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205967
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International consultant Knowledge Management (Child Protection), 14 months (Remote/Work from home), UNICEF China UNICEF - United Nations Children’s Fund Remote | Beijing Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205963
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Information Comm. Technology Specialist (P-3), FT, #116561, Info & Comm Technology Div, Nairobi - Kenya UNICEF - United Nations Children’s Fund Nairobi P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205960
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Partnerships Specialist, P-3, Temporary Position, 180 days, Addis Ababa, Ethiopia, #00136795 UNICEF - United Nations Children’s Fund Addis Ababa P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205958
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WASH Cluster Coordinator, P-3, TA (364 days), #00136581, Juba, South Sudan - ESAR UNICEF - United Nations Children’s Fund Juba P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205957
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Re-advertised: Administrative Associate (Protocol), GS-6, Fixed Term, Khartoum, Sudan #21586 (Open for Internal/External Sudanese Nationals only) UNICEF - United Nations Children’s Fund Khartoum GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205953
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Re-advertised: Administrative Associate (Assets), GS-6, Fixed Term, Khartoum, Sudan #69130 (Open for Internal/External Sudanese Nationals only) UNICEF - United Nations Children’s Fund Khartoum GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205952
+--------------------------------------------------
+[Organization] Impactpool
+[Position] (Readvertisement) Internal and External Vacancy Announcement: Programme Associate GS-6 Fixed Term, Deir-ez-Zor, Syria # 00118429 UNICEF - United Nations Children’s Fund Syria GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205951
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Artificial Intelligence Communication Consultant, DID, HQ, Valencia, Spain,12 months, remote, #592106 (open for international consultants) UNICEF - United Nations Children’s Fund Remote | Madrid | Valencia Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1205948
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Policy and Research Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50322-brussels-belgium-smoke-free-partnership-policy-and-research-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] International Relations, Senior Rank Faculty Position in Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50321-palo-alto-california-nafsa-association-of-international-educators-relations-senior-rank-faculty-position-in-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Assistant Teaching Professor or Visiting Instructor of Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50320-hattiesburg-mississippi-university-of-southern-visiting-assistant-teaching-professor-or-instructor-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] ASSISTANTE OU ASSISTANT COLLECTE 360
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50319-france-action-contre-la-faim-assistante-ou-assistant-collecte-360
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Fellowships
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50318-brussels-belgium-bruegel-visiting-fellowships
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Executive Assistant to Chief Executive Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50317-new-york-the-times-executive-assistant-to-chief-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Part-Time Faculty (Temporary) in Global Policy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50316-orono-maine-university-of-part-time-faculty-temporary-in-global-policy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Manager, HR Services
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50315-geneva-switzerland-gavi-the-vaccine-alliance-senior-manager-hr-services
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Programs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50314-remote-new-york-international-senior-lawyers-project-islp-director-of-programs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Grants Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50313-heidelberg-germany-european-molecular-biology-laboratory-grants-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Policy, Economic and Operations Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50312-brussels-belgium-european-central-securities-depositories-association-policy-economic-and-operations-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Policy Analyst, Geopolitical and International Relations Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/48860-washington-dc-ais-intelligence-senior-policy-analyst-geopolitical-and-international-relations-specialist
+--------------------------------------------------

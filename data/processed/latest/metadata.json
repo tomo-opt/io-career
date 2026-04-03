@@ -1,8 +1,6 @@
 {
-  "generated_at_bj": "2026-04-02 12:41:27",
-  "record_count": 1620,
-  "error_count": 1,
-  "errors": [
-    "asean_jobs: all source URLs failed (HTTP request failed: https://asean.org/about-us/ (HTTPSConnectionPool(host='asean.org', port=443): Max retries exceeded with url: /about-us/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='asean.org', port=443) at 0x7f9e7b1d3b90>, 'Connection to asean.org timed out. (connect timeout=25)'))))"
-  ]
+  "generated_at_bj": "2026-04-03 12:37:28",
+  "record_count": 1661,
+  "error_count": 0,
+  "errors": []
 }
