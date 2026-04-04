@@ -1,0 +1,204 @@
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-04-18
+[Link] https://careers.un.org/job-openings?job-id=275163
+--------------------------------------------------
+[Organization] UNDP
+[Position] Security Information and Operations Center Assistant [Open to internal and external applicants]
+[Location] Baghdad, Iraq
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33037;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] International Analyst in Sustainable Rural Development (Open to Tiers 0, 1, and 2)
+[Location] Bogota, Colombia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33099;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Procurement Analyst [Open to internal and external applicants who are nationals of the EU, EEA and Switzerland]
+[Location] Bonn, Germany
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33016;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Asociada(o) de políticas públicas [Open to internal and external applicants]
+[Location] San Jose, Costa Rica
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33024;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Roster of Interns (open call) Post level Apply by Apr-30-26 Agency UNDP Location Belgrade, Serbia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/27843
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant/Procurement (SC-L4)
+[Location] Conakry, Guinea, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Conakry-Guinea-The-Republic-Of/Business-Support-Assistant-Procurement_JR121925
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant/Finances (SC4)
+[Location] Conakry, Guinea, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Conakry-Guinea-The-Republic-Of/Business-Support-Assistant-Finances--SC4-_JR121927
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Head of Field Office)
+[Location] Kankan, Guinea, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kankan-Guinea-The-Republic-Of/Programme-Policy-Officer--Head-of-Field-Office-_JR121928
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer - Disaster Risk Reduction
+[Location] Antananarivo, Madagascar, The Democratic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Antananarivo-Madagascar-The-Democratic/Programme-Policy-Officer---Disaster-Risk-Reduction_JR121465
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Media and Communication Intern, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1775079354086
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Expert international en mobilisation de finance climat, Paris, France
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1775079358980
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Digital Transformation Unit - Intern, Santiago, Chile
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1775079382438
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Psychiatry Consultant IRC - International Rescue Committee Kharkiv Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206112
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Business Systems Analyst IRC - International Rescue Committee Remote | Nairobi | Dakar | Hyderabad | Islamabad Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206111
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant for the Establishment of a Regular Mechanism for Monitoring and Reporting on Circular Migration in Serbia IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206104
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern (Programme Support) IOM - International Organization for Migration Bishkek UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206103
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN-EC005-2026-NMHP - National Migration Health Physician IOM - International Organization for Migration Quito NO-B, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206102
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant for the Preparation of a Study on the Relevance of Climate-Related Migration to the National Context IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206101
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Security Assistant IOM - International Organization for Migration Bujumbura GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206100
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Integration Facilitator IOM - International Organization for Migration Greece UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206099
+--------------------------------------------------
+[Organization] Impactpool
+[Position] EC-CO-014-26 - Consultoría en la gestión de preparación y de riegos IOM - International Organization for Migration Quito UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206098
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Construction Supervision Engineer (Oinofyta) IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206097
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Construction Supervision Engineer (Koutsochero) IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206096
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN-EC004-2026-PAFOG Project Assistant - Field Operation IOM - International Organization for Migration Quito GS-3, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206095
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Construction Supervision Engineer (Katsikas) IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206094
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Coordinator/Sr. Administrative Coordinator - STARE IMF - International Monetary Fund Washington D.C. A05, A06
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206093
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Support Assistant (Maternity Leave Replacement) ILO - International Labour Organization Tashkent GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206092
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Immunization Manager (EPI), P-4, FT, #00092605, Juba, South Sudan - ESAR (for non-South Sudanese only) UNICEF - United Nations Children’s Fund Juba P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206090
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Re-advertisement: Senior Adviser WASH (Water, Sanitation and Hygiene (Sanitation), P-5, Nairobi, Kenya #00133992 UNICEF - United Nations Children’s Fund Nairobi P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206088
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Re-advertisement: Senior Adviser Health (Integrated Primary Health Care Delivery), P-5, Fixed Term Position, Nairobi, Kenya #00053197 UNICEF - United Nations Children’s Fund Nairobi P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206087
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant for the elaboration of a Gender Programmatic Review, Maputo, Mozambique (International Consultants only) - Home Based #592021 UNICEF - United Nations Children’s Fund Remote | Maputo Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206079
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant for Senior Consultant – Development of the Country Programme Management Plan (CPMP) and Programme Budget Review (PBR), Maputo, Mozambique (International Consultants only) -Office/ Home Based #591921 UNICEF - United Nations Children’s Fund Remote | Maputo Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206078
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage En ligne sur la fonction Évaluation : planification, revue et utilisation des évaluations, 6 mois, WCARO, Dakar, Sénégal UNICEF - United Nations Children’s Fund Remote | Dakar Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206076
+--------------------------------------------------
