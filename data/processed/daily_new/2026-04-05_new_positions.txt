@@ -1,0 +1,84 @@
+[Organization] United Nations Secretariat
+[Position] CHIEF OF MISSION SUPPORT
+[Location] LAAYOUNE
+[Deadline] 2026-04-18
+[Link] https://careers.un.org/job-openings?job-id=275282
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Personal Assistant (PA) to Representative, FTA, G6, Port Sudan, Sudan
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-personal-assistant-pa-representative-fta-g6-port-sudan-sudan
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-ADVERTISEMENT: Senior HR Business Partner, Client Services and Outreach Branch, Division for Human Resources, Dakar, Senegal, P-5 (1 Post + ROSTER)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-senior-hr-business-partner-client-services-and-outreach-branch-division-human
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Programme Specialist (Resource Mobilization),FTA, Addis Ababa Ethiopia, NOC (open to Ethiopian National)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-programme-specialist-resource-mobilizationfta-addis-ababa-ethiopia-noc-open-ethiopian
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy - Development of Synthesis Report on Rights and Well-being of Older Persons
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-development-synthesis-report-rights-and-well-being-older-persons
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National IC: Conduct a Comprehensive Assessment of Innovative Health Information…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-ic-conduct-comprehensive-assessment-innovative-health-information-yfs-roadmap-iraq
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International consultant on adoption of cervical and breast cancer treatment…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-adoption-cervical-and-breast-cancer-treatment-clinical-protocols-and
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Legal Expert, Skopje, North Macedonia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1774539367855
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International EU Labour Law Expert, Skopje, North Macedonia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1774539381845
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Environmental Health and Safety Manager AeroFarms United States Senior - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206124
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Youth and Education Intern IRC - International Rescue Committee Salt Lake City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206123
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Public Information UNDGC - United Nations Department of Global Communications New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206117
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INFORMATION SYSTEMS OFFICER UNJSPF - United Nations Joint Staff Pension Fund Geneva | Bangkok | New York City | Nairobi P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206116
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Business Systems Analyst IRC - International Rescue Committee Remote | Islamabad | Dakar | Hyderabad | Nairobi Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206111
+--------------------------------------------------
