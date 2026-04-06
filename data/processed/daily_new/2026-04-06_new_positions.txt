@@ -1,0 +1,78 @@
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE ADMINISTRATIVE OFFICER
+[Location] NEW YORK
+[Deadline] 2026-04-20
+[Link] https://careers.un.org/job-openings?job-id=275292
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] KABUL
+[Deadline] 2026-04-20
+[Link] https://careers.un.org/job-openings?job-id=275226
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Assistant (Fleet) SSA5 - Islamabad
+[Location] Islamabad, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Management-Services-Assistant--Fleet--SSA5---Islamabad_JR121747
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy - Development of Synthesis Report on Rights and Well-being of Older Persons - ASRO
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-development-synthesis-report-rights-and-well-being-older-persons-0
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Communications Analyst (Retainer), International Consultant, Home based, Remote
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1775162986946
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Evaluation Consultant, Home-Based, International Consultant, Home based, Remote
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1775162979639
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Political Adviser ICRC - International Committee of the Red Cross Kassala Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206137
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Strategic Partnerships & Storytelling Program Assistant - Turlock IRC - International Rescue Committee United States of America Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206133
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Strategic Partnerships & Storytelling Program Assistant - San Jose IRC - International Rescue Committee United States of America Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206132
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant Programme Assistant (MHPSS) - Type A IOM - International Organization for Migration Doha UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206128
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Archival Research Analyst Intern UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Remote | Luxembourg Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206127
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Junior Project Officer ICMPD - International Centre for Migration Policy Development Amman LP1, Local Professional 1 - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206126
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Manager, Ethics, Risk and Compliance IFRC - International Federation of Red Cross and Red Crescent Societies Kabul Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1206125
+--------------------------------------------------
