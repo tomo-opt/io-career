@@ -1,0 +1,114 @@
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SERVICE, SERVICE DELIVERY
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-04-19
+[Link] https://careers.un.org/job-openings?job-id=275588
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Associate – Environment and Livelihoods (open to internal and external candidates)
+[Location] Paramaribo, Suriname
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33175;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Community Mobilization Project Clerk (Open to internal and external applicants)
+[Location] Beira, Mozambique
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33283;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Administrative Assistant - G5- Temporary Appointment (TA)- 6 Months - Tripoli, Libya
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-administrative-assistant-g5-temporary-appointment-ta-6-months-tripoli-libya
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Finance Associate - FTA- G6- Tripoli, Libya
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-finance-associate-fta-g6-tripoli-libya
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultants for a Baseline Assessment for the Strengthening Adolescents and…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultants-baseline-assessment-strengthening-adolescents-and-youth-say-plus-rights
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERN - LEGAL AFFAIRS, New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1775889213812
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern, Addis Ababa, Ethiopia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1775889226530
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern, New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1775889227906
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Early Childhood Education Summer 2026 Intern - Unpaid IRC - International Rescue Committee Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207314
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial Senior de Campo IRC - International Rescue Committee Bogotá | Tibú Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207313
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Manager, RAM IRC - International Rescue Committee Remote | New York City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207312
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Development Manager IRC - International Rescue Committee Remote | New York City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207311
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Gerente de Campo IRC - International Rescue Committee Bogotá | Ocaña Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207310
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Recrutement d'un(e) consultant (e) international (e) pour l'analyse de la situation des enfants et adolescents au Togo, Lomé-Togo, 57 jours UNICEF - United Nations Children’s Fund Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207309
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Thought Leadership and Strategic Engagement Internship, Global Programme Division, Director's Ofiice, New-Your HQ (3 months/onsite-or remote) UNICEF - United Nations Children’s Fund Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207296
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Health Specialist - Maternal and Newborn Health, P-3, Temporary Position, Global Programme Division, New York, USA, #00136900 UNICEF - United Nations Children’s Fund New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207295
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Management Officer, Administration UNDOS - United Nations Department of Operational Support New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207280
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern OHCHR - Office of the High Commissioner for Human Rights Addis Ababa Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207278
+--------------------------------------------------
