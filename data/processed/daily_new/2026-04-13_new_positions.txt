@@ -1,0 +1,66 @@
+[Organization] United Nations Secretariat
+[Position] GENERATOR MECHANIC
+[Location] SRINAGAR
+[Deadline] 2026-04-28
+[Link] https://careers.un.org/job-openings?job-id=274795
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] PARIS
+[Deadline] 2026-05-12
+[Link] https://careers.un.org/job-openings?job-id=274771
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asistente en Gestión Operativa de Cooperación Internacional Post level NPSA-4 Apply by Apr-18-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33070
+--------------------------------------------------
+[Organization] WFP
+[Position] Communications Officer, NOA, Dhaka
+[Location] Dhaka, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Communications-Officer--NOA--Dhaka_JR122125-2
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - 2 positions (Qatari nationals only), Doha, Qatar
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776007703652
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Technical Specialist (Crops and Animal Production), Cairo IFAD - International Fund for Agricultural Development Cairo P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207326
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Assistant (Corporate Services), Bangkok IFAD - International Fund for Agricultural Development Bangkok GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207325
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - 2 positions (Qatari nationals only) IOM - International Organization for Migration Doha UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207324
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant - Information Management IOM - International Organization for Migration Dhaka UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207323
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Digital Tech & Human Rights intern OHCHR - Office of the High Commissioner for Human Rights Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207318
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Gerente de Campo IRC - International Rescue Committee Ocaña | Bogotá Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207310
+--------------------------------------------------
