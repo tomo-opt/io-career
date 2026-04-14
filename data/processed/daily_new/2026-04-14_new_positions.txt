@@ -1,0 +1,264 @@
+[Organization] United Nations Secretariat
+[Position] ECONOMIC AFFAIRS OFFICER
+[Location] SANTIAGO
+[Deadline] 2026-05-28
+[Link] https://careers.un.org/job-openings?job-id=275689
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FIELD SECURITY ASSISTANT
+[Location] DAMAZINE
+[Deadline] 2026-04-28
+[Link] https://careers.un.org/job-openings?job-id=271173
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES OFFICER
+[Location] NEW YORK
+[Deadline] 2026-05-13
+[Link] https://careers.un.org/job-openings?job-id=275256
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FIELD SECURITY ASSISTANT
+[Location] Elarish
+[Deadline] 2026-04-27
+[Link] https://careers.un.org/job-openings?job-id=275513
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROCUREMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-04-20
+[Link] https://careers.un.org/job-openings?job-id=275492
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE ECONOMIC AFFAIRS OFFICER
+[Location] SANTIAGO
+[Deadline] 2026-04-20
+[Link] https://careers.un.org/job-openings?job-id=275241
+--------------------------------------------------
+[Organization] UNDP
+[Position] Economiste [Open to internal and external applicants]
+[Location] Niamey, Niger
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32163;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Economiste [Open to internal and external applicants] Post level NOB Apply by Apr-27-26 Agency UNDP Location Niamey, Niger
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32163
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Associado(a) para formação técnica de Segurança Cibernética (1 vaga) (Home Based) - [Open to internal and external applicants] Post level NPSA-7 Apply by Apr-20-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32834
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Officer (Services & Business Transformation), Fixed-Term, NOA - Maputo
+[Location] Maputo, Mozambique, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Maputo-Mozambique-Republic-of/IT-Operations-Officer--Services---Business-Transformation---Fixed-Term--NOA---Maputo_JR122144
+--------------------------------------------------
+[Organization] WFP
+[Position] Budget and Programming Officer - NOB
+[Location] Kabul, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kabul-AfghanistanThe-Islamic-Re/Budget-and-Programming-Officer---NOB_JR122124
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (Monitoring), SC L6 - Surkhet
+[Location] Surkhet, Nepal,The Fed Dem.Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Surkhet-NepalThe-Fed-DemRepublic/Programme-Associate--Monitoring---SC-L6---Surkhet_JR122136
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (KIM & Data Analysis), SC6, Dhaka
+[Location] Dhaka, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Programme-Associate--KIM---Data-Analysis---SC6--Dhaka_JR122134
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Associate (G6) (Deir Ezzor) VA014-2026
+[Location] Deir-ez-Zor, Syria, The Arab Republic O
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Deir-ez-Zor-Syria-The-Arab-Republic-O/Finance-Associate--G6---Deir-Ezzor--VA014-2026_JR122034
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Programme Analyst Integrated Service Delivery - NOB - TA- 6 Months - Tripoli, Libya
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-integrated-service-delivery-nob-ta-6-months-tripoli-libya
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Programme Analyst Integrated Service Delivery- NOB - TA - 6 months - Benghazi, Libya
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-integrated-service-delivery-nob-ta-6-months-benghazi-libya
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Census Data Analysis and Reporting Expert, Freetown, Sierra…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-census-data-analysis-and-reporting-expert-freetown-sierra-leone
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Associate Civil Engineer
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Associate-Civil-Engineer/2354
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Principal Officer of International Business - Miami (US)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/IDB-Invest-Principal%E2%80%AFOfficer-of-International-Business-Miami/1381976700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern (Health Assessment Programme), Athens, Greece
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776095385747
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Immigration and Border Governance (IBG) Unit, Nairobi, Kenya
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776095491147
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Secretariat Coordinator ISPO - International Society for Prosthetics and Orthotics Remote | Multiple locations Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207380
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communication Officer COE - Council of Europe Tbilisi B4 -Mid-Level - Administrative Assistants - International recruitment - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207557
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Case Manager (Ha Noi Office) Permanent Court of Arbitration Hanoi Senior - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207548
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head of Unit – Internal Audit EU CoR - Committee of the Regions Brussels Official – Head of Unit
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207535
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Digital Forensics Officer FAO - Food and Agriculture Organization of the United Nations Rome P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207533
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Gender Officer FAO - Food and Agriculture Organization of the United Nations Accra P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207531
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Policy Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50410-brussels-belgium-fedarene-european-federation-of-agencies-and-regions-for-energy-the-environment-policy-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Chief of Development
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50409-multiple-global-locations-dc-clean-air-task-force-chief-of-development
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Executive and Development Coordinator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50408-new-york-the-century-foundation-executive-and-development-coordinator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate, OGC
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50407-london-united-kingdom-european-bank-for-reconstruction-and-development-associate-ogc
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Multiple Roles- Cote d'Ivoire
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50406-cote-d-ivoire-the-mitchell-group-inc-tmg-multiple-roles
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Communications & Public Affairs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50405-addis-ababa-ethiopia-apo-group-african-press-organization-director-communications-public-affairs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Teaching Fellow in Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50404-kerrville-texas-schreiner-university-teaching-fellow-in-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Secretary General
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50403-brussels-belgium-pensionseurope-secretary-general
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] International Cooperation Analyst - Clearance Required
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50402-alexandria-virginia-logistics-management-institute-international-cooperation-analyst-clearance-required
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50401-remote-new-york-social-science-research-council-program-assistant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Associate, Program Team (Fixed Term)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50400-new-york-foundation-for-a-just-society-program-associate-team-fixed-term
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] President, Global Policy and Advocacy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50399-washington-dc-gates-foundation-president-global-policy-and-advocacy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Philanthropy Officer (Major Gifts Officer)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50398-new-york-the-breast-cancer-research-foundation-senior-philanthropy-officer-major-gifts
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Editor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50397-new-york-world-politics-review-assistant-editor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Legal & Policy Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50396-vienna-austria-european-union-agency-for-fundamental-rights-legal-policy-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Adjunct Professor-uc Center Sacramento
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50395-sacramento-california-university-of-davis-assistant-adjunct-professor-uc-center
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Digital Fundraising Intern – Marketing Unit
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50394-geneva-switzerland-medecins-sans-frontieres-digital-fundraising-intern-marketing-unit
+--------------------------------------------------

@@ -1,16 +1,49 @@
 | org_name | job_title | job_type | location | deadline | job_url | is_new_today |
 |---|---|---|---|---|---|---|
-| Impactpool | Administrative Assistant (Corporate Services), Bangkok IFAD - International Fund for Agricultural Development Bangkok GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1207325 | True |
-| Impactpool | Consultant - Information Management IOM - International Organization for Migration Dhaka UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1207323 | True |
-| Impactpool | Digital Tech & Human Rights intern OHCHR - Office of the High Commissioner for Human Rights Geneva Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1207318 | True |
-| Impactpool | Gerente de Campo IRC - International Rescue Committee Ocaña | Bogotá Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1207310 | True |
-| Impactpool | Intern - 2 positions (Qatari nationals only) IOM - International Organization for Migration Doha UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1207324 | True |
-| Impactpool | Regional Technical Specialist (Crops and Animal Production), Cairo IFAD - International Fund for Agricultural Development Cairo P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1207326 | True |
-| UN Women | Job Title Asistente en Gestión Operativa de Cooperación Internacional Post level NPSA-4 Apply by Apr-18-26 Agency UNDP Location Mexico | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33070 | True |
-| United Nations Secretariat | GENERATOR MECHANIC | Early Career | SRINAGAR | 2026-04-28 | https://careers.un.org/job-openings?job-id=274795 | True |
-| United Nations Secretariat | PROGRAMME MANAGEMENT OFFICER | Early Career | PARIS | 2026-05-12 | https://careers.un.org/job-openings?job-id=274771 | True |
-| UNJobs Aggregator (HTML) | Intern - 2 positions (Qatari nationals only), Doha, Qatar | Internship |  |  | https://unjobs.org/vacancies/1776007703652 | True |
-| WFP | Communications Officer, NOA, Dhaka | Early Career | Dhaka, Bangladesh, The People's R |  | https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Communications-Officer--NOA--Dhaka_JR122125-2 | True |
+| Globaljobs | Assistant Adjunct Professor-uc Center Sacramento | Early Career |  |  | https://www.globaljobs.org/jobs/50395-sacramento-california-university-of-davis-assistant-adjunct-professor-uc-center | True |
+| Globaljobs | Assistant Editor | Early Career |  |  | https://www.globaljobs.org/jobs/50397-new-york-world-politics-review-assistant-editor | True |
+| Globaljobs | Associate, OGC | Early Career |  |  | https://www.globaljobs.org/jobs/50407-london-united-kingdom-european-bank-for-reconstruction-and-development-associate-ogc | True |
+| Globaljobs | Chief of Development | Early Career |  |  | https://www.globaljobs.org/jobs/50409-multiple-global-locations-dc-clean-air-task-force-chief-of-development | True |
+| Globaljobs | Digital Fundraising Intern – Marketing Unit | Internship |  |  | https://www.globaljobs.org/jobs/50394-geneva-switzerland-medecins-sans-frontieres-digital-fundraising-intern-marketing-unit | True |
+| Globaljobs | Director, Communications & Public Affairs | Early Career |  |  | https://www.globaljobs.org/jobs/50405-addis-ababa-ethiopia-apo-group-african-press-organization-director-communications-public-affairs | True |
+| Globaljobs | Executive and Development Coordinator | Early Career |  |  | https://www.globaljobs.org/jobs/50408-new-york-the-century-foundation-executive-and-development-coordinator | True |
+| Globaljobs | International Cooperation Analyst - Clearance Required | Internship |  |  | https://www.globaljobs.org/jobs/50402-alexandria-virginia-logistics-management-institute-international-cooperation-analyst-clearance-required | True |
+| Globaljobs | Legal & Policy Officer | Early Career |  |  | https://www.globaljobs.org/jobs/50396-vienna-austria-european-union-agency-for-fundamental-rights-legal-policy-officer | True |
+| Globaljobs | Multiple Roles- Cote d'Ivoire | Early Career |  |  | https://www.globaljobs.org/jobs/50406-cote-d-ivoire-the-mitchell-group-inc-tmg-multiple-roles | True |
+| Globaljobs | Policy Intern | Internship |  |  | https://www.globaljobs.org/jobs/50410-brussels-belgium-fedarene-european-federation-of-agencies-and-regions-for-energy-the-environment-policy-intern | True |
+| Globaljobs | President, Global Policy and Advocacy | Early Career |  |  | https://www.globaljobs.org/jobs/50399-washington-dc-gates-foundation-president-global-policy-and-advocacy | True |
+| Globaljobs | Program Assistant | Early Career |  |  | https://www.globaljobs.org/jobs/50401-remote-new-york-social-science-research-council-program-assistant | True |
+| Globaljobs | Program Associate, Program Team (Fixed Term) | Early Career |  |  | https://www.globaljobs.org/jobs/50400-new-york-foundation-for-a-just-society-program-associate-team-fixed-term | True |
+| Globaljobs | Secretary General | Early Career |  |  | https://www.globaljobs.org/jobs/50403-brussels-belgium-pensionseurope-secretary-general | True |
+| Globaljobs | Senior Philanthropy Officer (Major Gifts Officer) | Early Career |  |  | https://www.globaljobs.org/jobs/50398-new-york-the-breast-cancer-research-foundation-senior-philanthropy-officer-major-gifts | True |
+| Globaljobs | Teaching Fellow in Political Science | Early Career |  |  | https://www.globaljobs.org/jobs/50404-kerrville-texas-schreiner-university-teaching-fellow-in-political-science | True |
+| Impactpool | Case Manager (Ha Noi Office) Permanent Court of Arbitration Hanoi Senior - Internationally recruited position - Senior level | Internship |  |  | https://www.impactpool.org/jobs/1207548 | True |
+| Impactpool | Communication Officer COE - Council of Europe Tbilisi B4 -Mid-Level - Administrative Assistants - International recruitment - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1207557 | True |
+| Impactpool | Digital Forensics Officer FAO - Food and Agriculture Organization of the United Nations Rome P-2, International Professional - Internationally recruited position - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1207533 | True |
+| Impactpool | Gender Officer FAO - Food and Agriculture Organization of the United Nations Accra P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1207531 | True |
+| Impactpool | Head of Unit – Internal Audit EU CoR - Committee of the Regions Brussels Official – Head of Unit | Internship |  |  | https://www.impactpool.org/jobs/1207535 | True |
+| Impactpool | Secretariat Coordinator ISPO - International Society for Prosthetics and Orthotics Remote | Multiple locations Consultant - Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1207380 | True |
+| Inter-American Development Bank | IDB Invest - Principal Officer of International Business - Miami (US) | Internship |  |  | https://jobs.iadb.org/job/IDB-Invest-Principal%E2%80%AFOfficer-of-International-Business-Miami/1381976700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS | True |
+| UN Women | Job Title Associado(a) para formação técnica de Segurança Cibernética (1 vaga) (Home Based) - [Open to internal and external applicants] Post level NPSA-7 Apply by Apr-20-26 Agency UNDP Location Brasilia, Brazil | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32834 | True |
+| UN Women | Job Title Economiste [Open to internal and external applicants] Post level NOB Apply by Apr-27-26 Agency UNDP Location Niamey, Niger | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32163 | True |
+| UNDP | Economiste [Open to internal and external applicants] | Internship | Niamey, Niger | None | https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32163;pCalledFrom=FUSESHELL | True |
+| UNFPA | National Consultant: Census Data Analysis and Reporting Expert, Freetown, Sierra… | Early Career |  |  | https://www.unfpa.org/jobs/national-consultant-census-data-analysis-and-reporting-expert-freetown-sierra-leone | True |
+| UNFPA | National Post: Programme Analyst Integrated Service Delivery - NOB - TA- 6 Months - Tripoli, Libya | Early Career |  |  | https://www.unfpa.org/jobs/national-post-programme-analyst-integrated-service-delivery-nob-ta-6-months-tripoli-libya | True |
+| UNFPA | National Post: Programme Analyst Integrated Service Delivery- NOB - TA - 6 months - Benghazi, Libya | Early Career |  |  | https://www.unfpa.org/jobs/national-post-programme-analyst-integrated-service-delivery-nob-ta-6-months-benghazi-libya | True |
+| United Nations Secretariat | ASSOCIATE ECONOMIC AFFAIRS OFFICER | Early Career | SANTIAGO | 2026-04-20 | https://careers.un.org/job-openings?job-id=275241 | True |
+| United Nations Secretariat | ECONOMIC AFFAIRS OFFICER | Early Career | SANTIAGO | 2026-05-28 | https://careers.un.org/job-openings?job-id=275689 | True |
+| United Nations Secretariat | FIELD SECURITY ASSISTANT | Early Career | DAMAZINE | 2026-04-28 | https://careers.un.org/job-openings?job-id=271173 | True |
+| United Nations Secretariat | FIELD SECURITY ASSISTANT | Early Career | Elarish | 2026-04-27 | https://careers.un.org/job-openings?job-id=275513 | True |
+| United Nations Secretariat | HUMAN RESOURCES OFFICER | Early Career | NEW YORK | 2026-05-13 | https://careers.un.org/job-openings?job-id=275256 | True |
+| United Nations Secretariat | PROCUREMENT OFFICER | Early Career | NEW YORK | 2026-04-20 | https://careers.un.org/job-openings?job-id=275492 | True |
+| UNJobs Aggregator (HTML) | Intern (Health Assessment Programme), Athens, Greece | Internship |  |  | https://unjobs.org/vacancies/1776095385747 | True |
+| UNJobs Aggregator (HTML) | Intern - Immigration and Border Governance (IBG) Unit, Nairobi, Kenya | Internship |  |  | https://unjobs.org/vacancies/1776095491147 | True |
+| UNOPS | Associate Civil Engineer | Early Career |  |  | https://careers.unops.org/careersmarketplace/JobDetail/Associate-Civil-Engineer/2354 | True |
+| WFP | Budget and Programming Officer - NOB | Early Career | Kabul, Afghanistan,The Islamic Re |  | https://wd3.myworkdaysite.com/job/Kabul-AfghanistanThe-Islamic-Re/Budget-and-Programming-Officer---NOB_JR122124 | True |
+| WFP | Finance Associate (G6) (Deir Ezzor) VA014-2026 | Early Career | Deir-ez-Zor, Syria, The Arab Republic O |  | https://wd3.myworkdaysite.com/job/Deir-ez-Zor-Syria-The-Arab-Republic-O/Finance-Associate--G6---Deir-Ezzor--VA014-2026_JR122034 | True |
+| WFP | IT Operations Officer (Services & Business Transformation), Fixed-Term, NOA - Maputo | Early Career | Maputo, Mozambique, Republic of |  | https://wd3.myworkdaysite.com/job/Maputo-Mozambique-Republic-of/IT-Operations-Officer--Services---Business-Transformation---Fixed-Term--NOA---Maputo_JR122144 | True |
+| WFP | Programme Associate (KIM & Data Analysis), SC6, Dhaka | Early Career | Dhaka, Bangladesh, The People's R |  | https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Programme-Associate--KIM---Data-Analysis---SC6--Dhaka_JR122134 | True |
+| WFP | Programme Associate (Monitoring), SC L6 - Surkhet | Early Career | Surkhet, Nepal,The Fed Dem.Republic |  | https://wd3.myworkdaysite.com/job/Surkhet-NepalThe-Fed-DemRepublic/Programme-Associate--Monitoring---SC-L6---Surkhet_JR122136 | True |
 | African Union | Go back to Homepage | Early Career |  |  | https://careers.au.int/en | False |
 | APEC Secretariat | Internships | Internship |  |  | https://www.apec.org/about-us/apec-secretariat/internship | False |
 | Asian Development Bank | ADB Recruitment Process | Early Career |  |  | https://www.adb.org/work-with-us/careers/adb-recruitment-process | False |
@@ -534,6 +567,7 @@
 | Impactpool | Administration Associate IUCN - International Union for Conservation of Nature Dhaka A3 - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1201067 | False |
 | Impactpool | Administrative / Office Assistant IRC - International Rescue Committee Richmond Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1202422 | False |
 | Impactpool | Administrative and Finance Assistant (NPSA 5) ITC - International Trade Centre Hanoi CON | Internship |  |  | https://www.impactpool.org/jobs/1201234 | False |
+| Impactpool | Administrative Assistant (Corporate Services), Bangkok IFAD - International Fund for Agricultural Development Bangkok GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1207325 | False |
 | Impactpool | Administrative Assistant (Programs) IRC - International Rescue Committee Yumbe Administrative Services and Support - Generally no need for Higher Education - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1203917 | False |
 | Impactpool | Administrative Assistant CIEL - Center for International Environmental Law Remote | Geneva Administrative Services and Support - Generally no need for Higher Education - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1201474 | False |
 | Impactpool | Administrative Assistant IRC - International Rescue Committee United States of America Administrative Services and Support - Generally no need for Higher Education - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1203306 | False |
@@ -624,6 +658,7 @@
 | Impactpool | Consultant (MCU/Multimedia) IOM - International Organization for Migration N'Djamena GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1202322 | False |
 | Impactpool | Consultant (Revision of GLI Strategic Plan) UNCCD - United Nations Convention to Combat Desertification Remote | Home Based - May require travel International Consultant - Internationally recruited Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1206465 | False |
 | Impactpool | Consultant - HRDD Assessment on UN’s Support to DDRR IOM - International Organization for Migration N'Djamena P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1202324 | False |
+| Impactpool | Consultant - Information Management IOM - International Organization for Migration Dhaka UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1207323 | False |
 | Impactpool | Consultant - National Coordinator (Palestine) ITC - International Trade Centre Remote | Palestine CON | Internship |  |  | https://www.impactpool.org/jobs/1204381 | False |
 | Impactpool | Consultant - Publications Coordinator/Editor, Rome IFAD - International Fund for Agricultural Development Rome C-1 | Internship |  |  | https://www.impactpool.org/jobs/1204405 | False |
 | Impactpool | Consultant for Documentary Production & Visual Content Development REACHING EVERY CHILD IN HUMANITARIAN SETTINGS (REACH Project) – Nigeria IRC - International Rescue Committee Maiduguri | Abuja Consultant - Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1201741 | False |
@@ -656,6 +691,7 @@
 | Impactpool | Development Manager IRC - International Rescue Committee Remote | New York City Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1207311 | False |
 | Impactpool | Digital Health Program Manager ICRC - International Committee of the Red Cross Geneva Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1204369 | False |
 | Impactpool | Digital Impact Manager, P-4, Temporary Position, Digital Impact Division, Strategic Enablers, #00136537, Valencia, Spain, 364 days UNICEF - United Nations Children’s Fund Madrid | Valencia P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1202954 | False |
+| Impactpool | Digital Tech & Human Rights intern OHCHR - Office of the High Commissioner for Human Rights Geneva Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1207318 | False |
 | Impactpool | Director (Regulation and Prequalification of Medicines and Health Products) WHO - World Health Organization D-2, Director - Internationally recruited position - Senior Executive level | Internship |  |  | https://www.impactpool.org/jobs/1203207 | False |
 | Impactpool | Director - European Department (EUR) IMF - International Monetary Fund Washington D.C. B05 | Internship |  |  | https://www.impactpool.org/jobs/1204658 | False |
 | Impactpool | Director, Office of Human Resources UNDP - United Nations Development Programme New York City D-2, Director - Internationally recruited position - Senior Executive level | Internship |  |  | https://www.impactpool.org/jobs/1203345 | False |
@@ -726,6 +762,7 @@
 | Impactpool | Finance Supervisor IRC - International Rescue Committee Remote | United States of America Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203719 | False |
 | Impactpool | Finance Supervisor IRC - International Rescue Committee United States of America Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203719 | False |
 | Impactpool | Gerente de Campo IRC - International Rescue Committee Bogotá | Ocaña Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1207310 | False |
+| Impactpool | Gerente de Campo IRC - International Rescue Committee Ocaña | Bogotá Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1207310 | False |
 | Impactpool | Gerente de Protección IRC - International Rescue Committee Huehuetenango | Guatemala City Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203713 | False |
 | Impactpool | Gerente de Protección IRC - International Rescue Committee Remote | Huehuetenango | Guatemala City Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203713 | False |
 | Impactpool | Gestor/a de Protección IRC - International Rescue Committee Guatemala City Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1206220 | False |
@@ -769,6 +806,7 @@
 | Impactpool | Innovation Strategy Lead IRC - International Rescue Committee Remote | New York City Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1203720 | False |
 | Impactpool | Integration Facilitator IOM - International Organization for Migration Greece UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1206099 | False |
 | Impactpool | Intern (Programme Support) IOM - International Organization for Migration Bishkek UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1206103 | False |
+| Impactpool | Intern - 2 positions (Qatari nationals only) IOM - International Organization for Migration Doha UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1207324 | False |
 | Impactpool | INTERN - Communications, Cultural diplomacy, Knowledge outreach UNOG - United Nations Office at Geneva Geneva Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1201220 | False |
 | Impactpool | Intern - Graphic Design UNHABITAT - United Nations Human Settlements Programme Nairobi Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1204386 | False |
 | Impactpool | Intern - Public Information UNDGC - United Nations Department of Global Communications New York City Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1206117 | False |
@@ -971,6 +1009,7 @@
 | Impactpool | Regional Head of People & Culture (30-35h, m/f/d, 12 months contract) Greenpeace International Budapest | Sofia | Zagreb | Gdańsk | Warsaw | Bucharest | Ljubljana | Bratislava | Kyiv Senior - Senior level | Internship |  |  | https://www.impactpool.org/jobs/1202785 | False |
 | Impactpool | Regional Human Resources Officer (P) IOM - International Organization for Migration Dakar P-2, International Professional - Internationally recruited position - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1203341 | False |
 | Impactpool | Regional Project Manager [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Almaty IPSA-10, International Personnel Services Agreement - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1202350 | False |
+| Impactpool | Regional Technical Specialist (Crops and Animal Production), Cairo IFAD - International Fund for Agricultural Development Cairo P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1207326 | False |
 | Impactpool | Regional Technical Specialist (Environment & Climate) - Co-Terminus, Istanbul IFAD - International Fund for Agricultural Development Istanbul P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1207007 | False |
 | Impactpool | Rehabilitation Specialist - Afghanistan HI - Humanity & Inclusion - Handicap International Kunduz | Herat | Kandahar | Kabul Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1201460 | False |
 | Impactpool | Research Associate(s) specialized in blast and fragmentation mitigation GICHD - Geneva International Centre for Humanitarian Demining Remote Administrative Services and Support - Generally no need for Higher Education - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1201475 | False |
@@ -1173,6 +1212,7 @@
 | UN Women | Job Title Analista en Transformación Digital Inclusiva [Open to internal and external applicants] Post level NPSA-8 Apply by Mar-17-26 Agency UNDP Location Bogota, Colombia | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32500 | False |
 | UN Women | Job Title Analista en Transformación Digital Inclusiva [Open to internal and external applicants] Post level NPSA-8 Apply by Mar-24-26 Agency UNDP Location Bogota, Colombia | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32500 | False |
 | UN Women | Job Title Anti-Corruption Analyst, NPSA-8, DS-Kyiv, Nationals only Post level NPSA-8 Apply by Mar-20-26 Agency UNDP Location Kyiv, Ukraine | Early Career |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32413 | False |
+| UN Women | Job Title Asistente en Gestión Operativa de Cooperación Internacional Post level NPSA-4 Apply by Apr-18-26 Agency UNDP Location Mexico | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33070 | False |
 | UN Women | Job Title Asistente en Gestión Operativa de Cooperación Internacional Post level NPSA-4 Apply by Apr-7-26 Agency UNDP Location Mexico | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33070 | False |
 | UN Women | Job Title Asistente Local de Seguridad – Regional (ALS) - UNDSS NPSA5 Post level NPSA-5 Apply by Mar-10-26 Agency UNDP Location Leticia, Colombia | Early Career |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32172 | False |
 | UN Women | Job Title Asistente Técnico - Gestión Cemento y Energía Post level NPSA-5 Apply by Mar-19-26 Agency UNDP Location Montevideo, Uruguay | Early Career |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32401 | False |
@@ -1757,6 +1797,7 @@
 | United Nations Secretariat | FINANCE AND BUDGET ASSISTANT | Early Career | NEW YORK | 2026-04-23 | https://careers.un.org/job-openings?job-id=272241 | False |
 | United Nations Secretariat | FINANCE AND BUDGET OFFICER | Early Career | NAIROBI | 2026-04-29 | https://careers.un.org/job-openings?job-id=274241 | False |
 | United Nations Secretariat | FINANCE AND BUDGET OFFICER | Early Career | BRINDISI | 2026-04-27 | https://careers.un.org/job-openings?job-id=274095 | False |
+| United Nations Secretariat | GENERATOR MECHANIC | Early Career | SRINAGAR | 2026-04-28 | https://careers.un.org/job-openings?job-id=274795 | False |
 | United Nations Secretariat | GRAPHIC DESIGN ASSISTANT | Early Career | GENEVA | 2026-04-09 | https://careers.un.org/job-openings?job-id=275153 | False |
 | United Nations Secretariat | Head Nurse | Early Career | PORT-AU-PRINCE | 2026-03-31 | https://careers.un.org/job-openings?job-id=274159 | False |
 | United Nations Secretariat | HEAVY VEHICLE OPERATOR | Early Career | PORT-AU-PRINCE - LOCAL | 2026-03-22 | https://careers.un.org/job-openings?job-id=274224 | False |
@@ -1786,6 +1827,7 @@
 | United Nations Secretariat | Programme Management Assistant | Early Career | NEW YORK | 2026-05-10 | https://careers.un.org/job-openings?job-id=274888 | False |
 | United Nations Secretariat | Programme Management Assistant | Early Career | BOGOTA | 2026-03-30 | https://careers.un.org/job-openings?job-id=273967 | False |
 | United Nations Secretariat | Programme Management Assistant | Early Career | MADRID | 2026-03-24 | https://careers.un.org/job-openings?job-id=270904 | False |
+| United Nations Secretariat | PROGRAMME MANAGEMENT OFFICER | Early Career | PARIS | 2026-05-12 | https://careers.un.org/job-openings?job-id=274771 | False |
 | United Nations Secretariat | PROGRAMME MANAGEMENT OFFICER | Early Career | PARIS | 2026-04-23 | https://careers.un.org/job-openings?job-id=272822 | False |
 | United Nations Secretariat | PROGRAMME MANAGEMENT OFFICER | Early Career | GENEVA | 2026-04-01 | https://careers.un.org/job-openings?job-id=274669 | False |
 | United Nations Secretariat | PROGRAMME MANAGEMENT OFFICER | Early Career | PANAMA CITY | 2026-04-09 | https://careers.un.org/job-openings?job-id=272674 | False |
@@ -1845,6 +1887,7 @@
 | UNJobs Aggregator (HTML) | Head, International Cooperation (P-5), The Hague | Internship |  |  | https://unjobs.org/vacancies/1773251641004 | False |
 | UNJobs Aggregator (HTML) | Hiring a International Consultant to provide training for women s leadership, Sao Tome and Principe | Internship |  |  | https://unjobs.org/vacancies/1775483858318 | False |
 | UNJobs Aggregator (HTML) | HR Internship, Warsaw, Poland | Internship |  |  | https://unjobs.org/vacancies/1774385732700 | False |
+| UNJobs Aggregator (HTML) | Intern - 2 positions (Qatari nationals only), Doha, Qatar | Internship |  |  | https://unjobs.org/vacancies/1776007703652 | False |
 | UNJobs Aggregator (HTML) | INTERN - LEGAL AFFAIRS, New York, United States | Internship |  |  | https://unjobs.org/vacancies/1775889213812 | False |
 | UNJobs Aggregator (HTML) | Intern - PROGRAMME MANAGEMENT (Multiple Positions), Vientiane, Lao PDR | Internship |  |  | https://unjobs.org/vacancies/1773253900036 | False |
 | UNJobs Aggregator (HTML) | Intern - Sustainable Investment and Responsible Business, Vienna, Austria | Internship |  |  | https://unjobs.org/vacancies/1773773870002 | False |
@@ -1920,6 +1963,7 @@
 | WFP | Communication Officer, SC, L8, Gaza | Early Career | Gaza, West Bank & Gaza |  | https://wd3.myworkdaysite.com/job/Gaza-West-Bank--Gaza/Communication-Officer--SC--L8--Gaza_JR120834-1 | False |
 | WFP | Communications and Monitoring Assistant | Early Career | Yaounde, Cameroon, The Republic Of |  | https://wd3.myworkdaysite.com/job/Yaounde-Cameroon-The-Republic-Of/Communications-and-Monitoring-Assistant_JR121151 | False |
 | WFP | Communications Associate (Social Media Lead) | Early Career | Cairo, Egypt, Republic of |  | https://wd3.myworkdaysite.com/job/Cairo-Egypt-Republic-of/Communications-Associate--Social-Media-Lead-_JR121996 | False |
+| WFP | Communications Officer, NOA, Dhaka | Early Career | Dhaka, Bangladesh, The People's R |  | https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Communications-Officer--NOA--Dhaka_JR122125-2 | False |
 | WFP | Consultant Partnerships Officer | Early Career | Nairobi, Kenya, The Republic Of |  | https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Consultant-Partnerships_JR122054 | False |
 | WFP | CST - Social Protection Officer | Early Career | Niamey, Niger, The Republic Of The |  | https://wd3.myworkdaysite.com/job/Niamey-Niger-The-Republic-Of-The/CST---Social-Protection-Officer_JR121561 | False |
 | WFP | Digital Innovation Officer | Early Career | Lima, Peru, The Republic Of |  | https://wd3.myworkdaysite.com/job/Lima-Peru-The-Republic-Of/Digital-Innovation-Officer_JR121527 | False |
