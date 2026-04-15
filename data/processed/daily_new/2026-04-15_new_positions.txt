@@ -1,0 +1,288 @@
+[Organization] United Nations Secretariat
+[Position] Staff Nurse
+[Location] HEBRON
+[Deadline] 2026-04-29
+[Link] https://careers.un.org/job-openings?job-id=275307
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Midwife (A)
+[Location] HEBRON
+[Deadline] 2026-04-29
+[Link] https://careers.un.org/job-openings?job-id=275303
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE FIELD SECURITY COORDINATION OFFICER
+[Location] BAMAKO
+[Deadline] 2026-05-14
+[Link] https://careers.un.org/job-openings?job-id=272239
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] ADMINISTRATIVE OFFICER
+[Location] NAIROBI
+[Deadline] 2026-04-26
+[Link] https://careers.un.org/job-openings?job-id=273747
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme/project Intern
+[Location] Paramaribo, Suriname
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33344;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] International Analyst in Sustainable Rural Development [Open to internal and external applicants]
+[Location] Bogota, Colombia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33099;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Fisheries Value Chain Project Clerk (Open to Internal and External applicants)
+[Location] Beira, Mozambique
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33355;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Programme/project Intern Post level IN Apply by Apr-28-26 Agency UNDP Location Paramaribo, Suriname
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33344
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Fisheries Value Chain Project Clerk (Open to Internal and External applicants) Post level NPSA-4 Apply by Apr-21-26 Agency UNDP Location Beira, Mozambique
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33355
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title International Analyst in Sustainable Rural Development [Open to internal and external applicants] Post level IPSA-9 Apply by Apr-28-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33099
+--------------------------------------------------
+[Organization] WFP
+[Position] Food Safety and Quality Officer (CST 2)
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Food-Safety-and-Quality-Officer--CST-2-_JR122196
+--------------------------------------------------
+[Organization] WFP
+[Position] Human Resources Officer NOA
+[Location] Bujumbura, Burundi, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bujumbura-Burundi-The-Republic-Of/Human-Resources-Officer-NOA_JR122095
+--------------------------------------------------
+[Organization] WFP
+[Position] International Consultant - Information Management Officer
+[Location] Beirut, Lebanon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beirut-Lebanon-The-Republic-Of/International-Consultant---Information-Management-Officer_JR122187
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Officer (NFI & Vendor Management)- CST I- Gaza
+[Location] Gaza, West Bank & Gaza
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Gaza-West-Bank--Gaza/Procurement-Officer--NFI---Vendor-Management---CST-I--Gaza_JR122064
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Field Security Officer
+[Location] Pemba, Mozambique
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Pemba-Mozambique/Assistant-Field-Security-Officer_JR2666109-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Programme Analyst, Data and Monitoring - TA- NOB- 6 Months- Tripoli, Libya
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-data-and-monitoring-ta-nob-6-months-tripoli-libya
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Biomedical Engineering Technician - Assistant
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Biomedical-Engineering-Technician-Assistant/2600
+--------------------------------------------------
+[Organization] ICRC
+[Position] Register here ➔
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/webinars/133/international-careers-week-eastern-europe-central-asia
+--------------------------------------------------
+[Organization] ICRC
+[Position] Register here ➔
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/webinars/134/international-careers-week-francophone-africa
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Country Manager – Multiple OPEC Fund for International Development Vienna Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207805
+--------------------------------------------------
+[Organization] Impactpool
+[Position] M&E and Project Implementation Support Specialist [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Kyiv P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207803
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Digital Communications Officer ICJ - International Court of Justice The Hague Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207800
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Risk & Assurance Manager (Kyiv, Ukraine) ICRC - International Committee of the Red Cross Kyiv Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207799
+--------------------------------------------------
+[Organization] Impactpool
+[Position] HR Administration Officer ICRC - International Committee of the Red Cross Philippines Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207798
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Officer (Accounting) Ukraine (Only for internal Candidates) NRC - Norwegian Refugee Council Kyiv Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207789
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Officer (Accounting) Ukraine (Only for internal Candidates) NRC - Norwegian Refugee Council Kyiv Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207788
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR OFFICER GESTION DES CAS VBG-GAC IRC - International Rescue Committee Bunia Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207785
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ServiceNow Administrator IRC - International Rescue Committee Remote | Nairobi Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207784
+--------------------------------------------------
+[Organization] Impactpool
+[Position] MANAGER PROTECTION-GAC IRC - International Rescue Committee Bunia Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207783
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Immigration Legal Assistant IRC - International Rescue Committee Boise Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207782
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Manager du projet HCR26 IRC - International Rescue Committee Ruyigi | Bujumbura Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207781
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR OFFICER GESTION DES CAS PROTECTION DE L'ENFANT GAC IRC - International Rescue Committee Bunia Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207780
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CHEF DE PROJET-GAC IRC - International Rescue Committee Bunia Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207779
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR OFFICER SANTE SEXUELLE DE LA REPRODUCTION IRC - International Rescue Committee Bunia Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207778
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Assistant Protection de l'enfance IRC - International Rescue Committee Bujumbura Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207777
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WASH Officer -EEH IRC - International Rescue Committee Gaza Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207776
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Monitoreo, Evaluación, Rendición de cuentas y Aprendizaje (MEAL). IRC - International Rescue Committee Cucuta | Bogotá Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207775
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associate Investigator (P-2) ICC - International Criminal Court Multiple locations P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1207774
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Oceania Intern (Unpaid Internship)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50420-remote-dc-catalyst-now-oceania-intern-unpaid-internship
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Fundraising & Development Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50419-remote-new-york-self-help-africa-inc-fundraising-development-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Sales, Membership & Marketing Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50418-brussels-belgium-ocean-energy-europe-sales-membership-marketing-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Canada Programme Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50417-remote-belgium-protectdefenders-eu-canada-programme-consultant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Faculty Evening - Continuing Education, Politics, Policy and International Relations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50416-salem-massachusetts-state-university-adjunct-faculty-evening-continuing-education-politics-policy-and-international-relations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Administrative Coordinator - Internal Market Division
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50415-brussels-belgium-efta-secretariat-administrative-coordinator-internal-market-division
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] The NEH Keough-Naughton Fellowship
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50414-notre-dame-indiana-university-of-the-neh-keough-naughton-fellowship
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Emergency Program Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50413-port-au-prince-haiti-mercy-corps-emergency-program-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Junior Officer, Resilient Development
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50412-bonn-germany-iclei-local-governments-for-sustainability-junior-officer-resilient-development
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Website Development Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50411-morogoro-tanzania-fien-foundation-website-development-intern
+--------------------------------------------------
