@@ -1,0 +1,312 @@
+[Organization] United Nations Secretariat
+[Position] DIRECTOR, POLITICAL AFFAIRS
+[Location] NEW YORK
+[Deadline] 2026-05-31
+[Link] https://careers.un.org/job-openings?job-id=271512
+--------------------------------------------------
+[Organization] UNDP
+[Position] Intern
+[Location] Colombo, Sri Lanka
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33414;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Intern - Inclusive Growth (Three positions – 2 International Remote and 1 Local in person)
+[Location] Multiple
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33392;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Asociado(a) Técnico(a) de Economía Circular [Open to internal and external applicants] (Basado en oficina)
+[Location] Bogota, Colombia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33404;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Intern - Inclusive Growth (Three positions – 2 International Remote and 1 Local in person) Post level IN Apply by Apr-23-26 Agency UNDP Location Multiple
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33392
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Intern Post level IN Apply by Apr-26-26 Agency UNDP Location Colombo, Sri Lanka
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33414
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (CBT) - SC9 - Islamabad
+[Location] Islamabad, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Programme-Policy-Officer--CBT----SC9---Islamabad_JR122128-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Adaptive social protection, evidence generation and dissemination) - SC9 - Islamabad
+[Location] Islamabad, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Programme-Policy-Officer--Adaptive-social-protection--evidence-generation-and-dissemination----SC9---Islamabad_JR122129
+--------------------------------------------------
+[Organization] WFP
+[Position] (Re-advertisement) Programme Associate (School Feeding), SC6, Cox's Bazar
+[Location] Cox's Bazaar, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Coxs-Bazaar-Bangladesh-The-Peoples-R/XMLNAME--Re-advertisement--Programme-Associate--School-Feeding---SC6--Cox-s-Bazar_JR122257
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Senior Hydrometeorologist), SSA L9
+[Location] Kathmandu, Nepal,The Fed Dem.Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kathmandu-NepalThe-Fed-DemRepublic/Programme-Policy-Officer--Senior-Hydrometeorologist---SSA-L9_JR122282-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Disaster Governance and Public Finance Expert), SSA L9
+[Location] Kathmandu, Nepal,The Fed Dem.Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kathmandu-NepalThe-Fed-DemRepublic/Programme-Policy-Officer--Disaster-Governance-and-Public-Finance-Expert---SSA-L9_JR122266
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Social Protection) NOB
+[Location] Dakar, Senegal, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dakar-Senegal-The-Republic-Of/Programme-Policy-Officer--Social-Protection--NOB_JR122270-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (Mine Action) SC-6
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kyiv-Ukraine/Programme-Associate--Mine-Action--SC-6_JR121977-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant - Procurement
+[Location] Freetown, Sierra Leone, The Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Freetown-Sierra-Leone-The-Rep-Of/Business-Support-Assistant---Procurement_JR122253
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant (Emergency Preparedness and Response) SSA5
+[Location] Tripoli, Lebanon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Tripoli-Lebanon-The-Republic-Of/Programme-Assistant--Emergency-Preparedness-and-Response--SSA5_JR121935-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant, G5, Cox's Bazar
+[Location] Cox's Bazaar, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Coxs-Bazaar-Bangladesh-The-Peoples-R/Logistics-Assistant--G5--Cox-s-Bazar_JR122244-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] External Relations Assistant
+[Location] Almaty, Kazakhstan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Almaty-Kazakhstan/External-Relations-Assistant_JR2666210
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA Representative, Malawi, P-5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-representative-malawi-p-5-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, GBV, Phnom Penh, Cambodia, NoB
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-gbv-phnom-penh-cambodia-nob
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant – Midwifery Competency Assessment (SRHR) and development of recommentations
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-%E2%80%93-midwifery-competency-assessment-srhr-and-development
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Programme Analyst Integrated Service Delivery - NOB - TA- 6 Months -…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-integrated-service-delivery-nob-ta-6-months-tripoli-libya
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Traineeship in Information Systems , Frankfurt
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776347573662
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Deputy Representative Operations, (P-5) Fixed Term – Jakarta, Indonesia #1379 UNICEF - United Nations Children’s Fund Jakarta P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208355
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Individual Consultant: Consultant to undertake Formative Evaluation of UNICEF India’s Advocacy Work (2021–2025) - open to National and International Consultants UNICEF - United Nations Children’s Fund Remote | New Delhi Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208352
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Individual Consultant: Consultant to undertake Formative Evaluation of UNICEF India’s Public Private Sector Engagement (PPSE) - open to National and International Consultants UNICEF - United Nations Children’s Fund Remote | New Delhi Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208351
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head of Office (Partnerships Manager), P-5, #136038, FT, Qatar, Gulf Area Office - MENA UNICEF - United Nations Children’s Fund P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208350
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Partnerships Specialist, (P-3), TA, (8 months), #136864, Regional Services Div., Amman, Jordan- MENA RO UNICEF - United Nations Children’s Fund Amman P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208349
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Supply & Logistics Specialist, P-3, FT, #134030, Harare, Zimbabwe - ESAR UNICEF - United Nations Children’s Fund Harare P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208343
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Development of a WASH Finance Strategy to support financial leveraging in Somalia (with a focus on Puntland and Somaliland States) Hargeisa/Garow (,International only), Office-based + travel #592426 UNICEF - United Nations Children’s Fund Hargeysa Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208334
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Accountant OPEC Fund for International Development Vienna Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208333
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Accountant OPEC Fund for International Development Vienna Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208332
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Assistant (Roster) IMO - International Maritime Organization GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208331
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Planning, Monitoring, Evaluation and Reporting IFRC - International Federation of Red Cross and Red Crescent Societies Kyiv Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208327
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Officer, Fleet IFRC - International Federation of Red Cross and Red Crescent Societies Santo Domingo | Panama City Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1208326
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Instructor- Online courses in Global Education, Sustainable Development, International Relations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50450-brattleboro-vermont-world-learning-adjunct-instructor-online-courses-in-global-education-sustainable-development-international-relations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intern, Procurement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50449-casablanca-morocco-africa50-intern-procurement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Advocacy Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50448-abidjan-cote-d-ivoire-care-senior-advocacy-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Somalia Policing Public Governance & International Relations Expert (Anticipated Position)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50447-arlington-virginia-navanti-group-somalia-policing-public-governance-international-relations-expert-anticipated-position
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Instructor/Assistant Professor of History and Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50446-goodwell-oklahoma-panhandle-state-university-instructor-assistant-professor-of-history-and-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Advisor, Training and Learning
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50445-remote-dc-internet-society-program-advisor-training-and-learning
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Resource and Training (2-Year Fixed -Term)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50444-remote-new-york-amnesty-international-usa-manager-resource-and-training-2-year-fixed-term
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Resource Development & Management Advisor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50443-rwanda-world-vision-resource-development-management-advisor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Financial Planning & Analysis
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50442-washington-dc-human-rights-watch-manager-financial-planning-analysis
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] National Press Secretary
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50441-washington-dc-democratic-attorneys-general-association-national-press-secretary
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Sr. Director, New Nuclear
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50440-washington-dc-nuclear-energy-institute-nei-sr-director-new
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Fundraising and Business Development Assistant (Intern)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50439-brussels-belgium-wetlands-international-europe-fundraising-and-business-development-assistant-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Grants Operations Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50438-new-york-russell-sage-foundation-grants-operations-assistant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50437-brussels-belgium-cecimo-communications-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Child Rights and Child Participation Officer (Ukraine Nationals Only)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50436-ukraine-save-the-children-child-rights-and-participation-officer-nationals-only
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Assistant - CodeWomen+ & MigraCode
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50435-barcelona-spain-open-cultural-center-occ-project-assistant-codewomen-migracode
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Legal Fellow
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50434-new-york-international-refugee-assistance-project-legal-fellow
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] Resource Development & Management Advisor, VisionFund International
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4207882/resource-development-management-advisor-visionfund-international
+--------------------------------------------------
