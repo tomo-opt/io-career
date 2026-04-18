@@ -1,10 +1,6 @@
 {
-  "generated_at_bj": "2026-04-17 13:00:02",
-  "record_count": 2291,
-  "error_count": 3,
-  "errors": [
-    "ilo_jobs: all source URLs failed (HTTP request failed: https://jobs.ilo.org/ (HTTPSConnectionPool(host='jobs.ilo.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.ilo.org', port=443) at 0x7f1181498ad0>, 'Connection to jobs.ilo.org timed out. (connect timeout=25)'))))",
-    "icrc_jobs: all source URLs failed (HTTP request failed: https://careers.icrc.org/ (HTTPSConnectionPool(host='careers.icrc.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.icrc.org', port=443) at 0x7f118070e890>, 'Connection to careers.icrc.org timed out. (connect timeout=25)'))))",
-    "asean_jobs: all source URLs failed (HTTP request failed: https://asean.org/about-us/ (403 Client Error: Forbidden for url: https://asean.org/about-us/))"
-  ]
+  "generated_at_bj": "2026-04-18 12:39:49",
+  "record_count": 2357,
+  "error_count": 0,
+  "errors": []
 }
