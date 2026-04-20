@@ -1,6 +1,9 @@
 {
-  "generated_at_bj": "2026-04-19 12:57:59",
-  "record_count": 2372,
-  "error_count": 0,
-  "errors": []
+  "generated_at_bj": "2026-04-20 13:24:58",
+  "record_count": 2385,
+  "error_count": 2,
+  "errors": [
+    "ilo_jobs: all source URLs failed (HTTP request failed: https://jobs.ilo.org/ (HTTPSConnectionPool(host='jobs.ilo.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.ilo.org', port=443) at 0x7fc730c2c410>, 'Connection to jobs.ilo.org timed out. (connect timeout=25)'))))",
+    "icrc_jobs: all source URLs failed (HTTP request failed: https://careers.icrc.org/ (HTTPSConnectionPool(host='careers.icrc.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.icrc.org', port=443) at 0x7fc72fe5ea90>, 'Connection to careers.icrc.org timed out. (connect timeout=25)'))))"
+  ]
 }
