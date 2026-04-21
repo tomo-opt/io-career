@@ -1,0 +1,258 @@
+[Organization] United Nations Secretariat
+[Position] Senior Budget Assistant
+[Location] KINGSTON
+[Deadline] 2026-05-20
+[Link] https://careers.un.org/job-openings?job-id=276204
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] GENEVA
+[Deadline] 2026-04-29
+[Link] https://careers.un.org/job-openings?job-id=276188
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] POLITICAL AFFAIRS OFFICER
+[Location] KATHMANDU
+[Deadline] 2026-05-20
+[Link] https://careers.un.org/job-openings?job-id=273738
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FIELD SECURITY ASSISTANT
+[Location] LIMA
+[Deadline] 2026-05-05
+[Link] https://careers.un.org/job-openings?job-id=275499
+--------------------------------------------------
+[Organization] UNDP
+[Position] Crisis Analysis and Coordination Intern
+[Location] Beirut, Lebanon
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33511;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Administrative Clerk (Open to Internal and External Applicants)
+[Location] Beira, Mozambique
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33502;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Asistente Técnico/a Ambiental y en Restauración  [Open to internal and external applicants]
+[Location] San Jose de Guaviare, Colombia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33521;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asistente Técnico/a Ambiental SIG [Open to internal and external applicants] Post level NPSA-5 Apply by May-1-26 Agency UNDP Location San Vicente del Caguan, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33485
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asistente Técnica/o en Sistemas Productivos Sostenibles [Open to internal and external applicants] Post level NPSA-5 Apply by May-1-26 Agency UNDP Location Mocoa, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33490
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asistente Técnico/a Ambiental y en Restauración [Open to internal and external applicants] Post level NPSA-5 Apply by May-4-26 Agency UNDP Location San Jose de Guaviare, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33521
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Administrative Clerk (Open to Internal and External Applicants) Post level NPSA-4 Apply by Apr-27-26 Agency UNDP Location Beira, Mozambique
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33502
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Pasig City Floating Parks Project Manager, 2025 Mayors Challenge (Open to internal and external applicants) Post level NPSA-10 Apply by Apr-27-26 Agency UNDP Location Manila, Philippines
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33503
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Crisis Analysis and Coordination Intern Post level IN Apply by May-4-26 Agency UNDP Location Beirut, Lebanon
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33511
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Project Coordinator Sustainable Finance and Circular Economy (Open to internal and external candidates) Post level NPSA-9 Apply by Apr-27-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33483
+--------------------------------------------------
+[Organization] WFP
+[Position] ProgrammPolicy Officer - Nutrition Integration SC L8
+[Location] Port Sudan, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-Sudan-Sudan-The-Republic-Of-The/ProgrammPolicy-Officer---Nutrition-Integration-SC-L8_JR122318
+--------------------------------------------------
+[Organization] WFP
+[Position] Food Safety and Quality Assurance Officer - NOB - Karachi, Pakistan
+[Location] Karachi, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Karachi-Pakistan-The-Islamic-Rep/Food-Safety-and-Quality-Assurance-Officer---NOB---Karachi--Pakistan_JR122294
+--------------------------------------------------
+[Organization] UNHCR
+[Position] GCR Policy Intern
+[Location] Geneva, Switzerland
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Geneva-Switzerland/GCR-Policy-Intern_JR2666183
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Registration Assistant
+[Location] Erbil, Iraq
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Erbil-Iraq/Registration-Assistant_JR2665620-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant(e) national(e)- Elaboration de la Politique Nationale de Planification Familiale et d’un document sur les procédures, protocoles et standard pour les services de PF aux Comores
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultante-nationale-elaboration-de-la-politique-nationale-de-planification-familiale-et-d%E2%80%99un
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA Resource Mobilization and Partnership Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-resource-mobilization-and-partnership-analyst
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultancy, Data Associate, Supply Chain Management Unit (SCMU), Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultancy-data-associate-supply-chain-management-unit-scmu-copenhagen-denmark
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultancy, Supply Chain AI Specialist, Supply Chain Management Unit (SCMU), Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultancy-supply-chain-ai-specialist-supply-chain-management-unit-scmu-copenhagen-denmark
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Information and Communications Technology (ICT) Assistant, Supply Chain Management Unit (SCMU), Copenhagen, Denmark, G5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/information-and-communications-technology-ict-assistant-supply-chain-management-unit-scmu-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant to Conduct a Regional Analysis on Adolescent Pregnancy and…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-conduct-regional-analysis-adolescent-pregnancy-and-hiv-west-and
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Principal Officer of International Business - Miami (Miami Florida, US)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Miami-Florida-IDB-Invest-Principal%E2%80%AFOfficer-of-International-Business-Miami-FL-33109/1381976700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] [Re-advertisement] Executive Board Secretariat Intern, New York, 6 Months, New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776652756801
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] UN Women: Communications Specialist, Istanbul, Turkiye, P3, FTA International, Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776652853368
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Financial Controls
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50478-vienna-austria-opec-fund-for-international-development-director-financial-controls
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Associate/Advisor, Strategy & Engagement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50477-montreal-quebec-canada-development-finance-institute-findev-senior-associate-advisor-strategy-engagement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Target Analyst Reporter 1
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50476-columbia-maryland-realmone-target-analyst-reporter-1
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Consultant for Adaptive Project Management
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50475-little-rock-arkansas-heifer-international-consultant-for-adaptive-project-management
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Finance Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50474-washington-dc-earthrights-international-finance-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Program Analyst - Treaty Management
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50473-falls-church-virginia-noblis-senior-program-analyst-treaty-management
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] 38 North Emerging Scholars Fellowship Program 2026
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50472-washington-dc-stimson-center-38-north-emerging-scholars-fellowship-program-2026
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Regional Policy and Advocacy Lead, East Africa
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50471-kenya-international-rescue-committee-regional-policy-and-advocacy-lead-east-africa
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Director, Democracy and Civic Life
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50470-new-york-the-henry-luce-foundation-program-director-democracy-and-civic-life
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications Strategist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50469-remote-dc-the-alliance-for-diplomacy-and-justice-communications-strategist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Finance Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50468-ghana-sightsavers-project-finance-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50467-brussels-belgium-fern-communications-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Instructor, Law, Politics, & Society
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50465-des-moines-iowa-drake-university-adjunct-instructor-law-politics-society
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Instructor, Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50464-spokane-washington-gonzaga-university-adjunct-instructor-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Military - Defense Video Editor and Creator (YouTube Channel)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50463-washington-dc-19fortyfive-military-defense-video-editor-and-creator-youtube-channel
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Website Development Intern, Tanzania, Africa
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50411-morogoro-tanzania-fien-foundation-website-development-intern-africa
+--------------------------------------------------
