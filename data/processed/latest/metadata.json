@@ -1,8 +1,6 @@
 {
-  "generated_at_bj": "2026-04-21 12:56:13",
-  "record_count": 2428,
-  "error_count": 1,
-  "errors": [
-    "impactpool_jobs: all source URLs failed (HTTP request failed: https://www.impactpool.org/search?keyword=intern (522 Server Error: <none> for url: https://www.impactpool.org/search?keyword=intern))"
-  ]
+  "generated_at_bj": "2026-04-22 12:53:11",
+  "record_count": 2491,
+  "error_count": 0,
+  "errors": []
 }
