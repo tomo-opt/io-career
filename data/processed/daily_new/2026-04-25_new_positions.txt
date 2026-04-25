@@ -1,0 +1,240 @@
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] NEW YORK
+[Deadline] 2026-05-04
+[Link] https://careers.un.org/job-openings?job-id=275907
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-05-15
+[Link] https://careers.un.org/job-openings?job-id=276374
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DIRECTOR, INFORMATION CENTRE
+[Location] TEHRAN
+[Deadline] 2026-05-02
+[Link] https://careers.un.org/job-openings?job-id=276192
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Senior Programme Management Assistant
+[Location] NEW YORK
+[Deadline] 2026-05-01
+[Link] https://careers.un.org/job-openings?job-id=274296
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-05-01
+[Link] https://careers.un.org/job-openings?job-id=276371
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SECTION, INFORMATION SYSTEMS AND TELECOMMUNICATIONS
+[Location] NEW YORK
+[Deadline] 2026-05-01
+[Link] https://careers.un.org/job-openings?job-id=275790
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Finance and Budget Officer
+[Location] SANTO DOMINGO
+[Deadline] 2026-05-02
+[Link] https://careers.un.org/job-openings?job-id=276469
+--------------------------------------------------
+[Organization] UNDP
+[Position] AI Innovation Intern
+[Location] New York, United States
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33680;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Energy Policy Analyst [Open to internal and external applicants]
+[Location] Pristina, Kosovo (as per UNSCR 1244)
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33678;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Civil Engineer/Architect (4 openings) [Open to internal and external applicants] Post level NPSA-8 Apply by May-1-26 Agency UNDP Location Sarajevo, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33674
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communications Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Apr-30-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33156
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Energy Policy Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by May-8-26 Agency UNDP Location Pristina, Kosovo (as per UNSCR 1244)
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33678
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado(a) Técnico(a) Territorial (2 vacantes) [Open to internal and external applicants]( En Oficina ) Ibagué y Manizales Post level NPSA-7 Apply by May-8-26 Agency UNDP Location Ibague, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33681
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Coordinator, Cartagena Mayors Challenge (Open to Internal and External applicants) Post level NPSA-8 Apply by May-1-26 Agency UNDP Location Cartagena, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33675
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Coordinator - Fez, Morocco (Open to Internal and External applicants) Post level NPSA-8 Apply by May-1-26 Agency UNDP Location Morocco
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33679
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title AI Innovation Intern Post level Apply by May-9-26 Agency UNDP Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33680
+--------------------------------------------------
+[Organization] WFP
+[Position] (Surge) Business Support Assistant (Security) SSA5
+[Location] Beirut, Lebanon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beirut-Lebanon-The-Republic-Of/XMLNAME--Surge--Business-Support-Assistant--Security--SSA5_JR122220-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Associate G6, Bol Chad
+[Location] Bol, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bol-Chad-The-Republic-Of/Finance-Associate-G6--Bol-Chad_JR122487
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Assistant SC4
+[Location] Beirut, Lebanon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beirut-Lebanon-The-Republic-Of/IT-Operations-Assistant-SC4_JR122447
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Officer
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Finance-Officer_JR122419
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant, Expert on the Localisation of the Framework of Cooperation on the Prevention and Response to Conflict-Related Sexual Violence (CRSV) at the Apparatus of the Government Commissioner for Gender Equality Policy
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-expert-localisation-framework-cooperation-prevention-and-response-conflict
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Youth Innovator Intern – Stagiaire en Innovation
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/youth-innovator-intern-%E2%80%93-stagiaire-en-innovation
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Project Finance and Administrative Assistant LSC4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/project-finance-and-administrative-assistant-lsc4
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant – Midwifery Competency Assessment (SRHR) and development of…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-%E2%80%93-midwifery-competency-assessment-srhr-and-development-recommendations
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Senior IT Systems & Cloud Solutions Associate (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Senior-IT-Systems-&-Cloud-Solutions-Associate-DC-20577/1385328800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Public Information intern, Rome, Italy
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776938614405
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Coordinator, Cartagena Mayors Challenge (Open to Internal and External applicants) UNDP - United Nations Development Programme Bogotá | Cartagena NPSA-8, National Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209864
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant – Supporting UNCCD Reporting on Strategic Objective 5 (SO5) UNCCD - United Nations Convention to Combat Desertification Remote | Home Based - May require travel International Consultant - Internationally recruited Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209860
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Consultants – Multiple Positions UNCCD - United Nations Convention to Combat Desertification Remote | Home Based - May require travel International Consultant - Internationally recruited Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209859
+--------------------------------------------------
+[Organization] Impactpool
+[Position] COORDINATION OFFICER UNEP - United Nations Environment Programme Nairobi P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209856
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Public Relations – Global News Bureau
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50525-new-york-marriott-international-director-public-relations-global-news-bureau
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] International Energy Transition Carbon Credits - Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50524-washington-dc-center-for-climate-and-energy-solutions-c2es-international-transition-carbon-credits-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Operations Support Lead
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50523-tysons-corner-virginia-general-dynamics-information-technology-operations-support-lead
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate Director, Asia Media
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50522-taipei-taiwan-human-rights-watch-associate-director-asia-media
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Humanitarian Access and Safety and Security Advisor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50521-remot-france-intersos-humanitarian-access-and-safety-security-advisor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Global Financial Crimes: Sanctions Vice President
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50520-new-york-morgan-stanley-global-financial-crimes-sanctions-vice-president
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Political Strategy Operations, Campaigns and Partnerships
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50519-brussels-belgium-c40-cities-director-political-strategy-operations-campaigns-and-partnerships
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Project Coordinator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50518-brussels-belgium-climate-alliance-senior-project-coordinator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Secretary/Administrative Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50517-darmstadt-germany-european-organisation-for-the-exploitation-of-meteorological-satellites-secretary-administrative-assistant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Instructor, Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50516-kingsville-texas-a-m-university-adjunct-instructor-political-science
+--------------------------------------------------
