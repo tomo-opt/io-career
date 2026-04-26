@@ -1,0 +1,132 @@
+[Organization] United Nations Secretariat
+[Position] ENGINEERING ASSISTANT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-05-02
+[Link] https://careers.un.org/job-openings?job-id=276509
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Coordinator - Fez, Morocco (Open to Internal and External applicants)
+[Location] Morocco
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33679;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] ICT Cloud Infrastructure Assistant [Open to internal and external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32731;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNFPA
+[Position] CONSULTANT COORDONNATEUR (TRICE) REGIONAL (E) HUMANITAIRE, KORHOGO/COTE D'IVOIRE
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-coordonnateur-trice-regional-e-humanitaire-korhogocote-divoire
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Socio-Demographic Data Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-socio-demographic-data-specialist
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant (e) International(e) Chef/fe d’équipe pour l’évaluation à mi-parcours du…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-e-internationale-cheffe-d%E2%80%99%C3%A9quipe-pour-l%E2%80%99%C3%A9valuation-%C3%A0-mi-parcours-du-9%C3%A8me-programme
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Business Development Specialist, Supply Chain Management Unit (SCMU), Copenhagen,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/business-development-specialist-supply-chain-management-unit-scmu-copenhagen-denmark-p3
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern (Climate & Data), Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1777117735325
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Climate Change Transparency Monitoring and Evaluation, Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1777117901581
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Legal Internship, Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1777118013103
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de metodologias PSS- Huehuetenango IRC - International Rescue Committee Huehuetenango | Guatemala City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209894
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente PQRF IRC - International Rescue Committee Guatemala City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209893
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Health Caseworker IRC - International Rescue Committee Remote | San Jose Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209892
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente MEAL PDM IRC - International Rescue Committee Guatemala City | Huehuetenango Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209891
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Metodologias PSS -San Marcos IRC - International Rescue Committee San Marcos | Guatemala City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209890
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de metodologias grupales PSS - Huehuetenango IRC - International Rescue Committee Huehuetenango | Guatemala City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209889
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Digital Communication Specialist, LACRO, Panama City, #103260 UNICEF - United Nations Children’s Fund Panamá P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209884
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship 2 positions with Public Partnerships and Resource Mobilization , Washington DC, 6 months, Full-time /Part-time/Paid UNICEF - United Nations Children’s Fund Remote | Washington D.C. Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209883
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Policy Analyst (Open to All Applicants) UNDP - United Nations Development Programme New York City IPSA-9, International Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209880
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Campo de Protección ICRC - International Committee of the Red Cross San Pedro Sula Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209868
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] OUTREACH WORKER DIKWA, MONGUNO, MAGUMERI, AND MAIDUGURI (INTERNAL ONLY)
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4209278/outreach-worker-dikwa-monguno-magumeri-and-maiduguri-internal-only
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] CASE WORKER DIKWA, MONGUNO, MAGUMERI, AND MAIDUGURI (INTERNAL ONLY)
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4209277/case-worker-dikwa-monguno-magumeri-and-maiduguri-internal-only
+--------------------------------------------------
