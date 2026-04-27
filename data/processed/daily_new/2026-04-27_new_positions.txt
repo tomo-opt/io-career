@@ -1,0 +1,168 @@
+[Organization] United Nations Secretariat
+[Position] COMMUNICATIONS ASSISTANT
+[Location] MAZAR-I-SHARIF
+[Deadline] 2026-05-11
+[Link] https://careers.un.org/job-openings?job-id=276424
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Manager [Open to internal and external applicants]
+[Location] Dhaka, Bangladesh
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33695;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Coordinator, Cartagena Mayors Challenge (Open to Internal and External applicants)
+[Location] Cartagena, Colombia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33675;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Civil Engineer/Architect (4 openings) [Open to internal and external applicants]
+[Location] Sarajevo, Bosnia and Herzegovina
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33674;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager [Open to internal and external applicants] Post level NPSA-9 Apply by May-11-26 Agency UNDP Location Dhaka, Bangladesh
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33695
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Small Grants Programme National Coordinator [Open to internal and external applicants] Post level NPSA-9 Apply by May-4-26 Agency UNDP Location Kabul, Afghanistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33505
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Solid Waste Management Analyst [Opne to internal and external applications] Post level NPSA-9 Apply by May-1-26 Agency UNDP Location Jakarta Pusat, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33446
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Consultant(e) (national(e) ou international(e) en appui au renforcement des mécanismes d'éducation alternative pour l'insertion et la réinsertion des filles et des garçons dans un parcours éducatif, Cotonou, Benin
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776808078337
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Social Policy Intern, Abuja, Nigeria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1776968800557
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Aden Senior Finance Associate (Budget and Reporting) G7 IOM - International Organization for Migration Aden GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209922
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFA 002/2026_Stagiaire à l’unité d'appui au programme (PSU) - (Poste national) IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209921
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern (Research and Advocacy) IOM - International Organization for Migration Remote | Erbil UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209920
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern (Migrant Protection) IOM - International Organization for Migration Remote | Baghdad UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209919
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern (Gender-Based Violence) IOM - International Organization for Migration Remote | Erbil UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209918
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern (Mental Health and Psychosocial Support) IOM - International Organization for Migration Remote | Baghdad UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209917
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Buyer ICRC - International Committee of the Red Cross Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209914
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Operaciones IRC - International Rescue Committee Guatemala City | Huehuetenango Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209909
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Operaciones ERD IRC - International Rescue Committee Guatemala City | Huehuetenango Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209908
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Seguridad y Logística IRC - International Rescue Committee Guatemala City | Huehuetenango Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209907
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Seguridad y Logística IRC - International Rescue Committee San Marcos | Guatemala City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209906
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Movilizador Comunitario IRC - International Rescue Committee San Marcos | Guatemala City Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209905
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Gestora de casos GBV IRC - International Rescue Committee San Marcos | Guatemala City Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209904
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Gestor/a de Protección IRC - International Rescue Committee El Salvador | San Miguel Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209903
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Aistente de Alcance Comunitario IRC - International Rescue Committee El Salvador | San Salvador Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209902
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente legal IRC - International Rescue Committee Tegucigalpa Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209901
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Gestora de casos GBV IRC - International Rescue Committee Guatemala City Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209900
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente legal IRC - International Rescue Committee San Pedro Sula Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209899
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente MEAL PDM IRC - International Rescue Committee Huehuetenango | Guatemala City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1209891
+--------------------------------------------------
