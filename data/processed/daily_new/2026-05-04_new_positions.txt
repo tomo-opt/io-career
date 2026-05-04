@@ -1,0 +1,108 @@
+[Organization] United Nations Secretariat
+[Position] SPECIAL ASSISTANT, POLITICAL AFFAIRS
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-05-11
+[Link] https://careers.un.org/job-openings?job-id=276899
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Telecommunications/ Network Engineer
+[Location] Syria Damascus Area
+[Deadline] 2026-05-14
+[Link] https://careers.un.org/job-openings?job-id=276537
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Information Security Engineer
+[Location] Syria Damascus Area
+[Deadline] 2026-05-14
+[Link] https://careers.un.org/job-openings?job-id=276526
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Information Systems Officer
+[Location] Syria Damascus Area
+[Deadline] 2026-05-14
+[Link] https://careers.un.org/job-openings?job-id=276515
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Light Vehicle Driver
+[Location] ISLAMABAD
+[Deadline] 2026-05-18
+[Link] https://careers.un.org/job-openings?job-id=276796
+--------------------------------------------------
+[Organization] UNDP
+[Position] Governance, Rule of Law and Peacebuilding Intern
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33851;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Gender Analyst [Open to internal and external applicants]
+[Location] Ha Noi, Viet Nam
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33615;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Governance, Rule of Law and Peacebuilding Intern Post level IN Apply by May-11-26 Agency UNDP Location Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33851
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Finance Associate, APU, Finance Branch, Division for Management Services, New York, G-6
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/finance-associate-apu-finance-branch-division-management-services-new-york-g-6
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Division of Internal Oversight Services (Headquarters), Paris, France
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1777827629793
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Science Internship within the Office of Strategy and Policy (OSP), The Hague
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1777829987849
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief Fundraising (Strategic Partnerships), P-5, FT, #136749, Riyadh, Saudi Arabia, Gulf Area Office - MENA UNICEF - United Nations Children’s Fund Riyadh P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1211262
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFCV/CAI/2026/05 Digitalization of Immigration & Border Management Procedures Consultant IOM - International Organization for Migration Egypt UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1211258
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Systems Administrator IRC - International Rescue Committee United States of America Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1211252
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Financial Planning and Analyst Senior Manager ( N-26-12 ) CIP - International Potato Center Lima | Peru Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1211246
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Assistant CIP - International Potato Center Agra | Lucknow Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1211245
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Budget and Compliance Officer (N-26-20/PBC/HQ) CIP - International Potato Center Peru | Lima Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1211244
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INTERNAL CALL (RFP301224) SENIOR ASSOCIATE-PROGRAM ADMINISTRATION- NAIROBI, KENYA Alliance Bioversity & CIAT Nairobi Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1211243
+--------------------------------------------------
