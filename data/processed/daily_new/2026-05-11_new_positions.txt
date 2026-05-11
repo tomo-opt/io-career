@@ -1,0 +1,84 @@
+[Organization] United Nations Secretariat
+[Position] Chief Environment Division
+[Location] HQ Amman
+[Deadline] 2026-05-31
+[Link] https://careers.un.org/job-openings?job-id=277187
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] EXECUTIVE SECRETARY
+[Location] NAIROBI
+[Deadline] 2026-05-26
+[Link] https://careers.un.org/job-openings?job-id=274026
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior PPH Assistant
+[Location] Seoul, Korea, Republic of
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Seoul-Korea-Republic-of/Senior-PPH-Assistant_JR2666669
+--------------------------------------------------
+[Organization] UNHCR
+[Position] PSP IG Associate
+[Location] Seoul, Korea, Republic of
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Seoul-Korea-Republic-of/PSP-IG-Associate_JR2666666
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Recruitment: Programme Analyst – SRH / Maternal Health, FTA - NOB- Multiple Duty Stations in Sudan
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-recruitment-programme-analyst-%E2%80%93-srh-maternal-health-fta-nob-multiple-duty-stations
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Child Protection Associate IOM - International Organization for Migration Tripoli GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1212859
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief Field Office, P-4, FT, #00111058, Benghazi, Libyan Arab Rep. - MENA UNICEF - United Nations Children’s Fund Arab | Benghazi P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1212853
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Technical Lead and Programme Management Specialist - Cairo, Egypt - FTA - P4 UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Cairo P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1212847
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Data Collector IRC - International Rescue Committee Tripoli Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1212845
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Associate - Research and Scaling Associate - Resilient Agrifood Systems ICARDA - The International Center for Agricultural Research in the Dry Areas Rabat Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1212841
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant (MECR) IOM - International Organization for Migration Remote | Colombo UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1212838
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Administrative Associate IOM - International Organization for Migration Amman GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1212837
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] Operations Analyst – Junior Mentor
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4211374/operations-analyst-junior-mentor
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] Promoting Employment and Employability among Refugees, Internally Displaced Persons (IDPs) and Host Communities focusing on Women, PWDs, and Youths
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4211308/promoting-employment-and-employability-among-refugees-internally-displaced-persons-idps-and-host-communities-focusing-women-pwds-and-youths
+--------------------------------------------------
