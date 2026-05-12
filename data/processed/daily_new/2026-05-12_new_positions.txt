@@ -1,0 +1,306 @@
+[Organization] United Nations Secretariat
+[Position] LEGAL OFFICER
+[Location] NAIROBI
+[Deadline] 2026-06-25
+[Link] https://careers.un.org/job-openings?job-id=271533
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FIELD SECURITY ASSISTANT
+[Location] DJIBOUTI
+[Deadline] 2026-05-26
+[Link] https://careers.un.org/job-openings?job-id=277095
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] BENEFITS ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-05-26
+[Link] https://careers.un.org/job-openings?job-id=277094
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SECTION, INFORMATION SYSTEMS AND TELECOMMUNICATIONS
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-05-19
+[Link] https://careers.un.org/job-openings?job-id=277403
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-05-18
+[Link] https://careers.un.org/job-openings?job-id=277170
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DEVELOPMENT COORDINATION OFFICER, STRATEGIC PLANNING AND RCO TEAM LEADER
+[Location] QUITO
+[Deadline] 2026-05-18
+[Link] https://careers.un.org/job-openings?job-id=277061
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE LEGAL OFFICER
+[Location] NEW YORK
+[Deadline] 2026-05-19
+[Link] https://careers.un.org/job-openings?job-id=276852
+--------------------------------------------------
+[Organization] UNDP
+[Position] UNDP Internship roster (call for applications - Research interns, home-based, report to office in New York, USA)
+[Location] Home Based
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32563;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Agentic AI Research Intern (Home-based)
+[Location] Istanbul, Türkiye
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34048;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Human Resources Associate (Open to internal and external applicants)
+[Location] Suva, Fiji
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32676;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Project Manager [Open to internal and external applicants]
+[Location] Honiara, Solomon Islands
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34105;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Data Science Associate (Office Based) [Open to internal and external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34144;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Analyst - Democratic and Effective Governance - NOA [Open to internal and external applicants]
+[Location] Montevideo, Uruguay
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=31605;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Data Science Associate (Office Based) [Open to internal and external applicants] Post level NPSA-7 Apply by May-25-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34144
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Programme Analyst - Democratic and Effective Governance - NOA [Open to internal and external applicants] Post level NOA Apply by May-25-26 Agency UNDP Location Montevideo, Uruguay
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/31605
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Project Manager [Open to internal and external applicants] Post level NPSA-10 Apply by May-18-26 Agency UNDP Location Honiara, Solomon Islands
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34105
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title UNDP Internship roster (call for applications - Research interns, home-based, report to office in New York, USA) Post level Apply by May-25-26 Agency UNDP Location Home Based
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32563
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Human Resources Associate (Open to internal and external applicants) Post level G7 Apply by May-25-26 Agency UNDP Location Suva, Fiji
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32676
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Assistente de Projeto (1 vaga) (Office based) [Open to internal & external applicants] Post level NPSA-5 Apply by May-25-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34135
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Associado(a) de Projetos (1 vaga) (Office Based) [Open to internal & external applicants] Post level NPSA-6 Apply by May-25-26 Agency UNDP Location Fortaleza, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34140
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Agentic AI Research Intern (Home-based) Post level Apply by Jun-1-26 Agency UNDP Location Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34048
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant - Field Support Unit, SC5 (Baucau, Bobonaro, Manufahi and Viqueque)
+[Location] 4 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Baucau-Timor-Leste/Programme-Assistant---Field-Support-Unit--SC5--Baucau--Bobonaro--Manufahi-and-Viqueque-_JR122869
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Assistant SC4, Gonaives, Haiti
+[Location] Gonaives, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Gonaives-Haiti-The-Republic-Of/Monitoring-Assistant-SC4--Gonaives--Haiti_JR122989
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant G4, Cap Haitien, Haiti
+[Location] Gonaives, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Gonaives-Haiti-The-Republic-Of/Business-Support-Assistant-G4--Cap-Haitien--Haiti_JR122988
+--------------------------------------------------
+[Organization] WFP
+[Position] Security Assistant SC4, Cap Haitien, Haiti
+[Location] Cap Haitien, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cap-Haitien-Haiti-The-Republic-Of/Security-Assistant-SC4--Cap-Haitien--Haiti_JR122979
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer NOA, Cap Haitien, Haiti
+[Location] Cap Haitien, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cap-Haitien-Haiti-The-Republic-Of/Logistics-Officer-NOA--Cap-Haitien--Haiti_JR122978-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance & Management Services Associate G6, Cap Haitien, Haiti
+[Location] Cap Haitien, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cap-Haitien-Haiti-The-Republic-Of/Finance---Management-Services-Associate-G6--Cap-Haitien--Haiti_JR122980-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Security Associate G6, Cap Haitien, Haiti
+[Location] Cap Haitien, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cap-Haitien-Haiti-The-Republic-Of/Security-Associate-G6--Cap-Haitien--Haiti_JR122987
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Assistant to Country Director)
+[Location] Yerevan, Armenia
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Yerevan-Armenia/Business-Support-Assistant--Assistant-to-Country-Director-_JR122957
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Communications Associate
+[Location] Chisinau, Moldova
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Chisinau-Moldova/Communications-Associate_JR2665923-2
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Data Programme Specialist, WCARO, Dakar, Senegal, P4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/data-programme-specialist-wcaro-dakar-senegal-p4
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Project Coordinator, Consultant, Tashkent, Uzbekistan
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-project-coordinator-consultant-tashkent-uzbekistan
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Programme Specialist – Maternal and Newborn Health Advocacy, Temporary Appointment, NOC-Dodoma,Tanzania
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-programme-specialist-%E2%80%93-maternal-and-newborn-health-advocacy-temporary-appointment-noc
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Jeune évaluateur/trice émergent pour l’évaluation à mi-parcours du 9ème Programme…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/jeune-%C3%A9valuateurtrice-%C3%A9mergent-pour-l%E2%80%99%C3%A9valuation-%C3%A0-mi-parcours-du-9%C3%A8me-programme-pays-2023
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Office of the Director-General, Multiple
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1778541940110
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] CONSULTANT -International Recommendations for a Culture Satellite Account, Canada
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1778541907946
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Priority Africa and External Relations, Multiple
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1778541886434
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Social and Human Sciences, Multiple
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1778541863768
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Quality Infrastructure Expert, Abuja, Nigeria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1778542365327
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Database Engineer GICHD - Geneva International Centre for Humanitarian Demining Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213036
+--------------------------------------------------
+[Organization] Impactpool
+[Position] IT Technical Support & Operations Engineer/Advisor SOS Children’s Villages International La Paz Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213034
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant for Support the Ministry of Education in Developing the New National Strategy of the Preuniversity Education, Tirana, Albania (Internationals only) - 7 months, Home Based #592828 UNICEF - United Nations Children’s Fund Remote | Tirana Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213028
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Partnerships Officer, P-2, FT, #23383, Sudan (Outposted to Nairobi, Kenya) UNICEF - United Nations Children’s Fund Nairobi P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213023
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Planning Specialist (P-3), FT, #092451, Khartoum, Sudan, MENA UNICEF - United Nations Children’s Fund Khartoum P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213022
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Technical writer for development of Behavioural and Social drivers survey manuscripts and knowledge products, Nairobi, Kenya, Global Health Practice Nairobi CoE,35 days (remote, INTERNATIONAL only) UNICEF - United Nations Children’s Fund Remote | Nairobi Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213020
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Un(e) Stagiaire en Information Management Officer (6 mois), Kinshasa - DRC, WCAR UNICEF - United Nations Children’s Fund Kinshasa Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213018
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Un(e) Stagiaire en Suivi et Evaluation (6 mois), Kinshasa - DRC, WCAR UNICEF - United Nations Children’s Fund Kinshasa Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213017
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National/International Consultancy: WASH Project Review Consultant, Freetown, Sierra Leone UNICEF - United Nations Children’s Fund Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213016
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Investigations Consultant, The Office of Internal Audit and Investigations (OIAI), 18 months, New York, USA (Office based) #592975 UNICEF - United Nations Children’s Fund New York City Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213013
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Operations Assistant (Intern) IOM - International Organization for Migration Paris UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213010
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CONSULTANT(E) ÉTUDE SUR L'ACCÈS DES ENFANTS EN MOBILITÉ AUX SERVICES DE BASE À NOUADHIBOU IOM - International Organization for Migration Nouakchott UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1213009
+--------------------------------------------------
