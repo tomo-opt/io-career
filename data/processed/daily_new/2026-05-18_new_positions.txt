@@ -1,0 +1,48 @@
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE POLITICAL AFFAIRS OFFICER
+[Location] KABUL
+[Deadline] 2026-06-01
+[Link] https://careers.un.org/job-openings?job-id=277693
+--------------------------------------------------
+[Organization] UNDP
+[Position] Operations Intern, UNDP Mongolia Country Office
+[Location] Ulan Bator, Mongolia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34288;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Officer - Human Rights (Open to internal and external applicants)
+[Location] Islamabad, Pakistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33523;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Officer - Human Rights (Open to internal and external applicants) Post level NPSA-8 Apply by May-25-26 Agency UNDP Location Islamabad, Pakistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33523
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Operations Intern, UNDP Mongolia Country Office Post level IN Apply by May-24-26 Agency UNDP Location Ulan Bator, Mongolia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34288
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate– Cash Based Transfers  SC6
+[Location] Faizabad, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Faizabad-AfghanistanThe-Islamic-Re/Programme-Associate--Cash-Based-Transfers--SC6_JR123176
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Intern – Disability Inclusion Support, Amman
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779033408245
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Intern – Disability Inclusion Support UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1214075
+--------------------------------------------------
