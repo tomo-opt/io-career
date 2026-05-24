@@ -1,0 +1,90 @@
+[Organization] UN Women
+[Position] Job Title Admin and Coordination Assistant [Open to internal and external applicants who are nationals of the EU, EFTA] Post level NPSA-4 Apply by Jun-4-26 Agency UNDP Location Berlin, Germany
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34374
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant: Data Processing Consultant for 2026 Cambodia Demographic and Health Survey (CDHS)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-data-processing-consultant-2026-cambodia-demographic-and-health
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] AI‑Assisted codebase Migrator development Intern, Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779456888093
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] SDG Policy AI Chatbot development Intern, Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779456889433
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Research and Communication Intern, New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779456899850
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Consultant(e) International(e) - Associé facilitation des échanges et des investissements pour l’Afrique Centrale, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779456906390
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERN - PROGRAMME MANAGEMENT, I, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779456912950
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communications & Engagement Coordinator IRC - International Rescue Committee Remote | London | New York City | Nairobi Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215466
+--------------------------------------------------
+[Organization] Impactpool
+[Position] YouTube Digital Strategist IRC - International Rescue Committee Remote Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215465
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Social Media Governance Consultant IRC - International Rescue Committee Remote Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215464
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Immigration Administrative Assistant IRC - International Rescue Committee Wa | Spokane Administrative Services and Support - Generally no need for Higher Education - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215463
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Quality & Development Professional SOS Children’s Villages International Nairobi | Amman | La Paz | Skopje | Vienna | Dakar | Faridabad Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215459
+--------------------------------------------------
+[Organization] Impactpool
+[Position] PROGRAMME MANAGEMENT OFFICER (Saving Lives Together) UNDSS - United Nations Department of Safety and Security New York City P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215454
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern – Programme Management UNDOS - United Nations Department of Operational Support New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215447
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Grants Officer - Sudan HI - Humanity & Inclusion - Handicap International Khartoum Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215446
+--------------------------------------------------
