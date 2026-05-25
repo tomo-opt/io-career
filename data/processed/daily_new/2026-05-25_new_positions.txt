@@ -1,0 +1,168 @@
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE ADMINISTRATIVE OFFICER
+[Location] MONTREAL
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=278201
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] STAFF ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-06-24
+[Link] https://careers.un.org/job-openings?job-id=277807
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR POLITICAL AFFAIRS OFFICER/TEAM LEADER
+[Location] KABUL
+[Deadline] 2026-06-01
+[Link] https://careers.un.org/job-openings?job-id=278210
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RIGHTS ASSISTANT
+[Location] KABUL
+[Deadline] 2026-06-07
+[Link] https://careers.un.org/job-openings?job-id=278095
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Conference Services and Event Coordination Assistant [Open to internal and external applicants] Post level NPSA-5 Apply by Jun-7-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34429
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communications Associate - Content Creation [Open to internal and external applicants] Post level NPSA-6 Apply by Jun-7-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34434
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Digital Communications Associate [Open to internal and external applicants] Post level NPSA-6 Apply by Jun-7-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34438
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communications Coordinator [Open to internal and external applicants] Post level NPSA-8 Apply by Jun-7-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34401
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Assets)SC4,Kampala
+[Location] Kampala, Uganda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Business-Support-Assistant--Assets-SC4-Kampala_JR123375
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Assistant (Fleet) SC5,Kampala
+[Location] Kampala, Uganda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Management-Services-Assistant--Fleet--SC5-Kampala_JR123376-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (GDS & Ticketing Specialist)
+[Location] New Delhi, India, Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/New-Delhi-India-Republic-Of/Business-Support-Assistant--GDS---Ticketing-Specialist-_JR123377
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant (M&E Assistant), SC5
+[Location] Dili, Timor-Leste
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dili-Timor-Leste/Programme-Assistant--M-E-Assistant---SC5_JR123348
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (Field Operations), SC6, Dhaka
+[Location] Dhaka, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Programme-Associate--Field-Operations---SC6--Dhaka_JR123371
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Humanitarian and Recovery Coordinator, P4, Dnipro and Odesa, Ukraine (FTA, 2…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/humanitarian-and-recovery-coordinator-p4-dnipro-and-odesa-ukraine-fta-2-positions
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Administration Associate
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Administration-Associate/3347
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Administration Intern
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Administration-Intern/3346
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFA/2026/002/NEXUS Intern/UG/Yaounde IOM - International Organization for Migration Yaoundé UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215504
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR POLITICAL AFFAIRS OFFICER/TEAM LEADER UNAMA - United Nations Assistance Mission in Afghanistan Kabul P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215503
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Specialist, Women, Peace, Security, and Humanitarian Action - International - PSA10 - Home Based UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Home Based - May require travel PSA10
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215498
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Officer IRC - International Rescue Committee Ramallah Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215497
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Medical Doctor IRC - International Rescue Committee Dhaka Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215496
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant - Midwifery Consultant UNFPA - United Nations Population Fund Cairo Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215483
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN/2026/37/Senior PSEAH Associate (G-7) - Yaoundé IOM - International Organization for Migration Yaoundé GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215479
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFA/2026/005/Communication Intern/UG/ Yaounde IOM - International Organization for Migration Yaoundé UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215478
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant-MECR IOM - International Organization for Migration Colombo UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215477
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFA/2026/004/Communication Intern/UG/Douala IOM - International Organization for Migration Douala UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215476
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Community Engagement Coordinator IRC - International Rescue Committee Remote | Baltimore Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215475
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Manager – Education IRC - International Rescue Committee Dhaka Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215474
+--------------------------------------------------

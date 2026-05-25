@@ -1,20 +1,33 @@
 | org_name | job_title | job_type | location | deadline | job_url | is_new_today |
 |---|---|---|---|---|---|---|
-| Impactpool | Communications & Engagement Coordinator IRC - International Rescue Committee Remote | London | New York City | Nairobi Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215466 | True |
-| Impactpool | Grants Officer - Sudan HI - Humanity & Inclusion - Handicap International Khartoum Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215446 | True |
-| Impactpool | Immigration Administrative Assistant IRC - International Rescue Committee Wa | Spokane Administrative Services and Support - Generally no need for Higher Education - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1215463 | True |
-| Impactpool | Intern – Programme Management UNDOS - United Nations Department of Operational Support New York City Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1215447 | True |
-| Impactpool | PROGRAMME MANAGEMENT OFFICER (Saving Lives Together) UNDSS - United Nations Department of Safety and Security New York City P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215454 | True |
-| Impactpool | Programme Quality & Development Professional SOS Children’s Villages International Nairobi | Amman | La Paz | Skopje | Vienna | Dakar | Faridabad Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1215459 | True |
-| Impactpool | Social Media Governance Consultant IRC - International Rescue Committee Remote Consultant - Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1215464 | True |
-| Impactpool | YouTube Digital Strategist IRC - International Rescue Committee Remote Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1215465 | True |
-| UN Women | Job Title Admin and Coordination Assistant [Open to internal and external applicants who are nationals of the EU, EFTA] Post level NPSA-4 Apply by Jun-4-26 Agency UNDP Location Berlin, Germany | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34374 | True |
-| UNFPA | International Consultant: Data Processing Consultant for 2026 Cambodia Demographic and Health Survey (CDHS) | Internship |  |  | https://www.unfpa.org/jobs/international-consultant-data-processing-consultant-2026-cambodia-demographic-and-health | True |
-| UNJobs Aggregator (HTML) | AI‑Assisted codebase Migrator development Intern, Bangkok, Thailand | Internship |  |  | https://unjobs.org/vacancies/1779456888093 | True |
-| UNJobs Aggregator (HTML) | Consultant(e) International(e) - Associé facilitation des échanges et des investissements pour l’Afrique Centrale, Geneva, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1779456906390 | True |
-| UNJobs Aggregator (HTML) | INTERN - PROGRAMME MANAGEMENT, I, Geneva, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1779456912950 | True |
-| UNJobs Aggregator (HTML) | Research and Communication Intern, New York, United States | Internship |  |  | https://unjobs.org/vacancies/1779456899850 | True |
-| UNJobs Aggregator (HTML) | SDG Policy AI Chatbot development Intern, Bangkok, Thailand | Internship |  |  | https://unjobs.org/vacancies/1779456889433 | True |
+| Impactpool | CFA/2026/002/NEXUS Intern/UG/Yaounde IOM - International Organization for Migration Yaoundé UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1215504 | True |
+| Impactpool | CFA/2026/004/Communication Intern/UG/Douala IOM - International Organization for Migration Douala UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1215476 | True |
+| Impactpool | CFA/2026/005/Communication Intern/UG/ Yaounde IOM - International Organization for Migration Yaoundé UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1215478 | True |
+| Impactpool | Community Engagement Coordinator IRC - International Rescue Committee Remote | Baltimore Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215475 | True |
+| Impactpool | Consultant-MECR IOM - International Organization for Migration Colombo UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1215477 | True |
+| Impactpool | Finance Officer IRC - International Rescue Committee Ramallah Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215497 | True |
+| Impactpool | International Consultant - Midwifery Consultant UNFPA - United Nations Population Fund Cairo Consultant - Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1215483 | True |
+| Impactpool | Medical Doctor IRC - International Rescue Committee Dhaka Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215496 | True |
+| Impactpool | Programme Specialist, Women, Peace, Security, and Humanitarian Action - International - PSA10 - Home Based UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Home Based - May require travel PSA10 | Internship |  |  | https://www.impactpool.org/jobs/1215498 | True |
+| Impactpool | Research Manager – Education IRC - International Rescue Committee Dhaka Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215474 | True |
+| Impactpool | SENIOR POLITICAL AFFAIRS OFFICER/TEAM LEADER UNAMA - United Nations Assistance Mission in Afghanistan Kabul P-5, International Professional - Internationally recruited position - Senior level | Internship |  |  | https://www.impactpool.org/jobs/1215503 | True |
+| Impactpool | SVN/2026/37/Senior PSEAH Associate (G-7) - Yaoundé IOM - International Organization for Migration Yaoundé GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1215479 | True |
+| UN Women | Job Title Communications Associate - Content Creation [Open to internal and external applicants] Post level NPSA-6 Apply by Jun-7-26 Agency UNDP Location Copenhagen, Denmark | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34434 | True |
+| UN Women | Job Title Communications Coordinator [Open to internal and external applicants] Post level NPSA-8 Apply by Jun-7-26 Agency UNDP Location Copenhagen, Denmark | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34401 | True |
+| UN Women | Job Title Conference Services and Event Coordination Assistant [Open to internal and external applicants] Post level NPSA-5 Apply by Jun-7-26 Agency UNDP Location Copenhagen, Denmark | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34429 | True |
+| UN Women | Job Title Digital Communications Associate [Open to internal and external applicants] Post level NPSA-6 Apply by Jun-7-26 Agency UNDP Location Copenhagen, Denmark | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34438 | True |
+| UNFPA | Humanitarian and Recovery Coordinator, P4, Dnipro and Odesa, Ukraine (FTA, 2… | Early Career |  |  | https://www.unfpa.org/jobs/humanitarian-and-recovery-coordinator-p4-dnipro-and-odesa-ukraine-fta-2-positions | True |
+| United Nations Secretariat | ASSOCIATE ADMINISTRATIVE OFFICER | Early Career | MONTREAL | 2026-06-26 | https://careers.un.org/job-openings?job-id=278201 | True |
+| United Nations Secretariat | HUMAN RIGHTS ASSISTANT | Early Career | KABUL | 2026-06-07 | https://careers.un.org/job-openings?job-id=278095 | True |
+| United Nations Secretariat | SENIOR POLITICAL AFFAIRS OFFICER/TEAM LEADER | Early Career | KABUL | 2026-06-01 | https://careers.un.org/job-openings?job-id=278210 | True |
+| United Nations Secretariat | STAFF ASSISTANT | Early Career | NEW YORK | 2026-06-24 | https://careers.un.org/job-openings?job-id=277807 | True |
+| UNOPS | Administration Associate | Early Career |  |  | https://careers.unops.org/careersmarketplace/JobDetail/Administration-Associate/3347 | True |
+| UNOPS | Administration Intern | Internship |  |  | https://careers.unops.org/careersmarketplace/JobDetail/Administration-Intern/3346 | True |
+| WFP | Business Support Assistant (Assets)SC4,Kampala | Early Career | Kampala, Uganda, The Republic Of |  | https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Business-Support-Assistant--Assets-SC4-Kampala_JR123375 | True |
+| WFP | Business Support Assistant (GDS & Ticketing Specialist) | Early Career | New Delhi, India, Republic Of |  | https://wd3.myworkdaysite.com/job/New-Delhi-India-Republic-Of/Business-Support-Assistant--GDS---Ticketing-Specialist-_JR123377 | True |
+| WFP | Management Services Assistant (Fleet) SC5,Kampala | Early Career | Kampala, Uganda, The Republic Of |  | https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Management-Services-Assistant--Fleet--SC5-Kampala_JR123376-1 | True |
+| WFP | Programme Assistant (M&E Assistant), SC5 | Early Career | Dili, Timor-Leste |  | https://wd3.myworkdaysite.com/job/Dili-Timor-Leste/Programme-Assistant--M-E-Assistant---SC5_JR123348 | True |
+| WFP | Programme Associate (Field Operations), SC6, Dhaka | Early Career | Dhaka, Bangladesh, The People's R |  | https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Programme-Associate--Field-Operations---SC6--Dhaka_JR123371 | True |
 | African Union | Go back to Homepage | Early Career |  |  | https://careers.au.int/en | False |
 | APEC Secretariat | Internships | Internship |  |  | https://www.apec.org/about-us/apec-secretariat/internship | False |
 | ASEAN Secretariat | ASEAN Committees in Third Countries and International Organisations | Internship |  |  | https://asean.org/who-we-work-with#asean-committees | False |
@@ -1108,6 +1121,7 @@
 | Impactpool | Communication Specialist (Engagement), P-3, Temporary Position, (364 days), #00136821, Digital Impact Division - Digital Inclusion, Geneva, Switzerland UNICEF - United Nations Children’s Fund Geneva P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215156 | False |
 | Impactpool | Communication Specialist, P-4, Temporary Position, Global Programme Division, 364 days, #00137091, Generation Unlimited (YPA) secretariat Outposted in Rome UNICEF - United Nations Children’s Fund Rome P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1213980 | False |
 | Impactpool | COMMUNICATION VIDEOGRAPHY INTERN Mercy Corps Nairobi Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1205678 | False |
+| Impactpool | Communications & Engagement Coordinator IRC - International Rescue Committee Remote | London | New York City | Nairobi Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215466 | False |
 | Impactpool | Communications Analyst [Open to internal and external applicants] UNDP - United Nations Development Programme Chisinau NPSA-8, National Personnel Services Agreement - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1206236 | False |
 | Impactpool | Communications and Multimedia Content Intern ITC - International Trade Centre Remote | Geneva Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1204671 | False |
 | Impactpool | Communications and Project Management Assistant Intern UNEP - United Nations Environment Programme Paris Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1206450 | False |
@@ -1348,6 +1362,7 @@
 | Impactpool | Global Specialist Coordination & Intégration Logistique F/H HI - Humanity & Inclusion - Handicap International Brussels Mid level - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1201459 | False |
 | Impactpool | Government Liaison and Capacity Development Officer IOM - International Organization for Migration Kyiv NO-C, National Professional Officer - Locally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1204899 | False |
 | Impactpool | Grants Coordinator Gavi, Vaccine Alliance Geneva CS2 - Career Step 2 - Professional - Both internationally and locally recruited position - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1205976 | False |
+| Impactpool | Grants Officer - Sudan HI - Humanity & Inclusion - Handicap International Khartoum Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215446 | False |
 | Impactpool | Graphic Design and Communications Intern UNDP - United Nations Development Programme Copenhagen IN | Internship |  |  | https://www.impactpool.org/jobs/1206729 | False |
 | Impactpool | Greater Tumen Initiative (GTI) Intern UNDP - United Nations Development Programme Beijing IN | Internship |  |  | https://www.impactpool.org/jobs/1203926 | False |
 | Impactpool | Gynecologist Service Provider IRC - International Rescue Committee Jordan Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1206471 | False |
@@ -1392,6 +1407,7 @@
 | Impactpool | Hygiene Promoter IRC - International Rescue Committee Myanmar Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1206230 | False |
 | Impactpool | ILRI Internship: Environmental, Occupational, Health and Safety Unit – Nairobi, Kenya. ILRI - International Livestock Research Institute Nairobi Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1205702 | False |
 | Impactpool | ILRI Research Fellow - Developing Climate-Smart Forages for Resilient Livestock Systems in East Africa ILRI - International Livestock Research Institute Addis Ababa Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1213523 | False |
+| Impactpool | Immigration Administrative Assistant IRC - International Rescue Committee Wa | Spokane Administrative Services and Support - Generally no need for Higher Education - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1215463 | False |
 | Impactpool | Immigration Legal Assistant IRC - International Rescue Committee Boise Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1207782 | False |
 | Impactpool | Immunization Manager (EPI), P-4, FT, #00092605, Juba, South Sudan - ESAR (for non-South Sudanese only) UNICEF - United Nations Children’s Fund Juba P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1206090 | False |
 | Impactpool | Independent Living Facilitator IOM - International Organization for Migration Athens UG - Ungraded | Internship |  |  | https://www.impactpool.org/jobs/1204904 | False |
@@ -1435,6 +1451,7 @@
 | Impactpool | Intern - Trade Facilitation ITC - International Trade Centre Geneva Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1204927 | False |
 | Impactpool | Intern GGGI - Global Green Growth Institute Seoul Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1207248 | False |
 | Impactpool | Intern OHCHR - Office of the High Commissioner for Human Rights Addis Ababa Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1207278 | False |
+| Impactpool | Intern – Programme Management UNDOS - United Nations Department of Operational Support New York City Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1215447 | False |
 | Impactpool | Intern, Documentation Unit (2 positions) ICMP - International Commission on Missing Persons Remote | Sarajevo | The Hague Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1204427 | False |
 | Impactpool | Intern, Human Resources ICMP - International Commission on Missing Persons The Hague Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1214850 | False |
 | Impactpool | Intern, Policy and Cooperation ICMP - International Commission on Missing Persons Remote | The Hague Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1204426 | False |
@@ -1668,6 +1685,7 @@
 | Impactpool | Programme Budget Manager, P-4, Fixed Term Position, Kabul, Afghanistan, 24 months, #00125939 (For Non-Afghan Nationals Only) UNICEF - United Nations Children’s Fund Kabul P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1210528 | False |
 | Impactpool | Programme Coordinator, USRAP Finance and Budget (P) IOM - International Organization for Migration Washington D.C. P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1212510 | False |
 | Impactpool | Programme Management Intern UNEP - United Nations Environment Programme Nairobi Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1204148 | False |
+| Impactpool | PROGRAMME MANAGEMENT OFFICER (Saving Lives Together) UNDSS - United Nations Department of Safety and Security New York City P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1215454 | False |
 | Impactpool | Programme Management Officer UNDOS - United Nations Department of Operational Support New York City P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1211804 | False |
 | Impactpool | PROGRAMME MANAGEMENT OFFICER UNEP - United Nations Environment Programme Paris P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1206461 | False |
 | Impactpool | PROGRAMME MANAGEMENT OFFICER UNEP - United Nations Environment Programme Paris P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1204149 | False |
@@ -1680,6 +1698,7 @@
 | Impactpool | Programme Officer(Communication and Knowledge Management) IUCN - International Union for Conservation of Nature Dhaka P1 | Internship |  |  | https://www.impactpool.org/jobs/1201063 | False |
 | Impactpool | Programme Policy Officer P2 WFP - World Food Programme Havana | Cuba P-2, International Professional - Internationally recruited position - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1214286 | False |
 | Impactpool | Programme Policy Officer P3 (Food Systems and Climate Resilience), Bishkek, Kyrgyz Republic WFP - World Food Programme Bishkek P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1211820 | False |
+| Impactpool | Programme Quality & Development Professional SOS Children’s Villages International Nairobi | Amman | La Paz | Skopje | Vienna | Dakar | Faridabad Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1215459 | False |
 | Impactpool | Programme Support Intern UNEP - United Nations Environment Programme Remote | Abu Dhabi Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1209071 | False |
 | Impactpool | Programme Support Intern UNODC - United Nations Office on Drugs and Crime Uga Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1204935 | False |
 | Impactpool | Programme Support Officer (Immigration and Border Governance (IBG)) (P) IOM - International Organization for Migration Abidjan P-2, International Professional - Internationally recruited position - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1203340 | False |
@@ -1859,6 +1878,7 @@
 | Impactpool | Simbu Provincial Intern GGGI - Global Green Growth Institute Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1203328 | False |
 | Impactpool | Social and Environmental Safeguards Analyst [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Suva IPSA-9, International Personnel Services Agreement - Junior level | Internship |  |  | https://www.impactpool.org/jobs/1211090 | False |
 | Impactpool | Social Media Content Producer (Fixed term maternity cover - 12 months) IRC - International Rescue Committee London Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1215172 | False |
+| Impactpool | Social Media Governance Consultant IRC - International Rescue Committee Remote Consultant - Contractors Agreement - Consultancy | Internship |  |  | https://www.impactpool.org/jobs/1215464 | False |
 | Impactpool | SPECIAL ASSISTANT, POLITICAL AFFAIRS, (Fixed-Term Limited) UNHABITAT - United Nations Human Settlements Programme Nairobi P-4, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1208564 | False |
 | Impactpool | Specialist – Internal Audit Capability EU Careers by EPSO The Hague AD-6, Administrator - Open to citizens of an EU country - Mid/Senior level | Internship |  |  | https://www.impactpool.org/jobs/1203669 | False |
 | Impactpool | Staff Counsellor WHO - World Health Organization P-3, International Professional - Internationally recruited position - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1206997 | False |
@@ -1986,6 +2006,7 @@
 | Impactpool | Youth Intern (Summer 2026) IRC - International Rescue Committee United States of America Internship - Internship | Internship |  |  | https://www.impactpool.org/jobs/1202334 | False |
 | Impactpool | Youth School Success Specialist IRC - International Rescue Committee New York City | Rai Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1208658 | False |
 | Impactpool | Youth Services Specialist IRC - International Rescue Committee Remote | Louisville Mid - Mid level | Internship |  |  | https://www.impactpool.org/jobs/1207246 | False |
+| Impactpool | YouTube Digital Strategist IRC - International Rescue Committee Remote Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1215465 | False |
 | Impactpool | Соработник/чка за Програма за лојалност SOS Children’s Villages International Skopje Level not specified | Internship |  |  | https://www.impactpool.org/jobs/1203321 | False |
 | Impactpool | ​​Field Security Associate IOM - International Organization for Migration Poltava | Dnipro | Kharkiv GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support | Internship |  |  | https://www.impactpool.org/jobs/1201727 | False |
 | Inter-American Development Bank | Administrative Support Internship - Barbados Country Office (Christ Church, BB, BB17068) | Internship |  |  | https://jobs.iadb.org/job/Christ-Church-Administrative-Support-Internship-Barbados-Country-Office-BB17068/1373473700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS | False |
@@ -2071,6 +2092,7 @@
 | UN Careers Portal | TRAVEL ASSISTANT | Early Career | NAIROBI | 2026-05-14 | https://careers.un.org/job-openings?job-id=275176 | False |
 | UN Women | Individual Consultancies (ICs). | Early Career |  |  | https://jobs.undp.org/cj_view_consultancies.cfm | False |
 | UN Women | Job Title Adjoint Responsable Administratif et Financier - UNOCHA - Nationals Only Post level NOA Apply by Mar-11-26 Agency UNOCHA Location Bamako, Mali | Early Career |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32195 | False |
+| UN Women | Job Title Admin and Coordination Assistant [Open to internal and external applicants who are nationals of the EU, EFTA] Post level NPSA-4 Apply by Jun-4-26 Agency UNDP Location Berlin, Germany | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34374 | False |
 | UN Women | Job Title Admin/Finance Associate (Part-time, 50%) [Open to external applicants] Post level NPSA-7 Apply by Mar-11-26 Agency UNDP Location Sukhumi, Georgia | Early Career |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32149 | False |
 | UN Women | Job Title Administrative and Finance Associate (Marawi City) [Open to internal and external applicants] Post level NPSA-7 Apply by Apr-14-26 Agency UNDP Location Philippines | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32212 | False |
 | UN Women | Job Title Administrative and Finance Associate (Marawi City) [Open to internal and external applicants] Post level NPSA-7 Apply by Apr-2-26 Agency UNDP Location Philippines | Internship |  |  | https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32212 | False |
@@ -2852,6 +2874,7 @@
 | UNFPA | International Consultant – Midwifery Competency Assessment (SRHR) and development of recommentations | Internship |  |  | https://www.unfpa.org/jobs/international-consultant-%E2%80%93-midwifery-competency-assessment-srhr-and-development | False |
 | UNFPA | International Consultant – Midwifery Competency Assessment (SRHR) and development of… | Internship |  |  | https://www.unfpa.org/jobs/international-consultant-%E2%80%93-midwifery-competency-assessment-srhr-and-development | False |
 | UNFPA | International Consultant: Census Data Analysis & Reporting Expert | Internship |  |  | https://www.unfpa.org/jobs/international-consultant-census-data-analysis-reporting-expert | False |
+| UNFPA | International Consultant: Data Processing Consultant for 2026 Cambodia Demographic and Health Survey (CDHS) | Internship |  |  | https://www.unfpa.org/jobs/international-consultant-data-processing-consultant-2026-cambodia-demographic-and-health | False |
 | UNFPA | International Consultant: Develop Population Policy, Iraq, Erbil | Internship |  |  | https://www.unfpa.org/jobs/international-consultant-develop-population-policy-iraq-erbil | False |
 | UNFPA | INTERNATIONAL CONSULTANT: Mid-Term Review (MTR) - 9th Country Programme | Internship |  |  | https://www.unfpa.org/jobs/international-consultant-mid-term-review-mtr-9th-country-programme | False |
 | UNFPA | International IC: Review and Development of Iraq Nursing and Midwifery Strategy– Iraq, Baghdad | Internship |  |  | https://www.unfpa.org/jobs/international-ic-review-and-development-iraq-nursing-and-midwifery-strategy%E2%80%93-iraq-baghdad | False |
@@ -3464,6 +3487,7 @@
 | UNJobs Aggregator (HTML) | [Re-advertisement] Executive Board Secretariat Intern, New York, 6 Months, New York, United States | Internship |  |  | https://unjobs.org/vacancies/1776303226935 | False |
 | UNJobs Aggregator (HTML) | Administrative and Finance Associate (Marawi City) [Open to internal and external applicants], Philippines | Internship |  |  | https://unjobs.org/vacancies/1775543763645 | False |
 | UNJobs Aggregator (HTML) | Administrative Intern, Nouakchott, Mauritania | Internship |  |  | https://unjobs.org/vacancies/1778897411274 | False |
+| UNJobs Aggregator (HTML) | AI‑Assisted codebase Migrator development Intern, Bangkok, Thailand | Internship |  |  | https://unjobs.org/vacancies/1779456888093 | False |
 | UNJobs Aggregator (HTML) | Analista Arquiteto de Software (Home Based) - [Open to internal and external applicants], Brasilia, Brazil | Internship |  |  | https://unjobs.org/vacancies/1775575906542 | False |
 | UNJobs Aggregator (HTML) | Archivist Intern, Yaounde, Cameroon | Internship |  |  | https://unjobs.org/vacancies/1773179146414 | False |
 | UNJobs Aggregator (HTML) | Asistente en Gestión Operativa de Cooperaci&oacute;n Internacional, Mexico | Internship |  |  | https://unjobs.org/vacancies/1775489615062 | False |
@@ -3479,6 +3503,7 @@
 | UNJobs Aggregator (HTML) | Consultant International - Expert en Education, Royaume-Uni de Grande-Bretagne, Yaounde | Internship |  |  | https://unjobs.org/vacancies/1775677526111 | False |
 | UNJobs Aggregator (HTML) | Consultant International en statistiques de l'éducation pour l'appui aux pays de l'Afrique centrale, Yaounde | Internship |  |  | https://unjobs.org/vacancies/1775677505820 | False |
 | UNJobs Aggregator (HTML) | Consultant(e) (national(e) ou international(e) en appui au renforcement des mécanismes d'éducation alternative pour l'insertion et la réinsertion des filles et des garçons dans un parcours éducatif, Cotonou, Benin | Internship |  |  | https://unjobs.org/vacancies/1776808078337 | False |
+| UNJobs Aggregator (HTML) | Consultant(e) International(e) - Associé facilitation des échanges et des investissements pour l’Afrique Centrale, Geneva, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1779456906390 | False |
 | UNJobs Aggregator (HTML) | Consultant(e) International(e) pour l'implantation et l'adaptation de STATEDUC mobile au Burundi, Bujumbura, Burundi | Internship |  |  | https://unjobs.org/vacancies/1775677452955 | False |
 | UNJobs Aggregator (HTML) | Data Engineering Intern, New York, United States | Internship |  |  | https://unjobs.org/vacancies/1777429262131 | False |
 | UNJobs Aggregator (HTML) | Deputy Country Representative for OPT, based in Amman (Link For Internal Applicants Only), Vernier, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1779331824263 | False |
@@ -3504,6 +3529,7 @@
 | UNJobs Aggregator (HTML) | Intern - Immigration and Border Governance (IBG) Unit, Nairobi, Kenya | Internship |  |  | https://unjobs.org/vacancies/1776095491147 | False |
 | UNJobs Aggregator (HTML) | INTERN - LEGAL AFFAIRS, New York, United States | Internship |  |  | https://unjobs.org/vacancies/1775889213812 | False |
 | UNJobs Aggregator (HTML) | Intern - PROGRAMME MANAGEMENT (Multiple Positions), Vientiane, Lao PDR | Internship |  |  | https://unjobs.org/vacancies/1773253900036 | False |
+| UNJobs Aggregator (HTML) | INTERN - PROGRAMME MANAGEMENT, I, Geneva, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1779456912950 | False |
 | UNJobs Aggregator (HTML) | INTERN - PROGRAMME MANAGEMENT, New York, United States | Internship |  |  | https://unjobs.org/vacancies/1778339057452 | False |
 | UNJobs Aggregator (HTML) | Intern - Sustainable Investment and Responsible Business, Vienna, Austria | Internship |  |  | https://unjobs.org/vacancies/1773773870002 | False |
 | UNJobs Aggregator (HTML) | Intern in Economic and Environmental Department | Internship |  |  | https://unjobs.org/vacancies/1776905804142 | False |
@@ -3579,9 +3605,11 @@
 | UNJobs Aggregator (HTML) | Quantitative Research Intern - Crisis & Resilience Portfolio, Istanbul | Internship |  |  | https://unjobs.org/vacancies/1775511603304 | False |
 | UNJobs Aggregator (HTML) | Redact/Internat Trainer/Expert on Virtual Assets and Crypto-Crime, Moldova | Internship |  |  | https://unjobs.org/vacancies/1774447240233 | False |
 | UNJobs Aggregator (HTML) | Redact/Internat Trainer/Expert on Virtual Assets and Crypto-Crime, Moldova | Internship |  |  | https://unjobs.org/vacancies/1772805380249 | False |
+| UNJobs Aggregator (HTML) | Research and Communication Intern, New York, United States | Internship |  |  | https://unjobs.org/vacancies/1779456899850 | False |
 | UNJobs Aggregator (HTML) | Research Intern, Geneva, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1779456852225 | False |
 | UNJobs Aggregator (HTML) | Research Manager for Lebanon, based in Beirut (Link For Internal Applicants Only), Vernier, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1778890565912 | False |
 | UNJobs Aggregator (HTML) | Responsable de Recherche pour le Tchad, basé.e à N'Djamena (Link For Internal Applicants Only), Vernier, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1777681954267 | False |
+| UNJobs Aggregator (HTML) | SDG Policy AI Chatbot development Intern, Bangkok, Thailand | Internship |  |  | https://unjobs.org/vacancies/1779456889433 | False |
 | UNJobs Aggregator (HTML) | Senior Assessment Officer - Research Project Focal point for Kenya, based in Nairobi (Link For Internal Applicants Only), Vernier, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1778284591803 | False |
 | UNJobs Aggregator (HTML) | Senior Assessment Officer for OPT, based in Amman (link For Internal Applicants Only), Vernier, Switzerland | Internship |  |  | https://unjobs.org/vacancies/1778017299331 | False |
 | UNJobs Aggregator (HTML) | Senior Associate, International Finance, Paris, France | Internship |  |  | https://unjobs.org/vacancies/1777691806364 | False |
