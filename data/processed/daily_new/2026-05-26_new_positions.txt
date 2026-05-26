@@ -1,0 +1,276 @@
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] BANGKOK
+[Deadline] 2026-06-24
+[Link] https://careers.un.org/job-openings?job-id=278165
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-09
+[Link] https://careers.un.org/job-openings?job-id=278145
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Camp and Community Services Officer
+[Location] Tripoli
+[Deadline] 2026-06-08
+[Link] https://careers.un.org/job-openings?job-id=275736
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] SAN CRISTOBAL
+[Deadline] 2026-06-09
+[Link] https://careers.un.org/job-openings?job-id=276529
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] DAKAR
+[Deadline] 2026-06-01
+[Link] https://careers.un.org/job-openings?job-id=278227
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HEAD OF OFFICE, HUMANITARIAN AFFAIRS
+[Location] KINSHASA
+[Deadline] 2026-06-09
+[Link] https://careers.un.org/job-openings?job-id=277619
+--------------------------------------------------
+[Organization] UNDP
+[Position] Intern
+[Location] Vientiane, Lao People's Democratic Republic
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34480;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] ICT & Digitalization Intern
+[Location] Kampala, Uganda
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34469;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Management and Monitoring and Evaluation Analyst  [Open to internal and external applicants]
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32513;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Financial Data and Compliance Monitoring Analyst [Open to internal and external applicants]
+[Location] Chisinau, Republic of Moldova
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34474;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Technical and Administrative Associate (Office Based) [Open to internal and external applicants]
+[Location] Paramaribo, Suriname
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34411;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Syunik Resident Field Coordinator (DS: Kapan, Armenia) [Open to internal and external applicants]
+[Location] Armenia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34107;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Financial Data and Compliance Monitoring Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Jun-8-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34474
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title ICT & Digitalization Intern Post level IN Apply by Jun-1-26 Agency UNDP Location Kampala, Uganda
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34469
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Technical and Administrative Associate (Office Based) [Open to internal and external applicants] Post level NPSA-7 Apply by Jun-8-26 Agency UNDP Location Paramaribo, Suriname
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34411
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Syunik Resident Field Coordinator (DS: Kapan, Armenia) [Open to internal and external applicants] Post level NPSA-9 Apply by Jun-8-26 Agency UNDP Location Armenia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34107
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Quantitative Research Intern - Crisis & Resilience Portfolio Post level Apply by May-31-26 Agency UNDP Location Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33092
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Intern Post level IN Apply by Jun-2-26 Agency UNDP Location Vientiane, Lao People's Democratic Republic
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34480
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Graphic and Web Design Intern (REMOTE) Post level IN Apply by Jun-5-26 Agency UNDP Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34453
+--------------------------------------------------
+[Organization] WFP
+[Position] Senior IT Operations Associate G7
+[Location] Algiers, Algeria, The People Dem.Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Algiers-Algeria-The-People-DemRe/Senior-IT-Operations-Associate-G7_JR123406
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Research, Assessment & Monitoring - RAM)
+[Location] Djibouti, Djibouti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Djibouti-Djibouti-The-Republic-Of/Programme-Policy-Officer--Research--Assessment---Monitoring---RAM-_JR123407
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring & Evaluation Assistant (Garissa, Isiolo, Lodwar, Wajir) - 4 Positions
+[Location] Isiolo, Kenya, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Isiolo-Kenya-The-Republic-Of/Monitoring---Evaluation-Assistant--Garissa--Isiolo--Lodwar--Wajir----4-Positions_JR123336
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant G5
+[Location] Tindouf, Algeria, The People Dem.Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Tindouf-Algeria-The-People-DemRe/Logistics-Assistant-G5_JR123398
+--------------------------------------------------
+[Organization] WFP
+[Position] JPO Programme Policy Officer (Targeting analyst) - Rome, Italy - OPEN TO CANADIAN NATIONALS ONLY
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/JPO-Programme-Policy-Officer--Targeting-analyst----Rome--Italy---OPEN-TO-CANADIAN-NATIONALS-ONLY_JR123302
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Extension: NATIONAL POST: Communications and Advocacy Analyst, Yangon, Myanmar, NOB, FTA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/extension-national-post-communications-and-advocacy-analyst-yangon-myanmar-nob-fta
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA International Consultant – Consolidating National Capacity for SRH Emergency Preparedness
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-international-consultant-%E2%80%93-consolidating-national-capacity-srh-emergency-preparedness
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultancy: End of Programme Evaluation Global Disability Fund (GDF) Joint Programme in Kenya
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultancy-end-programme-evaluation-global-disability-fund-gdf-joint
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultancy – CSE Situational Analysis, Manual Review and Translation
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultancy-%E2%80%93-cse-situational-analysis-manual-review-and-translation
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Stagiaire en Multimédia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/stagiaire-en-multim%C3%A9dia
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Technical Specialist, Demographic Dividend, Population & Development Branch, Programme Division (PD), Nairobi, Kenya, P-4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/technical-specialist-demographic-dividend-population-development-branch-programme-division-pd
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Programme Specialist Health Systems Strengthening, Abuja - NOD - Temporary Appointment
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-specialist-health-systems-strengthening-abuja-nod-temporary
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant - GRCM Training and Programme Manual
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-grcm-training-and-programme-manual
+--------------------------------------------------
+[Organization] UNFPA
+[Position] SSTC Impact Assessment Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/sstc-impact-assessment-consultant
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Extension: NATIONAL POST: Communications and Advocacy Analyst, Yangon, Myanmar, NOB…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/extension-national-post-communications-and-advocacy-analyst-yangon-myanmar-nob-fta
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA International Consultant – Consolidating National Capacity for SRH Emergency…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-international-consultant-%E2%80%93-consolidating-national-capacity-srh-emergency-preparedness
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultancy: End of Programme Evaluation Global Disability Fund…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultancy-end-programme-evaluation-global-disability-fund-gdf-joint
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Financial Data and Compliance Monitoring Analyst [Open to internal and external applicants] UNDP - United Nations Development Programme Chisinau NPSA-8, National Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215686
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance and Administrative Assistant ILO - International Labour Organization Damascus GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215677
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant for Design and Facilitation of Training on Systems Strengthening for Child-Centred Recovery in Ukraine. 5 months, Kyiv, Ukraine, (Internationals only), Home based UNICEF - United Nations Children’s Fund Remote | Kyiv Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215675
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Emergency Specialist (Standby Partners) , P-3, Fixed Term Position, Office of Emergency Operations, OP to Geneva, Switzerland, #00086056 UNICEF - United Nations Children’s Fund Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215665
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship Knowledge Management – Social and Behaviour Change (SBC) - UNICEF Maputo, Mozambique UNICEF - United Nations Children’s Fund Maputo Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215663
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Supply & Logistics Specialist (P-3), FT, #136579, Monrovia - Liberia, WCAR UNICEF - United Nations Children’s Fund P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215661
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship: AI and Digital Innovation Intern (open to Sierra Leonean students or recent graduates) UNICEF - United Nations Children’s Fund Freetown Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215660
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International consultant in peri- & neonatal care - Obstetrician, Tbilisi, Georgia, Health & Nutrition section, 6 Months, Office based with travel to Sukhumi UNICEF - United Nations Children’s Fund Sukhumi | Tbilisi Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215659
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International consultant in peri- & neonatal care - Neonatologist, Tbilisi, Georgia, Health & Nutrition section, 6 Months, Office based with travel to Sukhumi UNICEF - United Nations Children’s Fund Tbilisi | Sukhumi Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215658
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Information Technology (IT)​ UNEP - United Nations Environment Programme Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1215656
+--------------------------------------------------
