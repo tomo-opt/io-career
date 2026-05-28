@@ -1,0 +1,168 @@
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS ASSISTANT
+[Location] GENEVA
+[Deadline] 2026-06-05
+[Link] https://careers.un.org/job-openings?job-id=277335
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] MORONI
+[Deadline] 2026-06-03
+[Link] https://careers.un.org/job-openings?job-id=277364
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS OFFICER
+[Location] DUSHANBE
+[Deadline] 2026-06-03
+[Link] https://careers.un.org/job-openings?job-id=278175
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Programme Management Officer
+[Location] PANAMA CITY
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=276623
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title ICT Support Clerk ( En Oficina ) [Abierto a aplicantes internos y externos)] Post level G4 Apply by Jun-3-26 Agency UNDP Location Caracas, Venezuela
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34205
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Administrative Assistant
+[Location] Dakar (RB), Senegal
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Dakar-RB-Senegal/Senior-Administrative-Assistant_JR2666355-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Administrative Associate, Bishkek, Kyrgyzstan, LSC-6
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-administrative-associate-bishkek-kyrgyzstan-lsc-6
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Lab - Private Finance Operations Senior Associate (Financial and Data Analyst) (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Lab-Private-Finance-Operations-Senior-Associate-%28Financial-and-Data-Analyst%29-DC-20577/1394280400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Principal or Lead Officer - Infra & Energy - Andean Region (Lima, PE)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Lima-IDB-Invest-Principal-or-Lead-Officer-Infra-&-Energy-Andean-Region/1394379800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Engineer Intern, Maradi, Niger
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779946297434
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Administrative Intern, Beijing, China
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779946351668
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Economic Affairs Intern, Beirut, Lebanon
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779946357973
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] BIM Assistant - intern, Brindisi, Italy
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779946374082
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant (Facility Manager) CIP - International Potato Center Lucknow | Agra Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216293
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern, PMER – RBM Capacity Building and Knowledge Management IFRC - International Federation of Red Cross and Red Crescent Societies Geneva Internship, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216292
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern, PMER – Unified Planning and Reporting IFRC - International Federation of Red Cross and Red Crescent Societies Geneva Internship, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216291
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Data and Visualisation IFRC - International Federation of Red Cross and Red Crescent Societies New Delhi Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216290
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultanct, Copy Editor For IFRC Emergency Appeals Review IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Consultant, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216289
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INFORMATION SYSTEMS OFFICER (Temporary Job Opening) UNCTAD - United Nations Conference on Trade and Development Dushanbe P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216287
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Humanitarian Representation Officer - Brussels MSF International - Médecins Sans Frontières (Doctors Without Borders) Brussels Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216286
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associate Press Officer (P-2) ITLOS - International Tribunal for the Law of the Sea Hamburg P-2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216281
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Talent Business Partner WIPO - World Intellectual Property Organization Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216275
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - External Relations and Communications Department (DER) BSTDB - Black Sea Trade and Development Bank Thessaloníki Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216267
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Human Resources Department (DHR) BSTDB - Black Sea Trade and Development Bank Thessaloníki Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216266
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - BoD & BoG Communications Team, Office of the Secretary General (OSG) BSTDB - Black Sea Trade and Development Bank Thessaloníki Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216265
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Information and Communication Technology Department (DIT) BSTDB - Black Sea Trade and Development Bank Thessaloníki Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216264
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 2026-02 Senior Project Assistant (Temp) IOM - International Organization for Migration Belmopan GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216263
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Assistant IOM - International Organization for Migration Beijing GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216262
+--------------------------------------------------
