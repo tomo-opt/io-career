@@ -1,8 +1,7 @@
 {
-  "last_update_bj": "2026-05-28 14:23:07",
-  "count": 4181,
+  "last_update_bj": "2026-05-29 14:23:15",
+  "count": 4247,
   "errors": [
-    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))",
-    "african_union_jobs: all source URLs failed (HTTP request failed: https://careers.au.int/ (HTTPSConnectionPool(host='careers.au.int', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.au.int', port=443) at 0x7f5ade933590>, 'Connection to careers.au.int timed out. (connect timeout=25)'))))"
+    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
   ]
 }
