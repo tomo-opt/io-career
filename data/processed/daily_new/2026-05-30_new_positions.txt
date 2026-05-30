@@ -1,0 +1,330 @@
+[Organization] United Nations Secretariat
+[Position] SENIOR HUMAN RIGHTS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-05
+[Link] https://careers.un.org/job-openings?job-id=278456
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR ECONOMIC AFFAIRS OFFICER
+[Location] GENEVA
+[Deadline] 2026-06-07
+[Link] https://careers.un.org/job-openings?job-id=278439
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HEATING, VENTILATION AND A/C TECHNICIAN
+[Location] NEW YORK
+[Deadline] 2026-06-28
+[Link] https://careers.un.org/job-openings?job-id=274863
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ACCOUNTANT
+[Location] NEW YORK
+[Deadline] 2026-07-13
+[Link] https://careers.un.org/job-openings?job-id=276112
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-07-13
+[Link] https://careers.un.org/job-openings?job-id=278447
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-05
+[Link] https://careers.un.org/job-openings?job-id=277959
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LEGAL OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-06
+[Link] https://careers.un.org/job-openings?job-id=278022
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RIGHTS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-05
+[Link] https://careers.un.org/job-openings?job-id=278438
+--------------------------------------------------
+[Organization] UNDP
+[Position] ICT Analyst [Open to internal and external applicants]
+[Location] Dili, Timor-Leste
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34249;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Assistente de Gestão da Informação (1 vaga) (Office Based) [Open to internal & external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33605;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asistente de Logística (En Oficina) (Abierto a candidatos/as internos y externos) Post level NPSA-5 Apply by Jun-7-26 Agency UNDP Location Tegucigalpa, Honduras
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34566
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asistente Administrativo(a) de Proyectos (En Oficina) (Abierto a candidatos/as internos y externos) Post level NB2 Apply by Jun-7-26 Agency UNDP Location Tegucigalpa, Honduras
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34567
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Assistente de Gestão da Informação (1 vaga) (Office Based) [Open to internal & external applicants] Post level NPSA-4 Apply by Jun-5-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33605
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Motorista (En Oficina) (Abierto a candidatos/as internos y externos) Post level NPSA-2 Apply by Jun-7-26 Agency UNDP Location Tegucigalpa, Honduras
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34571
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title ICT Analyst [Open to internal and external applicants] Post level NOA Apply by Jun-12-26 Agency UNDP Location Dili, Timor-Leste
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34249
+--------------------------------------------------
+[Organization] WFP
+[Position] AU Liaison Officer – Programme Policy and Partnerships
+[Location] Abidjan, Cote D'Ivoire, The Rep.Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Abidjan-Cote-DIvoire-The-RepOf/AU-Liaison-Officer---Programme-Policy-and-Partnerships_JR123554
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Risk Management Officer
+[Location] Addis Ababa, Ethiopia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Addis-Ababa-Ethiopia/Risk-Management-Officer_JR2667312-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Public Health Officer
+[Location] Melkadida, Ethiopia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Melkadida-Ethiopia/Public-Health-Officer_JR2666803-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Information Management Analyst, Addis Ababa, Ethiopia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-information-management-analyst-addis-ababa-ethiopia
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant - Developing recommendations on SRH to the National emergency preparedness plans
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-developing-recommendations-srh-national-emergency-preparedness-plans
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Head of Office, Skopje, North Macedonia, NOD, FTA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/head-office-skopje-north-macedonia-nod-fta
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant(e) International(e) pour la réalisation de l'enquête d'…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultante-internationale-pour-la-r%C3%A9alisation-de-lenqu%C3%AAte-d%C3%A9valuation-des-indicateurs-de-l
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Senior Associate - Financial Institutions Sector - Southern Cone Region (Sao Paulo, BR)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Sao-Paulo-IDB-Invest-Senior-Associate-Financial-Institutions-Sector-Southern-Cone-Region/1395341900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Bureau Of Human Resources Management, Multiple
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780001838707
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Communication & Information Sector, Multiple
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780001816121
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant - Team Leader of UNSDCF 2023-2027, Ulaanbaatar
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1779985412809
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research consultant on corruption and tax policies in Africa (m/f/d) Transparency International Remote Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216713
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fundraising Coordinator (m/f/d) Transparency International Remote | Berlin PF2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216712
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance and Administrative Officer, Guatemala IDEA - International Institute for Democracy and Electoral Assistance Guatemala City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216705
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Associate, Guatemala IDEA - International Institute for Democracy and Electoral Assistance Guatemala City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216704
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Associate II - Stem cell biology, organoids, and biobanking ILRI - International Livestock Research Institute Nairobi HG11
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216699
+--------------------------------------------------
+[Organization] Impactpool
+[Position] PROGRAMME MANAGEMENT OFFICER (Fixed Term Appointment Limited) UNHABITAT - United Nations Human Settlements Programme Nairobi P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216688
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Manager Bureau des Déplacements Internationaux H/F/X - Lyon HI - Humanity & Inclusion - Handicap International Lyon Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216681
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internal Call - Research Associate (Climate Data) Alliance of Bioversity International and CIAT Hanoi BG6
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216680
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internal Call - Postdoctoral Fellow Alliance of Bioversity International and CIAT Hanoi BG8
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216679
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internal Call- Consultant ORPH CROP Alliance of Bioversity International and CIAT Ouagadougou Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216678
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Coordinador II- Infraestructura Alliance of Bioversity International and CIAT Bogotá | Palmira BG07
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216677
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Manager, Vaccine Forecasting Gavi, Vaccine Alliance Geneva CS3 - Career Step 3 - Professional - Both internationally and locally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216676
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Reporting and Information Management Officer UNV - United Nations Volunteers Kenya Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216671
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Innovation & Sustainability Analyst - Innovation Team
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50900-brussels-belgium-windeurope-innovation-sustainability-analyst-team
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Postdoctoral Fellow, Intellectual Pluralism and the Scholarly Habitus
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50899-cambridge-massachusetts-harvard-university-postdoctoral-fellow-intellectual-pluralism-and-the-scholarly-habitus
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Research Assistant (Institute of Policy Studies)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50898-singapore-lee-kuan-yew-school-of-public-policy-research-assistant-institute-studies
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Operations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50897-london-united-kingdom-centre-for-british-progress-head-of-operations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Fellow or Senior Fellow - Indian Energy and Climate Policy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50896-washington-dc-center-for-strategic-and-international-studies-csis-fellow-or-senior-indian-energy-climate-policy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Partnership and Network Adviser
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50895-brussels-belgium-unops-partnership-and-network-adviser
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] International Treaties & Agreements SME - 1919 with Security Clearance
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50894-arlington-virginia-strategic-technology-institute-inc-sti-international-treaties-agreements-sme-1919-with-security-clearance
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Director, Global Programs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50893-remote-new-york-thousand-currents-senior-director-global-programs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Foreign Affairs Information Technology (FAIT) Fellowships
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50892-washington-dc-foreign-affairs-information-technology-fait-fellowship-fellowships
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Internship, Artificial Intelligence, Brookings Metro (Fall 2026)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50891-washington-dc-brookings-institution-internship-artificial-intelligence-metro-fall-2026
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] The Public Affairs Reporting (PAR) graduate program
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50890-springfield-illinois-university-of-the-public-affairs-reporting-par-graduate-program
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Chief of Party – USDA Food for Progress – Ecuador
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50889-quito-ecuador-corus-international-chief-of-party-usda-food-for-progress
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] AMPATH Nepal In-Country Executive Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50888-dhulikhel-nepal-icahn-school-of-medicine-at-mount-sinai-ismm-ampath-in-country-executive-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Grant Management
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50887-london-united-kingdom-start-network-head-of-grant-management
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] NTD Project Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50886-central-african-republic-cbm-ntd-project-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor (Latinx Politics/ Communities) - Dept of Africana, Puerto Rican and Latino Studies, School of Arts & Sciences
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50885-new-york-hunter-college-assistant-professor-latinx-politics-communities-dept-of-africana-puerto-rican-and-latino-studies-school-arts-sciences
+--------------------------------------------------
