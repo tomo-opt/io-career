@@ -1,0 +1,192 @@
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship Pipeline - Human Resources, Vienna, Austria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780155403508
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Call for External Collaborator: Ensure an activity to promote Occupational Safety and Health (OSH) in Djibouti, focusing on national and international normative and legislative frameworks, Djibouti
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780155996986
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] UNDP-ECU-00926 Servicios de asesoría de un experto internacional para Diagnóstic, Ecuador
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780156116497
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Empowerment - AmeriCorps IRC - International Rescue Committee Charlottesville Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216786
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Education - AmeriCorps IRC - International Rescue Committee Richmond Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216785
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Education - AmeriCorps IRC - International Rescue Committee Charlottesville Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216784
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Community Health Worker IRC - International Rescue Committee United States of America Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216783
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Operations Specialist IRC - International Rescue Committee Denver Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216782
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Communication, Les Cayes, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Les Cayes | Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216781
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Engagement des Jeunes, Port au Prince, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216780
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Politique Sociale, Port au Prince, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216779
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Eau, Assainissement et Hygiène (WASH) – 3 Postes, Haïti (Port-au-Prince, Les Cayes et Les Gonaïves), 26 Semaines UNICEF - United Nations Children’s Fund Port-au-Prince | Les | Gonaïves | Les Cayes Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216778
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Protection de l’Enfant (2 postes), Les Cayes, Haïti, 26 semaines UNICEF - United Nations Children’s Fund Les Cayes Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216777
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Construction, Les Cayes, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Les Cayes | Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216776
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Administration (2 postes), Port-au-Prince, Haiti (26 semaines) UNICEF - United Nations Children’s Fund Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216775
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Communication, Gonaives, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216774
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Communication (2 Postes), Port-au-Prince, Haïti, 26 Semaines UNICEF - United Nations Children’s Fund Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216773
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Coordination Programme, Données et Planification, Port-au-Prince, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216772
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Éducation (2 postes), Les Cayes et Gonaïves, Haïti, 26 semaines UNICEF - United Nations Children’s Fund Gonaïves | Les Cayes Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216771
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Education (Urgence), Port-au-Prince, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216770
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Education (Nexus), Port-au-Prince, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Port-au-Prince Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216769
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stage en Ressources Humaines, Port-au-Prince, Haiti, 26 semaines UNICEF - United Nations Children’s Fund Port-au-Prince | Gonaïves Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216768
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Advisor Monitoring & Evaluation (M&E) SOS Children’s Villages International La Paz | Nairobi | Faridabad | Dakar | Skopje | Amman | Vienna Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216767
+--------------------------------------------------
+[Organization] Impactpool
+[Position] REQUEST FOR PROPOSAL GLOBAL PAYROLL SOLUTION SOS Children’s Villages International Remote Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216766
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Analyst/Senior Research Analyst - MCDRS IMF - International Monetary Fund Washington D.C. A06, A07, A08
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216765
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultoria - Experto en comunicaciones y estrategias de difusión (C-26-07) CIP - International Potato Center Peru | Lima Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216761
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Legal Counsel, Africa (Locally Recruited) CIMMYT - International Maize and Wheat Improvement Center Nairobi Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216757
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Partnership Excellence Specialist (Internationally Recruited) CIMMYT - International Maize and Wheat Improvement Center Mexico City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216756
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Facilities Coordinator (Locally Recruited) CIMMYT - International Maize and Wheat Improvement Center Mexico City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216755
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN-US10-2026-056 Senior Programme Associate, USRAP IOM - International Organization for Migration Washington D.C. GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216754
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN-US10-2026-055 Senior Operations Assistant (Field Support, Airport) IOM - International Organization for Migration GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216753
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Field Operations Associate –Technical (Shelter/NFI) IOM - International Organization for Migration GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216752
+--------------------------------------------------
