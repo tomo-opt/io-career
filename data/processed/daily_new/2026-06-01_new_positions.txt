@@ -1,0 +1,54 @@
+[Organization] UNDP
+[Position] Project coordinator FCDO (Open to internal & external applicants)
+[Location] Algiers, Algeria
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33379;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistic Officer NOB, Fort Dauphin et Tulear, Readvertised
+[Location] 2 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Fort-Dauphin-Madagascar-The-Democratic/Logistic-Officer-NOB--Fort-Dauphin-et-Tulear--Readvertised_JR123586
+--------------------------------------------------
+[Organization] UNFPA
+[Position] IC - Development of the M&E Framework for NAP ECEFMU
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/ic-development-me-framework-nap-ecefmu
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Cybersecurity, Brindisi (Italy), Geneva (Switzerland), New York (USA), Remote, Rome (Italy), Valencia (Spain)
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780040546269
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] STEM Trainee, Abuja, Nigeria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780144425262
+--------------------------------------------------
+[Organization] Impactpool
+[Position] HR Information Systems & Automation Officer - IP3 ICMPD - International Centre for Migration Policy Development Vienna P3
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216802
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Junior Project Officer - IP1 ICMPD - International Centre for Migration Policy Development Abuja | Addis Ababa | Brussels | Praia | Vienna | Abidjan | Accra IP1, International Professional 1 - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216801
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Midwifery Specialist, Kabul, Afghanistan, P-3 UNFPA - United Nations Population Fund Kabul P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216793
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ERD Officer IRC - International Rescue Committee Khartoum | Omdurman Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1216791
+--------------------------------------------------
