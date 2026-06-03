@@ -1,0 +1,306 @@
+[Organization] UNDP
+[Position] AI Innovation and Mediation Intern
+[Location] New York, United States
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34572;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Finance Assistant [Open to internal and external applicants]
+[Location] Riyadh, Saudi Arabia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34186;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Project Monitoring and Evaluation (M&E) Specialist (Open to internal and external applicants)
+[Location] Dili, Timor-Leste
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34605;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Analista Técnico em Refrigeração e Ar Condicionado (RAC) (Office Based) [Open to internal and external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34637;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Project Monitoring and Evaluation (M&E) Specialist (Open to internal and external applicants) Post level NPSA-10 Apply by Jun-16-26 Agency UNDP Location Dili, Timor-Leste
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34605
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title AI Innovation and Mediation Intern Post level IN Apply by Jun-17-26 Agency UNDP Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34572
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista Técnico em Refrigeração e Ar Condicionado (RAC) (Office Based) [Open to internal and external applicants] Post level NPSA-9 Apply by Jun-16-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34637
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Security) G4, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Business-Support-Assistant--Security--G4--Port-au-Prince--Haiti_JR123186-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Wellness Officer (Medical Doctor) SC8, Port au Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Wellness-Officer--Medical-Doctor--SC8--Port-au-Prince--Haiti_JR123663
+--------------------------------------------------
+[Organization] WFP
+[Position] Senior Programme Associate (Data and GIS Analyst), SC7 Kampala
+[Location] Kampala, Uganda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Senior-Programme-Associate--Data-and-GIS-Analyst---SC7-Kampala_JR123658
+--------------------------------------------------
+[Organization] WFP
+[Position] Assistant(e) de gestion SC-4
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Assistant-e--de-gestion-SC-4_JR123543
+--------------------------------------------------
+[Organization] WFP
+[Position] International Consultant, CSTI, Engineer, Abeche, Chad
+[Location] Abeche, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Abeche-Chad-The-Republic-Of/International-Consultant--CSTI--Engineer--Abeche--Chad_JR123617
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Information Management Intern
+[Location] Bucharest, Romania
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bucharest-Romania/Information-Management-Intern_JR2666971-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Finance Assistant - G5, Banjul, The Gambia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/finance-assistant-g5-banjul-gambia
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Media and Crisis Communications Specialist, ESARO, Johannesburg, NOC
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-media-and-crisis-communications-specialist-esaro-johannesburg-noc
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Internship - Data Processing And Analysis (2 positions), WCARO, Dakar, Senegal
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/internship-data-processing-and-analysis-2-positions-wcaro-dakar-senegal
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Internship - Geospatial Data Analysis, WCARO, Dakar, Senegal
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/internship-geospatial-data-analysis-wcaro-dakar-senegal
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Motorista Temporal para la Representación
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/motorista-temporal-para-la-representaci%C3%B3n
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultancy - Regional Midwifery Mentorship Program Evaluation: Effectiveness,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultancy-regional-midwifery-mentorship-program-evaluation-effectiveness-impact-and
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy - Develop Programmatic Guidance and Essential Content for…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-develop-programmatic-guidance-and-essential-content-cse-humanitarian
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Senior Investment Associate - Guatemala (Guatemala City, GT)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Guatemala-City-IDB-Invest-Senior-Investment-Associate-Guatemala/1396179400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Information Management Intern, Bucharest, Romania
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780433212473
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern, Transparency, Training and Certification Unit, Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780438475156
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant to support ODIHR's work on individual needs assessment of hate crime victims and related issues (SSA)
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780441689132
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communication Trainee European Union Satellite Centre - SATCEN Madrid Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217230
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Programme Officer, Evaluation & Learning Gavi, Vaccine Alliance Geneva CS4 - Career Step 4 - Professional - Both internationally and locally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217227
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Manager, Financial Reporting and Risk Initiatives Gavi, Vaccine Alliance Geneva CS3 - Career Step 3 - Professional - Both internationally and locally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217226
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Analyst I/II IFPRI - International Food Policy Research Institute Yangon Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217224
+--------------------------------------------------
+[Organization] Impactpool
+[Position] End of Project Evaluation of ‘’Inclusive Service Delivery in Africa (ISDA)’’ project (m/f/d) Transparency International Remote | Kigali | Antananarivo | Accra | Harare Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217221
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Digital Consultant for Social Accountability, Community Committee Tracking, and Community Feedback Systems, Child Survival Development, Maseru, Lesotho 7.5 months, (National/International) Remote+Travel 593436 UNICEF - United Nations Children’s Fund Remote | Maseru Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217212
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Specialist (Cholera), P-3 , TA (7 months), #137268, Kinshasa - Democratic Republic of Congo, WCAR UNICEF - United Nations Children’s Fund Kinshasa P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217208
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ICT Administrative Officer WIPO - World Intellectual Property Organization Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217202
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior IT Product Manager BIS - Bank for International Settlements Remote | Geneva | Basel Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1217201
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] EU Policy Advisor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50935-brussels-belgium-vattenfall-eu-policy-advisor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Information Operations (IO) Policy & Strategy Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50934-arlington-virginia-red-gate-group-information-operations-io-policy-strategy-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Research Fellowship: Advancing the Science and Practice of Supporting Children
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50933-remote-new-york-the-lego-foundation-research-fellowship-advancing-science-and-practice-of-supporting-children
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Global Communications and Advocacy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50932-new-york-united-nations-children-s-fund-unicef-director-global-communications-and-advocacy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Schwarzman Scholars Program
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50931-beijing-china-tsinghua-university-schwarzman-college-scholars-program
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Communications Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50930-washington-dc-center-for-arms-control-and-non-proliferation-senior-communications-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Group Chief
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50929-mclean-virginia-office-of-the-director-national-intelligence-group-chief
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] AI Innovation and Security Policy Workshop
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50928-washington-dc-horizon-institute-for-public-service-ai-innovation-and-security-policy-workshop
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Policy & Advocacy Intern - Online Safety
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50927-brussels-belgium-eurochild-policy-advocacy-intern-online-safety
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] UK Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50926-london-united-kingdom-human-rights-watch-uk-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of AI & Program Technology Engineering
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50925-united-kingdom-international-rescue-committee-head-of-ai-program-technology-engineering
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Principal IC Policy and Strategy Expert (Intelligence Center)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50924-bethesda-maryland-mitre-principal-ic-policy-and-strategy-expert-intelligence-center
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Officer, Learning & Impact
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50923-new-york-surdna-foundation-program-officer-learning-impact
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Faculty, Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50922-university-center-michigan-saginaw-valley-state-adjunct-faculty-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Core Strategy & Engagement Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50921-washington-dc-national-endowment-for-democracy-ned-core-strategy-engagement-assistant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications & Events Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50920-brussels-belgium-federation-internationale-de-l-automobile-communications-events-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Sustainable Finance Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50919-la-jolla-california-waitt-institute-sustainable-finance-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate Program Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/50918-la-jolla-california-waitt-institute-associate-program-director
+--------------------------------------------------
