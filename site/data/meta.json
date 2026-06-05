@@ -1,13 +1,7 @@
 {
-  "last_update_bj": "2026-06-04 14:56:58",
-  "count": 4495,
+  "last_update_bj": "2026-06-05 14:41:46",
+  "count": 4567,
   "errors": [
-    "un_secretariat_careers: all source URLs failed (HTTP request failed: https://careers.un.org/api/site/jobOpening/popularjobopening (403 Client Error: Forbidden for url: https://careers.un.org/api/site/jobOpening/popularjobopening))",
-    "un_careers_portal: all source URLs failed (HTTP request failed: https://careers.un.org/api/site/jobOpening/latestJobOpening (403 Client Error: Forbidden for url: https://careers.un.org/api/site/jobOpening/latestJobOpening))",
-    "ilo_jobs: all source URLs failed (HTTP request failed: https://jobs.ilo.org/ (HTTPSConnectionPool(host='jobs.ilo.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.ilo.org', port=443) at 0x7faa09edd5d0>, 'Connection to jobs.ilo.org timed out. (connect timeout=25)'))))",
-    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))",
-    "ebrd_jobs: all source URLs failed (HTTP request failed: https://www.ebrd.com/careers.html (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))))",
-    "icrc_jobs: all source URLs failed (HTTP request failed: https://careers.icrc.org/ (HTTPSConnectionPool(host='careers.icrc.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.icrc.org', port=443) at 0x7faa093b2150>, 'Connection to careers.icrc.org timed out. (connect timeout=25)'))))",
-    "eu_traineeships: all source URLs failed (HTTP request failed: https://traineeships.ec.europa.eu/ (403 Client Error: Forbidden for url: https://traineeships.ec.europa.eu/))"
+    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
   ]
 }
