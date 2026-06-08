@@ -1,0 +1,174 @@
+[Organization] United Nations Secretariat
+[Position] Senior HR Officer (Payroll)
+[Location] HQ Amman
+[Deadline] 2026-06-21
+[Link] https://careers.un.org/job-openings?job-id=278868
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Registrar
+[Location] HQ Amman
+[Deadline] 2026-06-28
+[Link] https://careers.un.org/job-openings?job-id=278490
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Specialist - Inclusive Socio-Economic Development [Open to Internal and External applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34681;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Gender Policy Analyst in Economy and Private Sector (Home Based) [Open to Internal and External applicatns]
+[Location] Panama City, Panama
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33974;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Economist
+[Location] Abidjan, Côte d'Ivoire
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Abidjan-Cte-dIvoire/Associate-Economist_JR2667444-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] External Relations Intern
+[Location] Kuwait City, Kuwait
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kuwait-City-Kuwait/External-Relations-Intern_JR2667421-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Programme Analyst, ASRH, (NOB), Accra, Ghana
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-asrh-nob-accra-ghana
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Mid-Term Reviewer for 7th Country Programme (PNG) - National IC
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/mid-term-reviewer-7th-country-programme-png-national-ic
+--------------------------------------------------
+[Organization] UNFPA
+[Position] IC - Development of the 4Ps Parent Leaders Handbook
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/ic-development-4ps-parent-leaders-handbook
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant for the Revision of Out-of-School Comprehensive Sexuality Education (CSE) Delivery Manual
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-revision-out-school-comprehensive-sexuality-education-cse-delivery-manual
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant for the Development of a National Social and Behavior Change Communication (SBCC) Strategy for Adolescents' Sexual and Reproductive Health (ASRH) in Liberia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-development-national-social-and-behavior-change-communication-sbcc
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Architectural Engineering Technician - Analyst
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Architectural-Engineering-Technician-Analyst/3315
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] External Relations Intern, Kuwait, Kuwait
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1780825674578
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Gender Mainstreaming and Climate Change Trainer - International Consultant - Home Based UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Home Based - May require travel Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218098
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Management Specialist - International - PSA-11 - Syria UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Syria PSA-11
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218097
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern- RH Dakar IsDB - Islamic Development Bank Dakar Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218096
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern-HQ-Science, Technology and Innovation IsDB - Islamic Development Bank Jeddah Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218094
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern-HQ-Health Services Center IsDB - Islamic Development Bank Jeddah Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218093
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Expedited VN: Head of Clinic IOM - International Organization for Migration Dar es Salaam NO-C, National Professional Officer - Locally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218091
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Private Sector and Civil Society Engagement Consultant IOM - International Organization for Migration Sudan UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218090
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Health Capacity Strengthening Consultant IOM - International Organization for Migration Sudan UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218089
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior HR Officer (Payroll) - internally only UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman 17
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218088
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Intern UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218087
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Registrar UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218086
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Safety and Security Guard IRC - International Rescue Committee Kunduz Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218083
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Socios y Transferencias Metodológicas IRC - International Rescue Committee Mexico City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218072
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de coordinación de proyecto IRC - International Rescue Committee Mexico City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218071
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Standards Coordinator IRC - International Rescue Committee Remote | Nairobi | Bogotá | Abuja Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218069
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Syria National Coordinator Consultancy IRC - International Rescue Committee Damascus Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218067
+--------------------------------------------------
