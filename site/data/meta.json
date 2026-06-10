@@ -1,7 +1,10 @@
 {
-  "last_update_bj": "2026-06-09 14:17:49",
-  "count": 4726,
+  "last_update_bj": "2026-06-10 14:40:51",
+  "count": 4771,
   "errors": [
-    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
+    "un_secretariat_careers: all source URLs failed (HTTP request failed: https://careers.un.org/api/site/jobOpening/popularjobopening (403 Client Error: Forbidden for url: https://careers.un.org/api/site/jobOpening/popularjobopening))",
+    "un_careers_portal: all source URLs failed (HTTP request failed: https://careers.un.org/api/site/jobOpening/latestJobOpening (403 Client Error: Forbidden for url: https://careers.un.org/api/site/jobOpening/latestJobOpening))",
+    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))",
+    "eu_traineeships: all source URLs failed (HTTP request failed: https://traineeships.ec.europa.eu/ (403 Client Error: Forbidden for url: https://traineeships.ec.europa.eu/))"
   ]
 }
