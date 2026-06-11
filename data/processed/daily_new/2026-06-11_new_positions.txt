@@ -1,0 +1,204 @@
+[Organization] United Nations Secretariat
+[Position] SENIOR STAFF ASSISTANT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-06-25
+[Link] https://careers.un.org/job-openings?job-id=277830
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR ADMINISTRATIVE OFFICER
+[Location] BERN
+[Deadline] 2026-07-23
+[Link] https://careers.un.org/job-openings?job-id=279054
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR BENEFITS ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-06-25
+[Link] https://careers.un.org/job-openings?job-id=277489
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] LAAYOUNE
+[Deadline] 2026-06-17
+[Link] https://careers.un.org/job-openings?job-id=278639
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Senior Programme Officer, Partnerships
+[Location] NEW YORK
+[Deadline] 2026-06-17
+[Link] https://careers.un.org/job-openings?job-id=279096
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TRAVEL ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-06-24
+[Link] https://careers.un.org/job-openings?job-id=278454
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] Associate Programme Management Officer
+[Location] NAIROBI
+[Deadline] 2026-06-12
+[Link] https://careers.un.org/job-openings?job-id=273426
+--------------------------------------------------
+[Organization] UNDP
+[Position] Operations Analyst (Open to internal and external applicants)
+[Location] Paramaribo, Suriname
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=31684;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Support Intern Post level IN Apply by Jun-16-26 Agency UNDP Location Pristina, Kosovo (as per UNSCR 1244)
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34644
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Operations Associate(Open to internal and external applicants) Post level NPSA-7 Apply by Jun-14-26 Agency UNDP Location Jordan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34489
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a de la Unidad de Catastro y SIG (Abierto a candidatos internos y externos) Post level NPSA-7 Apply by Jun-17-26 Agency UNDP Location Panama
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34811
+--------------------------------------------------
+[Organization] WFP
+[Position] Internship - Digital Fundraising - Private Partnerships and Fundraising (PPF)
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Internship---Digital-Fundraising---Private-Partnerships-and-Fundraising--PPF-_JR123838-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Home Grown School Feeding - HGSF),SC9
+[Location] Kigali, Rwanda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kigali-Rwanda-The-Republic-Of/Programme-Policy-Officer--Home-Grown-School-Feeding---HGSF--SC9_JR123895
+--------------------------------------------------
+[Organization] WFP
+[Position] Human Resource Assistant G5
+[Location] Dili, Timor-Leste
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dili-Timor-Leste/Human-Resource-Assistant_JR123920-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Officer (NOC) Damascus VA016-2026
+[Location] Damascus, Syria, The Arab Republic O
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Damascus-Syria-The-Arab-Republic-O/Finance-Officer--NOC--Damascus-VA016-2026_JR123819
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Programme Coordinator, Dili, Timor Leste, P-3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-programme-coordinator-dili-timor-leste-p-3
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Finance Associate, Bishkek, Kyrgyzstan, G6 (FTA)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-finance-associate-bishkek-kyrgyzstan-g6-fta
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Operations Manager, Antananarivo, Madagascar, P-4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-operations-manager-antananarivo-madagascar-p-4-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Sexual & Reproductive Health Specialist, International Consultant, Paramaribo, Suriname
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/sexual-reproductive-health-specialist-international-consultant-paramaribo-suriname
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Midwifery Specialist, Kabul, Afghanistan, P-3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/midwifery-specialist-kabul-afghanistan-p-3
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Accountability to Affected People and Disability Inclusion Information Management Analyst, Kabul, Afghanistan, NO-A
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-accountability-affected-people-and-disability-inclusion-information-management
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant - Developing national investment case on inclusion of…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-developing-national-investment-case-inclusion-modern-contraceptives
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant - Developing national investment case on inclusion of modern…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-developing-national-investment-case-inclusion-modern-contraceptives
+--------------------------------------------------
+[Organization] UNFPA
+[Position] (Re-advertisement) Consultancy, Non Health Supplies Planning Analyst, Supply Chain…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-consultancy-non-health-supplies-planning-analyst-supply-chain-management-unit
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Contracts Associate, Supply Chain Management Unit (SCMU), Copenhagen, Denmark, G6 (1…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/contracts-associate-supply-chain-management-unit-scmu-copenhagen-denmark-g6-1-post-roster
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Call for External Collaborators - Technical Support to National Statistics Office of Georgia for the Development of an Internationally Consistent Methodology and Analytical Framework for Estimating the Informal Economy in Georgia, DWT/CO-Budapest, Multiple destinations
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781111849736
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Administrative Support Internship - Bahamas Country Office, Bahamas Nassau
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781109907023
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Events Coordinator ICPA - International Corrections and Prisons Association Remote Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218879
+--------------------------------------------------
+[Organization] Impactpool
+[Position] RFP301259 - Estudiante en práctica (Desarrollo de Software y Ciencia de Datos) - Green Campus Alliance of Bioversity International and CIAT Palmira | Bogotá Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218871
+--------------------------------------------------
+[Organization] Impactpool
+[Position] RFP301259 - Estudiante en práctica (Desarrollo de Software) - Green Campus Alliance of Bioversity International and CIAT Bogotá | Palmira Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218870
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Business Analyst / Developer BIS - Bank for International Settlements Remote | Basel | Geneva Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218853
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Political Affairs Intern: Information analysis and data visualisation The Security Council Affairs Division (SCAD) Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218847
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Geographical Information Systems Intern The Security Council Affairs Division (SCAD) Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218845
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Political Affairs Intern The Security Council Affairs Division (SCAD) Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218844
+--------------------------------------------------
