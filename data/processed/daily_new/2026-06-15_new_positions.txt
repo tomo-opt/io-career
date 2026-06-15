@@ -1,0 +1,114 @@
+[Organization] United Nations Secretariat
+[Position] Head Field Finance Office
+[Location] AMMAN
+[Deadline] 2026-07-12
+[Link] https://careers.un.org/job-openings?job-id=278223
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Administrative Officer
+[Location] HQ Amman
+[Deadline] 2026-06-28
+[Link] https://careers.un.org/job-openings?job-id=278881
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Ethics Officer
+[Location] HQ Amman
+[Deadline] 2026-07-12
+[Link] https://careers.un.org/job-openings?job-id=278882
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR POLITICAL AFFAIRS OFFICER
+[Location] GAROOWE
+[Deadline] 2026-06-21
+[Link] https://careers.un.org/job-openings?job-id=279060
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] ASSOCIATE ADMINISTRATIVE OFFICER
+[Location] MONTREAL
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=278201
+--------------------------------------------------
+[Organization] UNDP
+[Position] Economist Intern
+[Location] Manila, Philippines
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34879;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Community Mobilizer (Open to internal and external applicants)
+[Location] Buka - Bougainville, Papua New Guinea
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34880;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] ICT Analyst/ Head of ICT Unit [Open to internal and external applicants]
+[Location] Chisinau, Republic of Moldova
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34854;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Economist Intern Post level IN Apply by Jun-22-26 Agency UNDP Location Manila, Philippines
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34879
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Lead Economist – Development Strategy [Open to internal and external applicants] Post level IPSA-12 Apply by Jun-16-26 Agency UNDP Location Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33771
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant - Volunteer
+[Location] Dar-es-Salaam, Tanzania, The United Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dar-es-Salaam-Tanzania-The-United-Rep/Programme-Assistant---Volunteer_JR123893-2
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Resource Mobilisation & Partnership Analyst, Kabul, Afghanistan, NO-B
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-resource-mobilisation-partnership-analyst-kabul-afghanistan-no-b
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POSTS: Area Gender Based Violence/PSEAH Analyst, Herat / Jalalabad / Kandahar, NO-B (3 posts)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-posts-area-gender-based-violencepseah-analyst-herat-jalalabad-kandahar-no-b-3-posts
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Accountability to Affected People and Disability Inclusion…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-accountability-affected-people-and-disability-inclusion-information-management
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Engineer Intern (Urban Planner and Designer - International Intern), Kathmandu, Nepal
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781500795269
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant on Operationalization of Diversion to Services Mechanism Child Protection section 9 months (Internationals only) On-site and remote based with travel, Kyiv, Ukraine
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781500858075
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Roving Senior CP Officer IRC - International Rescue Committee Sanaa Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1219434
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CP Case Management Assistant IRC - International Rescue Committee Sanaa | Abyan Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1219433
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship –JITs Network Secretariat (26/EJ/TRN/08) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1219429
+--------------------------------------------------
