@@ -1,9 +1,7 @@
 {
-  "last_update_bj": "2026-06-15 15:35:29",
-  "count": 4955,
+  "last_update_bj": "2026-06-16 15:36:44",
+  "count": 5014,
   "errors": [
-    "ilo_jobs: all source URLs failed (HTTP request failed: https://jobs.ilo.org/ (HTTPSConnectionPool(host='jobs.ilo.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='jobs.ilo.org', port=443) at 0x7f6117e9a550>, 'Connection to jobs.ilo.org timed out. (connect timeout=25)'))))",
-    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))",
-    "icrc_jobs: all source URLs failed (HTTP request failed: https://careers.icrc.org/ (HTTPSConnectionPool(host='careers.icrc.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.icrc.org', port=443) at 0x7f61177e3f90>, 'Connection to careers.icrc.org timed out. (connect timeout=25)'))))"
+    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
   ]
 }
