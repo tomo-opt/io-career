@@ -1,0 +1,276 @@
+[Organization] United Nations Secretariat
+[Position] INTER-REGIONAL ADVISER
+[Location] NEW YORK
+[Deadline] 2026-07-17
+[Link] https://careers.un.org/job-openings?job-id=277476
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] BERN
+[Deadline] 2026-07-03
+[Link] https://careers.un.org/job-openings?job-id=279538
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] BUKAVU
+[Deadline] 2026-07-02
+[Link] https://careers.un.org/job-openings?job-id=279563
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] POLITICAL AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-08-01
+[Link] https://careers.un.org/job-openings?job-id=279091
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst EW4ALL (Open to internal and external applicants)
+[Location] St. John's, Antigua and Barbuda
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34952;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Economist (Open to internal and external applicants)
+[Location] Mogadiscio, Somalia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34216;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst EW4ALL (Open to internal and external applicants) Post level NPSA-8 Apply by Jun-24-26 Agency UNDP Location St. John's, Antigua and Barbuda
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34952
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Economist (Open to internal and external applicants) Post level NOC Apply by Jun-23-26 Agency UNDP Location Mogadiscio, Somalia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34216
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate – Reporting
+[Location] Phnom-Penh, Cambodia
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Phnom-Penh-Cambodia/Programme-Associate---Reporting_JR123867-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Intern
+[Location] Cairo, Egypt, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cairo-Egypt-Republic-of/Monitoring-Intern_JR124124
+--------------------------------------------------
+[Organization] WFP
+[Position] Consultant (CST II) - Partnerships Officer, International Financial Institutions (IFIs), Nairobi
+[Location] Nairobi, Kenya, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Consultant--CST-II----Partnerships-Officer--International-Financial-Institutions--IFIs---Nairobi_JR124061
+--------------------------------------------------
+[Organization] WFP
+[Position] School Meals Accelerator - Business Support Assistant G4
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/School-Meals-Accelerator---Business-Support-Assistant-G4_JR124101
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Community-Based Protection Associate
+[Location] Adre, Chad
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Adre-Chad/Community-Based-Protection-Associate_JR2665343-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] EGRISS Monitoring and Coordination Intern
+[Location] Copenhagen (HQ), Denmark
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Copenhagen-HQ-Denmark/EGRISS-Monitoring-and-Coordination-Intern_JR2667575
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Livelihood and Economic Inclusion Associate
+[Location] Huye, Rwanda
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Huye-Rwanda/Livelihood-and-Economic-Inclusion-Associate_JR2667529
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Youth, Peace and Security(YPS) Intern - (6 months duration) - WCARO, Dakar, Senegal
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/youth-peace-and-securityyps-intern-6-months-duration-wcaro-dakar-senegal
+--------------------------------------------------
+[Organization] UNFPA
+[Position] TEMPORARY APPOINTMENT: Space Planner & Contracts Analyst, Facilities and Administrative Services Branch (FASB), Division for Management Services (DMS), New York, P-2
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/temporary-appointment-space-planner-contracts-analyst-facilities-and-administrative-services
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Local Consultancy:Strategic Coordination Consultant: Sexual and Reproductive Justice (SRJ) , South Africa, Pretoria
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/local-consultancystrategic-coordination-consultant-sexual-and-reproductive-justice-srj-south
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Head of Sub-Office and Humanitarian Coordinator, Sittwe, Myanmar, P3, FTA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/head-sub-office-and-humanitarian-coordinator-sittwe-myanmar-p3-fta
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Programme Analyst RMI
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-programme-analyst-rmi
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Gender Based Violence Information Management Officer, P3, Port Sudan/Khartoum
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/gender-based-violence-information-management-officer-p3-port-sudankhartoum
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Health Economist Midwifery Investment Specialist, Abuja, Nigeria - NOC
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-health-economist-midwifery-investment-specialist-abuja-nigeria
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: National Advocacy Analyst, Abuja, Nigeria - NOB
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-national-advocacy-analyst-abuja-nigeria-nob
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Public Health Midwifery Investment Specialist, Abuja, Nigeria - NOC
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-public-health-midwifery-investment-specialist-abuja-nigeria-noc
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Profesional técnico/a para apoyo técnico y operativo del convenio de cuidado, Bogotá,LSC5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/profesional-t%C3%A9cnicoa-para-apoyo-t%C3%A9cnico-y-operativo-del-convenio-de-cuidado-bogot%C3%A1lsc5
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, Maternal Health
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-maternal-health
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Specialist, Youth
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-specialist-youth-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] TEMPORARY APPOINTMENT: Space Planner & Contracts Analyst, Facilities and…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/temporary-appointment-space-planner-contracts-analyst-facilities-and-administrative-services
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Local Consultancy:Strategic Coordination Consultant: Sexual and Reproductive Justice…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/local-consultancystrategic-coordination-consultant-sexual-and-reproductive-justice-srj-south
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern, I-KORP, Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781705171015
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Individual Consultant: Educational Technology and Digital Pedagogies Expert UNESCO - United Nations Educational, Scientific and Cultural Organization Remote | Phnom Penh International Consultant - Internationally recruited Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220205
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Specialist - Quality Assurance and Stewardship IRRI - International Rice Research Institute Philippines Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220203
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern, Legal Unit ICMP - International Commission on Missing Persons Remote | The Hague Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220202
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Events, Logistics and Security (26/EJ/TRN/13) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220199
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Casework Unit Counter-terrorism/Core International Crimes Unit (26/EJ/TRN/09) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220198
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Secretariat of the European Judicial Network (26/EJ/TRN/10) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220197
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – EU and International Affairs (26/EJ/TRN/11) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220196
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship –JITs Network Secretariat (26/EJ/TRN/08) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220195
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Human Resources (26/EJ/TRN/12) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220194
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Internal control and risk management (26/EJ/TRN/14) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220192
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Técnico(a) en Mantenimiento (Servicios Generales) CIMMYT - International Maize and Wheat Improvement Center Mexico City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220191
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Deputy Representative Operations, (P-5) Fixed Term – New Delhi, India #4467 UNICEF - United Nations Children’s Fund New Delhi P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220187
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Procurement Services Specialist, P-3, Temporary Appointment, 364 days, Antananarivo, Madagascar, #00137469 UNICEF - United Nations Children’s Fund Antananarivo P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220186
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INTERNATIONAL Consultant: EU CARE4HEALTH End Project Evaluation and Auditing Consultant, Addis Ababa, Ethiopia /Health, 6 months (Office based with trip) UNICEF - United Nations Children’s Fund Addis Ababa Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220182
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Emergency Officer, P-2, Temporary Position, Office of Emergency Operations, 6 months, Off of Emergency Prog, O/P Rome, #00137601 UNICEF - United Nations Children’s Fund Rome P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220180
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Quality Assurance Specialist, P-3, Fixed Term Position, Copenhagen, Supply Division, #00086209 UNICEF - United Nations Children’s Fund Copenhagen P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220179
+--------------------------------------------------
