@@ -1,0 +1,348 @@
+[Organization] United Nations Secretariat
+[Position] ACCOUNTING ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-07-18
+[Link] https://careers.un.org/job-openings?job-id=278863
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] BERN
+[Deadline] 2026-07-17
+[Link] https://careers.un.org/job-openings?job-id=279556
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-25
+[Link] https://careers.un.org/job-openings?job-id=279482
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Project Manager [Open to internal and external applicants]
+[Location] Dili, Timor-Leste
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34981;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Project Manager [Open to internal and external applicants] Post level NPSA-11 Apply by Jun-25-26 Agency UNDP Location Dili, Timor-Leste
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34981
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociada(o) en Economía (Basado en oficina) [Abierto a candidatos internos y externos] Post level NPSA-7 Apply by Jun-25-26 Agency UNDP Location San Jose, Costa Rica
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34231
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Human Resources Associate (Open to internal and external applicants) Post level G7 Apply by Jun-26-26 Agency UNDP Location Suva, Fiji
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32676
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster - Programme Policy Officer (Gender, Inclusion and PSEA) - Level 9 - Multiple Locations (Pakistan)
+[Location] 5 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---Programme-Policy-Officer--Gender--Inclusion-and-PSEA----Level-9---Multiple-Locations--Pakistan-_JR124179
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Associate
+[Location] Siphofaneni, Eswatini, The Kingdom Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Siphofaneni-Eswatini-The-Kingdom-Of/Logistics-Associate_JR124024
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster M&E Officer-Consultant.e National.e en Suivi &  Evaluation
+[Location] Conakry, Guinea, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Conakry-Guinea-The-Republic-Of/Roster-M-E-Officer-Consultante-Nationale-en-Suivi----Evaluation_JR124217
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer (Port Operation) NOA, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Logistics-Officer--Port-Operation--NOA--Port-au-Prince--Haiti_JR124086
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer NOB, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Logistics-Officer-NOB--Port-au-Prince--Haiti_JR124214
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate SC6 FLA/Partership, Abeche, Chad
+[Location] Abeche, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Abeche-Chad-The-Republic-Of/Programme-Associate-SC6-FLA-Partership--Abeche--Chad_JR124211
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer (Field Office Head of Logistics), CST I, South Sudan, Multiple Duty Stations
+[Location] Bentiu, Sudan, Republic of South
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bentiu-Sudan-Republic-of-South/Logistics-Officer--Field-Office-Head-of-Logistics---CST-I--South-Sudan--Multiple-Duty-Stations_JR124166-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Emergency Unit), SC9, Juba, South Sudan
+[Location] Juba, Sudan, Republic of South
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Juba-Sudan-Republic-of-South/Programme-Policy-Officer--SC9--Juba--South-Sudan_JR124165
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster - Programme Assistant (Identity Management) - Level 5 - Multiple Locations (Pakistan)
+[Location] 7 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---Programme-Assistant--Identity-Management----Level-5---Multiple-Locations--Pakistan-_JR124139-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster - Programme Assistant (Database & Scope) - Level 5 - Multiple Locations (Pakistan)
+[Location] 6 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---Programme-Assistant--Database---Scope----Level-5---Multiple-Locations--Pakistan-_JR124137
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster - Monitoring Assistant - Level 5 - Multiple Locations (Pakistan)
+[Location] 6 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---Monitoring-Assistant---Level-5---Multiple-Locations--Pakistan-_JR124135-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster - Monitoring Assistant  - Level 4 - Multiple Locations (Pakistan)
+[Location] 6 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---Monitoring-Assistant----Level-4---Multiple-Locations--Pakistan-_JR124133
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships Officer CST I
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kyiv-Ukraine/Partnerships-Officer-CST-I_JR124187
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Supply Officer
+[Location] Maputo, Mozambique
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Maputo-Mozambique/Associate-Supply-Officer_JR2667634-1
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internal Research Fellow (PostDoc) in Applied Math and Advanced Numerics, Noordwijk, Netherlands
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781808585016
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internal Research Fellow (PostDoc) in Computational Bio-Inspired Modelling, Noordwijk, Netherlands
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781808598636
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internal Research Fellow (PostDoc) in Biomimetics, Noordwijk, Netherlands
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781808620048
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, ISA Academy KMID ISA - International Solar Alliance Gurgaon Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1218343
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant -Participatory Mapping and Site Selection for Climate-Resilient Food Systems IOM - International Organization for Migration Remote | Wotje | Majuro UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220558
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN/2026/022 Programme Associate (Refugee Care), Surabaya IOM - International Organization for Migration Surabaya GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220557
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Expedited- Senior Finance Associate (2 Positions) IOM - International Organization for Migration Juba GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220556
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Expedited- Finance Assistant (3 Positions) IOM - International Organization for Migration Juba GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220555
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Expedited- Finance Assistant IOM - International Organization for Migration Juba GS-3, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220554
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN/2026/021 Project Assistant (IBG), Jakarta IOM - International Organization for Migration Jakarta GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220553
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN 069/2026 Accounts Payable Associate IOM - International Organization for Migration Manila GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220552
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN 065-066/2026 Sr. HR Associate (HR Administration) IOM - International Organization for Migration Manila GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220551
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection Officer (Gender-Based Violence) (P) IOM - International Organization for Migration Port-au-Prince P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220550
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Associate IOM - International Organization for Migration Bangkok GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220549
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Monitoring & Evaluation Officer (P) IOM - International Organization for Migration Kinshasa P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220548
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection Officer (Protection Information Management and Reporting) (P) IOM - International Organization for Migration Istanbul P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220547
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026 Adult Education Intern - UNPAID IRC - International Rescue Committee Remote | United States of America Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220537
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Médecin IPC IRC - International Rescue Committee Beni Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220536
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026 English Cafe Intern - UNPAID IRC - International Rescue Committee Miami Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220535
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Executive Vice President (EVP) of Programs and Strategy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51075-remote-dc-international-refugee-assistance-project-irap-executive-vice-president-evp-of-programs-and-strategy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] New Media Manager, Communications
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51074-washington-dc-carnegie-endowment-for-international-peace-new-media-manager-communications
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Consultant Program Manager Southeast Asia
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51073-remote-indonesia-sequoia-climate-foundation-consultant-program-manager-southeast-asia
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Part-Time Faculty - Military Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51072-dahlonega-georgia-university-of-north-part-time-faculty-military-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] EU Senior Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51071-brussels-belgium-mouvement-des-entreprises-de-france-eu-senior-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Winter Fellowship, DC (2027)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51070-washington-dc-govai-winter-fellowship-2027
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51069-remote-new-york-givewell-program-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Research Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51068-nashville-tennessee-vanderbilt-university-institute-of-national-security-research-assistant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Lead, ABC Program Policy & Advisory, Assistant Vice President
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51067-boston-massachusetts-state-street-lead-abc-program-policy-advisory-assistant-vice-president
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Intergovernmental Affairs & Partnership Engagement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51066-washington-dc-national-assoc-of-counties-director-intergovernmental-affairs-partnership-engagement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Finance, Operations and Compliance
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51065-sierra-leone-trocaire-head-of-finance-operations-and-compliance
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Engagement Editor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51064-new-york-the-nation-engagement-editor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Chief Operating Officer (French-speaking)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51063-brussels-belgium-european-institute-of-peace-chief-operating-officer-french-speaking
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager Senior, Resource Mobilisation and Partnership
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51062-lusaka-yugoslavia-childfund-manager-senior-resource-mobilisation-and-partnership
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate, Malaria Program
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51061-santo-domingo-massachusetts-clinton-health-access-initiative-chai-associate-malaria-program
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Lecturer/Assistant or Associate Professor/Professor in Politics and International Relations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51060-erbil-iraq-university-of-kurdistan-hewler-lecturer-assistant-or-associate-professor-in-politics-and-international-relations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Dual Credit Adjunct Faculty, Government
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51059-brownsville-texas-southmost-college-dual-credit-adjunct-faculty-government
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Reporter/Consultant on Local Conflicts and International Relations (Remote Position)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51058-washington-dc-avantgarde-media-greater-asia-pacific-ltd-reporter-consultant-on-local-conflicts-and-international-relations-remote-position
+--------------------------------------------------
