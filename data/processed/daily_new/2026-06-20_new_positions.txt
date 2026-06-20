@@ -1,0 +1,270 @@
+[Organization] United Nations Secretariat
+[Position] ECONOMIC AFFAIRS OFFICER
+[Location] SANTIAGO
+[Deadline] 2026-08-03
+[Link] https://careers.un.org/job-openings?job-id=279464
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PUBLIC INFORMATION OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=279736
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] NAIROBI
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=279372
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Programme Management Assistant
+[Location] YANGON
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=279730
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE SECURITY INFORMATION ANALYST
+[Location] PESHAWAR
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=279572
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR POLITICAL AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=279667
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] NEW YORK
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=279183
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TEAM ASSISTANT
+[Location] SANTIAGO
+[Deadline] 2026-06-26
+[Link] https://careers.un.org/job-openings?job-id=279351
+--------------------------------------------------
+[Organization] UNDP
+[Position] Clinic Coordinator (Nurse) [Open to internal and external applicants]
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35016;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Digital Transformation (DPI/GovTech) Specialist (Open to internal and external applicants)
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34667;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Recruitment Assistant [Open to internal and external applicants who are nationals of the EU, EFTA]
+[Location] Bonn, Germany
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35017;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Motu Translator (Individual Consultant)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/motu-translator-individual-consultant
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Assistant Representative, UNFPA Ha Noi - Viet Nam Country Office, NOD
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-assistant-representative-unfpa-ha-noi-viet-nam-country-office-nod
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Chief Administrative Services and UN Reform Section, Facilities and Administrative Services Branch (FASB), Division for Management Services (DMS), New York, P-4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/chief-administrative-services-and-un-reform-section-facilities-and-administrative-services
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Public Health Midwifery Investment Specialist, Abuja…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-public-health-midwifery-investment-specialist-abuja-nigeria-noc
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant on early (child) marriages in Roma communities research, Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781905746398
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - SDDS, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781905747945
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Technology for Disaster Risk Reduction Assessment Intern, Panama City, Panama
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781905749812
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant (Circular Economy Expert), Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781905754589
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Human Resources Management Intern – Staff Benefits Unit, Addis Ababa, Ethiopia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781905761709
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERN - PUBLIC INFORMATION, New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781905767341
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Financial Data and Reporting Analyst, New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781905768676
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Programme management and stakeholder engagement intern, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1781905776682
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Corporate Accounting Intern IDLO - International Development Law Organization Rome Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220785
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Legal Officer (P-3) OPCW - Organisation for the Prohibition of Chemical Weapons P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220784
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Principal Dealer-Credit Market BIS - Bank for International Settlements Remote | Geneva | Basel Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220782
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Recruitment Assistant [Open to internal and external applicants who are nationals of the EU, EFTA] UNDP - United Nations Development Programme Dakar | Bonn | Panama City | Kuala Lumpur | Amman | Copenhagen NPSA-5, National Personnel Services Agreement - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220781
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Clinic Coordinator (Nurse) [Open to internal and external applicants] UNDP - United Nations Development Programme Copenhagen NPSA-8, National Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220780
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Portfolio Specialist, WCA and LAC, IPSA10, UNCDF [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Dakar IPSA-10, International Personnel Services Agreement - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220776
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research and Coordination Assistant - Future Skills UNV - United Nations Volunteers Sri Lanka Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220771
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Emergency Project Management Associate UNV - United Nations Volunteers Kindia | Nzérékoré | Kankan | Conakry | Mamou | Labé Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220770
+--------------------------------------------------
+[Organization] Impactpool
+[Position] PSEA Specialist UNV - United Nations Volunteers Bunia Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220762
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Sr Consultant Corporate Affairs Intelligence
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51088-minneapolis-minnesota-target-sr-consultant-corporate-affairs-intelligence
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51087-brussels-belgium-european-environmental-bureau-communications-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Director and Senior Fellow
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51086-washington-dc-center-for-a-new-american-security-cnas-program-director-and-senior-fellow
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Internship: Media and Communications (Hybrid)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51085-bangkok-thailand-united-nations-economic-and-social-commission-for-asia-the-pacific-unescap-internship-media-communications-hybrid
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] CYD Proof of Concept Fellowships
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51084-thun-berne-switzerland-epfl-cyd-proof-of-concept-fellowships
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Rwanda Scale Innovations Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51083-kigali-rwanda-one-acre-fund-scale-innovations-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Donor Support Operations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51082-remote-dc-heifer-international-director-of-donor-support-operations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Consultant Program Manager Southeast Asia
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51081-remot-indonesia-sequoia-climate-foundation-consultant-program-manager-southeast-asia
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Policy Advisor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51080-brussels-belgium-affordable-medicines-europe-policy-advisor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Chargé (e) De La Communication
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51079-ouagadougou-burkina-faso-amref-health-africa-charge-e-de-la-communication
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Fellow, Global Programs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51078-remote-new-york-ai-now-institute-senior-fellow-global-programs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Instructor/Visiting Assistant Professor of Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51077-stillwater-oklahoma-state-university-visiting-instructor-assistant-professor-of-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Economist - State Aid
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51076-brussels-belgium-efta-surveillance-authority-economist-state-aid
+--------------------------------------------------
