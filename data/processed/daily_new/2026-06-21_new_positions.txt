@@ -1,0 +1,168 @@
+[Organization] United Nations Secretariat
+[Position] FIELD SECURITY ASSISTANT
+[Location] ISLAMABAD
+[Deadline] 2026-07-21
+[Link] https://careers.un.org/job-openings?job-id=279380
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst PRR (Open to internal and external applicants)
+[Location] Kingstown, Saint Vincent and the Grenadines
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35008;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst PRR (Open to internal and external applicants) Post level NPSA-8 Apply by Jul-5-26 Agency UNDP Location Kingstown, Saint Vincent and the Grenadines
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35008
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Clinic Coordinator (Nurse) [Open to internal and external applicants] Post level NPSA-8 Apply by Jul-10-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35016
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a Técnico/a en Desarrollo Productivo Sostenible (Abierto a candidatos internos y externos) Post level NPSA-7 Apply by Jun-26-26 Agency UNDP Location Sincelejo, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34057
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Associado Arquiteto de Soluções (Office Based) [Open to Internal and External applicants] Post level NPSA-7 Apply by Jun-24-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34475
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Recruitment Assistant [Open to internal and external applicants who are nationals of the EU, EFTA] Post level NPSA-5 Apply by Jul-5-26 Agency UNDP Location Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35017
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships Officer
+[Location] Washington, United States Of America
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Washington-United-States-Of-America/Partnerships-Officer_JR123505
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Assistant (Protocol Services), G5, Addis Ababa
+[Location] Addis Ababa, Ethiopia, Federal Dem. Rep
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Addis-Ababa-Ethiopia-Federal-Dem-Rep/Management-Services-Assistant--Protocol-Services---G5--Addis-Ababa_JR124245
+--------------------------------------------------
+[Organization] WFP
+[Position] Internship - Data Analyst, Office of Internal Audit Branch, Rome, Italy
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Internship---Data-Analyst--Office-of-Internal-Audit-Branch--Rome--Italy_JR124200
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster - Programme Policy Officer (Emergency & Livelihood) - Level 9 - Multiple Locations (Pakistan)
+[Location] 5 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---Programme-Policy-Officer--Emergency---Livelihood----Level-9---Multiple-Locations--Pakistan-_JR124176
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster - Programme Policy Officer (CBT & Livelihood) - Level 8 - Multiple Locations (Pakistan)
+[Location] 5 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---Programme-Policy-Officer--CBT---Livelihood----Level-8---Multiple-Locations--Pakistan-_JR124177
+--------------------------------------------------
+[Organization] WFP
+[Position] Roster - Programme Policy Officer (Protection and Risk Management) - Level 9 - Multiple Locations (Pakistan)
+[Location] 5 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---Programme-Policy-Officer--Protection-and-Risk-Management----Level-9---Multiple-Locations--Pakistan-_JR124178
+--------------------------------------------------
+[Organization] UNHCR
+[Position] PPH Intern
+[Location] Sao Paulo, Brazil
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Sao-Paulo-Brazil/PPH-Intern_JR2667612-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Protection Associate
+[Location] Ankara, Turkiye
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Ankara-Turkiye/Senior-Protection-Associate_JR2667599-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Legal Associate
+[Location] Ankara, Turkiye
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Ankara-Turkiye/Senior-Legal-Associate_JR2665366-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Field Security Associate
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kyiv-Ukraine/Field-Security-Associate_JR2667422-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Census Programme Coordinator, Malawi
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-census-programme-coordinator-malawi
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Health Economist Midwifery Investment Specialist,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-health-economist-midwifery-investment-specialist-abuja-nigeria
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Career Development Specialist IRC - International Rescue Committee Remote | Richmond Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220863
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Portfolio Manager - IP4 ICMPD - International Centre for Migration Policy Development Vienna P4
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220862
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Junior Project Officer - LP1 ICMPD - International Centre for Migration Policy Development Belgrade LP1, Local Professional 1 - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220861
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Manager - IP3 ICMPD - International Centre for Migration Policy Development Sarajevo IP3, International Professional 3 - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220860
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Management Assistant - LS2 ICMPD - International Centre for Migration Policy Development Belgrade LS2, Local Support 2 - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220859
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Officer - LP2 ICMPD - International Centre for Migration Policy Development Belgrade LP2, Local Professional 2 - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220858
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Legal Advisor - International Humanitarian Law and Human Rights ICRC - International Committee of the Red Cross Mexico City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220825
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Operations Officer (Talent Management & Capacity Building), (P-2), Temporary Appointment, #00137528, DFAM - Outposted to Brussels, Belgium UNICEF - United Nations Children’s Fund Brussels P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220823
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Supply Chain Associate (2positions) IOM - International Organization for Migration Bangui GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220819
+--------------------------------------------------
