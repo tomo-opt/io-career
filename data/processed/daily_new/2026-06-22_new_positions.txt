@@ -1,0 +1,162 @@
+[Organization] United Nations Secretariat
+[Position] Programme Management Officer, Administration
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-06-29
+[Link] https://careers.un.org/job-openings?job-id=277838
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Senior Projects Officer
+[Location] HQ Amman
+[Deadline] 2026-07-05
+[Link] https://careers.un.org/job-openings?job-id=277425
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Refugee Support Coordinator
+[Location] CAIRO
+[Deadline] 2026-07-05
+[Link] https://careers.un.org/job-openings?job-id=276217
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Specialist (Open to internal and external applicants)
+[Location] Vientiane, Lao People's Democratic Republic
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34759;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Monitoring, Evaluation and Reporting Analyst (Open to Internal and external candidates)
+[Location] India
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35035;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Investments and Debt Finance Senior Specialist, Asia and the Pacific (Open to internal and external applicants)
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33835;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate – Data Analysis G6 - Jordan
+[Location] Amman, Jordan, Hashemite Kingdom
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Amman-Jordan-Hashemite-Kingdom/Programme-Associate---Data-Analysis-G6---Jordan_JR122798-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] CBI Assistant
+[Location] Nouakchott, Mauritania
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Nouakchott-Mauritania/CBI-Assistant_JR2667582-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Pidgin Translator (Individual Consultant)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/pidgin-translator-individual-consultant
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Interpreter ICRC - International Committee of the Red Cross Gaza B2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220904
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Migration Health Officer IOM - International Organization for Migration Damascus NO-B, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220903
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Reproductive Health Manager IRC - International Rescue Committee Khartoum Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220901
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Projects Officer - Internally Only - (2 positions) UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman 17
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220900
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Officer, Infrastructure Support (Network and Telecom Operations) IFRC - International Federation of Red Cross and Red Crescent Societies Budapest D2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220896
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officier Enterrements Dignes et Sécurisés (EDS) IFRC - International Federation of Red Cross and Red Crescent Societies Democratic Republic of Congo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220895
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ERP Solution Architect IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220894
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Data Architect IFRC - International Federation of Red Cross and Red Crescent Societies Multiple locations National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220893
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Manager - Country Cluster Delegation Turkiye and South Caucasus IFRC - International Federation of Red Cross and Red Crescent Societies Tbilisi | Ankara | Yerevan Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220892
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Officer, Communications IFRC - International Federation of Red Cross and Red Crescent Societies Moscow Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220891
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – EU and International Affairs (26/EJ/TRN/11) EUROJUST - European Union Agency for Criminal Justice Cooperation Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220882
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Casework Unit Counter-terrorism/Core International Crimes Unit (26/EJ/TRN/09) EUROJUST - European Union Agency for Criminal Justice Cooperation Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220881
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship –JITs Network Secretariat (26/EJ/TRN/08) EUROJUST - European Union Agency for Criminal Justice Cooperation Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220880
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Secretariat of the European Judicial Network (26/EJ/TRN/10) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220879
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Human Resources (26/EJ/TRN/12) EUROJUST - European Union Agency for Criminal Justice Cooperation Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220878
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Traineeship – Events, Logistics and Security (26/EJ/TRN/13) EUROJUST - European Union Agency for Criminal Justice Cooperation Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1220877
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Consulting Opportunity | Policy & Government Affairs Remote | Commission-Based | Flexible Schedule
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51089-dmv-dc-meridian-consulting-opportunity-policy-government-affairs-remote-commission-based-flexible-schedule
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] Junior Professional Officer / Associate Scientific Officer, Early Warning Services (South Korean nationals)
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4217005/junior-professional-officer-associate-scientific-officer-early-warning-services-south-korean-nationals
+--------------------------------------------------
