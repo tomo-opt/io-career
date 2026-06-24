@@ -1,0 +1,264 @@
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-08-07
+[Link] https://careers.un.org/job-openings?job-id=279397
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Recruitment Officer
+[Location] FO Jordan
+[Deadline] 2026-07-08
+[Link] https://careers.un.org/job-openings?job-id=279760
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Programme Officer, Partnerships
+[Location] NEW YORK
+[Deadline] 2026-06-30
+[Link] https://careers.un.org/job-openings?job-id=279919
+--------------------------------------------------
+[Organization] UNDP
+[Position] RBA Strategic Partnerships Intern
+[Location] New York, United States
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35099;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Communication and Social Media Intern
+[Location] Copenhagen, Denmark
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35088;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] BIOFIN Intern, Planet Hub, BPPS
+[Location] Madrid, Spain
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35100;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] GESI Associate (Open to Internal and external candidates)
+[Location] Jakarta Pusat, Indonesia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35104;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Investment Specialist, IPSA 11, Honiara, Solomon Islands (UNCDF) [Open to internal and external applicants]
+[Location] Honiara, Solomon Islands
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33762;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communication and Social Media Intern Post level IN Apply by Jul-12-26 Agency UNDP Location Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35088
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title GESI Associate (Open to Internal and external candidates) Post level NPSA-7 Apply by Jul-1-26 Agency UNDP Location Jakarta Pusat, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35104
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista de Proyecto (Abierto a candidatos internos y externos) Post level NPSA-9 Apply by Jul-7-26 Agency UNDP Location La Paz, Bolivia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35094
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title BIOFIN Intern, Planet Hub, BPPS Post level IN Apply by Jul-7-26 Agency UNDP Location Madrid, Spain
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35100
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Investment Specialist, IPSA 11, Honiara, Solomon Islands (UNCDF) [Open to internal and external applicants] Post level IPSA-11 Apply by Jun-30-26 Agency UNCDF Location Honiara, Solomon Islands
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33762
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title RBA Strategic Partnerships Intern Post level IN Apply by Jul-8-26 Agency UNDP Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35099
+--------------------------------------------------
+[Organization] WFP
+[Position] Budget and Programming Associate, G6 FT
+[Location] Dar-es-Salaam, Tanzania, The United Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dar-es-Salaam-Tanzania-The-United-Rep/Budget-and-Programming-Associate--G6-FT_JR124250
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate G6, Mao - Chad
+[Location] Mao, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mao-Chad-The-Republic-Of/Programme-Associate-G6--Mao---Chad_JR124317
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Associate, SC6
+[Location] Siphofaneni, Eswatini, The Kingdom Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Siphofaneni-Eswatini-The-Kingdom-Of/Logistics-Associate_JR124024
+--------------------------------------------------
+[Organization] WFP
+[Position] International Coffee Expert
+[Location] Thimphu, Bhutan, The Kingdom Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Thimphu-Bhutan-The-Kingdom-Of/International-Coffee-Expert_JR124282
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Finance)- SC L4- East Jerusalem
+[Location] East Jerusalem, West Bank & Gaza
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/East-Jerusalem-West-Bank--Gaza/Business-Support-Assistant--Finance---SC-L4--East-Jerusalem_JR124289
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (Data & Info) G6 - Karachi
+[Location] Karachi, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Karachi-Pakistan-The-Islamic-Rep/Programme-Associate--Data---Info--G6---Karachi_JR124231
+--------------------------------------------------
+[Organization] WFP
+[Position] CBT Officer (Resources Management), SSA L8
+[Location] Port Sudan, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-Sudan-Sudan-The-Republic-Of-The/CBT-Officer--Resources-Management---SSA-L8_JR124288-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships Officer, NOB
+[Location] Kigali, Rwanda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kigali-Rwanda-The-Republic-Of/Partnerships-Officer_JR124301-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Operational Information Management & Reporting Officer, NOA
+[Location] Kigali, Rwanda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kigali-Rwanda-The-Republic-Of/Operational-Information-Management---Reporting-Officer--NOA_JR124300
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Controller, Chief Financial Officer and Director
+[Location] Geneva, Switzerland
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Geneva-Switzerland/Controller--Chief-Financial-Officer-and-Director_JR2667726-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Database Intern
+[Location] Sao Paulo, Brazil
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Sao-Paulo-Brazil/Database-Intern_JR2667704
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Field Assistant
+[Location] Ashgabat, Turkmenistan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Ashgabat-Turkmenistan/Senior-Field-Assistant_JR2667278
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, Population and Development, NO-B, Tashkent, Uzbekistan, FOR UZBEKISTAN CITIZENS
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-population-and-development-no-b-tashkent-uzbekistan-uzbekistan-citizens
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Risk & Compliance Analyst, P2, Juba, South Sudan
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/risk-compliance-analyst-p2-juba-south-sudan
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Assistant, GS-5, Putrajaya
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-assistant-gs-5-putrajaya
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Internship: Communications, UNFPA in Maldives Country Office
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/internship-communications-unfpa-maldives-country-office
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Chief, Berlin Representation Office, Division for External Relations (DER), Berlin,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/chief-berlin-representation-office-division-external-relations-der-berlin-germany-p-5
+--------------------------------------------------
+[Organization] Impactpool
+[Position] OFICIAL DE PROGRAMA FAS (FUERZAS ARMADAS Y SEGURIDAD) ICRC - International Committee of the Red Cross Honduras Mid/Senior - Mid/Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221770
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship - Information Management - 6 months GICHD - Geneva International Centre for Humanitarian Demining Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221761
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Procurement Assistant- For Internal and External Candidates- Limited Duration Contract (LDC)/ Band "D" Step1- Field Logistics and Procurement Department- Field Office West Bank - Grade, D UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Gaza D
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221758
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Project Associate (Information Management) IOM - International Organization for Migration Moldova GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221756
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Manager- Temporary ILRI - International Livestock Research Institute Nairobi HG15
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221755
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Human Resources Associate IOM - International Organization for Migration Dakar GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221754
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Driver and Logistic Assistant IOM - International Organization for Migration Luanda GS-2, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221753
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research and Knowledge Management Consultant on International Development Finance (Remote) UNICEF - United Nations Children’s Fund Remote Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221751
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Health Specialist-Vaccine and Cold Chain Management (Fragile & Middle Income Countries), P-4, Temporary Appointment, Global Programme Divison, Amman, Jordan, (CoE) #00137561 UNICEF - United Nations Children’s Fund Amman P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221748
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Innovation Specialist (Blockchain), P-3, Temporary Position, Office of Innovation, 364 days, Stockholm, Sweden #00137707 UNICEF - United Nations Children’s Fund Stockholm P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221747
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Social Policy Specialist, P-3, Temporary Position, Malawi, 6 months, Lilongwe, Malawi, #00137648 UNICEF - United Nations Children’s Fund Lilongwe P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221745
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fund Raising Manager (Innovation), P-4, Temporary Position, Rome, Italy, 6 months, Private Fund Raising and Partnerships, #00137553 UNICEF - United Nations Children’s Fund Rome P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221744
+--------------------------------------------------
+[Organization] Impactpool
+[Position] UN Women: International Consultant – Adaptive leadership and Cognitive Coaching, Dhaka Bangladesh (home based and in person) UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Dhaka Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1221737
+--------------------------------------------------
