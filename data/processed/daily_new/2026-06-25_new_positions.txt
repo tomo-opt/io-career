@@ -1,0 +1,378 @@
+[Organization] UNDP
+[Position] National Project Coordinator (Office Based) [Open to Internal and External Applicants]
+[Location] Kingstown, Saint Vincent and the Grenadines
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35054;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Local Field Coordination Analyst (Part-time 70%) [Open to internal and external applicants]
+[Location] Yerevan, Armenia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35116;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Project Coordinator (Office Based) [Open to Internal and External Applicants] Post level NPSA-7 Apply by Jul-1-26 Agency UNDP Location Kingstown, Saint Vincent and the Grenadines
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35054
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista en Alianzas Estratégicas y Fortalecimiento Institucional (En Oficina) (Abierto a candidatos internos y externos) (Ciudad de México) Post level NPSA-8 Apply by Jul-1-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35096
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Finance Analyst - Benin City Mayors Challenge - Benin, Nigeria (Open to internal and external applicants) Post level NPSA-8 Apply by Jun-29-26 Agency UNDP Location Nigeria
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34910
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Local Field Coordination Analyst (Part-time 70%) [Open to internal and external applicants] Post level NPSA-8 Apply by Jul-1-26 Agency UNDP Location Yerevan, Armenia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35116
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Gender Analyst [Open to internal and external applicants] Post level NOA Apply by Jul-8-26 Agency UNDP Location Suva, Fiji
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33597
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (EPR)
+[Location] 2 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Basco-Philippines-The-RepOf-Th/Programme-Associate--EPR-_JR124360
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Associate G6 | Beirut, Lebanon
+[Location] Beirut, Lebanon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beirut-Lebanon-The-Republic-Of/Finance-Associate-G6---Beirut--Lebanon_JR124350
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Conductor de Proyecto
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/conductor-de-proyecto-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Social Policy and Health Economics Adviser - WCARO, Dakar, Senegal, P5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/social-policy-and-health-economics-adviser-wcaro-dakar-senegal-p5
+--------------------------------------------------
+[Organization] UNFPA
+[Position] CONSULTANT POUR LA FORMATION D’UN POOL D’EXPERTS EN QUANTIFICATION
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-pour-la-formation-d%E2%80%99un-pool-d%E2%80%99experts-en-quantification
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Communications Associate, G-6, Dili, Timor-Leste
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-communications-associate-g-6-dili-timor-leste
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Programme Analyst, SRHR, NOB, Dili, Timor-Leste
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-srhr-nob-dili-timor-leste
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, Population and Development, NO-B, Tashkent, Uzbekistan, FOR…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-population-and-development-no-b-tashkent-uzbekistan-uzbekistan-citizens
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Corporate Procurement Senior Associate /  Specialist (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Corporate-Procurement-Senior-Associate-Specialist-DC-20577/1402814400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Portfolio Management Officer - Financial Sector (Quito, EC, 17-07-9041)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Quito-IDB-Invest-Portfolio-Management-Officer-Financial-Sector-17-07-9041/1402980700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Risk Management Senior Associates or Officer - Join our Talent Pool 1 (Christ Church, BB, BB17068)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Christ-Church-IDB-Invest-Risk-Management-Senior-Associates-or-Officer-Join-our-Talent-Pool-1-BB17068/1403071900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Legal Senior Associates or Officers - Join our Talent Pool (Christ Church, BB, BB17068)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Christ-Church-IDB-Invest-Legal-Senior-Associates-or-Officers-Join-our-Talent-Pool-BB17068/1403072100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] OECM and ITT Internship, Washington D.C., United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1782335867862
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Prospect Research Internship, Washington D.C., United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1782335872386
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Ecological Impacts of Invasive Species Graduate Internship, Washington D.C., United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1782335885939
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Credit Risk / Stagiaire - Risque de Crédit CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222055
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR ADMINISTRATIVE ASSISTANT ICJ - International Court of Justice The Hague Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222054
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Policy and Legal Coordination Officer (P-3) OPCW - Organisation for the Prohibition of Chemical Weapons P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222053
+--------------------------------------------------
+[Organization] Impactpool
+[Position] (RFP 301250) Trabajador - Biotecnología Alliance of Bioversity International and CIAT Palmira | Bogotá BG02
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222047
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, Senior Communications Specialist Alliance of Bioversity International and CIAT Roma | Rome Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222045
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communication Specialist (Video Production and Digital Content, Graphic Design) IOM - International Organization for Migration Remote UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222044
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Homebased Consultant - Entrepreneurship Financing Mapping IOM - International Organization for Migration Remote | Addis Ababa UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222043
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Communications IOM - International Organization for Migration Santiago UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222042
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant for Strengthening Environmental and Social Safeguards in the Enterprise Development Fund (EDF) IOM - International Organization for Migration Erbil | Baghdad UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222041
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Associate – Information Management & Reporting (WASH) IOM - International Organization for Migration GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222040
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern – Information Management (IM) (UG) IOM - International Organization for Migration Bangkok UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222039
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern – Water, Sanitation and Hygiene (WASH) Knowledge Management IOM - International Organization for Migration Athens UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222038
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern – Supply Chain IOM - International Organization for Migration Dakar UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222037
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern – Protection Data Analysis IOM - International Organization for Migration Bangkok UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222036
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Health Assessment Programmes (UG) IOM - International Organization for Migration Geneva UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222035
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Gender and Disability IOM - International Organization for Migration Geneva UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222034
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Data and Research IOM - International Organization for Migration Geneva UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222033
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Project Support MDG (Migration, Development and Governance) IOM - International Organization for Migration Rabat UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222032
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Mental Health and Psychosocial Support (MHPSS) IOM - International Organization for Migration Athens UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222031
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern – Project Development and Communication IOM - International Organization for Migration Geneva UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222030
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Policy & Research (UG) IOM - International Organization for Migration Nepal UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222029
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern – Partnerships & Project Development - Programme Support Unit (PSU) IOM - International Organization for Migration Gaborone UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222028
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Immigration & Border Governance (IBG) IOM - International Organization for Migration Egypt Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222027
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intern/Fellow
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51124-washington-dc-united-states-senate-intern-fellow
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] International Education Consultants – (ASEAN Programme)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51123-uk-based-united-kingdom-cognition-learning-group-international-education-consultants-asean-programme
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Data Journalism Editor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51122-washington-dc-investigative-reporting-workshop-data-journalism-editor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Professor, Government/Political Science (Applicant Pool 2026-2027)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51121-mckinney-texas-collin-college-adjunct-professor-government-political-science-applicant-pool-2026-2027
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Mentor – Illicit Gold Networks & Supply Chain
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51120-washington-dc-creative-associates-international-senior-mentor-illicit-gold-networks-supply-chain
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] HR Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51119-turkey-qatar-red-crescent-society-hr-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Analyst, Middle East
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51118-lebanon-armed-conflict-location-event-data-senior-analyst-middle-east
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Professor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51117-notre-dame-indiana-university-of-professor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Latin America
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51116-washington-dc-international-baccalaureate-head-of-latin-america
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Trade Policy Internship - Fall 2026 - PAID
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51115-washington-dc-american-action-forum-trade-policy-internship-fall-2026-paid
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Advocacy Officer (or Trainee)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51114-brussels-belgium-cotance-advocacy-officer-or-trainee
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Field Advancement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51113-remote-dc-parkinson-s-foundation-manager-field-advancement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Grants Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51112-remote-dc-global-greengrants-fund-grants-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Vice President (SVP), Global Operations & Human Resources
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51111-new-york-the-hunger-project-senior-vice-president-svp-global-operations-human-resources
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Programme Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51110-kenya-africa-enterprise-challenge-fund-programme-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Guinea Worm Eradication Program (GWEP) Technical Advisor-ETHIOPIA
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51109-gog-ethiopia-the-carter-center-guinea-worm-eradication-program-gwep-technical-advisor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Temporary Faculty Political Science and International Studies
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51108-statesboro-georgia-southern-university-temporary-faculty-political-science-and-international-studies
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Legal Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51107-brussels-belgium-european-data-protection-supervisor-legal-officer
+--------------------------------------------------
