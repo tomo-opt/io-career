@@ -1,0 +1,258 @@
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-07-26
+[Link] https://careers.un.org/job-openings?job-id=279821
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-07-26
+[Link] https://careers.un.org/job-openings?job-id=279251
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] ADDIS ABABA
+[Deadline] 2026-07-11
+[Link] https://careers.un.org/job-openings?job-id=280076
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Programme Management Officer
+[Location] MONTREAL
+[Deadline] 2026-07-26
+[Link] https://careers.un.org/job-openings?job-id=276115
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES OFFICER
+[Location] NEW YORK
+[Deadline] 2026-07-04
+[Link] https://careers.un.org/job-openings?job-id=280088
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ECONOMIC AFFAIRS OFFICER
+[Location] GENEVA
+[Deadline] 2026-07-03
+[Link] https://careers.un.org/job-openings?job-id=279915
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES ASSISTANT
+[Location] NAIROBI
+[Deadline] 2026-07-03
+[Link] https://careers.un.org/job-openings?job-id=279414
+--------------------------------------------------
+[Organization] UNDP
+[Position] Investment Specialist [Open to internal and external applicants]
+[Location] Kinshasa, Democratic Republic of the Congo
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34672;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Regional Project Manager [Open to internal and external applicants]
+[Location] Almaty, Kazakhstan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32605;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Chief Technical Specialist [Open to internal and external applicants]
+[Location] Almaty, Kazakhstan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=32598;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Policy Coordinator – Crisis and Resilience [Open to internal and external applicants Post level IPSA-9 Apply by Jul-2-26 Agency UNDP Location Home Based
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34709
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Aquitecto/a de Proyecto [Abierto a candidatos internos y externos] Post level NPSA-8 Apply by Jul-4-26 Agency UNDP Location Cartagena, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35158
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Chief Technical Specialist [Open to internal and external applicants] Post level IPSA-10 Apply by Jul-10-26 Agency UNDP Location Almaty, Kazakhstan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32598
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Regional Project Manager [Open to internal and external applicants] Post level IPSA-10 Apply by Jul-10-26 Agency UNDP Location Almaty, Kazakhstan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32605
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant Reproductive Maternal Newborn Child and Adolescent Health (RMNCAH) Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-reproductive-maternal-newborn-child-and-adolescent-health-rmncah
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Stagiaire photographe et vidéaste, Dakar, Senegal
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/stagiaire-photographe-et-vid%C3%A9aste-dakar-senegal-0
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Seascape Corporate Footprint Analysis Internship, Washington D.C., United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1782521185580
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internal Call-Consultant Food Heroes Game Alliance of Bioversity International and CIAT Makueni | Nairobi Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222556
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance & Admin Assistant, Tunisia IDLO - International Development Law Organization Tunis Level 2 -Transactional Support Role
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222554
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associate Project Officer - Western Balkans, Albania IDEA - International Institute for Democracy and Electoral Assistance Tirana Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222553
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Coordinator, Albania IDEA - International Institute for Democracy and Electoral Assistance Tirana Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222552
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ICT Specialist (Data & Digital Innovation) ICRC - International Committee of the Red Cross Nairobi B2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222543
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Resource Mobilization Partnership Manager (Asia-Pacific) ICRC - International Committee of the Red Cross Geneva Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222542
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Officer II - Gender ILRI - International Livestock Research Institute Addis Ababa HG 14
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222533
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Advisor – Public Financial Management (SEETAC, Rome) IMF - International Monetary Fund Rome A11, A12, A13, A14 - International Professional - Internationally recruited position
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222532
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Advisor – Revenue Administration (SEETAC, Rome) IMF - International Monetary Fund Rome Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222531
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Advisor – Tax Policy (SEETAC, Rome) IMF - International Monetary Fund Rome A11, A12, A13, A14 - International Professional - Internationally recruited position
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222529
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Project Associate (AVRR) IOM - International Organization for Migration Oslo GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222524
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Movement Operations Assistant IOM - International Organization for Migration Oslo GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1222523
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Associate, Africa
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51150-washington-dc-milken-institute-senior-associate-africa
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Vice President, Business Development and Corporate Relations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51149-remote-new-york-humane-world-for-animals-vice-president-business-development-and-corporate-relations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Operations Associate - J-PAL North America
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51148-cambridge-massachusetts-abdul-latif-jameel-poverty-action-lab-mit-operations-associate-j-pal-north-america
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Climate Advocate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51147-washington-dc-environment-america-climate-advocate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Regional Finance Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51146-vienna-austria-center-for-international-private-enterprise-cipe-regional-finance-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Programme Outreach Assistant (Intern)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51145-brussels-belgium-africa-europe-foundation-programme-outreach-assistant-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Operations Coordinator (Events)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51144-brussels-belgium-european-social-network-operations-coordinator-events
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Business Intellignce Senior Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51143-new-york-cbre-business-intellignce-senior-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] PAC-3 International Program Export Coordinator (PEC)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51142-arlington-texas-lockheed-martin-pac-3-international-program-export-coordinator-pec
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] All Source Analyst Mid - Level
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51141-fort-meade-maryland-amentum-all-source-analyst-mid-level
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Economics Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51140-manila-philippines-asian-development-bank-economics-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Non-Tenure: Open Rank- Visiting
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51139-college-station-texas-a-m-university-non-tenure-open-rank-visiting
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Vice President Government Affairs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51138-washington-dc-clia-cruise-lines-international-association-vice-president-government-affairs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] EU Senior Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51137-brussels-belgium-mouvement-des-entreprises-de-france-eu-senior-manager
+--------------------------------------------------
