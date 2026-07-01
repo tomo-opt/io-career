@@ -1,0 +1,246 @@
+[Organization] United Nations Secretariat
+[Position] Chief of Section, Legal Affairs
+[Location] NEW YORK
+[Deadline] 2026-07-31
+[Link] https://careers.un.org/job-openings?job-id=276363
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] HUMAN RIGHTS OFFICER
+[Location] GENEVA
+[Deadline] 2026-07-02
+[Link] https://careers.un.org/job-openings?job-id=276940
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Associate [Open to internal and external applicants]
+[Location] Chisinau, Republic of Moldova
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35209;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Operations Analyst (Open to Internal and External applicants)
+[Location] Visakhapatnam, India
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35226;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Finance Analyst (Nationals Only) [Open to internal and external applicants]
+[Location] Kuala Lumpur, Malaysia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34252;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado(a) Jurídico en Cooperación Internacional Post level NPSA-7 Apply by Jul-6-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35229
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Operations Analyst (Open to Internal and External applicants) Post level NPSA-8 Apply by Jul-7-26 Agency UNDP Location Visakhapatnam, India
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35226
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Intern - Governance and Gender (2 positions) Post level IN Apply by Jul-7-26 Agency UNDP Location Seoul, Korea, Republic of
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34694
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Jul-7-26 Agency UNDP Location Banja Luka, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34908
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate [Open to internal and external applicants] Post level NPSA-7 Apply by Jul-14-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35209
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Intern - Administration Post level IN Apply by Jul-7-26 Agency UNDP Location Seoul, Korea, Republic of
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34691
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Finance Analyst (Nationals Only) [Open to internal and external applicants] Post level NOB Apply by Jul-14-26 Agency UNDP Location Kuala Lumpur, Malaysia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34252
+--------------------------------------------------
+[Organization] WFP
+[Position] Government Liaison Officer
+[Location] Luanda, Angola, The Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Luanda-Angola-The-Republic-of/Government-Liaison-Officer_JR124493
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Officer (Asset Management) CST-I, Juba, South Sudan
+[Location] Juba, Sudan, Republic of South
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Juba-Sudan-Republic-of-South/Management-Services-Officer--Asset-Management--CST-I--Juba--South-Sudan_JR124474
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Snr Dur Sol Assistant
+[Location] Jakarta, Indonesia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Jakarta-Indonesia/Snr-Dur-Sol-Assistant_JR2667818-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Donor Relations Officer
+[Location] Geneva, Switzerland
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Geneva-Switzerland/Associate-Donor-Relations-Officer_JR2667639
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Emergency Preparedness Officer
+[Location] Addis Ababa, Ethiopia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Addis-Ababa-Ethiopia/Associate-Emergency-Preparedness-Officer_JR2667680
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Protection Officer
+[Location] Stockholm, Sweden
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Stockholm-Sweden/Assistant-Protection-Officer_JR2667348-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Child Protection Associate
+[Location] Amman (RB), Jordan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Amman-RB-Jordan/Senior-Child-Protection-Associate_JR2667627-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Community Based Protection Officer
+[Location] Amman (RB), Jordan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Amman-RB-Jordan/Assistant-Community-Based-Protection-Officer_JR2667625
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Programme Analyst, GBV, Mandalay, NOB, FTA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-gbv-mandalay-nob-fta
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Administrative and Procurement Associate, G7, EECARO
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/administrative-and-procurement-associate-g7-eecaro
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Information and Communications Technology (ICT) Analyst, NOB, EECARO
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/information-and-communications-technology-ict-analyst-nob-eecaro
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Internship: Gender and Human Rights
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-internship-gender-and-human-rights
+--------------------------------------------------
+[Organization] UNFPA
+[Position] ASISTENTE ADMINISTRATIVA - FINANCIERA, DE GESTIÓN DE RECURSOS Y PROCESOS OPERATIVOS…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/asistente-administrativa-financiera-de-gesti%C3%B3n-de-recursos-y-procesos-operativos-del-proyecto
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant for documentation and analysis of digital determinants of adolescent SRHR…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-documentation-and-analysis-digital-determinants-adolescent-srhr-and-promising
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Resource Planning and Administration Associate / Senior Associate (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Resource-Planning-and-Administration-Associate-Senior-Associate-DC-20577/1404426000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant - Emergency Medical Teams (EMT) Logistics WHO - World Health Organization Remote | Manila | Suva Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223046
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Management Assistant - LS2 ICMPD - International Centre for Migration Policy Development Skopje LS2, Local Support 2 - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223043
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officier Finance IRC - International Rescue Committee Bangui Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223042
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Immunization Specialist IRC - International Rescue Committee London Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223041
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Global Surge Team Roster: Emergency Grants Coordinator IRC - International Rescue Committee Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223040
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Responsable des Opérations Terrain IRC - International Rescue Committee Niamey Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223039
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Grant and reporting Officer IRC - International Rescue Committee Niamey Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223038
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Victim Services Caseworker IRC - International Rescue Committee Remote | United States of America Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223037
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intake Coordinator IRC - International Rescue Committee Remote | United States of America Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223036
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Refugee Health Promotion Intern (UNPAID) IRC - International Rescue Committee Wichita Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223035
+--------------------------------------------------
+[Organization] Impactpool
+[Position] People & Culture Partner, Global HQ IRC - International Rescue Committee Remote | New York City Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223034
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief of Polio, P-5, Fixed-Term Position, Islamabad, Pakistan, 24 months, #00091844 UNICEF - United Nations Children’s Fund P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223027
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Readvertisement - Programme Manager (Risk & Direct Cash Delivery), P-4, Temporary Position, South Sudan, 364 days, Juba, South Sudan, #00136741 UNICEF - United Nations Children’s Fund Juba P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223026
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief Child Protection, P-5, Fixed Term Position, Kyiv, Ukraine, post # 00066605 UNICEF - United Nations Children’s Fund Kyiv P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223024
+--------------------------------------------------
