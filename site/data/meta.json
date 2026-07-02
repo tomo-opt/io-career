@@ -1,8 +1,7 @@
 {
-  "last_update_bj": "2026-07-01 14:42:01",
-  "count": 5679,
+  "last_update_bj": "2026-07-02 14:10:20",
+  "count": 5735,
   "errors": [
-    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))",
-    "ebrd_jobs: all source URLs failed (HTTP request failed: https://www.ebrd.com/careers.html (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))))"
+    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
   ]
 }
