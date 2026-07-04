@@ -1,0 +1,288 @@
+[Organization] United Nations Secretariat
+[Position] SPECIAL ASSISTANT, POLITICAL AFFAIRS
+[Location] BANGUI
+[Deadline] 2026-07-17
+[Link] https://careers.un.org/job-openings?job-id=280495
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] GENEVA
+[Deadline] 2026-08-02
+[Link] https://careers.un.org/job-openings?job-id=279435
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] KABUL
+[Deadline] 2026-07-18
+[Link] https://careers.un.org/job-openings?job-id=280348
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ENGINEERING ASSISTANT
+[Location] GENEVA
+[Deadline] 2026-07-18
+[Link] https://careers.un.org/job-openings?job-id=279685
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] DAMASCUS
+[Deadline] 2026-07-18
+[Link] https://careers.un.org/job-openings?job-id=279807
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE DATA SPECIALIST
+[Location] MANAGUA
+[Deadline] 2026-07-10
+[Link] https://careers.un.org/job-openings?job-id=280369
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET ASSISTANT
+[Location] NAIROBI
+[Deadline] 2026-07-11
+[Link] https://careers.un.org/job-openings?job-id=280398
+--------------------------------------------------
+[Organization] UNDP
+[Position] Finance Associate [Open to internal and external applicants]
+[Location] Kuala Lumpur, Malaysia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34705;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Technical Specialist [Open to internal and external applicants]
+[Location] Papua New Guinea
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35277;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Manager de Projet [Ouvert aux Candidats internes & externes]
+[Location] Ndjamena, Chad
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34911;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Planning, Monitoring, and Evaluation Technical Associate (ROSTER) - (Abierto a candidatos internos y externos) Post level NPSA-7 Apply by Jul-10-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35248
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a Técnico/a en Empleabilidad (ROSTER) -(Abierto a candidatos internos y externos) Post level NPSA-7 Apply by Jul-10-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35266
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Technical Specialist [Open to internal and external applicants] Post level NPSA-10 Apply by Jul-17-26 Agency UNDP Location Papua New Guinea
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35277
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Manager de Projet [Ouvert aux Candidats internes & externes] Post level NPSA-10 Apply by Jul-17-26 Agency UNDP Location Ndjamena, Chad
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34911
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Finance Associate [Open to internal and external applicants] Post level NPSA-6 Apply by Jul-12-26 Agency UNDP Location Kuala Lumpur, Malaysia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34705
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title ICT Analyst/ Head of ICT Unit [Open to internal and external applicants] Post level NPSA-9 Apply by Jul-17-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34854
+--------------------------------------------------
+[Organization] WFP
+[Position] Supply Chain Associate (Capacity Strengthening) SC6 - Bridgetown, Barbados
+[Location] Bridgetown, Barbados
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bridgetown-Barbados/Logistics-Associate-SC6---Bridgetown--Barbados_JR120601
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant (Partnerships and Reporting), SSA-5 Nairobi
+[Location] Nairobi, Kenya, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Programme-Assistant--Partnerships-and-Reporting---SSA-5-Nairobi_JR124524
+--------------------------------------------------
+[Organization] WFP
+[Position] Assistante aux ressources humaines SC5
+[Location] Bujumbura, Burundi, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bujumbura-Burundi-The-Republic-Of/Assistante-aux-ressources-humaines-SC5_JR124487
+--------------------------------------------------
+[Organization] WFP
+[Position] Internship - Communication Team, WFP Tokyo Office, Japan
+[Location] Yokohama, Japan
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Yokohama-Japan/Internship---Communication-Team--WFP-Tokyo-Office--Japan_JR124586
+--------------------------------------------------
+[Organization] UNHCR
+[Position] UNOPS Community-Based Assistant
+[Location] Lago Agrio, Ecuador
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Lago-Agrio-Ecuador/UNOPS-Community-Based-Assistant_JR2667896-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] UNOPS CBI Assistant
+[Location] Quito, Ecuador
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Quito-Ecuador/UNOPS-CBI-Assistant_JR2667903-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] UNOPS Assistant Field Officer- Field Presence Machala, Ecuador
+[Location] Guayaquil, Ecuador
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Guayaquil-Ecuador/UNOPS-Assistant-Field-Officer_JR2667897
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Livelihood and Economic Inclusion Assistant
+[Location] Manta, Ecuador
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Manta-Ecuador/Livelihood-and-Economic-Inclusion-Assistant_JR2667901
+--------------------------------------------------
+[Organization] UNHCR
+[Position] UNOPS Senior Shelter Assistant
+[Location] Quito, Ecuador
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Quito-Ecuador/UNOPS-Senior-Shelter-Assistant_JR2667900
+--------------------------------------------------
+[Organization] UNHCR
+[Position] UNOPS Senior Protection Assistant - Field Presence Machala, Ecuador
+[Location] Guayaquil, Ecuador
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Guayaquil-Ecuador/UNOPS-Senior-Protection-Assistant---Field-Presence-Machala--Ecuador_JR2667899
+--------------------------------------------------
+[Organization] UNHCR
+[Position] UNOPS Livelihood & Economic Inclusion Assistant
+[Location] Guayaquil, Ecuador
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Guayaquil-Ecuador/UNOPS-Livelihood---Economic-Inclusion-Assistant_JR2667905-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Protection Assistant
+[Location] Minsk, Belarus
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Minsk-Belarus/Senior-Protection-Assistant_JR2667860-3
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Data Management Associate
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kyiv-Ukraine/Data-Management-Associate_JR2667685-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant | Consultancy on Mapping sexual and reproductive health and rights (SRHR) indicators collected through routine health information systems (RHIS) in countries in the UNFPA Arab States Region
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-consultancy-mapping-sexual-and-reproductive-health-and-rights-srhr
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National post: ICT Assistant,FTA-G5,Cairo-ASRO
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-ict-assistantfta-g5cairo-asro
+--------------------------------------------------
+[Organization] Council of Europe
+[Position] Internet Archive\'s Wayback Machine
+[Location] 
+[Deadline] 
+[Link] https://archive.org/web/
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] COMMUNICATIONS INTERN - Corruption and Financial Crime Branch, I, Vienna
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783042195001
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern in the Space Medicine Team, Exercise Team, Porz-Wahn
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783025847886
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern in the Space Medicine Team, Porz-Wahn
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783025777773
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern in the LUNA Analog Facility Team, Lunar Surface Technologies and Mission Simulations, Porz-Wahn
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783025770689
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant, Civil Protection and Chemical Safety
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783014664062
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Data & Analytics Engineer – Artificial Intelligence BIS - Bank for International Settlements Remote | Geneva | Basel Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223891
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Travel Officer (Reporting And Monitoring) FAO - Food and Agriculture Organization of the United Nations Rome P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223888
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Budget Analyst - Fixed-term co-terminus 2 years IFAD - International Fund for Agricultural Development Rome P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223880
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Call for Interest - Senior Advisor NSO Transformation and Implementation, Consultancy 6 Months IFAD - International Fund for Agricultural Development Rome C-1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223879
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Environmental Affairs Intern UNEP - United Nations Environment Programme Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223874
+--------------------------------------------------
+[Organization] Impactpool
+[Position] PROGRAMME MANAGEMENT OFFICER UNEP - United Nations Environment Programme Geneva P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223871
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection from Violence Officer Burkina Faso Djibo (Internal Candidates only) NRC - Norwegian Refugee Council Dori | Djibo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223866
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ASYCUDA Intern, ASYPM UI Re-engineering & Data Visualization UNCTAD - United Nations Conference on Trade and Development Remote | Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223853
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Human Rights Intern OHCHR - Office of the High Commissioner for Human Rights Remote | Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223850
+--------------------------------------------------
+[Organization] Impactpool
+[Position] HUMAN RIGHTS OFFICER / CHILD PROTECTION OFFICER (Temporary Job Opening) OHCHR - Office of the High Commissioner for Human Rights Juba P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223848
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Mechanical Technician (Seals) (G2) IAEA - International Atomic Energy Agency Seibersdorf | Vienna GS-2, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223847
+--------------------------------------------------
