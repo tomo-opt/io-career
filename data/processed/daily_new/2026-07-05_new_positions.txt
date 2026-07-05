@@ -1,0 +1,132 @@
+[Organization] United Nations Secretariat
+[Position] AIR OPERATIONS ASSISTANT
+[Location] SANTO DOMINGO
+[Deadline] 2026-07-19
+[Link] https://careers.un.org/job-openings?job-id=280225
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] AIR OPERATIONS ASSISTANT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-12
+[Link] https://careers.un.org/job-openings?job-id=280232
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] AIR OPERATIONS ASSISTANT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-12
+[Link] https://careers.un.org/job-openings?job-id=280230
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista Ambiental (Abierto a candidatos internos y externos) Post level NPSA-8 Apply by Jul-12-26 Agency UNDP Location Panama City, Panama
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35285
+--------------------------------------------------
+[Organization] UNHCR
+[Position] UNOPS Senior External Relations Associate
+[Location] Quito, Ecuador
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Quito-Ecuador/UNOPS-Senior-External-Relations-Associate_JR2667911-2
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Sexual and Reproductive Health Rights (SRHR) Program Officer, Addis Ababa, Ethiopia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-sexual-and-reproductive-health-rights-srhr-program-officer-addis-ababa
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Programme Management Intern (Youth Engagement), New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783041844564
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Programme Management Intern, New York, United States
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783206584644
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Donor Intelligence, San Jose, Costa Rica
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783206703059
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Team Leaders Internal Models (Internal) EIOPA - European Insurance and Occupational Pensions Authority Frankfurt AD-6, Administrator - Open to citizens of an EU country - Mid/Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223942
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Temporary Assistant, Organizational Development and Strategy Office Alliance of Bioversity International and CIAT Rome Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223937
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Officer - LP2 ICMPD - International Centre for Migration Policy Development Tirana LP2, Local Professional 2 - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223936
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Assistant Research Associate-Regional Testing Network & Breeding Data Mgt CIMMYT - International Maize and Wheat Improvement Center Harare Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223932
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Assistant Research Associate - Maize Product Development CIMMYT - International Maize and Wheat Improvement Center Harare Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223931
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Data Analytics Engineer IRC - International Rescue Committee Nairobi Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223930
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Profesionales de Protección IRC - International Rescue Committee Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223929
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Profesionales en Agua Saneamiento e Higiene (Wash) IRC - International Rescue Committee Caracas Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223928
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Planning, Monitoring, and Evaluation Technical Associate (ROSTER) - (Abierto a candidatos internos y externos) UNDP - United Nations Development Programme Bogotá NPSA-7, National Personnel Services Agreement - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223925
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Intern Nigeria Maiduguri NRC - Norwegian Refugee Council Maiduguri | Abuja Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223914
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Officer, Operational Risk IFRC - International Federation of Red Cross and Red Crescent Societies Kuala Lumpur National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223911
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Health Program Manager IFRC - International Federation of Red Cross and Red Crescent Societies Kyiv Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223910
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Logistics IFRC - International Federation of Red Cross and Red Crescent Societies Santo Domingo National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223909
+--------------------------------------------------
