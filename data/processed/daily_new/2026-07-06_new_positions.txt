@@ -1,0 +1,102 @@
+[Organization] United Nations Secretariat
+[Position] Mechanical Design Engineer
+[Location] HQ Amman
+[Deadline] 2026-07-19
+[Link] https://careers.un.org/job-openings?job-id=280155
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Environmental Finance Analyst [Open to internal and external applicants]
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34932;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Environmental Finance Analyst [Open to internal and external applicants] Post level NPSA-9 Apply by Jul-20-26 Agency UNDP Location Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34932
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior External Relations Assistant
+[Location] Beijing, China
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Beijing-China/Senior-External-Relations-Assistant_JR2667796
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Inter-Agency Coordination Officer
+[Location] Cox's Bazaar, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Coxs-Bazaar-Bangladesh/Associate-Inter-Agency-Coordination-Officer_JR2667832-3
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Communication Team, WFP Tokyo Office, Japan, Yokohama, Japan
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783279889834
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant to support ODIHR's projects related to tolerance and non-discrimination (SSA), Warsaw
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783285428649
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Artificial Intelligence Intern- Gulf Area Office- In Abu Dhabi for Two Months UNICEF - United Nations Children’s Fund Abu Dhabi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223966
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Water & Climate Intern- Gulf Area Office- In Abu Dhabi for Two Months UNICEF - United Nations Children’s Fund Abu Dhabi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223965
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Mechanical Design Engineer (Internally Only) UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman Grade 14
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223962
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asst. Electrical Design Engineer (Internally Only) UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman 13
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223961
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Programme Support Associate IOM - International Organization for Migration Khartoum GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223959
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection of Family Links Field Officer ICRC - International Committee of the Red Cross Cairo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223957
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Profesionales en Salud IRC - International Rescue Committee Miranda | Caracas | La Guaira Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223952
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Caseworker, Assistance for Migrants Program IRC - International Rescue Committee Remote | New York City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223951
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Manager – Education IRC - International Rescue Committee Dhaka Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223950
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection Associate - Consultant IOM - International Organization for Migration As UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1223948
+--------------------------------------------------
