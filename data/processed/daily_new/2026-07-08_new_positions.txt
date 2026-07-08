@@ -1,0 +1,234 @@
+[Organization] United Nations Secretariat
+[Position] Director
+[Location] NEW YORK
+[Deadline] 2026-08-21
+[Link] https://careers.un.org/job-openings?job-id=279933
+--------------------------------------------------
+[Organization] UNDP
+[Position] Green and Digital Development Intern
+[Location] Beijing, China
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35309;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Investment Specialist, NPSA11, Kinshasa, Democratic Republic of Congo, UNCDF [Open to internal and external applicants]
+[Location] Kinshasa, Democratic Republic of the Congo
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34973;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado(a) en Proyectos de Cooperación Internacional Post level NPSA-7 Apply by Jul-13-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35330
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado(a) de Mecanismos Económicos Internacionales Post level NPSA-6 Apply by Jul-13-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35334
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado(a) de Asuntos Jurídicos Económicos Internacionales Post level NPSA-6 Apply by Jul-13-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35335
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Green and Digital Development Intern Post level IN Apply by Jul-14-26 Agency UNDP Location Beijing, China
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35309
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships and OIM Senior Associate, SSA7 - Ankara
+[Location] Ankara, Turkiye, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Ankara-Turkiye-The-Republic-Of/Partnerships-and-OIM-Senior-Associate--SSA7---Ankara_JR124744
+--------------------------------------------------
+[Organization] WFP
+[Position] Budget & Programming Associate
+[Location] Lima, Peru, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lima-Peru-The-Republic-Of/Budget---Programming-Associate_JR124721-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Supply Chain Officer NOA
+[Location] Dushanbe, Tajikistan, Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dushanbe-Tajikistan-Republic-Of/Supply-Chain-Officer-NOA_JR124689
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer - Cooperating Partner (CP) Management NOA
+[Location] Dushanbe, Tajikistan, Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dushanbe-Tajikistan-Republic-Of/Programme-Policy-Officer---Cooperating-Partner--CP--Management-NOA_JR124684
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer - Head of Field Office (Bokhtar) NOB
+[Location] Kurgan-Tyube, Tajikistan, Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kurgan-Tyube-Tajikistan-Republic-Of/Programme-Policy-Officer---Head-of-Field-Office--Bokhtar--NOB_JR124653
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Associate G6
+[Location] Conakry, Guinea, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Conakry-Guinea-The-Republic-Of/IT-Operations-Associate-G6_JR124601
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Programme Officer
+[Location] Santo Domingo, Dominican Republic
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Santo-Domingo-Dominican-Republic/Assistant-Programme-Officer_JR2667902-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Registration and Identity Management Officer
+[Location] Bujumbura, Burundi
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bujumbura-Burundi/Associate-Registration-and-Identity-Management-Officer_JR2667631
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Adviser, Humanitarian Sexual and Reproductive Health and Rights, Programme Division (PD), Nairobi, Kenya, P-5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-adviser-humanitarian-sexual-and-reproductive-health-and-rights-programme-division-pd
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, Quality Assurance, Quality Programming Branch, Programme Division (PD), Nairobi, Kenya, P-2
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-quality-assurance-quality-programming-branch-programme-division-pd-nairobi
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant International Principal (P5) "Chef de Mission / Expert en Audit Industriel et Stratégie"
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-international-principal-p5-chef-de-mission-expert-en-audit-industriel-et-strat%C3%A9gie
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Sexual and Reproductive Health Rights (SRHR) Program Officer,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-sexual-and-reproductive-health-rights-srhr-program-officer-addis-ababa
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Innovative Financing and Resource Mobilization Specialist, FGM Joint Programme,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/innovative-financing-and-resource-mobilization-specialist-fgm-joint-programme-division
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Investment Officer - Infrastructure and Energy - Caribbean Region (Port of Spain, TT)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Port-of-Spain-IDB-Invest-Investment-Officer-Infrastructure-and-Energy-Caribbean-Region/1406368900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Finance Internship, Jakarta, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783463665213
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship (Circular Economy and Green Industry), Vienna, Austria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783463730892
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Assoc. Director, Internal Investigations, London, United Kingdom
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783465555058
+--------------------------------------------------
+[Organization] Impactpool
+[Position] AI Engineering Interns â Data Engineering, Full-Stack Development, Quality & Evaluation (BOS/IT & AI) WHO - World Health Organization Istanbul No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224408
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head, Financial Planning & Analysis Gavi, Vaccine Alliance Geneva CS5 - Career Step 5 - Professional - Both internationally and locally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224407
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Global Direct Category Buyer – Biomedical Equipment MSF International - Médecins Sans Frontières (Doctors Without Borders) Amsterdam | Brussels | Bordeaux Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224405
+--------------------------------------------------
+[Organization] Impactpool
+[Position] (RFP301279) Investigador Visitante -Programa Científico del CGIAR- Paisajes Multifuncionales Alliance of Bioversity International and CIAT Bogotá | Palmira Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224404
+--------------------------------------------------
+[Organization] Impactpool
+[Position] (RFP301275) Associate Team Leader- Platform Product Development (Internal & External Advert) Alliance of Bioversity International and CIAT Nairobi BG08
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224403
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INTERNAL & EXTERNAL CALL (RFP301350): RESEARCH ASSOCIATE, NAIROBI, KENYA Alliance of Bioversity International and CIAT Nairobi BG06
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224402
+--------------------------------------------------
+[Organization] Impactpool
+[Position] (RFP 301271) Trabajador de Campo - Forrajes Tropicales Alliance of Bioversity International and CIAT Bogotá | Palmira BG02
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224401
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Management Assistant - S2 ICMPD - International Centre for Migration Policy Development Vienna S2, Support 2 - Internationally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224399
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Assistant CIP - International Potato Center Peru | Lima Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224394
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Data Full-Stack Development Intern CIP - International Potato Center Lima | Peru Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224393
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief Technical Advisor (Improved Water Management, Food Security and Social Protection Projects and Senior Coordinator to all WB projects in Yemen) Open to all Tiers UNDP - United Nations Development Programme Aden P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224391
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Special Advisor - Climate Action and Energy Transition (Open to Tier 0 & 1 applicants) UNDP - United Nations Development Programme Rome P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224388
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communications Assistant UNV - United Nations Volunteers Harare Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224384
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Buyer 2 (800475) ICRC - International Committee of the Red Cross Sanaa B3
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1224377
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Executive Director - US
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51219-new-york-keep-a-child-alive-executive-director-us
+--------------------------------------------------
