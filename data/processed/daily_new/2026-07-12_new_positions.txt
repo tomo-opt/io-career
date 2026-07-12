@@ -1,0 +1,198 @@
+[Organization] United Nations Secretariat
+[Position] Associate Administrative Officer
+[Location] AMMAN
+[Deadline] 2026-07-26
+[Link] https://careers.un.org/job-openings?job-id=279537
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES ASSISTANT
+[Location] DAMASCUS
+[Deadline] 2026-07-26
+[Link] https://careers.un.org/job-openings?job-id=280407
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SECURITY OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-19
+[Link] https://careers.un.org/job-openings?job-id=280927
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SECURITY COORDINATION OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-19
+[Link] https://careers.un.org/job-openings?job-id=280924
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Communication Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/communication-consultant-0
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern (Global Environmental Facility), Vienna, Austria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783704743532
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associate Scientist - Plant Breeding and Genetics IRRI - International Rice Research Institute Philippines Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225244
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Premises Maintenance Officer (800547) ICRC - International Committee of the Red Cross Djibouti Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225243
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intensive Case Management Caseworker IRC - International Rescue Committee Remote | United States of America Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225239
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Application Security Support Specialist IRC - International Rescue Committee Nairobi Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225238
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Protección-1 IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225237
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Alianzas-1 IRC - International Rescue Committee Caracas Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225236
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Alianzas IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225235
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Protección IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225234
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Seguridad IRC - International Rescue Committee Caracas Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225233
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Operaciones IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225232
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Operaciones IRC - International Rescue Committee Caracas Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225231
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial Personas y Cultura (SST) IRC - International Rescue Committee San Cristobal Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225230
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial Senior Personas y Cultura IRC - International Rescue Committee Caracas Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225229
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Personas y Cultura IRC - International Rescue Committee Maracaibo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225228
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Empowerment - AmeriCorps VISTA IRC - International Rescue Committee Remote | Denver Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225227
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Auxiliar Meal-1 IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225226
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente MEAL (Rendición de Cuentas a Poblaciones Afectadas) IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225225
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Officer IFRC - International Federation of Red Cross and Red Crescent Societies Damascus National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225223
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Officer, Global Strategic sourcing Cash Voucher Assistance & Non-Food Items IFRC - International Federation of Red Cross and Red Crescent Societies Budapest D2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225222
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Programme IFRC - International Federation of Red Cross and Red Crescent Societies Hanoi National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225221
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ERP Solution Architect IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225220
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Thematic Lead, Migration & Displacement IFRC - International Federation of Red Cross and Red Crescent Societies Kuala Lumpur Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225219
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Disaster Risk Management IFRC - International Federation of Red Cross and Red Crescent Societies Jakarta National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225218
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, Knowledge Management and Communications IFRC - International Federation of Red Cross and Red Crescent Societies Suva | Mexico City | Madrid Consultant, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225217
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Security Officer | International Consultancy Level 1 Roster | Gaza, Palestine WFP - World Food Programme Gaza Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225215
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SBC Consultant, Social listening, Global Health Practice, 5 months, COE Panama, (Remote/Home based, International), #594387 UNICEF - United Nations Children’s Fund Remote | Panama City Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225212
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] Gerente de Protección (Nacional/Internacional)
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4220929/gerente-de-proteccion-nacionalinternacional
+--------------------------------------------------
