@@ -1,0 +1,348 @@
+[Organization] United Nations Secretariat
+[Position] TELECOMMUNICATIONS ASSISTANT
+[Location] NAIROBI
+[Deadline] 2026-08-12
+[Link] https://careers.un.org/job-openings?job-id=280056
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] RESIDENT COORDINATOR
+[Location] CONAKRY
+[Deadline] 2026-07-20
+[Link] https://careers.un.org/job-openings?job-id=281059
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES OFFICER
+[Location] THE HAGUE
+[Deadline] 2026-07-31
+[Link] https://careers.un.org/job-openings?job-id=280481
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES OFFICER
+[Location] GENEVA
+[Deadline] 2026-07-20
+[Link] https://careers.un.org/job-openings?job-id=281023
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS OFFICER
+[Location] ADDIS ABABA
+[Deadline] 2026-07-28
+[Link] https://careers.un.org/job-openings?job-id=279141
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Communications Officer
+[Location] MALE
+[Deadline] 2026-07-20
+[Link] https://careers.un.org/job-openings?job-id=280895
+--------------------------------------------------
+[Organization] UNDP
+[Position] Trust Fund Manager [Open to Internal and External candidates]
+[Location] Afghanistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35133;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista de implementación y gestión de Sembrando Vida (En Oficina) (Abierto a candidatos internos y externos) Post level NPSA-8 Apply by Jul-20-26 Agency UNDP Location Mexico, Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35454
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista de Proyecto (Abierto a candidatos internos y externos) Post level NPSA-9 Apply by Jul-27-26 Agency UNDP Location La Paz, Bolivia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35094
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Officer- CST level II
+[Location] Vientiane, Laos, The People's Dem. Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Vientiane-Laos-The-Peoples-Dem-Re/Procurement-Officer--CST-level-II_JR124953
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer_CST Level II
+[Location] Vientiane, Laos, The People's Dem. Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Vientiane-Laos-The-Peoples-Dem-Re/Logistics-Officer-CST-Level-II_JR124950
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Associate (External Services) G6, Port-au-Prince
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Logistics-Associate--External-Services--G6--Port-au-Prince_JR124886-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant (Information Management) SC5, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Logistics-Assistant--Information-Management--SC5--Port-au-Prince--Haiti_JR124885
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant (External Services) G5, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Logistics-Assistant--External-Services--G5--Port-au-Prince--Haiti_JR124887
+--------------------------------------------------
+[Organization] WFP
+[Position] Supply Chain Officer (External Services) NOA, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Supply-Chain-Officer--External-Services--NOA--Port-au-Prince--Haiti_JR124884-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Warehouse Operations Officer NOA, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Warehouse-Operations-Officer-NOA--Port-au-Prince--Haiti_JR124912-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant SC4 Management Service
+[Location] Goz Beida, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Goz-Beida-Chad-The-Republic-Of/Business-Support-Assistant-SC4-Management-Service_JR124968
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Head of Programme), NOC – South Central Area Office,
+[Location] Mogadiscio, Somalia, The Dem. Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Programme-Policy-Officer--Head-of-Programme---NOC---South-Central-Area-Office-_JR124797
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant (BISP) - SC5 - Peshawar, Pakistan
+[Location] Peshawar, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Peshawar-Pakistan-The-Islamic-Rep/Programme-Assistant--BISP----SC5---Peshawar--Pakistan_JR124945-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer NOA - Jordan
+[Location] Amman, Jordan, Hashemite Kingdom
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Amman-Jordan-Hashemite-Kingdom/Logistics-Officer-NOA---Jordan_JR124948
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Officer, NOA Maputo
+[Location] Maputo, Mozambique, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Maputo-Mozambique-Republic-of/Procurement-Officer--NOA-Maputo_JR124949
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Management Support Associate
+[Location] Kuala Lumpur, Malaysia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kuala-Lumpur-Malaysia/Senior-Management-Support-Associate_JR2664562-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Individual Giving Assistant
+[Location] Montreal, Canada
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Montreal-Canada/Individual-Giving-Assistant_JR2667967
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Administrative Assistant
+[Location] Caracas, Venezuela
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Caracas-Venezuela/Administrative-Assistant_JR2667956-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Supply Assistant
+[Location] Caracas, Venezuela
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Caracas-Venezuela/Senior-Supply-Assistant_JR2668009-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Private Partnerships & Philanthropy Intern
+[Location] Copenhagen (HQ), Denmark
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Copenhagen-HQ-Denmark/Private-Partnerships---Philanthropy-Intern_JR2667840
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Field Assistant
+[Location] Agrigento, Italy
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Agrigento-Italy/Senior-Field-Assistant_JR2667987-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Registration Assistant
+[Location] New Delhi, India
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/New-Delhi-India/Registration-Assistant_JR2667996
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Reporting Assistant
+[Location] Caracas, Venezuela
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Caracas-Venezuela/Senior-Reporting-Assistant_JR2668021-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Assistant Representative, Brasilia, Brasil, NOC, FTA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/assistant-representative-brasilia-brasil-noc-fta
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL CONSULTANT: To review progress on human rights and gender recommendations for Global Fund GC8 Program Continuation Application for Rwanda.
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-review-progress-human-rights-and-gender-recommendations-global-fund-gc8
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Chief Financial Officer and General Manager of the Finance Department (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Chief-Financial-Officer-and-General-Manager-of-the-Finance-Department-DC-20577/1408222200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Financial Analyst Consultant - Financial Institutions (La Paz, BO, 14973)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/La-Paz-IDB-Invest-Financial-Analyst-Consultant-Financial-Institutions-14973/1408450900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Strategy, Program & Innovation Officer (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest-Strategy%2C-Program-&-Innovation-Officer-DC-20577/1407243700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Traineeship - Project Implementation and Partnership Development - Recirculation
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783693337681
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Monitoring & Evaluation Graduate Intern- DGD Project, Kikuube- Kyangwali, Uganda
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1783870298284
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Capability 4 & 5 Lead CI - Children International Quezon City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225483
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Monitoring, Evaluation, & Learning (MEL) Lead - Reliever Contract CI - Children International Quezon City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225482
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship - Country Strategy and Support WHO - World Health Organization Geneva No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225479
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Collaborative Analysis WHO - World Health Organization Berlin No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225478
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Deputy Executive Secretary - ASG, Executive Division UNFCCC - United Nations Climate Change Bonn ASG, Assistant-Secretary-General - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225476
+--------------------------------------------------
+[Organization] Impactpool
+[Position] HUMAN RESOURCES OFFICER (Temporary job opening) ICJ - International Court of Justice The Hague Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225475
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Rule of Law and Democracy Intern OHCHR - Office of the High Commissioner for Human Rights Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225464
+--------------------------------------------------
+[Organization] Impactpool
+[Position] HUMAN RESOURCES OFFICER (TJO) OHCHR - Office of the High Commissioner for Human Rights Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225463
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Well-Being Unit Intern OHCHR - Office of the High Commissioner for Human Rights Remote | Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225462
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Development Analyst (Open to Tier 0, 1 & 2 applicants) UNDP - United Nations Development Programme Copenhagen IPSA-9, International Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225460
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trust Fund Manager [Open to Internal and External candidates] UNDP - United Nations Development Programme Afghanistan P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225458
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head of IT Infrastructure and Client Services Section COE - Council of Europe Strasbourg A1/A2 -Mid Level - Administrators - International recruitment - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225456
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Publishing Manager II ILRI - International Livestock Research Institute Addis Ababa | Nairobi HG 17
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225449
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Information and Records Coordinator - VA 13/2026
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51305-brussels-belgium-efta-secretariat-information-and-records-coordinator-va-13-2026
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Emergency Programme Officer - Venezuela Earthquake Response (6-month Fixed Term Contract)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51304-colombia-christian-aid-emergency-programme-officer-venezuela-earthquake-response-6-month-fixed-term-contract
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] People and Culture Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51303-belgium-peace-brigades-international-people-and-culture-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Professional Learning Facilitator - FULL TIME/TEMP
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51302-saint-paul-minnesota-world-savvy-professional-learning-facilitator-full-time-temp
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Part-Time Lecturer - Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51301-dartmouth-massachusetts-university-of-part-time-lecturer-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Sr. Manager, Digital Operations, CHHC Project (Storytelling) Fixed - Term
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51300-washington-dc-national-geographic-society-sr-manager-digital-operations-chhc-project-storytelling-fixed-term
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Director, European Advocacy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51299-london-or-brussels-belgium-clean-air-task-force-catf-senior-director-european-advocacy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Education Specialist (Emergencies), P-4, TA, 364 Days
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51298-geneva-switzerland-unicef-education-specialist-emergencies-p-4-ta-364-days
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Policy Analyst / Subject Matter Expert
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51162-taipei-taiwan-senjay-regional-insights-consulting-senior-policy-analyst-subject-matter-expert
+--------------------------------------------------
