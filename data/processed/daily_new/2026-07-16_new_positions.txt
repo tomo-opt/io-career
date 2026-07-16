@@ -1,0 +1,210 @@
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-30
+[Link] https://careers.un.org/job-openings?job-id=281072
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-30
+[Link] https://careers.un.org/job-openings?job-id=281021
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE ADMINISTRATIVE OFFICER
+[Location] SANTO DOMINGO
+[Deadline] 2026-07-31
+[Link] https://careers.un.org/job-openings?job-id=281220
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SPECIAL ASSISTANT, POLITICAL AFFAIRS
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-30
+[Link] https://careers.un.org/job-openings?job-id=280976
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROCUREMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-08-29
+[Link] https://careers.un.org/job-openings?job-id=280220
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SECURITY OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-23
+[Link] https://careers.un.org/job-openings?job-id=281198
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SECURITY OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-07-23
+[Link] https://careers.un.org/job-openings?job-id=281203
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Senior Finance and Budget Assistant
+[Location] NEW YORK
+[Deadline] 2026-07-22
+[Link] https://careers.un.org/job-openings?job-id=279647
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] BUDAPEST
+[Deadline] 2026-07-22
+[Link] https://careers.un.org/job-openings?job-id=280741
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Associate [Open to internal and external applicants]
+[Location] Chisinau, Republic of Moldova
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35519;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Analyst Climate Change, Water, Energy & Environment [Open to internal and external applicants]
+[Location] Aden, Yemen
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35506;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Especialista en Proyectos de Cooperación Internacional y Prospectiva Post level NPSA-10 Apply by Jul-21-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35529
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Chief Technical Specialist [Open to internal and external applicants] Post level IPSA-10 Apply by Jul-22-26 Agency UNDP Location Almaty, Kazakhstan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32598
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Programme Analyst Climate Change, Water, Energy & Environment [Open to internal and external applicants] Post level NOB Apply by Jul-29-26 Agency UNDP Location Aden, Yemen
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35506
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate [Open to internal and external applicants] Post level NPSA-7 Apply by Jul-29-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35519
+--------------------------------------------------
+[Organization] WFP
+[Position] Assistant Administratif (G3) – Articles Non Alimentaires (NFI) & Fournitures de Bureau
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Assistant-Administratif--G3----Articles-Non-Alimentaires--NFI----Fournitures-de-Bureau_JR125075
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Associate
+[Location] Lima, Peru, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lima-Peru-The-Republic-Of/Management-Services-Associate_JR124880-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Assistant SC4 (Gharm & Bokhtar)
+[Location] 2 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Gharm-Tajikistan-Republic-Of/Monitoring-Assistant-SC4--Gharm---Bokhtar-_JR124691-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate SSA6 - Beirut Field Office
+[Location] Beirut, Lebanon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beirut-Lebanon-The-Republic-Of/Programme-Associate-SSA6---Beirut-Field-Office_JR125014
+--------------------------------------------------
+[Organization] WFP
+[Position] Data Scientist - Associate (SC6) / Assistant Level (SC5)
+[Location] Cairo, Egypt, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cairo-Egypt-Republic-of/Data-Scientist---Associate--SC6----Assistant-Level--SC5-_JR124970
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer - RAM, NOA (Re-advertised)
+[Location] 4 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Ampanihy-Madagascar-The-Democratic/Programme-Policy-Officer---RAM--NOA--Re-advertised-_JR124988
+--------------------------------------------------
+[Organization] UNFPA
+[Position] CONSULTANT INDIVIDUEL (P2) – ÉVALUATION DE L'USINE D'ASSEMBLAGE DE TABLETTES ET DU PROCESSUS DE PRODUCTION DES TABLETTES À KINSHASA (RGPH-2)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-individuel-p2-%E2%80%93-%C3%A9valuation-de-lusine-dassemblage-de-tablettes-et-du-processus-de
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-ADVERTISEMENT: HR Adviser, Talent Acquisition, Client Services and Outreach Branch, Division for Human Resources, New York, P-5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-hr-adviser-talent-acquisition-client-services-and-outreach-branch-division
+--------------------------------------------------
+[Organization] UNFPA
+[Position] CONSULTANT INDIVIDUEL (P2) – ÉVALUATION DE L'USINE D'ASSEMBLAGE DE…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-individuel-p2-%E2%80%93-%C3%A9valuation-de-lusine-dassemblage-de-tablettes-et-du-processus-de
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant for Partnerships & External Relations Team, Kabul, Afghanistan
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784147670484
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head of Energy and Socioeconomic Outlooks, IITC, P5 IRENA - International Renewable Energy Agency Bonn P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226044
+--------------------------------------------------
+[Organization] Impactpool
+[Position] General Services Management Assistant ICJ - International Court of Justice The Hague Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226038
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head of Operations | International Consultancy Level 3 | Gaza, Palestine WFP - World Food Programme Gaza Level 3
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226037
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Social & Behavior Change Specialist, P-3, Fixed Term Position, #00137802, Port Moresby - Papua N. Guinea, APR (Open for international candidates only) UNICEF - United Nations Children’s Fund Port Moresby | Conakry P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226035
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Disability Inclusion Action Plan Development Consultant, Beijing, China, Remotely, 4 Month (Open for both National and International) Req#594521 UNICEF - United Nations Children’s Fund Remote | Beijing Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226034
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Investigation Manager, P-4, FTA, Office of Internal Audit & Investigation, Nairobi, Kenya, #00103395 UNICEF - United Nations Children’s Fund Nairobi P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226026
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Emergency Specialist (Resilience Coordinator), (P-3), TA (9 months), #138150, Niamey - Niger, WCAR UNICEF - United Nations Children’s Fund Niamey P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226019
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant (e) International(e) pour réaliser l’adaptation du livret « lis la loi » pour les enfants, Nouakchott, télétravail + mission, 594498 UNICEF - United Nations Children’s Fund Remote | Nouakchott Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226011
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Readvertisement - Administrator ICARDA - The International Center for Agricultural Research in the Dry Areas Cairo Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226009
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultoría para el fortalecimiento de competencias blandas, Representation, People and Culture (HR), Managua, Remoto, 6 meses, International and National UNICEF - United Nations Children’s Fund Remote | Managua Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226006
+--------------------------------------------------
