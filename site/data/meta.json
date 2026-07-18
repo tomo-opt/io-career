@@ -1,6 +1,6 @@
 {
-  "last_update_bj": "2026-07-17 13:21:48",
-  "count": 6447,
+  "last_update_bj": "2026-07-18 12:56:02",
+  "count": 6492,
   "errors": [
     "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
   ]
