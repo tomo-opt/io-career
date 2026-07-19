@@ -1,0 +1,120 @@
+[Organization] United Nations Secretariat
+[Position] STAFF DEVELOPMENT OFFICER
+[Location] BONN
+[Deadline] 2026-08-31
+[Link] https://careers.un.org/job-openings?job-id=277246
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SECTION, SUPPLY
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-08-01
+[Link] https://careers.un.org/job-openings?job-id=280943
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Re-advertisement - Extension: NATIONAL POST: Communications and Advocacy Analyst, Yangon, Myanmar, NOB, FTA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-extension-national-post-communications-and-advocacy-analyst-yangon-myanmar
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Partnerships, Resource Mobilization and Advocacy Analyst, NOB, Dili, Timor Leste
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-partnerships-resource-mobilization-and-advocacy-analyst-nob-dili-timor-leste
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Special Assistant to Deputy Executive Director (Programme), Office of the Executive…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/special-assistant-deputy-executive-director-programme-office-executive-director-new-york-fta-p
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant – Health Cluster Strategic Preparedness, Planning and Partner Response WHO - World Health Organization Remote | Gaza Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226659
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WBG Pioneer - Accountability Mechanism Dispute Resolution Service Intern World Bank Group Washington D.C. T4
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226652
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WBG Pioneer - Research and Data Analysis Intern World Bank Group Almaty T4
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226651
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WBG Pioneer - Investment Analyst Intern World Bank Group Yaoundé | Douala T4
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226650
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Haustechniker:in IIASA - International Institute for Applied Systems Analysis Bei | Laxenburg | Vienna Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226649
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Community Navigation Specialist IRC - International Rescue Committee Iowa City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226648
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Staff Development Officer UNDMSPC - Department of Management Strategy, Policy and Compliance Bonn P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226647
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Stagiaire Infographie//Design, Photographie/Vidéo/ Montage UNDGC - United Nations Department of Global Communications Dakar Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226646
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Advisor/Assistant Director, Office of Internal Audit (OIA) IMF - International Monetary Fund Washington D.C. B01, B02, B03
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226643
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Political Affairs (political monitoring and analysis on Western Africa) SCAD - The Security Council Affairs Division New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226625
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INTERN- Project Support in Graphic/Web Design and Communication UNDOS - United Nations Department of Operational Support Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226624
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WBG Pioneer - Finance intern World Bank Group Washington D.C. T4
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226622
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WBG Pioneer - Blended Finance Data Analytics Intern World Bank Group Washington D.C. T4
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226621
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WBG Pioneer - AI Product and Agentic Systems Intern World Bank Group Washington D.C. | Sofia | Chennai T4
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226619
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WBG Pioneer - Portfolio Analytics and Business Intelligence Intern World Bank Group Almaty T3
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226618
+--------------------------------------------------
