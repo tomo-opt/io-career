@@ -1,0 +1,180 @@
+[Organization] UN Careers Portal
+[Position] Associate Programme Management Officer
+[Location] MONTREAL
+[Deadline] 2026-07-26
+[Link] https://careers.un.org/job-openings?job-id=276115
+--------------------------------------------------
+[Organization] UNDP
+[Position] Admin Assistant (Open to internal and external applicants)
+[Location] Cairo, Egypt
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34041;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Executive Associate to RR [Open to internal and external applicants]
+[Location] Cairo, Egypt
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33956;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Administrative and Finance Associate (Open to internal and external applicants) Post level NPSA-7 Apply by Aug-3-26 Agency UNDP Location Vientiane, Lao People's Democratic Republic
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34974
+--------------------------------------------------
+[Organization] UNHCR
+[Position] HR Intern
+[Location] Seoul, Korea, Republic of
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Seoul-Korea-Republic-of/HR-Intern_JR2668041
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Programme Analyst, Gender, NOB, Dili, Timor-Leste
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-gender-nob-dili-timor-leste
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant: Sexual and Reproductive Health (SRH) Specialist for Disaster Risk Reduction (DRR), Climate Change, and Anticipatory Action (AA) [Remote]
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-sexual-and-reproductive-health-srh-specialist-disaster-risk-reduction
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-ADVERTISEMENT: HR Adviser, Talent Acquisition, Client Services and Outreach…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-hr-adviser-talent-acquisition-client-services-and-outreach-branch-division
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-ADVERTISEMENT: Senior HR Business Partner, Client Services and Outreach Branch,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-senior-hr-business-partner-client-services-and-outreach-branch-division-0
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Traineeship in environmental sustainability in banknote production , Frankfurt
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784497778389
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern, Ship to Shore Rights South-East Asia, Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784498048674
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Head, Enterprise Risk and Internal Controls, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784498202639
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Unpaid Internship - Junior Gender Affairs Officer, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784498219745
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant u2013 Health Cluster Strategic Preparedness, Planning and Partner Response, Gaza, occupied Palestinian territory
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784499372201
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Specialist – Cash-Based Programming and Resilience [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Kabul IPSA-10, International Personnel Services Agreement - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226712
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Data Collector (Sabha) IRC - International Rescue Committee Tripoli Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226711
+--------------------------------------------------
+[Organization] Impactpool
+[Position] External Relations Services Internship UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Remote | Amman Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226706
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship, Private Sector Fundraising Division UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Remote | Amman Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226705
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Donor Engagement and Resources Mobilisation Intern UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226704
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Knowledge Management UNHABITAT - United Nations Human Settlements Programme Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226701
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern-HQ- Risk Management IsDB - Islamic Development Bank Jeddah Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226699
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Monitoring & Evaluation Intern UNHABITAT - United Nations Human Settlements Programme Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226692
+--------------------------------------------------
+[Organization] Impactpool
+[Position] MEAL Intern DRC - Danish Refugee Council Lahj | Sanaa Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226690
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial Senior de Sing Post IRC - International Rescue Committee Caracas Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226684
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Moderación-1 IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226683
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de Mapeo de Servicios y Contenidos IRC - International Rescue Committee Caracas Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226682
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Diseño IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226681
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Security Generalist 2 (800079) ICRC - International Committee of the Red Cross Kandahar B2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226679
+--------------------------------------------------
+[Organization] Impactpool
+[Position] UN Women: Cash and Voucher Specialist, Home-Based, International Consultant, Retainer – 2 Positions UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Afghanistan Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226678
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Office Head (ACO Internal Audit) NATO - North Atlantic Treaty Organization Mons NATO Grade G22
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226675
+--------------------------------------------------

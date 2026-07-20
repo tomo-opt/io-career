@@ -1,8 +1,7 @@
 {
-  "last_update_bj": "2026-07-19 13:31:32",
-  "count": 6512,
+  "last_update_bj": "2026-07-20 13:48:25",
+  "count": 6542,
   "errors": [
-    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))",
-    "african_union_jobs: all source URLs failed (HTTP request failed: https://careers.au.int/ (HTTPSConnectionPool(host='jobs.au.int', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))))"
+    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
   ]
 }
