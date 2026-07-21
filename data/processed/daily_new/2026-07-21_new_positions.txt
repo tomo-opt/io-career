@@ -1,0 +1,264 @@
+[Organization] United Nations Secretariat
+[Position] POLITICAL AFFAIRS OFFICER
+[Location] GENEVA
+[Deadline] 2026-07-28
+[Link] https://careers.un.org/job-openings?job-id=281270
+--------------------------------------------------
+[Organization] UNDP
+[Position] Budget Management Associate [Open to internal and external applicants]
+[Location] Jakarta Pusat, Indonesia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35534;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Budget Management Associate [Open to internal and external applicants] Post level NPSA-7 Apply by Jul-27-26 Agency UNDP Location Jakarta Pusat, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35534
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate [Open to internal and external applicants] Post level NPSA-7 Apply by Aug-3-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35209
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Finance Analyst (Nationals Only) [Open to internal and external applicants] Post level NOB Apply by Aug-2-26 Agency UNDP Location Kuala Lumpur, Malaysia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34252
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Assistant (and Admin), SC5, Sylhet
+[Location] Sylhet, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Sylhet-Bangladesh-The-Peoples-R/Finance-Assistant--and-Admin---SC5--Sylhet_JR125136
+--------------------------------------------------
+[Organization] WFP
+[Position] (Re - advertisement) Programme Associate (GFA Catchment Focal), G6, Cox's Bazar
+[Location] Cox's Bazaar, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Coxs-Bazaar-Bangladesh-The-Peoples-R/XMLNAME--Re---advertisement--Programme-Associate--GFA-Catchment-Focal---G6--Cox-s-Bazar_JR122960
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Expert on CRSV Response and Policy Integration at the Ministry of Social Policy, Family and Unity of Ukraine
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/expert-crsv-response-and-policy-integration-ministry-social-policy-family-and-unity-ukraine
+--------------------------------------------------
+[Organization] UNFPA
+[Position] CONSULTANT INTERNATIONNAL POUR LA CONDUITE DE L'ENQUÊTE SUR LA DISPONIBILITÉ DES PRODUITS ET DES SERVICES SR AU NIGER
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-internationnal-pour-la-conduite-de-lenqu%C3%AAte-sur-la-disponibilit%C3%A9-des-produits-et
+--------------------------------------------------
+[Organization] UNFPA
+[Position] ASSITANT/E PROGRAMME SANTE SEXUELLE ET DE LA REPRODUCTION
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/assitante-programme-sante-sexuelle-et-de-la-reproduction
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-ADVERTISEMENT - National Consultant - Development of the M&E Framework for NAP ECEFMU
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-national-consultant-development-me-framework-nap-ecefmu
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant as a Programme Specialist for Humanitarian Coordination and…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-programme-specialist-humanitarian-coordination-and-gender-based
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-ADVERTISEMENT: Resource Mobilization and Partnerships Specialist, Kabul,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-resource-mobilization-and-partnerships-specialist-kabul-afghanistan-p-3
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Re-advertisement - Extension: NATIONAL POST: Communications and Advocacy Analyst,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-extension-national-post-communications-and-advocacy-analyst-yangon-myanmar
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Partnerships, Resource Mobilization and Advocacy Analyst, NOB, Dili,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-partnerships-resource-mobilization-and-advocacy-analyst-nob-dili-timor-leste
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Senior Officer of International Business (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest-Senior-Officer-of-International-Business-DC-20577/1410809600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Risk Management Lead Officer - Counterparty Risk (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest-Risk-Management-Lead-Officer-Counterparty-Risk-DC-20577/1410650100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Risk Management Senior Officer ALM & Liquidity Risk (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest-Risk-Management-Senior-Officer-ALM-&-Liquidity-Risk-DC-20577/1410642200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern-HQ- Risk Management, Jeddah, Saudi Arabia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784548048782
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern, Executive, Strategy & UN Affairs team, Intersection of AI and climate change, Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784560593953
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] HR Intern, Seoul, Republic of Korea
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784567686650
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Trainee - Compliance & Non-Financial Risk
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1784568819891
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Executive, Strategy & UN Affairs team, Intersection of AI and climate change UNFCCC - United Nations Climate Change Remote | Bonn Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226962
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Manager: transition to new EPM solution MSF International - Médecins Sans Frontières (Doctors Without Borders) Paris | Geneva Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226961
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associate Legal Officer/Law Clerk to a Member of the Court ICJ - International Court of Justice The Hague Junior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226960
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Budget Management Associate [Open to internal and external applicants] UNDP - United Nations Development Programme Jakarta NPSA-7, National Personnel Services Agreement - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226957
+--------------------------------------------------
+[Organization] Impactpool
+[Position] STA Programme Management Intern UNEP - United Nations Environment Programme Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226956
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Web Developer UNEP - United Nations Environment Programme Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226952
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Public Information Assistant UNV - United Nations Volunteers Abyei Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226943
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Resources Management Officer - Grants Lead - LP3 ICMPD - International Centre for Migration Policy Development P3
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226939
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ICT Change Management Officer WIPO - World Intellectual Property Organization Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226938
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Program Officer (Green Technology Deployment, Partnerships & Impact) WIPO - World Intellectual Property Organization Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226937
+--------------------------------------------------
+[Organization] Impactpool
+[Position] UNCTAD Internship in the Division on International Trade and Commodities UNCTAD - United Nations Conference on Trade and Development Remote | Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1226935
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor of Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51360-villanova-pennsylvania-university-assistant-professor-of-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Operations & Finance
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51359-brussels-belgium-finance-watch-head-of-operations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] WASH and Shelter Program Coordinator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51358-syrian-arab-republic-international-association-for-relief-and-development-wash-shelter-program-coordinator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Executive Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51357-remote-new-york-association-for-cultural-equity-executive-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Policy & Security Research Lab
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51356-new-york-scale-ai-head-of-policy-security-research-lab
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Legal Adviser – Permanent Mission to the United Nations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51355-new-york-octavius-finance-senior-legal-adviser-permanent-mission-to-the-united-nations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Managing Director, Public Policy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51354-washington-dc-blackrock-managing-director-public-policy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] (Senior) Director, Global Monitoring, Evaluation, and Learning
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51353-new-delhi-india-evidence-action-senior-director-global-monitoring-evaluation-and-learning
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Programme & Events Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51352-paris-france-european-council-on-foreign-relations-programme-events-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Traineeship – Policy Team
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51351-brussels-belgium-european-institute-of-peace-traineeship-policy-team
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate, Market Shaping
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51350-boston-massachusetts-clinton-health-access-initiative-associate-market-shaping
+--------------------------------------------------
