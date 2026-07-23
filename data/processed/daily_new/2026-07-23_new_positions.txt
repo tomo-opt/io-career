@@ -1,0 +1,156 @@
+[Organization] United Nations Secretariat
+[Position] POLITICAL AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-05
+[Link] https://careers.un.org/job-openings?job-id=281369
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Business Development Facilitator
+[Location] OTHER
+[Deadline] 2026-08-06
+[Link] https://careers.un.org/job-openings?job-id=280662
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] STAFF ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-08-21
+[Link] https://careers.un.org/job-openings?job-id=281662
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SERVICE, CONDUCT AND DISCIPLINE
+[Location] NAIROBI
+[Deadline] 2026-09-05
+[Link] https://careers.un.org/job-openings?job-id=279459
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INVESTIGATOR
+[Location] NEW YORK
+[Deadline] 2026-09-20
+[Link] https://careers.un.org/job-openings?job-id=273143
+--------------------------------------------------
+[Organization] UNDP
+[Position] Inclusive Growth Analyst (Open to internal and external applicants)
+[Location] Jakarta Pusat, Indonesia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35650;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Policy Design Specialist (Open to internal and external applicants)
+[Location] Bhutan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35647;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Inclusive Growth Analyst (Open to internal and external applicants) Post level NPSA-9 Apply by Jul-29-26 Agency UNDP Location Jakarta Pusat, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35650
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Policy Design Specialist (Open to internal and external applicants) Post level NPSA-10 Apply by Jul-29-26 Agency UNDP Location Bhutan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35647
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant – Integrated Risk Management
+[Location] Phnom-Penh, Cambodia
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Phnom-Penh-Cambodia/Business-Support-Assistant---Integrated-Risk-Management_JR125269
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant SC-4
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kyiv-Ukraine/Business-Support-Assistant-SC-4_JR122855-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Human Resources Officer, NOA
+[Location] Lilongwe, Malawi, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lilongwe-Malawi-The-Republic-Of/Human-Resources-Officer--NOA_JR125098
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Officer NOA
+[Location] Khartoum, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Khartoum-Sudan-The-Republic-Of-The/Finance-Officer-NOA_JR125138-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Associate G6
+[Location] Khartoum, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Khartoum-Sudan-The-Republic-Of-The/Finance-Associate-G6_JR125213
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant SC5 Mao, Chad
+[Location] Mao, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mao-Chad-The-Republic-Of/Logistics-Assistant-SC5-Mao--Chad_JR125280
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Associate, SC6, Dollo Ado
+[Location] Dollo Addo, Ethiopia, Federal Dem. Rep
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dollo-Addo-Ethiopia-Federal-Dem-Rep/IT-Operations-Associate--SC6--Dollo-Ado_JR125190
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Assistant SC5 (Re-advertised)
+[Location] 3 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Manakara-Madagascar-The-Democratic/Monitoring-Assistant-SC5--Re-advertised-_JR125116
+--------------------------------------------------
+[Organization] WFP
+[Position] Assistant(e) à la logistique (Roster) FT G5,  RD Congo
+[Location] Goma, Congo, The Dem. Rep.Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Goma-Congo-The-Dem-RepOf/Assistant-e---la-logistique--Roster--FT-G5---RD-Congo_JR125278
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Associate (Warehouse Management) G6
+[Location] Kabul, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kabul-AfghanistanThe-Islamic-Re/Logistics-Associate--Warehouse-Management--G6_JR125157
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Assistant, GS5, FTA, Managua, Nicaragua
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-assistant-gs5-fta-managua-nicaragua
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Expert on CRSV Response and Policy Integration at the Ministry of Social Policy,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/expert-crsv-response-and-policy-integration-ministry-social-policy-family-and-unity-ukraine
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern - Mitigation, Regulatory Framework Implementation UNFCCC - United Nations Climate Change Remote | Bonn Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227500
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Member of Secretariat BIS - Bank for International Settlements Remote | Basel Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227498
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Field Officer The HALO Trust Scotland Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227485
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Content Marketing Intern (AI-focused), Beijing, UNICEF China (For Chinese Nationals Only) UNICEF - United Nations Children’s Fund Beijing Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227473
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant – Primary Teacher Continuous Professional Development (CPD) Management Information System (GPE SCG), Vientiane, Laos, 2 Months, Office Based. (International Candidates) Req#594670 UNICEF - United Nations Children’s Fund Vientiane Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227471
+--------------------------------------------------
