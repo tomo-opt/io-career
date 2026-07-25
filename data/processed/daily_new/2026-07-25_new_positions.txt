@@ -1,0 +1,312 @@
+[Organization] United Nations Secretariat
+[Position] INVESTIGATOR
+[Location] VIENNA
+[Deadline] 2026-09-15
+[Link] https://careers.un.org/job-openings?job-id=270014
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Programme Management Assistant
+[Location] NEW YORK
+[Deadline] 2026-08-15
+[Link] https://careers.un.org/job-openings?job-id=280859
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-07
+[Link] https://careers.un.org/job-openings?job-id=278858
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Chief of Section, Aviation Security/Faciliatation
+[Location] MONTREAL
+[Deadline] 2026-08-28
+[Link] https://careers.un.org/job-openings?job-id=281822
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Senior Finance and Budget Assistant
+[Location] NEW YORK
+[Deadline] 2026-08-23
+[Link] https://careers.un.org/job-openings?job-id=276705
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] CFW Project Associate
+[Location] BEIRUT
+[Deadline] 2026-08-05
+[Link] https://careers.un.org/job-openings?job-id=281399
+--------------------------------------------------
+[Organization] UNDP
+[Position] Data Collection and Management Specialist [Open to internal and external applicants]
+[Location] Brazzaville, Congo-Brazzaville
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35728;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Associate [Open to internal and external applicants]
+[Location] Jakarta Pusat, Indonesia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35720;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Coordination and Political Affairs Analyst (Open to internal and external applicants)
+[Location] Luanda, Angola
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35693;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Coordination and Political Affairs Analyst (Open to internal and external applicants) Post level NPSA-8 Apply by Jul-31-26 Agency UNDP Location Luanda, Angola
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35693
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate [Open to internal and external applicants] Post level NPSA-7 Apply by Jul-31-26 Agency UNDP Location Jakarta Pusat, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35720
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Data Collection and Management Specialist [Open to internal and external applicants] Post level IPSA-10 Apply by Aug-7-26 Agency UNDP Location Brazzaville, Congo
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35728
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Assistant SC5, Bishkek, Kyrgyz Republic
+[Location] Bishkek, Kyrgyz Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bishkek-Kyrgyz-Republic/Procurement-SC-G_JR125361
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Education Officer
+[Location] N'Djamena, Chad
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/NDjamena-Chad/Assistant-Education-Officer_JR2560800-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Livelihood and Economic Inclusion Officer
+[Location] Baga Sola, Chad
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Baga-Sola-Chad/Assistant-Livelihood-and-Economic-Inclusion-Officer_JR2560794-2
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant International (P4) Réformes, Financement Durable et Renforcement de la Chaîne d’Approvisionnement (Supply Chain)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-international-p4-r%C3%A9formes-financement-durable-et-renforcement-de-la-cha%C3%AEne-d
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-OPENING: NATIONAL POST: Programme Analyst, Youth, Kabul, Afghanistan, NO-B
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-opening-national-post-programme-analyst-youth-kabul-afghanistan-no-b
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-OPENING: NATIONAL POST: Resource Mobilisation & Partnership Analyst, Kabul, Afghanistan, NO-B
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-opening-national-post-resource-mobilisation-partnership-analyst-kabul-afghanistan-no-b
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant International (P4) Réformes, Financement Durable et Renforcement de la…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-international-p4-r%C3%A9formes-financement-durable-et-renforcement-de-la-cha%C3%AEne-d
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Financial and Transaction Services Sr. Associate(OPD/FCA/FinOps) (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest-Financial-and-Transaction-Services-Sr_-Associate%28OPDFCAFinOps%29-DC-20577/1412604100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Amazonia Sector Senior Associate (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Amazonia-Sector-Senior-Associate-DC-20577/1412591500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Institutional and Corporate Legal Affairs Division - Compliance Officer (Panamá, PA)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Panam%C3%A1-IDB-Invest-Institutional-and-Corporate-Legal-Affairs-Division-Compliance-Officer/1412607900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associate Programme Officer, Renewable Energy Cost Status and Outlook, P-1 IRENA - International Renewable Energy Agency Bonn P-1, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228009
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Officer, Office of the Directors IITC, P4 IRENA - International Renewable Energy Agency Bonn P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228008
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Archivist BIPM - International Bureau of Weights and Measures Remote | Sèvres Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228006
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Associate [Open to internal and external applicants] UNDP - United Nations Development Programme Jakarta NPSA-7, National Personnel Services Agreement - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228005
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head of Internal Audit Office ESO - European Southern Observatory Garching V
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228003
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Educator IRC - International Rescue Committee Milan Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228002
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Clinic Supervisor IRC - International Rescue Committee Lashio Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228001
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Software Developer/Analyst IRC - International Rescue Committee Nairobi Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228000
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Social & Behavior Change Specialist (Digital Communication) (P-3), TA, #138206, Islamabad – Pakistan, APR, 4 months (Open for International Candidates Only) UNICEF - United Nations Children’s Fund Islamabad P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227998
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National / International Consultant - Integration of IDSR system with weather and environmental data for climate-sensitive disease early warning systems, Tanzania, Dar Es Salaam (remote) 5 months REQ#594694 UNICEF - United Nations Children’s Fund Remote | Dar es Salaam | Dodoma Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227994
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Specialist (Safeguarding), P-3, TA, 364 days, #00138203, Education Cannot Wait (ECW), UNICEF Hosted Fund, Geneva, Switzerland UNICEF - United Nations Children’s Fund Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227993
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief Nutrition, P-4, Fixed Term Position, Lilongwe, Malawi, #00052247 UNICEF - United Nations Children’s Fund Lilongwe P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227991
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Planning & Monitoring Specialist (P-3), TA, 8 months, #00138172, Bujumbura, Burundi UNICEF - United Nations Children’s Fund Bujumbura P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227989
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Business Analyst (UNITE), P-3, Temporary Position, 364 days, Office of Strategy & Evidence, Innocenti, Florence, Italy #00136560 UNICEF - United Nations Children’s Fund Florence P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227988
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant - Facilitate Training on Effective Communication and Presentation Skills, Home Based ( 7 days) UNICEF - United Nations Children’s Fund Remote | Home Based - May require travel Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1227979
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Break the Waste Cycle Campaign Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51404-portland-oregon-u-s-pirg-break-the-waste-cycle-campaign-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project and Partnerships Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51403-brussels-belgium-ryeurope-rural-youth-europe-project-and-partnerships-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Public Policy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51402-arlington-virginia-amazon-manager-public-policy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor of Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51401-davidson-north-carolina-college-assistant-professor-of-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, External Communications & Reputation
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51400-new-york-transamerica-director-external-communications-reputation
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Research Intern, China Center (Fall 2026)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51399-washington-dc-hudson-institute-research-intern-china-center-fall-2026
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Joint Research Fellow, EU Integration
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51398-brussels-belgium-egmont-institute-joint-research-fellow-eu-integration
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Chief of Staff
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51397-geneva-switzerland-simon-institute-for-longterm-governance-si-chief-of-staff
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of European Relations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51396-paris-france-council-of-europe-development-bank-head-european-relations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Advisor – Counter-Terrorism - Retainer ( Fluency in French & English required)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51395-new-york-unops-senior-advisor-counter-terrorism-retainer-fluency-in-french-english-required
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Regional Safeguarding Coordinator, Latin America
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51394-guatemala-world-renew-regional-safeguarding-coordinator-latin-america
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Development Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51393-remote-dc-project-hope-program-development-consultant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Business Editor/ Reporter
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51392-new-york-publishers-weekly-business-editor-reporter
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Tenure Track Position In American Politics
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51391-lewisburg-pennsylvania-bucknell-university-tenure-track-position-in-american-politics
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Officer, Environment
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51390-eden-prairie-minnesota-margaret-a-cargill-philanthropies-program-officer-environment
+--------------------------------------------------
