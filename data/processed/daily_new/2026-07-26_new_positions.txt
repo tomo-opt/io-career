@@ -1,0 +1,186 @@
+[Organization] United Nations Secretariat
+[Position] Interpreter
+[Location] AMMAN
+[Deadline] 2026-08-10
+[Link] https://careers.un.org/job-openings?job-id=281689
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] AIR OPERATIONS OFFICER
+[Location] AMMAN
+[Deadline] 2026-08-02
+[Link] https://careers.un.org/job-openings?job-id=281707
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Community Fridge Program Intern (Unpaid) IRC - International Rescue Committee San Diego | El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228090
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Empowerment Program Manager IRC - International Rescue Committee Remote | Missoula | Montana | Helena Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228089
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Data Integration & Reporting Intern (Unpaid) IRC - International Rescue Committee San Diego Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228088
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Communications Officer IRC - International Rescue Committee London Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228087
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Asylum Seekers and Families Program Intern (Unpaid) IRC - International Rescue Committee Remote | San Diego Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228086
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Women’s Resilience Center Intern (Unpaid) IRC - International Rescue Committee Remote | San Diego | El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228085
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: immigration Intern (Unpaid) IRC - International Rescue Committee Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228084
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Program for Initial Resettlement Intern (Unpaid) IRC - International Rescue Committee El Cajon | San Diego Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228083
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Career Programs Intern (Unpaid) IRC - International Rescue Committee Remote | El Cajon | San Diego Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228082
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Digital Inclusion Intern (Unpaid) IRC - International Rescue Committee Remote | El Cajon | San Diego Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228081
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: VESL Plus Intern (Unpaid) IRC - International Rescue Committee San Diego | El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228080
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Workforce and Integration Intern (Unpaid) IRC - International Rescue Committee San Diego | El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228079
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Fall 2026: Microenterprise Program Intern (Unpaid) IRC - International Rescue Committee Remote | El Cajon | San Diego Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228078
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Manager Protection, Gender and Inclusion (PGI) and Community Engagement and Accountability (CEA) IFRC - International Federation of Red Cross and Red Crescent Societies Pakistan F1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228077
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Coordinator, Early Warning Early Action (EWEA) IFRC - International Federation of Red Cross and Red Crescent Societies Geneva D2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228076
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Adviser, Cash and Voucher Assistance (Bilateral) IFRC - International Federation of Red Cross and Red Crescent Societies Dakar National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228075
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Engineer CIP - International Potato Center Agra Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228074
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WASH Systems Strengthening Evidence Synthesis Consultant, Nairobi, Kenya, Remotely (Open only for International Candidates), Req#594742 UNICEF - United Nations Children’s Fund Remote | Nairobi Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228073
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New Internship Recruitment - Emergency Preparedness Platform (EPP 3.0) Implementation, EMOPS, Rome UNICEF - United Nations Children’s Fund Rome P 3
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228072
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Gender and AAP Programmatic Review Consultant, Gender&AAP section, 3.5 months, Beirut, Lebanon, (Internationals only, Home based UNICEF - United Nations Children’s Fund Remote | Beirut Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228071
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Partnerships and innovation unit: International cooperation sector traineeship (EU4Monitoring Drugs II) EUDA - European Union Drugs Agency Portugal Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228069
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communication unit and Human resources management sector - shared assignment traineeship EUDA - European Union Drugs Agency Lisbon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228068
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Human resources management sector traineeship EUDA - European Union Drugs Agency Lisbon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228067
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Partnerships and innovation unit: International cooperation sector traineeship EUDA - European Union Drugs Agency Lisbon AD-5, Administrator - Open to citizens of an EU country - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228066
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Policy, crime and markets unit: Crime, markets and precursors sector traineeship EUDA - European Union Drugs Agency Lisbon AD 5 step 1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228065
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Partnerships and innovation unit traineeship EUDA - European Union Drugs Agency Lisbon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228064
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communication unit traineeship EUDA - European Union Drugs Agency Lisbon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228063
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Partnerships and innovation unit: Research, innovation and foresight team trainee EUDA - European Union Drugs Agency Lisbon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228062
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Executive office: Strategic planning and performance management team traineeship EUDA - European Union Drugs Agency Lisbon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228061
+--------------------------------------------------
