@@ -1,0 +1,144 @@
+[Organization] United Nations Secretariat
+[Position] FINANCE ASSISTANT
+[Location] SANA'A
+[Deadline] 2026-08-02
+[Link] https://careers.un.org/job-openings?job-id=281829
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] KABUL
+[Deadline] 2026-08-10
+[Link] https://careers.un.org/job-openings?job-id=281830
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Manager - Infrastructure [Open to internal and external applicants]
+[Location] East Jerusalem, Palestine, State of
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35735;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Technical Specialist, Climate and Nature [Open to internal and external applicants]
+[Location] Cairo, Egypt
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33803;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager - Infrastructure [Open to internal and external applicants] Post level NPSA-8 Apply by Aug-9-26 Agency UNDP Location East Jerusalem, Palestine, State of
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35735
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Technical Specialist, Climate and Nature [Open to internal and external applicants] Post level NPSA-10 Apply by Aug-4-26 Agency UNDP Location Cairo, Egypt
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33803
+--------------------------------------------------
+[Organization] WFP
+[Position] Supply Chain Officer - Country Capacity Strengthening
+[Location] Suva, Fiji
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Suva-Fiji/Supply-Chain-Officer---Country-Capacity-Strengthening_JR125313
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (M&E-VAM) G6, Jeremie, Haiti
+[Location] Jeremie, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Jeremie-Haiti-The-Republic-Of/Programme-Associate--M-E-VAM--G6--Jeremie--Haiti_JR124181
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Community-Based Protection Assistant
+[Location] Beijing, China
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Beijing-China/Senior-Community-Based-Protection-Assistant_JR2668089-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-OPENING: NATIONAL POSTS: Area Gender Based Violence/PSEAH Analyst, Herat / Jalalabad / Kandahar, NO-B (3 posts)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-opening-national-posts-area-gender-based-violencepseah-analyst-herat-jalalabad-kandahar-no
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-OPENING: NATIONAL POSTS: Reproductive Health/Gender Based Violence Coordinator, Mazar / Bamyan / Faizabad, Afghanistan, NO-B (3 posts)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-opening-national-posts-reproductive-healthgender-based-violence-coordinator-mazar-bamyan
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Local Consultancy to conduct an assessment across the seven spotlight counties at 28…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/local-consultancy-conduct-assessment-across-seven-spotlight-counties-28-health-facilities
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-OPENING: NATIONAL POST: Resource Mobilisation & Partnership Analyst, Kabul,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-opening-national-post-resource-mobilisation-partnership-analyst-kabul-afghanistan-no-b
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-OPENING: NATIONAL POST: Programme Analyst Family Planning/Reproductive Health…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-opening-national-post-programme-analyst-family-planningreproductive-health-commodity
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Associate Construction Management Engineer
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Associate-Construction-Management-Engineer/4003
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Unpaid Internship - AI and Smart Sustainable Cities Communications Intern, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785109603056
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Programmatic Support and Technical Coordination for Research Reactor Safety Events, Vienna, Austria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785110506452
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Call for External Collaborator - National Consultant: Technical support on labour law and international labour standards (ILS) with workers, Bangladesh
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785110941139
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Communication Officer 2 (800026) ICRC - International Committee of the Red Cross Afghanistan Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228112
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Technical review and contextualization of Safe at Home in Jordan IRC - International Rescue Committee Amman Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228102
+--------------------------------------------------
+[Organization] Impactpool
+[Position] PROGRAMME MANAGEMENT OFFICER UNAMA - United Nations Assistance Mission in Afghanistan Kabul P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228101
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Assistant, Health IOM - International Organization for Migration Cairo GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228100
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Facilitator for Divisional and National Level Consultations for identifying Priority Areas for Operationalization of the National Action Plan (NAP) for Global Compact for Safe, Orderly and Regular Migration (GCM) IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228097
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance & Administration Country Manager ICRC - International Committee of the Red Cross Kampala Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1228093
+--------------------------------------------------
