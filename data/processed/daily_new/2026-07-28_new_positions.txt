@@ -1,0 +1,228 @@
+[Organization] United Nations Secretariat
+[Position] SENIOR RESEARCH ASSISTANT, SOCIAL AFFAIRS
+[Location] SANTIAGO
+[Deadline] 2026-08-11
+[Link] https://careers.un.org/job-openings?job-id=281805
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] GENEVA
+[Deadline] 2026-08-27
+[Link] https://careers.un.org/job-openings?job-id=277673
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF UNIT, PUBLIC INFORMATION
+[Location] NEW YORK
+[Deadline] 2026-08-03
+[Link] https://careers.un.org/job-openings?job-id=280146
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Assistant Programme Management Officer
+[Location] GENEVA
+[Deadline] 2026-08-06
+[Link] https://careers.un.org/job-openings?job-id=281902
+--------------------------------------------------
+[Organization] UNDP
+[Position] Communications and Innovation Intern
+[Location] Beijing, China
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35786;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst [Open to internal and external applicants]
+[Location] Yerevan, Armenia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35743;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Project Coordinator (Open to Internal & External Applicants)
+[Location] Manama, Bahrain
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35465;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Opérateur  Radio [Ouvert aux candidats internes & externes]
+[Location] Nouakchott, Mauritania
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35655;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Impact Measurement Verification and Learning Manager (IPSA12) Home-Based UNCDF [Open to internal and external applicants]
+[Location] Home Based
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35511;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Associado(a) de Comunicação e Advocacy (3 vagas) (Home Based) [Open to internal & external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35002;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Opérateur Radio [Ouvert aux candidats internes & externes] Post level G4 Apply by Jul-31-26 Agency UNDP Location Nouakchott, Mauritania
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35655
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Project Coordinator (Open to Internal & External Applicants) Post level NPSA-8 Apply by Aug-10-26 Agency UNDP Location Manama, Bahrain
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35465
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Impact Measurement Verification and Learning Manager (IPSA12) Home-Based UNCDF [Open to internal and external applicants] Post level IPSA-12 Apply by Aug-2-26 Agency UNCDF Location Home Based
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35511
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst [Open to internal and external applicants] Post level NPSA-9 Apply by Aug-3-26 Agency UNDP Location Yerevan, Armenia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35743
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Associado(a) de Comunicação e Advocacy (3 vagas) (Home Based) [Open to internal & external applicants] Post level NPSA-7 Apply by Aug-3-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35002
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communications and Innovation Intern Post level IN Apply by Aug-11-26 Agency UNDP Location Beijing, China
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35786
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Assistant
+[Location] Brazzaville, Congo, The People's Rep.Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Brazzaville-Congo-The-Peoples-RepOf/Monitoring-Assistant_JR125390-4
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (School Feeding) CST I, Maputo, Mozambique
+[Location] Maputo, Mozambique, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Maputo-Mozambique-Republic-of/Programme-Policy-Officer--School-Feeding--CST-I--Maputo--Mozambique_JR125387
+--------------------------------------------------
+[Organization] WFP
+[Position] Risk Officer (SC,L9)
+[Location] Cairo, Egypt, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cairo-Egypt-Republic-of/Risk-Officer--SC-L9-_JR125373
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Transformation Officer, NOB
+[Location] Kigali, Rwanda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kigali-Rwanda-The-Republic-Of/Business-Transformation-Officer--NOB_JR125175
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant_ G5_ AUGO _Addis Ababa
+[Location] Addis Ababa, Ethiopia, Federal Dem. Rep
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Addis-Ababa-Ethiopia-Federal-Dem-Rep/Business-Support-Assistant--G5--AUGO--Addis-Ababa_JR125382-1
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operation Assistant (DAS) SC 5, Gambella, Ethiopia
+[Location] Gambela, Ethiopia, Federal Dem. Rep
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Gambela-Ethiopia-Federal-Dem-Rep/IT-Operation-Assistant--DAS--SC-5--Gambella--Ethiopia_JR125360-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate SC6 (Social Protection), N'Djamena
+[Location] N'Djamena, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/NDjamena-Chad-The-Republic-Of/Programme-Associate-SC6--Social-Protection---N-Djamena_JR125375
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate WASH Officer
+[Location] Kasulu, Tanzania
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kasulu-Tanzania/Associate-WASH-Officer_JR2667990-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-OPENING: NATIONAL POSTS: Area Gender Based Violence/PSEAH Analyst, Herat /…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-opening-national-posts-area-gender-based-violencepseah-analyst-herat-jalalabad-kandahar-no
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Disability Inclusion Knowledge Management International Consultant (remote) 3 months Req, Addis Ababa, Ethiopia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785140124302
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant: Integrating SRHR/FP/GBV in GC8 Grant Writing, Freetown, Sierra Leone, Freetown, Sierra Leone
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785155192740
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Department of Foreign Affairs and Trade - Consular and Passport Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51415-washington-dc-embassy-of-australia-united-states-america-department-foreign-affairs-and-trade-consular-passport-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate, Global Forests and Energy Campaigns (candidates can be based in multiple US and non-US locations)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51414-netherlands-mighty-earth-associate-global-forests-and-energy-campaigns-candidates-can-be-based-in-multiple-us-non-locations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Technical Director (Global Health Security)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51413-washington-dc-corus-international-technical-director-global-health-security
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Marketing
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51412-alexandria-virginia-islamic-relief-usa-director-of-marketing
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Donor Engagement Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51411-brussels-belgium-international-rescue-committee-donor-engagement-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Finance & Business Services
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51410-washington-dc-global-impact-director-finance-business-services
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Monitoring Evaluation, Accountability & Learning Officer (MEAL Officer)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51409-tunis-tunisia-oxfam-novib-monitoring-evaluation-accountability-learning-officer-meal
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Trade & Investment Officer, Technology, Department for Business and Trade
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51408-san-francisco-california-british-consulate-general-in-senior-trade-investment-officer-technology-department-for-business-and
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51407-washington-dc-center-for-international-private-enterprise-program-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Corporate & Foundation Partnership, Global Health Advocacy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51406-washington-dc-united-nations-foundation-director-corporate-partnership-global-health-advocacy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51405-new-orleans-louisiana-tulane-university-assistant-professor
+--------------------------------------------------
