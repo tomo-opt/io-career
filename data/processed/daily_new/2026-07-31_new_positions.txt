@@ -1,0 +1,348 @@
+[Organization] United Nations Secretariat
+[Position] ARCHIVES ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-08-29
+[Link] https://careers.un.org/job-openings?job-id=281800
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROTOCOL ASSISTANT
+[Location] SANTO DOMINGO
+[Deadline] 2026-08-06
+[Link] https://careers.un.org/job-openings?job-id=282135
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LEGAL OFFICER
+[Location] NAIROBI
+[Deadline] 2026-08-08
+[Link] https://careers.un.org/job-openings?job-id=281058
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROCUREMENT OFFICER
+[Location] ENTEBBE
+[Deadline] 2026-09-13
+[Link] https://careers.un.org/job-openings?job-id=277407
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] COMMUNICATIONS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-08-13
+[Link] https://careers.un.org/job-openings?job-id=279297
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE PROGRAMME MANAGEMENT OFFICER, ADMINISTRATION
+[Location] NEW YORK
+[Deadline] 2026-08-06
+[Link] https://careers.un.org/job-openings?job-id=282046
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-08-06
+[Link] https://careers.un.org/job-openings?job-id=281743
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] ADDIS ABABA
+[Deadline] 2026-08-02
+[Link] https://careers.un.org/job-openings?job-id=278100
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Coordinator (Open to Internal and External applicants)
+[Location] Amman, Jordan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35845;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Coordinator [Open to internal and external applicants]
+[Location] Ramallah, Palestine, State of
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35888;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Management Specialist [Open to internal and external applicants]
+[Location] Islamabad, Pakistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35382;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst on Legal, Social, Gender issues [Open to internal and external applicants]
+[Location] Ashkhabad, Turkmenistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35871;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Asociado/a Técnico/a en Educación [Open to internal and external applicants] NPSA 7
+[Location] Bogota, Colombia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35899;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a Técnico/a en Educación [Open to internal and external applicants] NPSA 7 Post level NB3 Apply by Aug-7-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35899
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a Técnico/a en Política Social [Open to internal and external applicants] NPSA 7 Post level NB3 Apply by Aug-7-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35901
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a Técnico/a en Habitanza de Calle [Open to internal and external applicants] NPSA 7 Post level NB3 Apply by Aug-7-26 Agency UNDP Location Bogota, Colombia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35907
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Coordinator (Open to Internal and External applicants) Post level NPSA-8 Apply by Aug-6-26 Agency UNDP Location Amman, Jordan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35845
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analyste de Projet, Système d’Information Géographique (SIG) et en Gestion de base des données[ouvert aux candidats internes & externes ] Post level NPSA-8 Apply by Aug-6-26 Agency UNDP Location Bangui, Central African Republic
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35543
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst on Legal, Social, Gender issues [Open to internal and external applicants] Post level NPSA-8 Apply by Aug-13-26 Agency UNDP Location Ashkhabad, Turkmenistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35871
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Coordinator [Open to internal and external applicants] Post level NPSA-7 Apply by Aug-13-26 Agency UNDP Location Ramallah, Palestine, State of
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35888
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista Técnico em Refrigeração e Ar Condicionado (RAC) (Office Based) [Open to internal and external applicants] Post level NPSA-9 Apply by Aug-6-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34637
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Assistente de Projetos (2 vagas) (Office Based) - [Open to internal and external applicants] Post level NPSA-4 Apply by Aug-13-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35905
+--------------------------------------------------
+[Organization] WFP
+[Position] Internship – AI Integration & Investigative Technologies, OIGI, Rome, Italy
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Internship---AI-Integration---Investigative-Technologies--OIGI--Rome--Italy_JR125444-1
+--------------------------------------------------
+[Organization] WFP
+[Position] National Programme Officer NOB - Emergency
+[Location] N'Djamena, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/NDjamena-Chad-The-Republic-Of/National-Programme-Officer-NOB---Emergency_JR125492
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Supply Chain) - SC5 - Islamabad
+[Location] Islamabad, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Business-Support-Assistant--Logistics----SC5---Islamabad_JR125437
+--------------------------------------------------
+[Organization] WFP
+[Position] Security Associate - SC6 - Quetta
+[Location] Quetta, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Quetta-Pakistan-The-Islamic-Rep/Security-Associate---SC6---Quetta_JR125435
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer, Climate Resilience
+[Location] Dar-es-Salaam, Tanzania, The United Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dar-es-Salaam-Tanzania-The-United-Rep/Programme-Policy-Officer--Climate-Resilience_JR125482
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant (Nutrition) - SC5 - Hyderabad & Kashmore, Sindh
+[Location] Karachi, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Karachi-Pakistan-The-Islamic-Rep/Programme-Assistant--Nutrition----SC5---Hyderabad---Kashmore--Sindh_JR125434
+--------------------------------------------------
+[Organization] UNHCR
+[Position] CBI Associate
+[Location] Bangui, Central African Republic
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bangui-Central-African-Republic/CBI-Associate_JR2668197-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Monitoring and Evaluation Assistant
+[Location] Bangui, Central African Republic
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bangui-Central-African-Republic/Senior-Monitoring-and-Evaluation-Assistant_JR2668198-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Repatriation Assistant
+[Location] Bangui, Central African Republic
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bangui-Central-African-Republic/Senior-Repatriation-Assistant_JR2668203-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Community-Based Protection Assistant
+[Location] Bangui, Central African Republic
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bangui-Central-African-Republic/Senior-Community-Based-Protection-Assistant_JR2668206-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Repatriation Associate
+[Location] Bangui, Central African Republic
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bangui-Central-African-Republic/Repatriation-Associate_JR2668202-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Administrative Assistant
+[Location] Birao, Central African Republic
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Birao-Central-African-Republic/Senior-Administrative-Assistant_JR2668208-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultancy - For Value Chain and Market Study to Identify Viable Women’s Economic Empowerment (WEE) Opportunities for Survivors of Sexual and Gender-Based Violence (SGBV)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultancy-value-chain-and-market-study-identify-viable-women%E2%80%99s-economic
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant-For Demand Analysis of GBV Services for Men and Boys and Mapping of SGBV Service Providers
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-demand-analysis-gbv-services-men-and-boys-and-mapping-sgbv
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National consultancy for Expert consultant on empowerment of marginalized groups and…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultancy-expert-consultant-empowerment-marginalized-groups-and-referral
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Administration Senior Assistant
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Administration-Senior-Assistant/4083
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Risk Management & Internal Control Intern, Bamenda, Cameroon
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785443880006
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Division of Internal Oversight Services, Paris, France
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785444890530
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Research Assistant to the Secretary General Internship
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51446-brussels-belgium-european-coordination-committee-of-the-radiological-electromedical-and-healthcare-it-industry-research-assistant-to-secretary-general-internship
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Foreign Affairs Officer (Global Health)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51445-washington-dc-nakupuna-companies-foreign-affairs-officer-global-health
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intern, Political Affairs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51444-kathmandu-nepal-un-office-for-disarmament-affairs-intern-political
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Sustainability Analyst - Foreign Language Required
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51443-new-york-fitch-ratings-sustainability-analyst-foreign-language-required
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Internship, Government Relations (Fall 2026)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51442-washington-dc-bipartisan-policy-center-internship-government-relations-fall-2026
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Trainee, Indo-Pacific Program (Fall 2026)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51441-washingto-dc-german-marshall-fund-trainee-indo-pacific-program-fall-2026
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Programme Development Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51440-afghanistan-save-the-children-programme-development-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Grants Specialist (National)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51439-venezuela-danish-refugee-council-grants-specialist-national
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Professor of Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51438-hanover-new-hampshire-dartmouth-college-visiting-professor-of-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, Global Partnerships & Engagement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51437-new-york-alight-director-global-partnerships-engagement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Director of Human Resources
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51436-remote-washington-the-max-foundation-senior-director-of-human-resources
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Qualitative Research Associate, International Development
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51435-arlington-virginia-american-institutes-for-research-qualitative-associate-international-development
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Government Affairs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51434-washington-dc-hertz-director-of-government-affairs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Export Compliance Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51433-washington-dc-smithsonian-institution-si-export-compliance-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Producer/Video Journalist, East Africa
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51432-nairobi-kenya-reuters-producer-video-journalist-east-africa
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] News Translator with Italian, Reuters
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51431-gdansk-poland-reuters-news-translator-with-italian
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Fundraising Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51430-oxford-united-kingdom-climate-outreach-fundraising-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Controller Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51429-darmstadt-germany-european-organisation-for-the-exploitation-of-meteorological-satellites-project-controller-analyst
+--------------------------------------------------
