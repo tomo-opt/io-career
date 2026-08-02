@@ -1,0 +1,192 @@
+[Organization] United Nations Secretariat
+[Position] SENIOR POLITICAL AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-15
+[Link] https://careers.un.org/job-openings?job-id=278947
+--------------------------------------------------
+[Organization] UNDP
+[Position] Asociado/a Técnico/a en Habitanza de Calle [Open to internal and external applicants] NPSA 7
+[Location] Bogota, Colombia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35907;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Information Management Officer
+[Location] Cox's Bazaar, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Coxs-Bazaar-Bangladesh/Assistant-Information-Management-Officer_JR2668252-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant: Integrating SRHR/FP/GBV in GC8 Grant Writing, Freetown, Sierra Leone
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-integrating-srhrfpgbv-gc8-grant-writing-freetown-sierra-leone
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA Expert and practitioner on Technology-Facilitated Gender-Based Violence (TFGBV) from justice sector
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-expert-and-practitioner-technology-facilitated-gender-based-violence-tfgbv-justice
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Software Developer Consultant to Develop an Integrated TFGBV Prevention Digital Safety/Literacy Prototype
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-software-developer-consultant-develop-integrated-tfgbv-prevention-digital
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Administration and Finance Assistant - Tambacounda
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/administration-and-finance-assistant-tambacounda-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Logistics Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/logistics-assistant
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultancy, Procurement Associate (DRC Census & Humanitarian), Supply Chain…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultancy-procurement-associate-drc-census-humanitarian-supply-chain-management-unit-scmu
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant to Support Implementation of Menstrual Health and Hygiene…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-support-implementation-menstrual-health-and-hygiene-activities-selected
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual consultant for 2025 Census Thematic Report - Fertility & Nuptiality…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-2025-census-thematic-report-fertility-nuptiality-report-population-and
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual consultant for Development of The Bottom-UP Costed Action Plan for LAO…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-development-bottom-costed-action-plan-lao-pdrs-national-demographic
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Water Resources and International Waters Expert, Panama City
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785484717999
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Estudiante en Práctica - Forrajes Tropicales Alliance of Bioversity International and CIAT Palmira | Valle | Bogotá Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229265
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Estudiante en práctica - IT OSD Alliance of Bioversity International and CIAT Palmira Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229264
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR ANALYST-PROGRAM ADMINISTRATION, ARUSHA TANZANIA Alliance of Bioversity International and CIAT Arusha BG07
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229263
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee (Development of medicines for children and paediatric pharmacovigilance) EMA - European Medicines Agency Remote | Amsterdam Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229262
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee (Supporting stakeholders' engagement and medicines health information) EMA - European Medicines Agency Remote | Amsterdam Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229261
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee(Exploring development of a mobile app to make veterinary e-leaflets available to the public) EMA - European Medicines Agency Remote | Amsterdam Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229260
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee (Legal Department of EMA) EMA - European Medicines Agency Remote | Amsterdam Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229259
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee (Information Centre - Increasing EMA's knowledge base to support its public health work) EMA - European Medicines Agency Remote | Amsterdam Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229258
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee (Analysis of EU Strategic and legal provisions promoting Innovation in Pharma) EMA - European Medicines Agency Remote | Amsterdam Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229257
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee (Data Analytics & Process Automation) EMA - European Medicines Agency Remote | Amsterdam Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229256
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Development Coordinator IRC - International Rescue Committee Remote | Arizona | Phoenix | Tucson Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229255
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant to Develop, Pilot and Finalize a Competency-Based Safe and Inclusive Schools Teacher Training Package, UNICEF Eastern Caribbean Office, Barbados-remote, 3 months UNICEF - United Nations Children’s Fund Remote | Barbados Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229249
+--------------------------------------------------
+[Organization] Impactpool
+[Position] POLITICAL AFFAIRS OFFICER SCAD - The Security Council Affairs Division New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229242
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Human Resources Reporting, Learning and Recruitment Intern UNDP - United Nations Development Programme Copenhagen IN
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229240
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Assistant IFRC - International Federation of Red Cross and Red Crescent Societies Kabul Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229239
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Red Family Fund IFRC - International Federation of Red Cross and Red Crescent Societies San José Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229238
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Pasante de Recursos Humanos (Prácticas Profesionales) IFRC - International Federation of Red Cross and Red Crescent Societies Lima Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229237
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Officer, AI Cloud and Security IFRC - International Federation of Red Cross and Red Crescent Societies Multiple locations National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229236
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Legal Officer UNDMSPC - Department of Management Strategy, Policy and Compliance Nairobi P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229230
+--------------------------------------------------
