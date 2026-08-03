@@ -1,0 +1,156 @@
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] SANTO DOMINGO
+[Deadline] 2026-08-17
+[Link] https://careers.un.org/job-openings?job-id=282192
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Recruitment Officer
+[Location] FO West Bank
+[Deadline] 2026-08-17
+[Link] https://careers.un.org/job-openings?job-id=282075
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SUPPLY OFFICER
+[Location] AMMAN
+[Deadline] 2026-08-09
+[Link] https://careers.un.org/job-openings?job-id=282076
+--------------------------------------------------
+[Organization] UNDP
+[Position] Gender Analyst (Open to Internal & External Applicants)
+[Location] Aden, Yemen
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35936;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Project Specialist (Open to Internal & External Applicants)
+[Location] Aden, Yemen
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35935;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Artificial Intelligence Analyst - Homebased (Open to Internal & External applicants)
+[Location] Amman, Jordan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35140;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Specialist (Efficient Water Governance, Irrigation Modernization, Digitalization and Knowledge Exchange) [Open to internal and external applicants]
+[Location] Nukus, Uzbekistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35539;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Gender Analyst (Open to Internal & External Applicants) Post level NPSA-9 Apply by Aug-9-26 Agency UNDP Location Aden, Yemen
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35936
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Project Specialist (Open to Internal & External Applicants) Post level NPSA-11 Apply by Aug-16-26 Agency UNDP Location Aden, Yemen
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35935
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Artificial Intelligence Analyst - Homebased (Open to Internal & External applicants) Post level IPSA-9 Apply by Aug-9-26 Agency UNDP Location Amman, Jordan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35140
+--------------------------------------------------
+[Organization] WFP
+[Position] Security Officer, NOA, Dhaka
+[Location] Dhaka, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Security-Officer--NOA--Dhaka_JR125552
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Risk & Compliance), SC5, Dhaka
+[Location] Dhaka, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Business-Support-Assistant--Risk---Compliance---SC5--Dhaka_JR125484
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Administrative and Finance Associate, G-6, WCARO, Dakar, Senegal
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/administrative-and-finance-associate-g-6-wcaro-dakar-senegal
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant: SRMNAH Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-srmnah-specialist
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant: Integrating SRHR/FP/GBV in GC8 Grant Writing, Freetown,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-integrating-srhrfpgbv-gc8-grant-writing-freetown-sierra-leone
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Call Centre Assistant
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Call-Centre-Assistant-Dari-Speaking/4067
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Senior Investment Officer Infrastructure & Energy- Central America Region (Guatemala City, GT)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Guatemala-City-IDB-Invest-Senior-Investment-Officer-Infrastructure-&-Energy-Central-America-Region/1413873100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant - CPD development consultant PME Section, Bujumbura, Burundi
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1785724172660
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Policy Associate IOM - International Organization for Migration Nairobi GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229310
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Field Security Assistant IOM - International Organization for Migration Amman GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229309
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Communications and Administration IFRC - International Federation of Red Cross and Red Crescent Societies Ankara Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229306
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Assistant ICRC - International Committee of the Red Cross Port Sudan Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229305
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Public Health Specialist /Epidemiologist UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229299
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant – CPD development consultant PME Section Bujumbura, Burundi, 6.5 months 594879 UNICEF - United Nations Children’s Fund Remote | Bujumbura Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229296
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR POLITICAL AFFAIRS OFFICER SCAD - The Security Council Affairs Division New York City P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229275
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Junior Administrative Officer - IP1 ICMPD - International Centre for Migration Policy Development Vienna P1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1229272
+--------------------------------------------------
