@@ -1,0 +1,276 @@
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-21
+[Link] https://careers.un.org/job-openings?job-id=279665
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] RULE OF LAW OFFICER
+[Location] NEW YORK
+[Deadline] 2026-08-14
+[Link] https://careers.un.org/job-openings?job-id=281967
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TVET Instructor (Trd Thry)
+[Location] LEB - Other cities
+[Deadline] 2026-08-21
+[Link] https://careers.un.org/job-openings?job-id=282504
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TVET Instructor (Paramedic)
+[Location] LEB - Other cities
+[Deadline] 2026-08-21
+[Link] https://careers.un.org/job-openings?job-id=282501
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RIGHTS OFFICER
+[Location] Pemba
+[Deadline] 2026-08-22
+[Link] https://careers.un.org/job-openings?job-id=282302
+--------------------------------------------------
+[Organization] UNDP
+[Position] Technical Analyst [Open to internal and external applicants]
+[Location] Yerevan, Armenia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36067;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Senior Electoral Operations and Institutional Strengthening Specialist [Open to internal and external applicants]
+[Location] Addis Ababa, Ethiopia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36073;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Senior Electoral Operations and Institutional Strengthening Specialist [Open to internal and external applicants] Post level NPSA-10 Apply by Aug-14-26 Agency UNDP Location Addis Ababa, Ethiopia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36073
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Technical Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Aug-21-26 Agency UNDP Location Yerevan, Armenia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36067
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst [Open to internal and external applicants] Post level NPSA-9 Apply by Aug-9-26 Agency UNDP Location Yerevan, Armenia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35743
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate [Open to internal and external applicants] Post level NPSA-7 Apply by Aug-21-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35209
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Officer NOA Bangui, RCA
+[Location] Bangui, Central African Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bangui-Central-African-Republic/Procurement-Officer-NOA-Bangui--RCA_JR125752
+--------------------------------------------------
+[Organization] UNHCR
+[Position] HR Associate
+[Location] Kigali, Rwanda
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kigali-Rwanda/HR-Associate_JR2668205-2
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Provincial Coordinator, SRH, Vientiane, Lao LSC-7
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-provincial-coordinator-srh-vientiane-lao-lsc-7
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Readvertised - National Post: Administrative and Finance Assistant, Patna, Bihar, India - G5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/readvertised-national-post-administrative-and-finance-assistant-patna-bihar-india-g5
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, Adolescent & Youth Reproductive Health and Demographic Dividend, NOB, Bissau, Guinea-Bissau
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-adolescent-youth-reproductive-health-and-demographic-dividend-nob-bissau
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Information Management Analyst-FTA-NOB (For Ethiopian National only)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-information-management-analyst-fta-nob-ethiopian-national-only
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant individuel national pour la finalisation de la feuille de route nationale…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-individuel-national-pour-la-finalisation-de-la-feuille-de-route-nationale-sur-le
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Sector Senior Associate or Specialist - Health (Port-au-Prince, HT, 1321)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Port-au-Prince-Sector-Senior-Associate-or-Specialist-Health-1321/1417163400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Accounting Senior Associate (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Accounting-Senior-Associate-DC-20577/1416997100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant - Health Capital Investment Planning and Infrastructure Analytics, Ukraine
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1786027418953
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Senior International Consultant u2013 Health Sector Capital Investments, Governance and Recovery, Ukraine
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1786027402899
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Digital Economies Analyst [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Remote | Cis IPSA-8, International Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230480
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Deputy Representative Operations, (P-5), Fixed-Term, Manila, Philippines #49276 UNICEF - United Nations Children’s Fund Manila P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230478
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Immunization consultant, Dili, Timor-Leste, Office based, 6 Months (Open for International Candidates Only), Ref#594979 UNICEF - United Nations Children’s Fund Dili Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230476
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Supply & Logistics Manager, P-4, Fixed Term Position, Addis Ababa, Ethiopia #00137688 UNICEF - United Nations Children’s Fund Addis Ababa P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230473
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Logistics Specialist, P-3, Fixed Term Position, South Sudan, Juba, #00049137 (subject to classification) UNICEF - United Nations Children’s Fund Juba P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230472
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WASH Cluster Coordinator (Manager), P-4, Fixed Term, 12 Months, #114137, Kyiv, Ukraine, ECAR UNICEF - United Nations Children’s Fund Kyiv P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230471
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Monitoring Officer, P-2, Temporary Position, 364 days, Supply Division, Copenhagen, Denmark, #00138107 UNICEF - United Nations Children’s Fund Copenhagen P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230468
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Specialist (Field Support & Construction), P-3, Fixed Term Position, Division of Financial and Administrative Management, O/p Brussels, Belgium #00014042 UNICEF - United Nations Children’s Fund Brussels P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230467
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INTERNAL EXTERNAL ADV: Health Officer (KOICA Programme), NO-B, Jakarta, Indonesia, Temporary Appointment (138263) UNICEF - United Nations Children’s Fund Jakarta NO-B, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230463
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Monitoring, Evaluation and Learning (MEL) Intern UNOPS - United Nations Office for Project Services London Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230455
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Strategic Programs - Government Affairs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51516-washington-dc-spotify-head-of-strategic-programs-government-affairs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Religious Freedom Analyst, Senior
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51515-washington-dc-cayuse-holdings-religious-freedom-analyst-senior
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Deputy Director, Digital Transformation and AI Policy & Advocacy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51514-seattle-washington-gates-foundation-deputy-director-digital-transformation-and-ai-policy-advocacy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Program Officer, Democratic Resilience
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51513-washington-dc-center-for-european-policy-analysis-senior-program-officer-democratic-resilience
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Development
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51512-new-york-elton-john-aids-foundation-director-of-development
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor of Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51511-dahlonega-georgia-university-of-north-assistant-professor-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] OCA Emergency Team - Humanitarian Affairs Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51510-netherlands-msf-holland-oca-emergency-team-humanitarian-affairs-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intern, Communication and Research - A1 Portfolio
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51509-netherlands-global-alliance-for-improved-nutrition-gain-intern-communication-and-research-a1-portfolio
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] ICT Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51508-tirana-albania-unops-ict-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate Director, Digital Learning & Content
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51507-remote-dc-orbis-international-associate-director-digital-learning-content
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Executive Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51506-nairobi-kenya-nest-360-executive-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Lecturer in Political Science/College of Liberal Arts
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51505-edinburg-texas-university-of-rio-grande-valley-lecturer-in-political-science-college-liberal-arts
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Community & Outreach
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51504-aarhus-denmark-eit-water-director-of-community-outreach
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Call for Consultants : MEL Specialist, West Africa
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51503-senegal-world-council-of-credit-unions-inc-woccu-call-for-consultants-mel-specialist-west-africa
+--------------------------------------------------
