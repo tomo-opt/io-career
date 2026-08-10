@@ -1,0 +1,162 @@
+[Organization] United Nations Secretariat
+[Position] Human Resources Assistant
+[Location] FO West Bank
+[Deadline] 2026-08-23
+[Link] https://careers.un.org/job-openings?job-id=282077
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] DIRECTOR, ECONOMIC AFFAIRS
+[Location] GENEVA
+[Deadline] 2026-09-19
+[Link] https://careers.un.org/job-openings?job-id=280321
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst, Gender & Social Inclusion [Open to internal and external applicants]
+[Location] New Delhi, India
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36111;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Inclusive Growth Coordinator [Open to internal and external applicants]
+[Location] Rabat, Morocco
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35146;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asistente de Proyecto para la Atención y Seguimiento de Designaciones Internacionales Post level NPSA-5 Apply by Aug-15-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36113
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst, Gender & Social Inclusion [Open to internal and external applicants] Post level NPSA-8 Apply by Aug-23-26 Agency UNDP Location New Delhi, India
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36111
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Policy Design Specialist (Open to internal and external applicants) Post level NPSA-10 Apply by Aug-16-26 Agency UNDP Location Bhutan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35647
+--------------------------------------------------
+[Organization] WFP
+[Position] International Consultant - Programme Policy Officer (Early Warning and Famine Prevention) CST II
+[Location] Kabul, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kabul-AfghanistanThe-Islamic-Re/International-Consultant---Programme-Policy-Officer--Early-Warning-and-Famine-Prevention--CST-II_JR125765-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] PSP IG Assistant
+[Location] Seoul, Korea, Republic of
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Seoul-Korea-Republic-of/PSP-IG-Assistant_JR2668266
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior PSP IG Assistant
+[Location] Seoul, Korea, Republic of
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Seoul-Korea-Republic-of/Senior-PSP-IG-Assistant_JR2668333
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Advocacy Analyst-TA-NOB (for Ethiopian Nationals only)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-advocacy-analyst-ta-nob-ethiopian-nationals-only
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultancy (Remote-based), Supply Chain Design Specialist, Supply Chain Management Unit (SCMU), Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultancy-remote-based-supply-chain-design-specialist-supply-chain-management-unit-scmu
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Readvertised - National Post: Administrative and Finance Assistant, Patna, Bihar,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/readvertised-national-post-administrative-and-finance-assistant-patna-bihar-india-g5
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Bank Reconciliation Assistant
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Bank-Reconciliation-Assistant/4078
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Human Resources Assistant- Fixed Term- Field Office West Bank- For Internal Candidates Only- Grade 10, fo west bank
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1786311396709
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Call for Expression of Interest – Internship Programme for Latin America and the Caribbean (RLC), Various Locations
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1786297345645
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Service Area Coordinator - Negros 1 (Child Path Initial Project) CI - Children International Dumaguete City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230554
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant - Programme Policy Officer (Early Warning and Famine Prevention) CST II WFP - World Food Programme Kabul CST II
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230552
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Human Resources Assistant- Fixed Term- Field Office West Bank- For Internal Candidates Only- Grade 10 UNRWA - United Nations Relief and Works Agency for Palestinian Refugees West Bank Grade 10 - Locally recruited area staff - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230548
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WASH Specialist (IPC), P-3, TA (6 months), #00138147, Yambio, South Sudan, ESAR UNICEF - United Nations Children’s Fund Yambio P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230547
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Social & Behavior Change Specialist (RCCE), P-4, TA (6 months), #00138149, Yambio, South Sudan, ESAR UNICEF - United Nations Children’s Fund Yambio P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230545
+--------------------------------------------------
+[Organization] Impactpool
+[Position] On-Call MHPSS Consultant (Music Trainer) IOM - International Organization for Migration Doha UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230544
+--------------------------------------------------
+[Organization] Impactpool
+[Position] On-Call MHPSS Tailoring Consultant IOM - International Organization for Migration Doha UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230543
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Epidemiologist Consultant-Ebola Response-(Rolling Basis) IOM - International Organization for Migration Congo DRC UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230536
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Dispenser IRC - International Rescue Committee Bangladesh Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230534
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Student Support Specialist IRC - International Rescue Committee Abilene Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230533
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Volunteer Coordinator IRC - International Rescue Committee Remote | Dallas Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1230532
+--------------------------------------------------
