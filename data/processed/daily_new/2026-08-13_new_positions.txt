@@ -1,0 +1,294 @@
+[Organization] United Nations Secretariat
+[Position] Human Resources Officer (Services)
+[Location] FO West Bank
+[Deadline] 2026-08-27
+[Link] https://careers.un.org/job-openings?job-id=282103
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] MEDICAL OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-26
+[Link] https://careers.un.org/job-openings?job-id=280931
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Chief of Section, Programme Management
+[Location] NEW YORK
+[Deadline] 2026-09-26
+[Link] https://careers.un.org/job-openings?job-id=282182
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR ADMINISTRATIVE OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-26
+[Link] https://careers.un.org/job-openings?job-id=279202
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ACCOUNTING ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-08-27
+[Link] https://careers.un.org/job-openings?job-id=282895
+--------------------------------------------------
+[Organization] UNDP
+[Position] Finance Associate [Open to internal and external applicants]
+[Location] Kuala Lumpur, Malaysia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36204;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Monitoring and Evaluation Associate [Open to internal and external applicants]
+[Location] Yerevan, Armenia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36116;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Coordinator - Ghaziabad, India [Open to internal and external applicants]
+[Location] India
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36183;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Small Grants Programme National Coordinator [Open to internal and external applicants]
+[Location] Sao Tome, Sao Tome and Principe
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35772;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Coordinator - Ghaziabad, India [Open to internal and external applicants] Post level NPSA-8 Apply by Aug-19-26 Agency UNDP Location India
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36183
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Monitoring and Evaluation Associate [Open to internal and external applicants] Post level NPSA-7 Apply by Aug-19-26 Agency UNDP Location Yerevan, Armenia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36116
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Small Grants Programme National Coordinator [Open to internal and external applicants] Post level NPSA-9 Apply by Aug-18-26 Agency UNDP Location Sao Tome, Sao Tome and Principe
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35772
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Finance Associate [Open to internal and external applicants] Post level G7 Apply by Sep-2-26 Agency UNDP Location Kuala Lumpur, Malaysia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36204
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant (District Community Facilitator)-SC5, Khong district, Champasack Province
+[Location] Champasack, Laos, The People's Dem. Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Champasack-Laos-The-Peoples-Dem-Re/Programme-Assistant--District-Community-Facility--SC5--Khong-district--Champasack-Province_JR124484-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme and Policy Officer - Information Management
+[Location] Suva, Fiji
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Suva-Fiji/Programme-and-Policy-Officer---Information-Management_JR125878-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant/Protection/SCL5
+[Location] Kosti, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kosti-Sudan-The-Republic-Of-The/Programme-Assistant-Protection-SCL5_JR125860
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant (SC5), Rumbek
+[Location] Rumbek, Sudan, Republic of South
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rumbek-Sudan-Republic-of-South/Logistics-Assistant--SC5---Rumbek_JR125842-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Education Associate
+[Location] Kinshasa, Congo, Democratic Republic of the
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kinshasa-Congo-Democratic-Republic-of-the/Education-Associated_JR2668391-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Data Management Associate
+[Location] Chisinau, Moldova
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Chisinau-Moldova/Data-Management-Associate_JR2668404-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Technical Oversight and Quality Assurance of TVET Care Center Renovations (ENGINEER).
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-technical-oversight-and-quality-assurance-tvet-care-center
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern, London, United Kingdom
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1786561707172
+--------------------------------------------------
+[Organization] Impactpool
+[Position] People Associate (m/f/d) Transparency International Remote | Berlin Level not specified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231072
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Project Officer - Asia ISA - International Solar Alliance Remote Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231238
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Technical Officer, TMC/TSI WHO - World Health Organization India P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231211
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Health Cluster Coordinator WHO - World Health Organization Bangkok | Yangon P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231209
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Monitoring and Evaluation Associate [Open to internal and external applicants] UNDP - United Nations Development Programme Yerevan NPSA-7, National Personnel Services Agreement - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231201
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Content and Social Media Officer IRC - International Rescue Committee Kyiv | Kharkiv | Dnipro Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231200
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Information Officer IRC - International Rescue Committee Ukhiya Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231199
+--------------------------------------------------
+[Organization] Impactpool
+[Position] HR Manager IRC - International Rescue Committee Remote | Sacramento | Turlock Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231198
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intensive Case Management (ICM) Caseworker IRC - International Rescue Committee Remote | New York City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231197
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Empowerment Head of Program IRC - International Rescue Committee Warsaw Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231196
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Salud IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231195
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Employment Specialist IRC - International Rescue Committee Tucson Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231194
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Manager, Cato Courses
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51550-washington-dc-cato-institute-program-manager-courses
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Digital Mobilization
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51549-washington-dc-amnesty-international-usa-manager-digital-mobilization
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Social Media Coordinator
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51548-remote-new-york-nasdaq-entrepreneurial-center-social-media-coordinator
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of Finance & Administration
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51547-brussels-belgium-protectdefenders-eu-head-of-finance-administration
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Health and Nutrition Community Mobilization Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51546-taiz-yemen-save-the-children-health-and-nutrition-community-mobilization-assistant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Lead - HSCET
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51545-bethesda-maryland-the-henry-m-jackson-foundation-for-advancement-of-military-medicine-program-lead-hscet
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Programme Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51544-copenhagen-denmark-oak-foundation-programme-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Government Affairs and Public Policy, Platforms and Devices
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51543-san-francisco-california-google-manager-government-affairs-and-public-policy-platforms-devices
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] People Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51542-berlin-germany-transparency-international-people-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Postdoctoral Research Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51541-princeton-new-jersey-university-postdoctoral-research-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Country Director, Guinea & Liberia
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51540-monrovia-liberia-fauna-flora-international-country-director-guinea
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Private Sector Engagement Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51539-washington-dc-international-organization-for-migration-iom-senior-private-sector-engagement-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intelligence Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51538-foster-city-california-pinkerton-intelligence-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Rosenwald Postdoctoral Fellowship in U.S. Foreign Policy and International Security (2027-28)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51537-hanover-new-hampshire-dartmouth-college-rosenwald-postdoctoral-fellowship-in-u-s-foreign-policy-and-international-security-2027-28
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Practitioner
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51536-aberdeen-united-kingdom-british-red-cross-senior-practitioner
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Advocacy & Policy Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51535-brussels-belgium-european-emergency-number-association-advocacy-policy-officer
+--------------------------------------------------
