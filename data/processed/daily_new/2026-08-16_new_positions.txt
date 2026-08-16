@@ -1,0 +1,132 @@
+[Organization] United Nations Secretariat
+[Position] CHIEF SECURITY OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-08-30
+[Link] https://careers.un.org/job-openings?job-id=281896
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR INFORMATION TECHNOLOGY ASSISTANT
+[Location] BRINDISI
+[Deadline] 2026-08-29
+[Link] https://careers.un.org/job-openings?job-id=282326
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR INFORMATION SYSTEMS ASSISTANT
+[Location] VALENCIA
+[Deadline] 2026-08-30
+[Link] https://careers.un.org/job-openings?job-id=282344
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR INFORMATION SYSTEMS ASSISTANT
+[Location] BRINDISI
+[Deadline] 2026-08-30
+[Link] https://careers.un.org/job-openings?job-id=282342
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] CHIEF OF SECTION, INVESTIGATIONS
+[Location] All UN locations
+[Deadline] 2026-09-05
+[Link] https://careers.un.org/job-openings?job-id=280799
+--------------------------------------------------
+[Organization] WFP
+[Position] Head of Finance & Management Services Officer
+[Location] Monrovia, Liberia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Monrovia-Liberia-The-Republic-Of/Head-of-Finance---Management-Services-Officer_JR125930
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultancy -Reproductive Health Consultant – UNFPA Libya Country Office
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultancy-reproductive-health-consultant-%E2%80%93-unfpa-libya-country-office
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Individual Consultant: Logistics Analyst, Western Cluster, Lubumbashi, Democratic Republic of Congo
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1786728027306
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Deputy Director of Programs Colombia IRC - International Rescue Committee Bogotá Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231770
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Information Management Intern CIP - International Potato Center Lima Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231769
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Officer WHO - World Health Organization Lyon P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231766
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Technical Officer, UHC Knowledge Hub, Tokyo WHO - World Health Organization Tokyo P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231765
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Operations Officer WHO - World Health Organization Abuja P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231764
+--------------------------------------------------
+[Organization] Impactpool
+[Position] AI Software Engineer Lead WHO - World Health Organization Istanbul P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231763
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Technical Officer (Medicines and Health Products Policies and Standards) WHO - World Health Organization Geneva P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231762
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Science Policy Adviser (P-5) OPCW - Organisation for the Prohibition of Chemical Weapons P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231758
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Adjunct Scientist Program: Dryland Crops Improvement CIMMYT - International Maize and Wheat Improvement Center Remote Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231757
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Técnico en Aire Acondicionado y Refrigeración CIMMYT - International Maize and Wheat Improvement Center Mexico Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231756
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chofer CIMMYT - International Maize and Wheat Improvement Center Mexico Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231755
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Associate IOM - International Organization for Migration Ankara GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231753
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Principal Medical Officer UNDOS - United Nations Department of Operational Support New York City D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231750
+--------------------------------------------------
+[Organization] Impactpool
+[Position] PROGRAMME MANAGEMENT OFFICER UNJSPF - United Nations Joint Staff Pension Fund New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231748
+--------------------------------------------------
