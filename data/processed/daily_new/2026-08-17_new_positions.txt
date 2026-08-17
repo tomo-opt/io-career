@@ -1,0 +1,120 @@
+[Organization] United Nations Secretariat
+[Position] Audit and Verification Specialist
+[Location] HQ Amman
+[Deadline] 2026-09-13
+[Link] https://careers.un.org/job-openings?job-id=282698
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Prog Manager-Early Recovery & Livelihood
+[Location] FO Syria
+[Deadline] 2026-08-30
+[Link] https://careers.un.org/job-openings?job-id=282659
+--------------------------------------------------
+[Organization] UNDP
+[Position] ICT & Procurement Associate [Open to internal and external applicants]
+[Location] Cairo, Egypt
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=34222;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title ICT & Procurement Associate [Open to internal and external applicants] Post level G6 Apply by Aug-23-26 Agency UNDP Location Cairo, Egypt
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34222
+--------------------------------------------------
+[Organization] WFP
+[Position] Human Resources Officer NOB
+[Location] Aden, Yemen, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Aden-Yemen-The-Republic-Of/Human-Resources-Officer-NOB_JR125902
+--------------------------------------------------
+[Organization] WFP
+[Position] Human Resources Officer SC8
+[Location] Aden, Yemen, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Aden-Yemen-The-Republic-Of/Human-Resources-Officer-SC8_JR125900
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (GFA), CST-II, Cox's Bazar
+[Location] Cox's Bazaar, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Coxs-Bazaar-Bangladesh-The-Peoples-R/Programme-Policy-Officer--GFA---CST-II--Cox-s-Bazar_JR125939
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Officer - Corporate Services Support
+[Location] Aden, Yemen, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Aden-Yemen-The-Republic-Of/Finance-Officer---Corporate-Services-Support_JR125896
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Officer - Payroll and Staff Payment
+[Location] Aden, Yemen, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Aden-Yemen-The-Republic-Of/Finance-Officer---Payroll-and-Staff-Payment_JR125893
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant: Development of Direct Entry BSc-Midwifery Curriculum, Freetown, Sierra Leone
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-development-direct-entry-bsc-midwifery-curriculum-freetown-sierra
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Manager- Early Recovery and Livelihoods UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Syria P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231808
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Audit and Verification Specialist UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231807
+--------------------------------------------------
+[Organization] Impactpool
+[Position] UN Women: Monitoring and Evaluation Specialist, Home Based, International Consultant UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Rabat Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231800
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ICT & Procurement Associate [Open to internal and external applicants] UNDP - United Nations Development Programme Cairo GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231799
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Individual consultant to strengthen the preparedness and resilience of the education system in Turkmenistan, Ashkhabad, Education section, Remote work, 3.32 months UNICEF - United Nations Children’s Fund Remote | Ashkhabad Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231797
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SRH Project Officer IRC - International Rescue Committee Garoowe Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231795
+--------------------------------------------------
+[Organization] Impactpool
+[Position] HMIS Assistant IRC - International Rescue Committee Garoowe Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231794
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultancy for the development of IOM Community Based Protection Learning Note – Type B IOM - International Organization for Migration Cairo UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231791
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Programme Support Associate IOM - International Organization for Migration Amman Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231785
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Mental Health & Psychosocial Support Manager (MHPSS) IRC - International Rescue Committee Aden Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1231784
+--------------------------------------------------
