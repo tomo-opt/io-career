@@ -1,0 +1,234 @@
+[Organization] United Nations Secretariat
+[Position] CHIEF OF UNIT, TRANSPORT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-09-06
+[Link] https://careers.un.org/job-openings?job-id=283440
+--------------------------------------------------
+[Organization] UNDP
+[Position] Coordenador(a) de Comunicação - Analyst (Office Based) [Open to internal and external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36444;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant on Digital Monitoring and Analysis of Narratives on TFGBV, FGM and CEFM
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-digital-monitoring-and-analysis-narratives-tfgbv-fgm-and-cefm
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant for the Contextual Adaptation of the Papa Schools Manual
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-contextual-adaptation-papa-schools-manual
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL CONSULTANT: To guide the development of a comprehensive CSE overview document for policy makers.
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-guide-development-comprehensive-cse-overview-document-policy-makers
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Appui à la redynamisation du mécanisme national de promotion de la femme et au renforcement du Caucus Genre de l’Assemblée nationale de Djibouti : gouvernance du genre, leadership institutionnel, coordination et redevabilité publique
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/appui-%C3%A0-la-redynamisation-du-m%C3%A9canisme-national-de-promotion-de-la-femme-et-au-renforcement-du
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy - Consultant(e) international(e) en développement communautaire, structuration des mutuelles de femmes et développement de chaînes de valeur locales
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-consultante-internationale-en-d%C3%A9veloppement-communautaire
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy (Remote): Mentorship, Orientation and Quality Assurance for the development of the 3-year family planning CIP and MEL framework
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-remote-mentorship-orientation-and-quality-assurance-development-3
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst Youth (NOA) - Gaza, State of Palestine
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-youth-noa-gaza-state-palestine
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant Programme Specialist SRHR-ESARO Johannesburg
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-programme-specialist-srhr-esaro-johannesburg
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant on Social and Gender Norms Change to Prevent GBV
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-social-and-gender-norms-change-prevent-gbv
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Programme Analyst (Sexual and Reproductive Health), NOB, Freetown Sierra Leone
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-sexual-and-reproductive-health-nob-freetown-sierra-leone
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant: Strategic Foresight and Programme Planning Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-strategic-foresight-and-programme-planning-analyst
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL CONSULTANT: To guide the development of a comprehensive CSE overview…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-guide-development-comprehensive-cse-overview-document-policy-makers
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy - Consultant(e) international(e) en développement…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-consultante-internationale-en-d%C3%A9veloppement-communautaire
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Officer, Global Youth Mobilization (GYM) IFRC - International Federation of Red Cross and Red Crescent Societies Budapest C1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232956
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Disaster Risk Management Legal Mapping Consultancy IFRC - International Federation of Red Cross and Red Crescent Societies Beirut Consultant, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232955
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Coordinator, Operations - Hurricane Season IFRC - International Federation of Red Cross and Red Crescent Societies Port of Spain Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232954
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern, Group of Friends for the Protection of Humanitarian Personnel IFRC - International Federation of Red Cross and Red Crescent Societies Geneva Internship, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232953
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Investment Manager – Airbel Ventures (Kenya) IRC - International Rescue Committee Nairobi Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232952
+--------------------------------------------------
+[Organization] Impactpool
+[Position] COMPLIANCE COORDINATOR IRC - International Rescue Committee Goma Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232951
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Legal Assistant IRC - International Rescue Committee Remote | Seattle Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232950
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head of Project & Change Management Office WHO - World Health Organization Geneva P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232945
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Officer WHO - World Health Organization Ouagadougou P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232943
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Team Lead (Global Respiratory Threats) WHO - World Health Organization Geneva P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232942
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Manager - LP3 ICMPD - International Centre for Migration Policy Development Ankara LP3, Local Professional 3 - Locally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232941
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Manager, African Vaccine Manufacturing Accelerator (AVMA) Market Shaping Gavi, Vaccine Alliance Geneva CS4 - Career Step 4 - Professional - Both internationally and locally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232940
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Coordenador(a) de Comunicação - Analyst (Office Based) [Open to internal and external applicants] UNDP - United Nations Development Programme Brasília NPSA-8, National Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232938
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research on the integrity of political finance in Africa (m/f/d) Transparency International Remote Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232937
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultancy on Political Finance and Integrity Assessment in the Pacific (m/f/d) - Deadline Extended Transparency International Remote Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232936
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Manager, AI Transformation CHAI - Clinton Health Access Initiative United States Managerial Level - Open for both International and National Professionals - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232930
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Llamado de interés Consultor 100 2026 - Gestion de Casos y Apoyo institucional IOM - International Organization for Migration Colombia UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232927
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultoria 97 2026 - Gestion de Casos y Apoyo institucional IOM - International Organization for Migration Colombia UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232926
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Llamado de interés Consultor 98 2026 - Gestion de Casos y Apoyo institucional IOM - International Organization for Migration Colombia UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232925
+--------------------------------------------------
+[Organization] Impactpool
+[Position] LLamado a Interes Consultoria 99 2026 - Gestion Tecnica a IPS IOM - International Organization for Migration Colombia UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232924
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 0133 2026 - Asistente de Proyecto (M&E and Reporting) IOM - International Organization for Migration Bogotá GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232923
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Llamado de interés Consultor 96 2026 - Gestion de Casos y Apoyo institucional IOM - International Organization for Migration Colombia UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232922
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN-2026-025 Senior Project Associate (Socioeconomic Integration) - G7 IOM - International Organization for Migration San José GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232921
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Contractor to Develop a Diagnostic and Methodology for State Human Rights Institutions on Internal Displacement OHCHR - Office of the High Commissioner for Human Rights Mexico City CON
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232920
+--------------------------------------------------
