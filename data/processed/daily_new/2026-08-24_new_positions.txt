@@ -1,0 +1,114 @@
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SERVICE, HUMAN RESOURCES MANAGEMENT
+[Location] NEW YORK
+[Deadline] 2026-09-10
+[Link] https://careers.un.org/job-openings?job-id=283452
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SERVICE, HUMAN RESOURCES MANAGEMENT
+[Location] NEW YORK
+[Deadline] 2026-09-22
+[Link] https://careers.un.org/job-openings?job-id=283084
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Procurement Assistant
+[Location] FO Syria
+[Deadline] 2026-09-14
+[Link] https://careers.un.org/job-openings?job-id=283166
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NAIROBI
+[Deadline] 2026-08-26
+[Link] https://careers.un.org/job-openings?job-id=280055
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] LEGAL ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-08-28
+[Link] https://careers.un.org/job-openings?job-id=281282
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Associate (Admin and finance) [Open to internal and external applicants]
+[Location] Algiers, Algeria
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36049;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate (Admin and finance) [Open to internal and external applicants] Post level NPSA-7 Apply by Sep-6-26 Agency UNDP Location Algiers, Algeria
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36049
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Cooperating Partnerships Management) FT-NOB
+[Location] Cairo, Egypt, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cairo-Egypt-Republic-of/Programme-Policy-Officer--Cooperating-Partnerships-Management--FT-NOB_JR126167
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Private Sector Communications Officer
+[Location] Bangkok (Glob.Prog.), Thailand
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bangkok-GlobProg-Thailand/Private-Sector-Communications-Officer_JR2668507
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant, Coordinator of the National Training Centre on GBV Prevention and Response under the High School of Public Governance to Advance CRSV Capacity-Building
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-coordinator-national-training-centre-gbv-prevention-and-response-under
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Operations Assistant, Dar es Salaam, GS5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-operations-assistant-dar-es-salaam-gs5
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Appui à la redynamisation du mécanisme national de promotion de la femme et au…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/appui-%C3%A0-la-redynamisation-du-m%C3%A9canisme-national-de-promotion-de-la-femme-et-au-renforcement-du
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy (Remote): Mentorship, Orientation and Quality Assurance…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-remote-mentorship-orientation-and-quality-assurance-development-3
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Bureau Of Human Resources Management, Multiple
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1787466081987
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Communication and Information Sector, Multiple
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1787466025716
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Audiovisual Communications Associate IOM - International Organization for Migration Cairo UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232964
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Staff Counsellor IOM - International Organization for Migration Kinshasa UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232963
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National experts on secondment EBA - European Banking Authority Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232961
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Childminder (Babysitter) IOM - International Organization for Migration Ukhiya UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1232960
+--------------------------------------------------
