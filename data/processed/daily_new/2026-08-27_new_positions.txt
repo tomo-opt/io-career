@@ -1,0 +1,372 @@
+[Organization] United Nations Secretariat
+[Position] Associate Communications Officer
+[Location] Astana
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=282670
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Communications Officer
+[Location] NIAMEY
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=283017
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DATA SPECIALIST
+[Location] ABUJA
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=282998
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE DATA SPECIALIST
+[Location] PODGORICA
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=282923
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE DATA SPECIALIST
+[Location] ANKARA
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=282948
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DEVELOPMENT COORDINATION OFFICER, PARTNERSHIPS AND DEVELOPMENT FINANCE
+[Location] NOUAKCHOTT
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=283256
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] BANGKOK
+[Deadline] 2026-09-26
+[Link] https://careers.un.org/job-openings?job-id=282425
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DATA SPECIALIST
+[Location] BEIRUT
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=283173
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RIGHTS OFFICER
+[Location] AMMAN
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=283550
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] PORT-AU-PRINCE - LOCAL
+[Deadline] 2026-09-10
+[Link] https://careers.un.org/job-openings?job-id=282721
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] HUMAN RIGHTS OFFICER
+[Location] GENEVA
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=279337
+--------------------------------------------------
+[Organization] UNDP
+[Position] Communications Associate (Open to internal and external applicants)
+[Location] Barbados
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36548;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Digital Product Analyst (2 openings) [Open to internal and external applicants]
+[Location] Chisinau, Republic of Moldova
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36551;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Digital Product Analyst (2 openings) [Open to internal and external applicants] Post level NPSA-8 Apply by Sep-10-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36551
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communications Associate (Open to internal and external applicants) Post level NPSA-7 Apply by Sep-9-26 Agency UNDP Location Barbados
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36548
+--------------------------------------------------
+[Organization] WFP
+[Position] Senior Associate Accès Humanitaire SC7
+[Location] Bamako, Mali, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bamako-Mali-The-Republic-Of/Senior-Associate-Accs-Humanitaire-SC7_JR126311
+--------------------------------------------------
+[Organization] WFP
+[Position] Parliament and Policy Officer
+[Location] London, United Kingdom
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/London-United-Kingdom/Parliament-and-Policy-Officer_JR126267
+--------------------------------------------------
+[Organization] WFP
+[Position] Project Coordinator/MSD/Programme Officer P3
+[Location] Thimphu, Bhutan, The Kingdom Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Thimphu-Bhutan-The-Kingdom-Of/Project-Coordinator-MSD-Programme-Officer-P3_JR126290
+--------------------------------------------------
+[Organization] WFP
+[Position] Project Officer (Monitoring and Evaluation)
+[Location] Freetown, Sierra Leone, The Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Freetown-Sierra-Leone-The-Rep-Of/Project-Officer--Monitoring-and-Evaluation-_JR126258-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Environmental and Social Safeguards) SSA9
+[Location] Nairobi, Kenya, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Programme-Policy-Officer--Environmental-and-Social-Safeguards--SSA9_JR126254
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer - Community Infrastructure SC8
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Programme-Policy-Officer---Community-Infrastructure-SC8_JR126221
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Fuel Logistics Associate
+[Location] Budapest (GSC), Hungary
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Budapest-GSC-Hungary/Fuel-Logistics-Associate_JR2668319
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Business Analyst
+[Location] Budapest (GSC), Hungary
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Budapest-GSC-Hungary/Assistant-Business-Analyst_JR2668317-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Field Officer (N)
+[Location] Kosti, Sudan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kosti-Sudan/Assistant-Field-Officer--N-_JR2668526-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Community Based Protection Officer
+[Location] Huye, Rwanda
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Huye-Rwanda/Associate-Community-Based-Protection-Officer_JR2668264
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant on 2025 Census Thematic Report Migration and Urbanization Report, Population and Development (PD), Vientiane, Lao, P4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-2025-census-thematic-report-migration-and-urbanization-report-population
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Project Officer, NOA, FTA, Belize City, Belize
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/project-officer-noa-fta-belize-city-belize
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant (Local): Technology, Data & Policy Analyst, Bhubaneshwar, Odisha
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-local-technology-data-policy-analyst-bhubaneshwar-odisha
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Intern Foresight and Futures Work
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/intern-foresight-and-futures-work
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL CONSULTANT: Individual Consultant - Human Rights Officer
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-individual-consultant-human-rights-officer
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Personal Assistant to the Representative & Administrative…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-personal-assistant-representative-administrative-associate-dar-es-salaam-gs6
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Logistics Associate, Supply Chain Management Unit, GS-6, Copenhagen (00167219) - 1…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/logistics-associate-supply-chain-management-unit-gs-6-copenhagen-00167219-1-post-roster
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Architectural Engineering Technician - Senior Associate
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Architectural-Engineering-Technician-Senior-Associate/4215
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Financial Analyst Consultant - Infrastructure & Energy (Guatemala City, GT)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Guatemala-City-IDB-Invest-Financial-Analyst-Consultant-Infrastructure-&-Energy/1396413900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Senior Investment Officer Infrastructure & Energy- Guatemala (Guatemala City, GT)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Guatemala-City-IDB-Invest-Senior-Investment-Officer-Infrastructure-&-Energy-Guatemala/1413873100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Senior Investment Associate - Corporates (Tegucigalpa, HN)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Tegucigalpa-IDB-Invest-Senior-Investment-Associate-Corporates/1423620600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Investment Associate - Infra & Energy Sector (Santo Domingo, DO, 10100)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Santo-Domingo-IDB-Invest-Investment-Associate-Infra-&-Energy-Sector-10100/1423633500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Intern to Support Corporate Legal Affairs (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Intern-to-Support-Corporate-Legal-Affairs-DC-20577/1422742500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Intern to Support Sovereign Guaranteed Operations (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Intern-to-Support-Sovereign-Guaranteed-Operations-DC-20577/1422743000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Intern to Support the Structured Partnerships Team (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Intern-to-Support-the-Structured-Partnerships-Team-DC-20577/1422743500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest. AI-Ready Information, Semantic Knowledge & Taxonomy Internship (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest_-AI-Ready-Information%2C-Semantic-Knowledge-&-Taxonomy-Internship-DC-20577/1422740400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Administrative & Communications Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Administrative-&-Communications-Intern-DC-20577/1422751400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Credit Risk Management Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Credit-Risk-Management-Intern-DC-20577/1422741900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Annual Donor Report Preparation Support Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Annual-Donor-Report-Preparation-Support-Intern-DC-20577/1422749600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Intern to Support Data Management and Hydroclimatic Risk Analytics in the Amazon Region (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Intern-to-Support-Data-Management-and-Hydroclimatic-Risk-Analytics-in-the-Amazon-Region-DC-20577/1422745800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Funded traineeship for young graduates at the EU Delegation to Sudan, Cairo Egypt
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1787766568859
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Funded traineeship for young graduates at the EU Delegation to Japan, Japan
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1787766465748
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief Fire Officer MFO - Multinational Force & Observers Sharm el-Sheikh Grade 9 - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233467
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Coordinator/MSD/Programme Officer P3 WFP - World Food Programme Thimphu P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233693
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Finance Officer IRC - International Rescue Committee Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233692
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Supply Chain Officer IRC - International Rescue Committee Pakistan Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233691
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship Advocacy WOAH - World Organisation for Animal Health Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233689
+--------------------------------------------------
+[Organization] Impactpool
+[Position] DIGITAL SYSTEMS PROJECT SUPPORT INTERN - PAPUA NEW GUINEA GGGI - Global Green Growth Institute Port Moresby Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233683
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief of Section, Public Information UNDGC - United Nations Department of Global Communications New York City P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233678
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Assistant IOM - International Organization for Migration Tegucigalpa GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233676
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant Superviseur des travaux de construction IOM - International Organization for Migration Congo DRC UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233675
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Expedited VN : Procurement and Logistics Officer (P) IOM - International Organization for Migration Chuuk P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233674
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN-2026-026 Supply Chain Assistant | G4 IOM - International Organization for Migration San José GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233673
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Projects Officer (Operational Resilience-Business Continuity) – (Contractual) - Corporate Services and Facilities Department IMF - International Monetary Fund Washington D.C. A11, A12
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233663
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Officer/Senior Research Officer (Contractual) - RES IMF - International Monetary Fund Washington D.C. A09, A10, A11
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233662
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Scientist - Climate Change IRRI - International Rice Research Institute Hanoi Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233661
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee Operacões (Exclusiva para Pessoas com deficiência) UNOPS - United Nations Office for Project Services Brasília Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233660
+--------------------------------------------------
