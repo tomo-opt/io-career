@@ -1,0 +1,234 @@
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-09-27
+[Link] https://careers.un.org/job-openings?job-id=282831
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INTER-REGIONAL ADVISER, PUBLIC ADMINISTRATION
+[Location] NEW YORK
+[Deadline] 2026-09-27
+[Link] https://careers.un.org/job-openings?job-id=283035
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SECURITY INFORMATION ANALYST
+[Location] AMMAN
+[Deadline] 2026-09-04
+[Link] https://careers.un.org/job-openings?job-id=283591
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SERGEANT
+[Location] NAIROBI
+[Deadline] 2026-09-05
+[Link] https://careers.un.org/job-openings?job-id=283807
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-09-05
+[Link] https://careers.un.org/job-openings?job-id=283838
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SECURITY OFFICER
+[Location] VILLAVICENCIO
+[Deadline] 2026-09-04
+[Link] https://careers.un.org/job-openings?job-id=283827
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET ASSISTANT
+[Location] GENEVA
+[Deadline] 2026-09-12
+[Link] https://careers.un.org/job-openings?job-id=283736
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-ADVERTISEMENT: HR Business Partner, ASRO, Client Services and Outreach Branch, Division for Human Resources, Cairo, Egypt, P-5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-hr-business-partner-asro-client-services-and-outreach-branch-division-human
+--------------------------------------------------
+[Organization] UNFPA
+[Position] RE-OPENING: Chief, Accounts, Finance Branch, Division for Management Services, New York, P-5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-opening-chief-accounts-finance-branch-division-management-services-new-york-p-5
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant (Local): Technology, Data & Policy Analyst, Bhubaneshwar…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-local-technology-data-policy-analyst-bhubaneshwar-odisha
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Associate Civil Engineer
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Associate-Civil-Engineer/4362
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Climate Change Adaptation Officer (Home based Retainer) - Pretoria, South Africa
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Climate-Change-Adaptation-Officer-Home-based-Retainer-Pretoria-South-Africa/4260
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Information Technology Officer or Senior Officer - IT Operation & Transformation Team (Panamá, PA)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Panam%C3%A1-IDB-Invest-Information-Technology-Officer-or-Senior-Officer-IT-Operation-&-Transformation-Team/1424663300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. AI - Driven Workflow Automation Support Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-AI-Driven-Workflow-Automation-Support-Intern-DC-20577/1422736900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Social Sector Data Automation and AI Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Social-Sector-Data-Automation-and-AI-Intern-DC-20577/1422736200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Digital Finance Operations Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Digital-Finance-Operations-Intern-DC-20577/1422738600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Office of Ethics Investigations Internship (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Office-of-Ethics-Investigations-Internship-DC-20577/1422780300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Investment Risk Management Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Investment-Risk-Management-Intern-DC-20577/1422744600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest. Regions Upstream Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest_-Regions-Upstream-Intern-DC-20577/1422748300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Accounting and Financial Reporting Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Accounting-and-Financial-Reporting-Intern-DC-20577/1422738800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant for TOT and Rights-Based Family Planning (RBFP), Timor-Leste
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1787904943082
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Partnerships and Resource Mobilisation Senior Expert Consultant O P Partnerships and Fundraising division 10 months Remote work (open for International consultants), ECARO O/P Istanbul
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1787904319705
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Human Resources Assistant- Fixed Term- Field Office West Bank- For Internal Candidates Only- Grade 10, fo west bank
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1787903974084
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SECURITY INFORMATION ANALYST UNDSS - United Nations Department of Safety and Security Amman P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234076
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 0137 2026 - Asociado de Proyecto (Operaciones) IOM - International Organization for Migration Bogotá GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234065
+--------------------------------------------------
+[Organization] Impactpool
+[Position] LLAMADO A INTERES - CONS 111 2026 - Generación de Ingresos (Cali) IOM - International Organization for Migration Buenaventura | Cali | Pereira UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234064
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 0136 2026 - Asociado Senior de Proyecto (Respuesta a Emergencia) IOM - International Organization for Migration Bogotá GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234063
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN MX003-2026 Project Associate IOM - International Organization for Migration GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234062
+--------------------------------------------------
+[Organization] Impactpool
+[Position] MX006-2026 Consultoría Individual para la identificación de barreras de acceso a la identidad legal de personas desplazadas internas y la formulación de medidas y recomendaciones dirigidas a autoridades del Registro Civil IOM - International Organization for Migration Los Altos | San Cristóbal de Las Casas UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234061
+--------------------------------------------------
+[Organization] Impactpool
+[Position] LLAMADO A INTERES - CONS 113 2026 - Generación de Ingresos (Pereira) IOM - International Organization for Migration Cali | Buenaventura | Pereira UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234060
+--------------------------------------------------
+[Organization] Impactpool
+[Position] REACH Performance Management Internship, Programme Strategy & Coordination hub, Global Programme Division, New-York HQ, 3 months (On-site) UNICEF - United Nations Children’s Fund New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234057
+--------------------------------------------------
+[Organization] Impactpool
+[Position] GLOBAL GREEN GROWTH INSTITUTE INTERNSHIP PROGRAM - HUMAN RESOURCES INTERN GGGI - Global Green Growth Institute Mexico Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234045
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Epidemiologist WHO - World Health Organization Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234043
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Adviser (Health Workforce & Service Delivery) WHO - World Health Organization Copenhagen P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234042
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Tenure Track Assistant Professor - American Politics
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51680-atlanta-georgia-emory-university-tenure-track-assistant-professor-american-politics
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Consultancy – Ukraine Project Evaluation
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51679-ukraine-catholic-agency-for-overseas-development-cafod-consultancy-project-evaluation
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] FONGA Support Manager Senegal Dakar
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51678-dakar-senegal-norwegian-refugee-council-fonga-support-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of People and Culture
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51677-brussels-belgium-clientearth-head-of-people-and-culture
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Attorney
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51676-washington-dc-u-s-department-of-commerce-commercial-law-development-program-cldp-attorney
+--------------------------------------------------
