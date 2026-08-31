@@ -1,0 +1,186 @@
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS OFFICER
+[Location] BANGKOK
+[Deadline] 2026-09-26
+[Link] https://careers.un.org/job-openings?job-id=283432
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RIGHTS ASSISTANT
+[Location] HERAT
+[Deadline] 2026-09-13
+[Link] https://careers.un.org/job-openings?job-id=283850
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Assistant Gender Affairs Officer
+[Location] KABUL
+[Deadline] 2026-09-13
+[Link] https://careers.un.org/job-openings?job-id=283718
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Programme Management Assistant
+[Location] KABUL
+[Deadline] 2026-09-13
+[Link] https://careers.un.org/job-openings?job-id=283851
+--------------------------------------------------
+[Organization] UNDP
+[Position] Communications Analyst [Open to internal and external applicants]
+[Location] Banjul, Gambia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36377;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Associate (Open to internal and external applicants)
+[Location] Ha Noi, Viet Nam
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36420;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Blue Economy Investment Specialist, IPSA11, Fiji - Suva (UNCDF)- [Open to internal and external applicants]
+[Location] Suva, Fiji
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35698;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communications Analyst [Open to internal and external applicants] Post level NPSA-9 Apply by Sep-14-26 Agency UNDP Location Banjul, Gambia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36377
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Blue Economy Investment Specialist, IPSA11, Fiji - Suva (UNCDF)- [Open to internal and external applicants] Post level IPSA-11 Apply by Sep-7-26 Agency UNCDF Location Suva, Fiji
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35698
+--------------------------------------------------
+[Organization] WFP
+[Position] Operational Information Management Officer
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Operational-Information-Management-Officer_JR126260
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant on FGM evidence-based advocacy and accountability
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-fgm-evidence-based-advocacy-and-accountability
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Research Department and Behavioral Economics Internship (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Research-Department-and-Behavioral-Economics-Internship-DC-20577/1422754300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Infrastructure and Energy Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Infrastructure-and-Energy-Intern-DC-20577/1422735000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Internship in Knowledge Management and Case Analysis for the IDB Grievance Protocol (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Internship-in-Knowledge-Management-and-Case-Analysis-for-the-IDB-Grievance-Protocol-DC-20577/1422738200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Intern to Support GIS Data and Documentation (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Intern-to-Support-GIS-Data-and-Documentation-DC-20577/1422738400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. ESG Capacity Building and Knowledge Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-ESG-Capacity-Building-and-Knowledge-Intern-DC-20577/1422740900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Head of Assurance & Internal Controls (m-f-d) FSC - Forest Stewardship Council Bonn Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1225106
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Planning,Monitoring and Evaluation Consultant WHO - World Health Organization Bissau P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234137
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Junior Professional, Public Sector NDB - New Development Bank Shanghai Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234135
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Data and Research International Consultant, Office of the Reg Director, Amman, Jordan, 5.5 months, Remote with travels UNICEF - United Nations Children’s Fund Remote | Amman Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234130
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Personal Assistant to the Registrar (G-7) ICC - International Criminal Court The Hague GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234123
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ASSISTANT MANAGER ACCOUNTING - MANILA CI - Children International Manila | Philippines Mid/Senior - Mid/Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234122
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Office Aide IRC - International Rescue Committee Pakistan Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234121
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Empowerment Specialist IRC - International Rescue Committee Remote | Oakland | Alameda Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234120
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Midwife-14 IRC - International Rescue Committee Herat Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234119
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Midwife-6 IRC - International Rescue Committee Afghanistan Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234118
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Midwife-10 IRC - International Rescue Committee Afghanistan Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234117
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Midwife-1 IRC - International Rescue Committee Kunduz Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234116
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Assistant & Information Management Officer ICRC - International Committee of the Red Cross Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234115
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Readiness and Preparedness IFRC - International Federation of Red Cross and Red Crescent Societies Kinshasa National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234114
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultancy to Strengthen the Regulatory Framework for Equity and School Dropout Prevention, Education section, Podgorica, Montenegro, 3.5 months, Remote work with travel UNICEF - United Nations Children’s Fund Remote | Podgorica Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234107
+--------------------------------------------------
