@@ -1,0 +1,246 @@
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE INFORMATION ANALYST, POLITICAL AFFAIRS
+[Location] GENEVA
+[Deadline] 2026-09-08
+[Link] https://careers.un.org/job-openings?job-id=283430
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] GENEVA
+[Deadline] 2026-09-30
+[Link] https://careers.un.org/job-openings?job-id=283885
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NAIROBI
+[Deadline] 2026-09-30
+[Link] https://careers.un.org/job-openings?job-id=283767
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-30
+[Link] https://careers.un.org/job-openings?job-id=283797
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SECTION, INVESTIGATIONS
+[Location] ENTEBBE
+[Deadline] 2026-09-10
+[Link] https://careers.un.org/job-openings?job-id=282803
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] MEETINGS SERVICES ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-09-30
+[Link] https://careers.un.org/job-openings?job-id=280876
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DEVELOPMENT COORDINATION OFFICER, PARTNERSHIPS AND DEVELOPMENT FINANCE
+[Location] SAN JOSE
+[Deadline] 2026-09-15
+[Link] https://careers.un.org/job-openings?job-id=282406
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] RESEARCH ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-09-30
+[Link] https://careers.un.org/job-openings?job-id=280872
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Communications Officer
+[Location] SAN JOSE
+[Deadline] 2026-09-15
+[Link] https://careers.un.org/job-openings?job-id=282396
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] ABIDJAN
+[Deadline] 2026-09-08
+[Link] https://careers.un.org/job-openings?job-id=283275
+--------------------------------------------------
+[Organization] UNDP
+[Position] Digital Transformation Specialist  [Open to internal and external applicants]
+[Location] Rome, Italy
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35850;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Associate, Local Inclusive Green Development [Open to internal and external applicants]
+[Location] Podgorica, Montenegro
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36371;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Especialista Coordenador(a) de Projetos (1 vaga) (Home Based) - [Open to internal and external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36542;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate, Local Inclusive Green Development [Open to internal and external applicants] Post level NPSA-7 Apply by Sep-14-26 Agency UNDP Location Podgorica, Montenegro
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36371
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate (Open to internal and external applicants) Post level NPSA-6 Apply by Sep-6-26 Agency UNDP Location Ha Noi, Viet Nam
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36420
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Digital Transformation Specialist [Open to internal and external applicants] Post level IPSA-11 Apply by Sep-7-26 Agency UNDP Location Rome, Italy
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35850
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Especialista Coordenador(a) de Projetos (1 vaga) (Home Based) - [Open to internal and external applicants] Post level NPSA-10 Apply by Sep-14-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36542
+--------------------------------------------------
+[Organization] WFP
+[Position] M&E Officer NOB, Tana
+[Location] Antananarivo, Madagascar, The Democratic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Antananarivo-Madagascar-The-Democratic/M-E-Officer-NOB--Tana_JR126386
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Officer - Marib FO (NOB)
+[Location] Marib, Yemen, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Marib-Yemen-The-Republic-Of/Programme-Officer---Marib-FO--NOB-_JR126366
+--------------------------------------------------
+[Organization] WFP
+[Position] OIM & Performance Reports Officer NOA
+[Location] Aden, Yemen, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Aden-Yemen-The-Republic-Of/OIM---Performance-Reports-Officer-NOA_JR126365
+--------------------------------------------------
+[Organization] WFP
+[Position] Risk & Compliance Officer NOA, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Risk---Compliance-Officer-NOA--Port-au-Prince--Haiti_JR123671
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant - SC 2
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Business-Support-Assistant---SC-2_JR126363
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships, Communications, and Reporting Officer (SC8)
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Partnerships--Communications--and-Reporting-Officer--SC8-_JR126312
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant SC5
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Programme-Assistant-SC5_JR126364
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Programme Officer
+[Location] Pemba, Mozambique
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Pemba-Mozambique/Associate-Programme-Officer_JR2668543
+--------------------------------------------------
+[Organization] UNHCR
+[Position] DATABASE & CRM Intern
+[Location] Mexico City, Mexico
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Mexico-City-Mexico/DATABASE---CRM-Intern_JR2668570
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant for TOT and Rights-Based Family Planning (RBFP)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-tot-and-rights-based-family-planning-rbfp
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Senior Census Planning Advisor for the 2029 Cambodia Population Census
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-senior-census-planning-advisor-2029-cambodia-population-census
+--------------------------------------------------
+[Organization] UNFPA
+[Position] (Re-advertisement) Consultancy, Supply Chain AI Specialist, Supply Chain Management Unit (SCMU), Copenhagen, Denmark
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-consultancy-supply-chain-ai-specialist-supply-chain-management-unit-scmu
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultancy, Logistics Associate, Supply Chain Management Unit (SCMU), Copenhagen, Denmark (1 Post + Roster)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultancy-logistics-associate-supply-chain-management-unit-scmu-copenhagen-denmark-1-post
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Position: Programme Specialist, M&E, Malawi, NO-C
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-position-programme-specialist-me-malawi-no-c
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Associate, PCQA, GS-6, Kyiv, Ukraine (Readvertised)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-associate-pcqa-gs-6-kyiv-ukraine-readvertised
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Specialist, Humanitarian Coordination and Gender-Based Violence, Yangon, Myanmar, P4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-specialist-humanitarian-coordination-and-gender-based-violence-yangon-myanmar-p4
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant (Local) : Project Coordinator -Social Empowerment of Women Self Help Groups of Mission Shakti, Bhubaneshwar, Odisha
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-local-project-coordinator-social-empowerment-women-self-help-groups
+--------------------------------------------------
+[Organization] UNFPA
+[Position] (Re-Advertisement) Finance Specialist, Supply Chain Management Unit (SCMU),…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-finance-specialist-supply-chain-management-unit-scmu-copenhagen-denmark-p3
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Climate Finance and Country Platform Specialist - Maseru, Lesotho
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Climate-Finance-and-Country-Platform-Specialist-Maseru-Lesotho/4347
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest. Undergraduate Internship -Legal Department's Compliance Unit (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest_-Undergraduate-Internship-Legal-Department's-Compliance-Unit-DC-20577/1422751100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB LAB. Undergraduate Strategy and Stakeholder Engagement Internship (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-LAB_-Undergraduate-Strategy-and-Stakeholder-Engagement-Internship-DC-20577/1422749400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest. Undergraduate Internship: Knowledge Management and Case Analysis - Capital Markets (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Invest_-Undergraduate-Internship-Knowledge-Management-and-Case-Analysis-Capital-Markets-DC-20577/1422751500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Undergraduate Intern to Support Systems UX/UI Design and Communications (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Undergraduate-Intern-to-Support-Systems-UXUI-Design-and-Communications-DC-20577/1422783300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant: Quality Enhancement of Infection Prevention and Control, Logistics and Hygiene Standards for MEDEVAC Operations in Ukraine WHO - World Health Organization Remote | Ukraine Consultancy Band C
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1234337
+--------------------------------------------------
