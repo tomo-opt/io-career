@@ -1,7 +1,8 @@
 {
-  "last_update_bj": "2026-09-01 15:41:23",
-  "count": 8561,
+  "last_update_bj": "2026-09-02 15:04:49",
+  "count": 8602,
   "errors": [
-    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
+    "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))",
+    "african_union_jobs: all source URLs failed (HTTP request failed: https://careers.au.int/ (522 Server Error: <none> for url: https://careers.au.int/))"
   ]
 }
