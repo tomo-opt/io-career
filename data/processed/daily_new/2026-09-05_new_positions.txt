@@ -1,0 +1,240 @@
+[Organization] United Nations Secretariat
+[Position] POLITICAL AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-10-19
+[Link] https://careers.un.org/job-openings?job-id=283935
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] MAIL ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-10-04
+[Link] https://careers.un.org/job-openings?job-id=283147
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=284001
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE COMMUNICATIONS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=284104
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DIRECTOR, INFORMATION CENTRE
+[Location] PRETORIA
+[Deadline] 2026-10-20
+[Link] https://careers.un.org/job-openings?job-id=284175
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME BUDGET OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=283144
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] PUBLIC INFORMATION OFFICER
+[Location] VIENNA
+[Deadline] 2026-09-28
+[Link] https://careers.un.org/job-openings?job-id=281748
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Specialist [Open to internal and external applicants]
+[Location] Rome, Italy
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35879;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst (Office Based) [Open to internal and external applicants[
+[Location] Rio de Janeiro, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36689;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Specialist [Open to internal and external applicants] Post level IPSA-11 Apply by Sep-11-26 Agency UNDP Location Rome, Italy
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35879
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst (Office Based) [Open to internal and external applicants[ Post level NPSA-9 Apply by Sep-11-26 Agency UNDP Location Rio de Janeiro, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36689
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Protocol & Editorial Analyst, Office of the Executive Director (OED), New York, P-1
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/protocol-editorial-analyst-office-executive-director-oed-new-york-p-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Protocol & Strategic Engagements Specialist, Political Affairs and Advocacy Branch, Office of the Executive Director (OED), New York, P-3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/protocol-strategic-engagements-specialist-political-affairs-and-advocacy-branch-office
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Chief, Transformation and Strategic Initiatives Branch, Office of the Executive…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/chief-transformation-and-strategic-initiatives-branch-office-executive-director-oed-new-york-d
+--------------------------------------------------
+[Organization] UNFPA
+[Position] OED Operations & Budget Compliance Analyst, Office of the Executive Director (…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/oed-operations-budget-compliance-analyst-office-executive-director-oed-new-york-p-1
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Catalytic Finance Specialist (India)
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Catalytic-Finance-Specialist-India/4411
+--------------------------------------------------
+[Organization] Impactpool
+[Position] WHO health emergency Lead WHO - World Health Organization Mogadishu P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235228
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Developmental assignment-Administrative Officer WHO - World Health Organization Bissau P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235225
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship - Language and Technology Services (Arabic, Chinese or Russian) WHO - World Health Organization Geneva No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235221
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship - Language services/Interpretation WHO - World Health Organization Geneva No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235220
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant - Outreach and Communication Products IAEA - International Atomic Energy Agency Vienna Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235217
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Mapping of Protection Frameworks and Service Gaps for Vulnerable Migrants, including Trafficking Survivors and Children IOM - International Organization for Migration Remote | Tashkent UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235216
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 2026-10 Senior Project Associate IOM - International Organization for Migration Bratislava GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235215
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Consultant for the Organization of a Crafts Fair and Coordination Meeting with Key Stakeholders on Women’s Economic Empowerment IOM - International Organization for Migration Mary UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235214
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CON 2026 040 | Capacity Building Consultant IOM - International Organization for Migration Remote | Rodriguez | Rizal UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235213
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Assisted Voluntary Return and Reintegration (AVRR) Intern IOM - International Organization for Migration Rome UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235212
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Financial Literacy and Business Mentorship Consultant for Grant Recipients IOM - International Organization for Migration Tashkent UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235211
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 2026 012 | Senior Project Associate - Climate Action IOM - International Organization for Migration Cotabato | Manila GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235210
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Caregiver IOM - International Organization for Migration Athens UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235209
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ​​National Programme Officer (MSDL)​ IOM - International Organization for Migration Kyiv NO-C, National Professional Officer - Locally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235208
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Specialist (MBG) - 2 positions IOM - International Organization for Migration Kyiv GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235207
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CONSULTORÍA TIPO A: DISEÑO GRÁFICO Y EDICIÓN (SENIOR) IOM - International Organization for Migration Tegucigalpa UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235206
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Information and Communications Technology (ICT) Officer (P) IOM - International Organization for Migration Washington D.C. P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235205
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Supply Chain Officer (P) - Call for Expression of Interest IOM - International Organization for Migration Washington D.C. P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235204
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Assistant (Operations) IOM - International Organization for Migration Crete UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235203
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Graphic Designer ITC - International Trade Centre Remote | Freetown | Geneva CON
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235199
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Membership Development & Engagement Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51723-switzerland-international-social-service-membership-development-engagement-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor, Politics/International Studies
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51722-fairfield-connecticut-university-assistant-professor-politics-international-studies
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] ToR: MEAL Technical Advisor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51721-ukraine-caritas-switzerland-tor-meal-technical-advisor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Professor, Associate Director-Camden, Rutgers Democracy Lab
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51720-camden-new-jersey-rutgers-the-state-university-of-professor-associate-director-democracy-lab
+--------------------------------------------------
