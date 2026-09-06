@@ -1,0 +1,144 @@
+[Organization] United Nations Secretariat
+[Position] Trade Instructor/Install &Main Solar Sys
+[Location] Lattakia
+[Deadline] 2026-09-20
+[Link] https://careers.un.org/job-openings?job-id=284029
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TVET Instructor (Electronics)
+[Location] Syria Damascus Area
+[Deadline] 2026-09-20
+[Link] https://careers.un.org/job-openings?job-id=284038
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TVET Instructor (Trd Thry)
+[Location] Syria Central Area
+[Deadline] 2026-09-20
+[Link] https://careers.un.org/job-openings?job-id=284032
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Human Rights Officer
+[Location] SARAJEVO
+[Deadline] 2026-09-15
+[Link] https://careers.un.org/job-openings?job-id=284167
+--------------------------------------------------
+[Organization] WFP
+[Position] DAS Assistant
+[Location] Gonaives, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Gonaives-Haiti-The-Republic-Of/DAS-Assistant_JR126469
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer Assurance Coordinator CST II
+[Location] Nairobi, Kenya, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Programme-Policy-Officer-Assurance-Coordinator-CST-II_JR126495
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (EPR & URT) NO-B
+[Location] Yangon, Myanmar, The Union Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Yangon-Myanmar-The-Union-Of/Programme-Policy-Officer--EPR---URT--NO-B_JR126512
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Special Assistant to the Executive Director, Office of the Executive Director (OED), New York, P-5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/special-assistant-executive-director-office-executive-director-oed-new-york-p-5
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Strategic Policy Specialist, Ofﬁce of the Executive Director (OED), New York, P-4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/strategic-policy-specialist-of%EF%AC%81ce-executive-director-oed-new-york-p-4
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Editorial and Coordination Specialist, Executive Board Branch (EBB), Office of the…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/editorial-and-coordination-specialist-executive-board-branch-ebb-office-executive-director-oed
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant - Project Formulation Strengthened Access to Justice, Tanzania
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1788553715279
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Enfermera(o) Profesional - Comunitaria IRC - International Rescue Committee Cucuta Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235275
+--------------------------------------------------
+[Organization] Impactpool
+[Position] P&C Manager IRC - International Rescue Committee Remote | New York City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235274
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial Senior MEAL IRC - International Rescue Committee Cúcuta Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235273
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economist/Senior Economist (Contractual) - RESEM IMF - International Monetary Fund Washington D.C. A11, A12, A13, A14 - International Professional - Internationally recruited position
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235272
+--------------------------------------------------
+[Organization] Impactpool
+[Position] People and Culture Officer (RME), P-2, Temporary Position, 364 days, #00138369, Division of People and Culture, Budapest UNICEF - United Nations Children’s Fund Budapest P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235265
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer Finance IFRC - International Federation of Red Cross and Red Crescent Societies Bamako Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235261
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente Administrativo IFRC - International Federation of Red Cross and Red Crescent Societies Venezuela Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235260
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Assistant, Logistics and Fleet IFRC - International Federation of Red Cross and Red Crescent Societies Bamako Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235259
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Trainee European Union Satellite Centre - SATCEN Spain Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235254
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Accountant CIP - International Potato Center Lima Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235250
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Research Assistant CIP - International Potato Center Lima Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235249
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultoría de Análisis de Instrumento de Planificación (C-26-15) CIP - International Potato Center Lima Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235248
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Responsable Generalista de Proyectos de Agua y Hábitat ICRC - International Committee of the Red Cross Medellín Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235246
+--------------------------------------------------
