@@ -1,0 +1,270 @@
+[Organization] United Nations Secretariat
+[Position] Human Resources Officer (Services)
+[Location] FO West Bank
+[Deadline] 2026-09-20
+[Link] https://careers.un.org/job-openings?job-id=284283
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Recruitment Officer
+[Location] FO West Bank
+[Deadline] 2026-09-20
+[Link] https://careers.un.org/job-openings?job-id=284281
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] ASSOCIATE COMMUNICATIONS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-09-11
+[Link] https://careers.un.org/job-openings?job-id=284104
+--------------------------------------------------
+[Organization] UNDP
+[Position] LGU and Stakeholder Engagement Specialist - Metro Manila [Open to internal and external applicants]
+[Location] Manila, Philippines
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35433;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Digital Financial Services (DFS) Policy Specialist – East and Southern Africa (ESA) (Part-Time 80%), IPSA11, Home-based, UNCDF [Open to internal and external applicants]
+[Location] Home Based
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35385;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Digital Financial Services (DFS) Policy Specialist – East and Southern Africa (ESA) (Part-Time 80%), IPSA11, Home-based, UNCDF [Open to internal and external applicants] Post level IPSA-11 Apply by Sep-14-26 Agency UNCDF Location Home Based
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35385
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title LGU and Stakeholder Engagement Specialist - Metro Manila [Open to internal and external applicants] Post level NPSA-10 Apply by Sep-21-26 Agency UNDP Location Manila, Philippines
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35433
+--------------------------------------------------
+[Organization] WFP
+[Position] Readvertisement - Roster - IT Operations Officer (Digital Services) - Level 8 - Multiple Locations (Pakistan)
+[Location] 6 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---IT-Operations-Officer--Digital-Services----Level-8---Multiple-Locations--Pakistan-_JR123645
+--------------------------------------------------
+[Organization] WFP
+[Position] Readvertisement - Roster - IT Operations Associate - Level 6 - Multiple Locations (Pakistan)
+[Location] 6 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Roster---IT-Operations-Associate---Level-6---Multiple-Locations--Pakistan-_JR123644
+--------------------------------------------------
+[Organization] WFP
+[Position] Readvertisement - Business Support Assistant (Budget & Programming and Finance) - SC5 - Peshawar
+[Location] Peshawar, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Peshawar-Pakistan-The-Islamic-Rep/Business-Support-Assistant--Budget---Programming-and-Finance----SC5---Peshawar_JR124963-1
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Solutions Assistant, SC5, Dhaka
+[Location] Dhaka, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/IT-Solutions-Assistant--SC5--Dhaka_JR126540
+--------------------------------------------------
+[Organization] UNHCR
+[Position] External Relations Intern
+[Location] Seoul, Korea, Republic of
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Seoul-Korea-Republic-of/External-Relations-Intern_JR2668310-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Protection Intern
+[Location] Seoul, Korea, Republic of
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Seoul-Korea-Republic-of/Protection-Intern_JR2668311-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Shelter Associate
+[Location] Damascus, Syria
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Damascus-Syria/Shelter-Associate_JR2668589-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Field Driver, Legazpi City, Philippines
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/field-driver-legazpi-city-philippines
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Supply Chain Services & Relations Analyst, Supply Chain Management Unit, Copenhagen, P-2 (211645)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/supply-chain-services-relations-analyst-supply-chain-management-unit-copenhagen-p-2-211645
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Population Policy Development Specialist - Remote [International]
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/population-policy-development-specialist-remote-international
+--------------------------------------------------
+[Organization] UNFPA
+[Position] CONSULTANT EXPERT ON GBV ADMINISTRATIVE DATA SYSTEMS
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-expert-gbv-administrative-data-systems
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Representative, Monrovia, Liberia, D-1
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/representative-monrovia-liberia-d-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Specialist, Reproductive Health Commodity Security (RHCS), PSRO, Port Vila, Vanuatu, P-3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-specialist-reproductive-health-commodity-security-rhcs-psro-port-vila-vanuatu-p-3
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant Expert on TFGBV capacity strengthening of frontline service
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-expert-tfgbv-capacity-strengthening-frontline-service
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Finance Associate
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-finance-associate-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Intern, Private Sector Partnerships
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/intern-private-sector-partnerships
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Human Resources Analyst, Client Services & Outreach Branch, Division for Human Resources, Cairo, Egypt, Arab States Regional Office, NOB-FTA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-human-resources-analyst-client-services-outreach-branch-division-human-3
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant to Document Successful programming approaching on addressing harmful practices
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-document-successful-programming-approaching-addressing-harmful-practices
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant - Development and Rollout of Youth Peer Educator (YPE) and Adult Support Group (ASG) Training, Catbalogan City, Philippines
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-development-and-rollout-youth-peer-educator-ype-and-adult-support-group
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Supply Chain Services & Relations Analyst, Supply Chain Management Unit,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/supply-chain-services-relations-analyst-supply-chain-management-unit-copenhagen-p-2-211645
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Event Planning Internship - Geneva Environment Network Secretariat, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1788678213511
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERN - ECONOMIC AFFAIRS, Economic Commission for Europe, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1788678214866
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant on Strategic Planning, Bishkek, Kyrgyzstan
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1788678216224
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern in the Environment and Climate Change Unit, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1788678222889
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERN - ECONOMIC AFFAIRS (TRADE POLICY), Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1788678235102
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant - Border Health WHO - World Health Organization Suva Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235329
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Internship - Department of Health Determinants, Promotion and Prevention WHO - World Health Organization Geneva No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235328
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Middle School Alliance (MSA) Bilingual Intake Specialist IRC - International Rescue Committee Richmond Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235326
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Treasury Specialist ADB - Asian Development Bank Manila TI-1, Technical International 1 - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235321
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Green Trust Fund Unit Intern GGGI - Global Green Growth Institute Seoul Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235314
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INTERN – Data, Analytics and Statistics Section UNODC - United Nations Office on Drugs and Crime Vienna Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235309
+--------------------------------------------------
+[Organization] Impactpool
+[Position] DGC- UNIC Mexico - AudioVisual Internship UNDGC - United Nations Department of Global Communications Remote | Mexico City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235308
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Migrant Protection Assistant, Direct Assistance IOM - International Organization for Migration Cairo GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235306
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Finance Associate IOM - International Organization for Migration Caracas GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235305
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Caseworker - Integration IOM - International Organization for Migration Dublin GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235304
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Consultant to conduct a gender-responsive legal and institutional assessment of the Ethiopian Immigration and Citizenship Service (ICS). IOM - International Organization for Migration Dire Dawa | Addis Ababa UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235303
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Protection Intern UNHCR - United Nations High Commissioner for Refugees Seoul Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235301
+--------------------------------------------------
+[Organization] Impactpool
+[Position] External Relations Intern UNHCR - United Nations High Commissioner for Refugees Seoul Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1235300
+--------------------------------------------------
