@@ -2,7 +2,9 @@ name: daily_update
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    # Avoid minute 0 to reduce the chance of delayed/dropped scheduled runs
+    # during GitHub Actions top-of-hour congestion.
+    - cron: "7 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,6 +13,7 @@ permissions:
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
