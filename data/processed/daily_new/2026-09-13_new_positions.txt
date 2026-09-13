@@ -1,0 +1,108 @@
+[Organization] UNDP
+[Position] Analista de Ciência de Dados (1 vaga) (Home Based) - [Open to internal and external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36821;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate SSA6
+[Location] Djibouti, Djibouti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Djibouti-Djibouti-The-Republic-Of/Programme-Associate-SSA6_JR126673
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultancy to customize a training package on SRHR (including GBV and…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultancy-customize-training-package-srhr-including-gbv-and-sea-adolescents-young
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Legal Officer (26/EJ/05) EUROJUST - European Union Agency for Criminal Justice Cooperation Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236357
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Officer (LP2) ICMPD - International Centre for Migration Policy Development Chişinău LP2, Local Professional 2 - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236354
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Officer (LP2) ICMPD - International Centre for Migration Policy Development Istanbul LP2, Local Professional 2 - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236353
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Regional Focal Point CIP - International Potato Center Tarapoto | San Martín Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236343
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente Administrativo de Flotilla CIMMYT - International Maize and Wheat Improvement Center Mexico Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236342
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Coordinator/Senior Administrative Coordinator - FINFR IMF - International Monetary Fund Washington D.C. A05, A06
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236341
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Marketing Intern UNDGC - United Nations Department of Global Communications New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236339
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Senior Program Quality and Learning Officer, POWER Partnership IRC - International Rescue Committee Nairobi Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236336
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial MEAL IRC - International Rescue Committee Buenaventura Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236335
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Asistente de Operaciones IRC - International Rescue Committee Bogotá Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236334
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Strengthening Innovation Capacities across SOS Children’s Villages consultancy SOS Children’s Villages International Remote Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236333
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Scalability Diagnostics, Evidence Synthesis and Learning Products for Selected SOS Children's Villages Projects consultancy SOS Children’s Villages International Remote Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236332
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Associado(a) em Inteligência Normativa e Alerta Regulatório (1 vaga) (Home Based) [Open to internal & external applicants] UNDP - United Nations Development Programme Remote | Home Based - May require travel NPSA-7, National Personnel Services Agreement - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236330
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 0157 2026 - ASISTENTE ADMINISTRATIVO PROYECTO IOM - International Organization for Migration Medellín GS-3, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236327
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 0156 2026 - SENIOR INFORMATION MANAGEMENT ASSOCIATE (SHELTER AND SETTLEMENTS CLUSTER) IOM - International Organization for Migration Bogotá GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236326
+--------------------------------------------------
