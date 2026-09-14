@@ -1,0 +1,144 @@
+[Organization] United Nations Secretariat
+[Position] PROCUREMENT ASSISTANT
+[Location] KINGSTON
+[Deadline] 2026-10-14
+[Link] https://careers.un.org/job-openings?job-id=284652
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Digital Marketing Officer
+[Location] HQ Amman
+[Deadline] 2026-10-04
+[Link] https://careers.un.org/job-openings?job-id=284013
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Support Analyst [Open to internal and external applicants]
+[Location] Cairo, Egypt
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=33632;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager [Open to internal and external applicants] Post level NPSA-9 Apply by Sep-24-26 Agency UNDP Location Dhaka, Bangladesh
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36804
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships Officer
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Partnerships-Officer_JR126726
+--------------------------------------------------
+[Organization] WFP
+[Position] Risk Officer NOC
+[Location] Cairo, Egypt, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cairo-Egypt-Republic-of/Risk-Officer-NOC_JR126462
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Resettlement and Complementary Pathways Officer
+[Location] Ankara, Turkiye
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Ankara-Turkiye/Assistant-Resettlement-and-Complementary-Pathways-Officer_JR2668701-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Executive Secretary, Malabo Equatorial Guinea - G5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/executive-secretary-malabo-equatorial-guinea-g5
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Public Information Intern (General Support), Amman, Jordan
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789330114551
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant to Develop Terms of Reference and Technical Requirements for a Digital Statistical Population Registry in Turkmenistan, Ashkhabad, Turkmenistan
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789330312699
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Head, Enterprise Risk and Internal Controls, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789306818517
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Solar Energy Consultant (Band Level "B"), Sudan
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789307790619
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Programs IFRC - International Federation of Red Cross and Red Crescent Societies Caracas National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236392
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, Support to the Development of Polio and Routine Immunization Business Case for Afghanistan IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Consultant, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236391
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Officer, Strategic Events IRC - International Rescue Committee Remote | New York City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236390
+--------------------------------------------------
+[Organization] Impactpool
+[Position] MEAL Manager IRC - International Rescue Committee Mae Sot Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236389
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Middle School Alliance (MSA) - Bilingual Program Assistant IRC - International Rescue Committee Richmond Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236388
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Technical Officer, Skills ILO - International Labour Organization Phnom Penh P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236385
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFA 2026 002 | Senior Project Associate (Health) | Roster only IOM - International Organization for Migration Manila UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236381
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFA 2026 004 | National Project Officer | Emergency Response | Roster only IOM - International Organization for Migration Manila UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236380
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CFA 2026 003 | Senior Project Associate (Response) | Roster only IOM - International Organization for Migration Manila UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236379
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Consultant (Emergency Response - Data Analysis and Reporting) IOM - International Organization for Migration Sri Lanka Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236378
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Associate – Mental Health and Psychosocial Support (MHPSS) IOM - International Organization for Migration Dublin GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236377
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Human Resources Officer (P) IOM - International Organization for Migration Dhaka P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236376
+--------------------------------------------------
