@@ -1,0 +1,270 @@
+[Organization] United Nations Secretariat
+[Position] CLOSE PROTECTION OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-09-29
+[Link] https://careers.un.org/job-openings?job-id=284557
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SECURITY OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-09-29
+[Link] https://careers.un.org/job-openings?job-id=284544
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DEPUTY CHIEF SECURITY OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-09-29
+[Link] https://careers.un.org/job-openings?job-id=284722
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Procurement  Assistant
+[Location] FO West Bank
+[Deadline] 2026-09-29
+[Link] https://careers.un.org/job-openings?job-id=284513
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR PROGRAMME MANAGEMENT OFFICER
+[Location] KINGSTON
+[Deadline] 2026-10-30
+[Link] https://careers.un.org/job-openings?job-id=284588
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER, ADMINISTRATION
+[Location] VIENNA
+[Deadline] 2026-10-14
+[Link] https://careers.un.org/job-openings?job-id=280915
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR PROGRAMME MANAGEMENT OFFICER, ADMINISTRATION
+[Location] NEW YORK
+[Deadline] 2026-10-14
+[Link] https://careers.un.org/job-openings?job-id=280802
+--------------------------------------------------
+[Organization] UNDP
+[Position] BIOFIN Intern
+[Location] Beijing, China
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36903;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Joint Programme Manager [Open to internal and external applicants]
+[Location] Sarajevo, Bosnia and Herzegovina
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36889;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Green Finance Analyst [Open to internal and external applicants]
+[Location] Ulan Bator, Mongolia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36842;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Circular Economy and Waste Management Analyst (Part-time 50%)[Open to internal and external applicants]
+[Location] Ulan Bator, Mongolia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36870;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Joint Programme Manager [Open to internal and external applicants] Post level NPSA-9 Apply by Sep-28-26 Agency UNDP Location Sarajevo, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36889
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Green Finance Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Sep-28-26 Agency UNDP Location Ulan Bator, Mongolia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36842
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Circular Economy and Waste Management Analyst (Part-time 50%)[Open to internal and external applicants] Post level NPSA-8 Apply by Sep-28-26 Agency UNDP Location Ulan Bator, Mongolia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36870
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title BIOFIN Intern Post level IN Apply by Sep-29-26 Agency UNDP Location Beijing, China
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36903
+--------------------------------------------------
+[Organization] WFP
+[Position] Fuel Management Associate G6, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Fuel-Management-Associate-G6--Port-au-Prince--Haiti_JR126713
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant
+[Location] Kenema, Sierra Leone, The Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kenema-Sierra-Leone-The-Rep-Of/Business-Support-Assistant_JR126734-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Legal Officer P4, LEGA
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Legal-Officer-P4--LEGA_JR126708-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant (Data Management), G5, Cox's Bazar
+[Location] Cox's Bazaar, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Coxs-Bazaar-Bangladesh-The-Peoples-R/Programme-Assistant--Data-Management---G5--Cox-s-Bazar_JR126537-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Human Resources Associate
+[Location] Dakar, Senegal
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Dakar-Senegal/Human-Resources-Associate_JR2668746-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Supply Assistant
+[Location] Bujumbura, Burundi
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bujumbura-Burundi/Supply-Assistant_JR2668702-2
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultancy: Specialist to Support the Regional Assignment on Developing a Competency Framework for Supply Chain Management Personnel in Eastern Europe and Central Asia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultancy-specialist-support-regional-assignment-developing-competency-framework
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultancy: Specialist to Support the Regional Assignment on Market Intelligence & Regulatory Assessment for Guaranteed Access to SRH Commodities in Eastern Europe and Central Asia (EECA)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultancy-specialist-support-regional-assignment-market-intelligence-regulatory
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy, Mentorship Capacity Building of young female leaders –…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-mentorship-capacity-building-young-female-leaders-%E2%80%93-adolescent
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Corporate Services Senior Associate / Associate - Travel Services (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Corporate-Services-Senior-Associate-Associate-Travel-Services-DC-20577/1429929500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IT Auditor with Banking Experience - Oversight, Audit & Compliance Senior Associate (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IT-Auditor-with-Banking-Experience-Oversight%2C-Audit-&-Compliance-Senior-Associate-DC-20577/1429729200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Explosive Ordnance Disposal (EOD) Trainee, Kyiv
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789455681406
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Chef(fe) de la gestion des risques institutionnels et des contrxf4les internes, Genève
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789306825440
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Green Finance Analyst [Open to internal and external applicants], Ulan Bator
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789384236382
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Circular Economy and Waste Management Analyst (Part-time 50%)[Open to internal and external applicants], Ulan Bator
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789384232070
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Team Assistant (LS1) ICMPD - International Centre for Migration Policy Development Istanbul LS1, Local Support 1 - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236632
+--------------------------------------------------
+[Organization] Impactpool
+[Position] BIOFIN Intern UNDP - United Nations Development Programme Beijing IN
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236628
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Assistant (Integration Counselling) IOM - International Organization for Migration Bucharest UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236627
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CON 2026 043 | Referral for Migrants and Mobile Populations Consultant IOM - International Organization for Migration Cotabato UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236626
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CON 2026 041 | Birthing Facility Operationalization and Sustainability Consultant IOM - International Organization for Migration Cotabato UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236625
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CON 2026 044 | Migration Health Risk Communication and Community Engagement Consultant. IOM - International Organization for Migration Cotabato UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236624
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN-US10-2026-079 Supply Chain Associate IOM - International Organization for Migration Washington D.C. GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236623
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant CIP - International Potato Center Lima Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236618
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme and Administrative Assistant ILO - International Labour Organization Manila Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236617
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Técnico de Investigación I CIP - International Potato Center Huancayo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236616
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Global Lead, Women's Protection and Empowerment Systems Transformation IRC - International Rescue Committee United Kingdom | United States of America | Kenya Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236613
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SENIOR PROGRAMME MANAGEMENT OFFICER, ADMINISTRATION UNDOS - United Nations Department of Operational Support New York City P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236612
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Management Officer UNDOS - United Nations Department of Operational Support Vienna P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236611
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ONU Mujeres RO Americas & Caribbean, Especialista en género, ambiente y cambio climático, Home based, Consultoría Internacional UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Home Based - May require travel Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236608
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Hydrogen Specialist UNV - United Nations Volunteers Remote | Jamaica Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236601
+--------------------------------------------------
