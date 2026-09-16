@@ -1,0 +1,270 @@
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE ELECTRICAL ENGINEER
+[Location] BOGOTA
+[Deadline] 2026-09-22
+[Link] https://careers.un.org/job-openings?job-id=284880
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] ASSOCIATE LEGAL OFFICER
+[Location] NAIROBI
+[Deadline] 2026-09-25
+[Link] https://careers.un.org/job-openings?job-id=279569
+--------------------------------------------------
+[Organization] UNDP
+[Position] Partnership Support Intern
+[Location] Bruxelles, Belgium
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36913;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Joint Programme Associate (2 openings) [Open to internal and external applicants]
+[Location] Sarajevo, Bosnia and Herzegovina
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36897;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Investment Specialist, NPSA10, Accra, Ghana, UNCDF [Open to internal and external applicants]
+[Location] Accra, Ghana
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36641;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager [Open to internal and external applicants] Post level NPSA-10 Apply by Sep-23-26 Agency UNDP Location Cotabato City, Philippines
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36639
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Joint Programme Associate (2 openings) [Open to internal and external applicants] Post level NPSA-7 Apply by Sep-29-26 Agency UNDP Location Sarajevo, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36897
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Delivery and Performance Specialist (Open to internal and external applicants) Post level NPSA-10 Apply by Sep-26-26 Agency UNDP Location Bhutan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35648
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Partnership Support Intern Post level IN Apply by Sep-29-26 Agency UNDP Location Bruxelles, Belgium
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36913
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (Cooperating Partners) - G6 - Islamabad
+[Location] Islamabad, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Programme-Associate--Cooperating-Partners----G6---Islamabad_JR126831
+--------------------------------------------------
+[Organization] WFP
+[Position] Intern (Procurement), Addis Ababa, Ethiopia
+[Location] Addis Ababa, Ethiopia, Federal Dem. Rep
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Addis-Ababa-Ethiopia-Federal-Dem-Rep/Intern--Procurement---Addis-Ababa--Ethiopia_JR126780
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships, Communications, and Reporting Officer - CST II
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Partnerships--Communications--and-Reporting-Officer---CST-II_JR126811
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Officer SC-9
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kyiv-Ukraine/IT-Operations-Officer-SC-9_JR126783-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Internship - Management Services Division, UN System Booking Hub in Rome, Italy
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Internship---Management-Services-Division--UN-System-Booking-Hub-in-Rome--Italy_JR126777
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (M&E) G6 - Karachi
+[Location] Karachi, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Karachi-Pakistan-The-Islamic-Rep/Programme-Associate--M-E--G6---Karachi_JR126754
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior CBI Assistant
+[Location] Damascus, Syria
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Damascus-Syria/Senior-CBI-Assistant_JR2668712-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Protection Associate
+[Location] Yumbe, Uganda
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Yumbe-Uganda/Protection-Associate_JR2668749-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Programme Analyst, Digitalization, Innovation & Knowledge Management, Dar es Salaam, Tanzania, NOA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-analyst-digitalization-innovation-knowledge-management-dar-es-salaam
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Invest - Investment Associate - Infrastructure and Energy - Andean Region (Quito, EC, 17-07-9041)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Quito-IDB-Invest-Investment-Associate-Infrastructure-and-Energy-Andean-Region-17-07-9041/1430149000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Officer UNDOS - United Nations Department of Operational Support New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236854
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Data Analytics and Performance Measurement Intern UNDSS - United Nations Department of Safety and Security Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236836
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SVN 0158 2026 - SENIOR SHELTER AND SETTLEMENTS CLUSTER ASSOCIATE IOM - International Organization for Migration Bogotá GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236833
+--------------------------------------------------
+[Organization] Impactpool
+[Position] LLAMADO A INTERES - CONS 122 2026 - Consultoria profesional - Especialista Técnico en Alojamientos y Reconstrucción Resiliente (Build Back Better) IOM - International Organization for Migration Colombia UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236832
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Project Associate – MPX Data and Research, G5 IOM - International Organization for Migration Tashkent GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236831
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Mobility VN: Research Officer (World Migration Report) (P) IOM - International Organization for Migration Berlin P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236830
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Legal Officer (26/EJ/05) EUROJUST - European Union Agency for Criminal Justice Cooperation Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236829
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Expert/Trainer on Small Arms, Light Weapons (SALW) and Conventional Ammunition (CA) Registration Software (SSAs) OSCE - Organization for Security and Co-operation in Europe Dushanbe No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236828
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Human Rights intern OHCHR - Office of the High Commissioner for Human Rights Yaoundé Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236822
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Oficial de gestión de casos - Enfasis VBG IRC - International Rescue Committee Buenaventura Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1236819
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor / Associate Professor of Journalism in Data Science and Quantitative Methods
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51804-washington-dc-american-university-school-of-communication-assistant-professor-associate-journalism-in-data-science-and-quantitative-methods
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Public Administraton Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51803-beirut-lebanon-un-economic-and-social-commission-for-western-asia-unescwa-public-administraton-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Strategic Partnerships
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51802-remote-washington-the-max-foundation-director-of-strategic-partnerships
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Manager, Protection Advocacy
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51801-washington-dc-interaction-program-manager-protection-advocacy
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Videographer, Press and Communication Department
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51800-brussels-belgium-s-d-group-videographer-press-and-communication-department
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Coordinator, Logistics
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51799-new-york-international-medical-corps-coordinator-logistics
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Supervisory Intelligence Research Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51798-washington-dc-u-s-customs-and-border-protection-supervisory-intelligence-research-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Emergency Response Roster - Humanitarian Advocacy & External Engagement Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51797-remote-new-york-world-vision-emergency-response-roster-humanitarian-advocacy-external-engagement-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Threat Intel Manager, CBRN-E & Advanced Weapons
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51796-san-francisco-california-anthropic-threat-intel-manager-cbrn-e-advanced-weapons
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Project Director – DRC Digital Health Worker Registration System
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51795-kinshasa-congo-the-democratic-republic-of-global-communities-project-director-drc-digital-health-worker-registration-system
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Administrative Assistant - S2
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51794-vienna-austria-international-centre-for-migration-policy-development-icmpd-administrative-assistant-s2
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Country Liaison Officers (CLOs) & Delegations Coordinator - Learning and Development
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51793-brisbane-australia-palladium-country-liaison-officers-clos-delegations-coordinator-learning-and-development
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant News Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51792-ashland-oregon-jpr-foundation-inc-jefferson-public-radio-assistant-news-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Postdoctoral Fellow
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51791-new-orleans-louisiana-tulane-university-postdoctoral-fellow
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Programme Manager - EU Projects (All Genders)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51790-berlin-germany-submariner-network-for-blue-growth-senior-programme-manager-eu-projects-all-genders
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Economic & Policy Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51789-brussels-belgium-european-central-securities-depositories-association-economic-policy-officer
+--------------------------------------------------
