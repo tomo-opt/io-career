@@ -1,0 +1,168 @@
+[Organization] WFP
+[Position] Consultor Internacional de Preparación y Respuesta ante Emergencias
+[Location] San Salvador, El Salvador, The Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/San-Salvador-El-Salvador-The-Republic/Oficial-de-Preparacin-y-Respuesta-ante-Emergencias_JR126882
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance, Budget & MSD Officer - CST Level II
+[Location] Kigali, Rwanda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kigali-Rwanda-The-Republic-Of/Finance--Budget---MSD-Officer---CST-Level-II_JR126556
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Child Safeguarding and Child Protection Mainstreaming)
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Programme-Policy-Officer--Child-Safeguarding-and-Child-Protection-Mainstreaming-_JR126936
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Re-advertised: Communications and External Relations Associate
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertised-communications-and-external-relations-associate
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant on Communications and Advocacy
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-communications-and-advocacy
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultancy : Design a Global, adaptable, and user-oriented costing and analytical tool to estimate the health and economic impact of reducing medically unindicated cesarean sections
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultancy-design-global-adaptable-and-user-oriented-costing-and-analytical-tool
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Communications Specialist, Humanitarian Response Division (HRD), Geneva, Switzerland, P-3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/communications-specialist-humanitarian-response-division-hrd-geneva-switzerland-p-3-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy | Demographic resilience reviews and foresight-based…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-demographic-resilience-reviews-and-foresight-based-scenario-planning
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Administration Senior Assistant
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Administration-Senior-Assistant/4521
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Strategic Communications and Advocacy
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789880425522
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Recrutement IC international - Chef de mission, Congo, The Democratic Republic of the
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789740974447
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] IDB. Water Security Program Support Intern, United States Washington D.C.
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789739498606
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] IDB Invest. Data Analyst - Portfolio Management Intern, United States Washington D.C.
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789739489838
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] IDB. Intern to Support Sovereign Guaranteed Operations, United States Washington D.C.
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789739463478
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] IDB. Office of Ethics Prevention Internship, United States Washington D.C.
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789739456939
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] IDB. Social Sector Data Automation and AI Intern, United States Washington D.C.
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789739452757
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] IDB. Energy Economics / Data Analysis Internship, United States Washington D.C.
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1789739448405
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Supply Chain Assistant IOM - International Organization for Migration Herat GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237590
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Employment Specialist IRC - International Rescue Committee Remote | Charlottesville Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237589
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Caseworker IRC - International Rescue Committee Remote | Salt Lake City Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237588
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Manager, Operations IFRC - International Federation of Red Cross and Red Crescent Societies Nepal National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237587
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INTERNATIONAL CONSULTANT: RM, Partnerships & Private Sector Engagement UNFPA - United Nations Population Fund Luanda Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237573
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Caseworker (Ukrainian or Russian speaking) IRC - International Rescue Committee Remote | Sacramento Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237570
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Immigrant Youth Program Coordinator IRC - International Rescue Committee Remote | Miami Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237569
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Natural Helper IRC - International Rescue Committee Remote Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237568
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Family Navigation Coordinator IRC - International Rescue Committee Charlottesville Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237567
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultoría Comunicador Audiovisual (Segundo módulo – intermedio) CIP - International Potato Center Lima Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237566
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultoría Comunicador Audiovisual (Primer módulo – básico) CIP - International Potato Center Lima Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237565
+--------------------------------------------------
