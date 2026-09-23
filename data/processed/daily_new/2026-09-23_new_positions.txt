@@ -1,0 +1,252 @@
+[Organization] United Nations Secretariat
+[Position] Chief of Administration
+[Location] KINGSTON
+[Deadline] 2026-11-07
+[Link] https://careers.un.org/job-openings?job-id=285173
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Head Storekeeper
+[Location] HEBRON
+[Deadline] 2026-10-07
+[Link] https://careers.un.org/job-openings?job-id=285009
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Material Inspector
+[Location] FO West Bank
+[Deadline] 2026-10-07
+[Link] https://careers.un.org/job-openings?job-id=285116
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FIELD SECURITY ASSISTANT
+[Location] PANAMA CITY
+[Deadline] 2026-10-22
+[Link] https://careers.un.org/job-openings?job-id=283428
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-10-07
+[Link] https://careers.un.org/job-openings?job-id=285249
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-10-22
+[Link] https://careers.un.org/job-openings?job-id=284480
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] MOVEMENT CONTROL OFFICER
+[Location] BRINDISI
+[Deadline] 2026-09-29
+[Link] https://careers.un.org/job-openings?job-id=285067
+--------------------------------------------------
+[Organization] UNDP
+[Position] Peace and Development Officer (Open to Internal and External Applicants)
+[Location] Mogadiscio, Somalia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37061;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] BIOFIN National Coordinator (Open to internal and external applicants)
+[Location] Belmopan, Belize
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37076;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Peace and Development Officer (Open to Internal and External Applicants) Post level NOB Apply by Oct-6-26 Agency UNDP Location Mogadiscio, Somalia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37061
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title BIOFIN National Coordinator (Open to internal and external applicants) Post level NPSA-8 Apply by Oct-6-26 Agency UNDP Location Belmopan, Belize
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37076
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Monitoring, Evaluation and Learning Specialist, (IPSA-9), Accra, Ghana (UNCDF) [Open to internal and external applicants] Post level IPSA-9 Apply by Sep-30-26 Agency UNCDF Location Accra, Ghana
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33191
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships Officer, CST II - Maputo (Re-advertisement)
+[Location] Maputo, Mozambique, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Maputo-Mozambique-Republic-of/Partnerships-Officer--CST-II_JR123897-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships & Reporting Officer (SC8)
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Reporting---Partnerships-Officer--SC8-_JR126946-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Communications Officer - SC8
+[Location] Colombo, Sri Lanka, Dem.Soc.Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Colombo-Sri-Lanka-DemSocRep-Of/Communications-Officer---SC8_JR126944
+--------------------------------------------------
+[Organization] WFP
+[Position] Legal Officer P2, LEGA (2 positions)
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Legal-Officer-P2--LEGA--2-positions-_JR126995
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior External Relations Assistant
+[Location] Nouakchott, Mauritania
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Nouakchott-Mauritania/Senior-External-Relations-Assistant_JR2668811
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Local Consultant: In-depth Mapping of Development Partner Support for NPA-VAWC II…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/local-consultant-depth-mapping-development-partner-support-npa-vawc-ii-implementation-tanzania
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Undergraduate Administrative & Communications Intern (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Undergraduate-Administrative-&-Communications-Intern-DC-20577/1422751400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Intern to Support Social Sector in Research on Economic Participation and Economic Security (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Intern-to-Support-Social-Sector-in-Research-on-Economic-Participation-and-Economic-Security-DC-20577/1422741500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB. Undergraduate Translation and Document Service Support Internship (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB_-Undergraduate-Translation-and-Document-Service-Support-Internship-DC-20577/1422748900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Communications and Digital Outreach Intern, Bangkok
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790143263145
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship for the Editorial Team, Geneva
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790121675361
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Communications & Multimedia Intern, Santiago
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790100077301
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] UN Women: Programme Specialist – Women’s Leadership and Civic Engagement , Home-Based, I-PPSA 10, International Partner Personnel Service Agreement, Home based, Remote
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790082238976
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Visiting PhD Researcher - Bean Proteomic and Peptide Diversity EBRD - European Bank for Reconstruction and Development Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238057
+--------------------------------------------------
+[Organization] Impactpool
+[Position] MSC INTERN - Multifunctional Landscapes EBRD - European Bank for Reconstruction and Development Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238056
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Global Corruption Barometer Survey in the Pacific Islands Transparency International Port-Vila | Port Moresby | Federal | Tonga | Honiara | Palau Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238055
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, Technical Support to Liberia’s National Malaria Control Program for the 2026 ITN Mass Campaign - Strategy/Operations and M&E IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Consultant, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238052
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, Technical Support to Liberia’s National Malaria Control Program for the 2026 ITN Mass Campaign - Logistics IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Consultant, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238051
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant, Technical Support to Liberia’s National Malaria Control Program for the 2026 ITN Mass Campaign - Social and Behavior Change (SBC) IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Consultant, Not Applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238050
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Country Program Officer IFRC - International Federation of Red Cross and Red Crescent Societies Ukraine National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238049
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Safety, Security, and Access Assistant Officer IRC - International Rescue Committee Pakistan Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238047
+--------------------------------------------------
+[Organization] Impactpool
+[Position] GBV Case Worker IRC - International Rescue Committee Pakistan Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238046
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Hub Facilitator IRC - International Rescue Committee Pakistan Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238045
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Volunteer IRC - International Rescue Committee Kampala Volunteer - Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238044
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Ayudante de campo (Reclutamiento Local) CIMMYT - International Maize and Wheat Improvement Center Mexico Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238043
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Team Lead (Vaccines and Immunization Policy) WHO - World Health Organization Geneva P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238040
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Consultant International-Health Policy Advisor-Programme HSS_WCO-CAR WHO - World Health Organization Bangui No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238037
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Coordinator- HRD Total Rewards IMF - International Monetary Fund Washington D.C. A04, A05
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238034
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Administrative Coordinator/Sr. Administrative Coordinator - FINAI FI IMF - International Monetary Fund Washington D.C. A05, A06
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238033
+--------------------------------------------------
+[Organization] Impactpool
+[Position] MOVEMENT CONTROL OFFICER UNDOS - United Nations Department of Operational Support Brindisi P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238027
+--------------------------------------------------
