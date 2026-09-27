@@ -1,0 +1,186 @@
+[Organization] UNDP
+[Position] Project Field Coordinator - Open to Internal and External Candidates
+[Location] Cairo, Egypt
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37113;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Field Coordinator - Open to Internal and External Candidates Post level NPSA-5 Apply by Oct-4-26 Agency UNDP Location Cairo, Egypt
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37113
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Management & Oversight Specialist - WCARO, Dakar, Senegal, P4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-management-oversight-specialist-wcaro-dakar-senegal-p4
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Extension- National Consultant on Communications and Advocacy
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/extension-national-consultant-communications-and-advocacy
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: State Head of Office, Jaipur, Rajasthan, India - NOC
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-state-head-office-jaipur-rajasthan-india-noc
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Development of a National Youth, Peace and Security…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-development-national-youth-peace-and-security-yps
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Development of a Youth, Peace and Security (YPS)…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-development-youth-peace-and-security-yps-communication-toolkit
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship u2013 Exploring Modern Formats, Dataflows and AI in Nuclear Structure and Decay Data , Vienna, Austria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790434511271
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Project Governance Process Review, Vienna, Austria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790434525194
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Consultant - International Conference on Radioactive Waste Management Conference, Vienna, Austria
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790434531566
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant for Capacity building for Health in All Policies (HiAPs) and Health Impact Assessment (HIA) , Amman, Jordan
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790434590834
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant - Civil Registration and Vital Statistics (CRVS) Strategy and Implementation Roadmap, Sri Lanka, Colombo, Sri Lanka
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790434665452
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant - Food Safety, WHO Western Pacific Regional Office, Manila, Philippines
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790434695308
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Consultant International-Health Policy Advisor-Programme HSS_WCO-CAR, Bangui, Central African Republic
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790434717323
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultancy - Technical Expert: Emergency Preparedness and Predictive Analytics IFRC - International Federation of Red Cross and Red Crescent Societies Remote | Multiple locations Not applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238750
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officer, Human Resources IFRC - International Federation of Red Cross and Red Crescent Societies Bunia Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238749
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officer, PMER IFRC - International Federation of Red Cross and Red Crescent Societies Antananarivo National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238748
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant, Human Resources IFRC - International Federation of Red Cross and Red Crescent Societies Kinshasa National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238747
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: National Government Liaison Officer IOM - International Organization for Migration Dhaka NO-A, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238746
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Program Officer, Instructional Design & Multimedia IRC - International Rescue Committee Remote | United States Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238745
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Case Coordination Caseworker IRC - International Rescue Committee Remote | Phoenix Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238744
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Protection Referral Support Service Provider IRC - International Rescue Committee Jordan Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238743
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Kinyarwanda Language Interpreter IRC - International Rescue Committee Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238742
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MEL Lead (FCDO GOAL) IRC - International Rescue Committee Islamabad Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238741
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Programme Management Officer (Mental Health) UNDMSPC - Department of Management Strategy, Policy and Compliance Bonn P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238728
+--------------------------------------------------
+[Organization] Impactpool
+[Position] SECURITY INFORMATION ANALYST UNDSS - United Nations Department of Safety and Security Amman P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238727
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief, Regional Coordination and Intergovernmental Affairs UN RCO - United Nations Resident Coordinator's Office New York City P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238725
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Supply Chain Associate (Logistics) IOM - International Organization for Migration Tripoli GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238724
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN 029- GN10 -Assistant (e) Terrain Réintégration G4 IOM - International Organization for Migration Kindia | Mamou | Kankan | Conakry | Nzérékoré | Boké GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238723
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Chief of Service (Chief, Financial Operations Service) UNDOS - United Nations Department of Operational Support New York City D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238722
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Intern Emergency Response OHCHR - Office of the High Commissioner for Human Rights Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238720
+--------------------------------------------------
