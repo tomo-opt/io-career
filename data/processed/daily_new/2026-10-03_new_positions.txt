@@ -1,0 +1,282 @@
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-11-01
+[Link] https://careers.un.org/job-openings?job-id=285648
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR INVESTMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-11-16
+[Link] https://careers.un.org/job-openings?job-id=285748
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ECONOMIC AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-11-16
+[Link] https://careers.un.org/job-openings?job-id=284717
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] BUDGET ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-10-17
+[Link] https://careers.un.org/job-openings?job-id=284996
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] AUDITOR
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-10-17
+[Link] https://careers.un.org/job-openings?job-id=284273
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSISTANT INVESTIGATOR
+[Location] GENEVA
+[Deadline] 2026-10-12
+[Link] https://careers.un.org/job-openings?job-id=285868
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Programme Management Assistant
+[Location] NEW YORK
+[Deadline] 2026-10-17
+[Link] https://careers.un.org/job-openings?job-id=285728
+--------------------------------------------------
+[Organization] UNDP
+[Position] Private Sector Engagement Analyst [Open to internal and external applicants]
+[Location] Jakarta Pusat, Indonesia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37263;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Private Sector Engagement Analyst [Open to internal and external applicants] Post level NPSA-9 Apply by Oct-16-26 Agency UNDP Location Jakarta Pusat, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37263
+--------------------------------------------------
+[Organization] WFP
+[Position] Special Assistant to the Country Director, CST II, South Sudan
+[Location] Juba, Sudan, Republic of South
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Juba-Sudan-Republic-of-South/Special-Assistant-to-the-Country-Director--CST-II--South-Sudan_JR127287-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Officer SC-8
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kyiv-Ukraine/Management-Services-Officer-SC-8_JR127305-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] PSP Associate (PPH)
+[Location] Copenhagen (HQ), Denmark
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Copenhagen-HQ-Denmark/PSP-Associate--PPH-_JR2668825
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA Driver, LSC - 3, Chisinau
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-driver-lsc-3-chisinau-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Operational Risk and Control Specialist, Quality Management Unit (QMU), Division for Management Services (DMS), Arab States Regional Office (ASRO), Cairo, Egypt, P-3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/operational-risk-and-control-specialist-quality-management-unit-qmu-division-management-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Operational Risk and Control Specialist, Quality Management Unit (QMU), Division for Management Services (DMS), East and Southern Africa Regional Office (ESARO), Johannesburg, South Africa, P-3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/operational-risk-and-control-specialist-quality-management-unit-qmu-division-management
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Operational Risk and Control Specialist, Quality Management Unit (QMU), Division for Management Services (DMS), West and Central Africa Regional Office (WCARO), Dakar, Senegal, P-3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/operational-risk-and-control-specialist-quality-management-unit-qmu-division-management-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Emergency Response Secretariat (EPP) Analyst, Humanitarian Response Division (HRD),…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/emergency-response-secretariat-epp-analyst-humanitarian-response-division-hrd-geneva
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Assistant.e logistique (Magasinier.e)
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Assistant-e-logistique-Magasinier-e/4596
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] IDB Lab - Private Finance Operations Specialist (Private Mobilization Innovative Finance Officer) (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-IDB-Lab-Private-Finance-Operations-Specialist-%28Private-Mobilization-Innovative-Finance-Officer%29-DC-20577/1436323400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Public Administration Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790985734703
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Economic Affairs Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790985734416
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern in Information Systems and Communication Technologies, Office of Intergovernmental Support and Coordination for Sustainable Development (OISC)
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790985733561
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Development of Financial Intelligence Units assessment methodology Transparency International Remote Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239928
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Comparative study on professional service providers Transparency International Remote Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239927
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Economic Affairs Officer UNOHRLLS - United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States New York City P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239922
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Strategic Communications Intern UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239920
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Public Administration Intern UNDESA - United Nations Department of Economic and Social Affairs New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239919
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: AUDITOR UN OIOS - United Nations Office of Internal Oversight Services Port-au-Prince P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239916
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant Analyst (Evidence Reviewer) UN IIIM Syria- International, Impartial and Independent Mechanism Geneva P-1, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239913
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Investment Officer- Fixed Income (Credit) UNJSPF - United Nations Joint Staff Pension Fund New York City P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239911
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Finance and Administration Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51982-rwanda-african-wildlife-foundation-finance-and-administration-assistant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Intelligence Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51981-west-point-pennsylvania-merck-intelligence-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant to Local Democracy Agency Dnipropetrovsk Region Delegate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51980-dnipro-ukraine-european-association-for-local-democracy-assistant-to-agency-dnipropetrovsk-region-delegate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Trainee in Programme Management (Global & Eurostars)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51979-brussels-belgium-eureka-network-trainee-in-programme-management-global-eurostars
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager, Federal Affairs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51978-washington-dc-panasonic-north-america-manager-federal-affairs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] National Advisor, Ukraine (Europe and Asia)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51977-ukraine-geneva-centre-for-security-sector-governance-national-advisor-europe-and-asia
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51976-dar-es-salaam-tanzania-results-for-development-r4d-program-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Director - Research and Strategic Initiatives
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51975-remote-dc-verite-program-director-research-and-strategic-initiatives
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Executive Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51974-remote-new-york-alliance-for-innovation-in-global-health-executive-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Customer Support Assistant – Student Job, ESNcard (Part-time)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51973-brussels-belgium-erasmus-student-network-customer-support-assistant-job-esncard-part-time
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Public Affairs Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51972-washington-dc-foreign-agricultural-service-public-affairs-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Communications Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51971-london-united-kingdom-global-interagency-security-forum-communications-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Operations Senior Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51970-washington-dc-inter-american-development-bank-operations-senior-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Nuclear Policy Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51969-langley-forest-virginia-booz-allen-hamilton-nuclear-policy-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Editorial intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51968-new-york-the-nation-editorial-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51967-memphis-tennessee-the-university-of-assistant-professor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Bid Manager (M/F)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/51966-brussels-belgium-suez-consulting-bid-manager-m-f
+--------------------------------------------------
