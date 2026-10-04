@@ -1,0 +1,168 @@
+[Organization] United Nations Secretariat
+[Position] DEPUTY DIRECTOR, PROGRAMME
+[Location] NAIROBI
+[Deadline] 2026-11-02
+[Link] https://careers.un.org/job-openings?job-id=284950
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Officer - Innovation in Sustainable Design (Open to Internal & External Applicants)
+[Location] Cairo, Egypt
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37275;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Officer - Innovation in Sustainable Design (Open to Internal & External Applicants) Post level NPSA-9 Apply by Oct-18-26 Agency UNDP Location Cairo, Egypt
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37275
+--------------------------------------------------
+[Organization] WFP
+[Position] Senior Logistics Associate – Interagency and Partnership
+[Location] Amman, Jordan, Hashemite Kingdom
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Amman-Jordan-Hashemite-Kingdom/Senior-Logistics-Associate---Interagency-and-Partnership_JR127268
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Representative, Chisinau, Moldova, P5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/representative-chisinau-moldova-p5
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Stagiaire en Suivi et Evaluation - Projet Pont de Bongor-Yagoua
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/stagiaire-en-suivi-et-evaluation-projet-pont-de-bongor-yagoua
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Head, Internal Oversight and Ethics Office
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790980392989
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Senior Technical Advisor (International Consultant), Health Economics and Financing, Abidjan, Cote d'Ivoire
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790980189143
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Public Affairs Branch, The Hague
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1790990294543
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant to conduct training on renewable energy integration into central electricity grids (SSA), deadline extension, Dushanbe
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791008635593
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultor(a) Nacional CIP - International Potato Center Lima Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239942
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officer, Logistics and Fleet IFRC - International Federation of Red Cross and Red Crescent Societies Kathmandu National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239941
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Coordinator, Supply Chain - BVD IFRC - International Federation of Red Cross and Red Crescent Societies Nairobi National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239940
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant Accountant ILRI - International Livestock Research Institute Kenya HG12
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239939
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: DEPUTY DIRECTOR, PROGRAMME UNEP - United Nations Environment Programme Nairobi D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239938
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Asistente de Salud Mental IRC - International Rescue Committee Caracas Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239936
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Director, Compensation, Benefits & Global Mobility IRC - International Rescue Committee Remote | United States Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239935
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Oficial Senior de Salud IRC - International Rescue Committee San Cristobal Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239934
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Photographer IRC - International Rescue Committee Lebanon Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239933
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Finance Analyst/Senior Finance Analyst - FINAXPP IMF - International Monetary Fund Washington D.C. A06, A07, A08
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239932
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: DEPUTY DIRECTOR, PROGRAMME UNEP - United Nations Environment Programme Nairobi D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239930
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Development of Financial Intelligence Units assessment methodology Transparency International Remote Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239928
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Comparative study on professional service providers Transparency International Remote Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239927
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Economic Affairs Officer UNOHRLLS - United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States New York City P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239922
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Strategic Communications Intern UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239920
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Public Administration Intern UNDESA - United Nations Department of Economic and Social Affairs New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239919
+--------------------------------------------------
+[Organization] Impactpool
+[Position] AUDITOR UN OIOS - United Nations Office of Internal Oversight Services Port-au-Prince P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239916
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Assistant Analyst (Evidence Reviewer) UN IIIM Syria- International, Impartial and Independent Mechanism Geneva P-1, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239913
+--------------------------------------------------
