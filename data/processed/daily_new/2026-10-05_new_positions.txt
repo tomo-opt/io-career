@@ -1,0 +1,252 @@
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES OFFICER
+[Location] MONTREAL
+[Deadline] 2026-11-05
+[Link] https://careers.un.org/job-openings?job-id=285891
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Mobile Security Officer
+[Location] JERUSALEM
+[Deadline] 2026-10-19
+[Link] https://careers.un.org/job-openings?job-id=285542
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Mobile Security Officer
+[Location] HEBRON
+[Deadline] 2026-10-19
+[Link] https://careers.un.org/job-openings?job-id=285535
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Mobile Security Officer
+[Location] NABLUS
+[Deadline] 2026-10-19
+[Link] https://careers.un.org/job-openings?job-id=285547
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS ASSISTANT
+[Location] KABUL
+[Deadline] 2026-10-11
+[Link] https://careers.un.org/job-openings?job-id=285906
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] AIR OPERATIONS ASSISTANT
+[Location] ABYEI
+[Deadline] 2026-10-11
+[Link] https://careers.un.org/job-openings?job-id=285905
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TELECOMMUNICATIONS ASSISTANT
+[Location] KABUL
+[Deadline] 2026-10-11
+[Link] https://careers.un.org/job-openings?job-id=285908
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Associate [Open to Internal and External Applicants]
+[Location] Honiara, Solomon Islands
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37280;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Officer [Open to Internal & External Applicants]
+[Location] Nairobi, Kenya
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36352;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Knowledge Management Analyst, NPSA 8, Dhaka, Bangladesh (UNCDF) - [Open to internal and external applicants]
+[Location] Dhaka, Bangladesh
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36388;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Knowledge Management Analyst, NPSA 8, Dhaka, Bangladesh (UNCDF) - [Open to internal and external applicants] Post level N/A Apply by Oct-12-26 Agency UNCDF Location Dhaka, Bangladesh
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36388
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Officer [Open to Internal & External Applicants] Post level NPSA-8 Apply by Oct-11-26 Agency UNDP Location Nairobi, Kenya
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36352
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate [Open to Internal and External Applicants] Post level NPSA-7 Apply by Oct-12-26 Agency UNDP Location Honiara, Solomon Islands
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37280
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Officer - Process - NOA
+[Location] Aden, Yemen, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Aden-Yemen-The-Republic-Of/Monitoring-Officer---Process---NOA_JR127271
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Officer - Learning and Evaluation - NOA
+[Location] Aden, Yemen, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Aden-Yemen-The-Republic-Of/Monitoring-Officer---Learning-and-Evaluation---NOA_JR127270-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Assistant.e aux Ressources Humaines SC5, Operations, N'Djamena
+[Location] N'Djamena, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/NDjamena-Chad-The-Republic-Of/Assistante-aux-Ressources-Humaines-SC5--Operations--N-Djamena_JR127327
+--------------------------------------------------
+[Organization] WFP
+[Position] Risk Officer, CST II, Dhaka, Bangladesh
+[Location] Dhaka, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Risk-Officer--CST-II--Dhaka--Bangladesh_JR127321
+--------------------------------------------------
+[Organization] WFP
+[Position] Assistant.e aux Ressources Humaines SC5 (Acquisition des Talents), N'Djamena
+[Location] N'Djamena, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/NDjamena-Chad-The-Republic-Of/Assistante-aux-Ressources-Humaines-SC5--Acquisition-des-Talents---N-Djamena_JR127326
+--------------------------------------------------
+[Organization] WFP
+[Position] VA028-2026 Aviation Assistant (G5-SC5) (Damascus - Deir Ezzor)
+[Location] 2 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Damascus-Syria-The-Arab-Republic-O/VA028-2026-Aviation-Assistant--G5-SC5---Damascus---Deir-Ezzor-_JR127322
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Livelihood and Economic Inclusion Associate
+[Location] Aleppo, Syria
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Aleppo-Syria/Livelihood-and-Economic-Inclusion-Associate_JR2668877-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] PSP Associate (Donor Development)
+[Location] Kuala Lumpur, Malaysia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kuala-Lumpur-Malaysia/PSP-Associate--Donor-Development-_JR2668839-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Deputy Representative, Harare, Zimbabwe, P4
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/deputy-representative-harare-zimbabwe-p4
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Specialist, Lome, Togo, P3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-specialist-lome-togo-p3
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant - Humanitarian Finance Associate
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-humanitarian-finance-associate
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Operational Risk and Control Specialist, Quality Management Unit (QMU), Division for…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/operational-risk-and-control-specialist-quality-management-unit-qmu-division-management-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Operational Risk and Control Specialist, Quality Management Unit (QMU), Division for…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/operational-risk-and-control-specialist-quality-management-unit-qmu-division-management-1
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] BIDT Intern, Seoul
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791188250668
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] PSP Fundraising Intern (Donor Care & Development), Kuala Lumpur
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791188248731
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Head of Learning & Development ICRC - International Committee of the Red Cross Geneva Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239980
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Human Resources Specialist (Policy), HR ICAO - International Civil Aviation Organization Montreal P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1240003
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Project Assistant ILO - International Labour Organization Tarawa GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1240002
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Training Intern UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1240000
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officer, Administration IFRC - International Federation of Red Cross and Red Crescent Societies Panama City National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239999
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant, Finance IFRC - International Federation of Red Cross and Red Crescent Societies Kyiv National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239998
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Coordinator, Administration IFRC - International Federation of Red Cross and Red Crescent Societies Panama City National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239997
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Coordinator IFRC - International Federation of Red Cross and Red Crescent Societies Bishkek | Almaty | Dushanbe E2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239996
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Digital Content Creator UNV - United Nations Volunteers Nepal Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239993
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Mobile Security Officer-Department of Security and Risk Management-Area Office Jerusalem-for Internal & External candidates UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Jerusalem Grade 12 - Locally recruited area staff - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239987
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Mobile Security Officer-Department of Security and Risk Management-Area Office Hebron-for Internal & External candidates UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Hebron Grade 12 - Locally recruited area staff - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239986
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Mobile Security Officer-Department of Security and Risk Management-Area Office Nablus -for Internal & External candidates UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Nablus Grade 12 - Locally recruited area staff - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239985
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Project Associate – Mental Health and Psychosocial Support (MHPSS) - G6 Monrovia, Liberia IOM - International Organization for Migration Monrovia GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239973
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Monitoring & Evaluation Associate (G6) Monrovia, Liberia IOM - International Organization for Migration Monrovia GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1239972
+--------------------------------------------------
