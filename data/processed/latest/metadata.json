@@ -1,8 +1,10 @@
 {
-  "generated_at_bj": "2026-10-06 16:53:12",
-  "record_count": 10233,
-  "error_count": 1,
+  "generated_at_bj": "2026-10-07 16:33:05",
+  "record_count": 10267,
+  "error_count": 3,
   "errors": [
+    "un_secretariat_careers: all source URLs failed (HTTP request failed: https://careers.un.org/api/site/jobOpening/popularjobopening (504 Server Error: Gateway Time-out for url: https://careers.un.org/api/site/jobOpening/popularjobopening))",
+    "un_careers_portal: all source URLs failed (HTTP request failed: https://careers.un.org/api/site/jobOpening/latestJobOpening (504 Server Error: Gateway Time-out for url: https://careers.un.org/api/site/jobOpening/latestJobOpening))",
     "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"
   ]
 }
