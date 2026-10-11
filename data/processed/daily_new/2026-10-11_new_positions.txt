@@ -1,0 +1,174 @@
+[Organization] United Nations Secretariat
+[Position] DIRECTOR, PROGRAMME MANAGEMENT
+[Location] ADDIS ABABA
+[Deadline] 2026-10-16
+[Link] https://careers.un.org/job-openings?job-id=285894
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-10-17
+[Link] https://careers.un.org/job-openings?job-id=285360
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LEGAL ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-10-16
+[Link] https://careers.un.org/job-openings?job-id=285988
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] RESIDENT COORDINATOR
+[Location] SAO TOME
+[Deadline] 2026-10-16
+[Link] https://careers.un.org/job-openings?job-id=286313
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Assistant Economic Affairs Officer
+[Location] GENEVA
+[Deadline] 2026-10-16
+[Link] https://careers.un.org/job-openings?job-id=286287
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy officer - VAM
+[Location] Cairo, Egypt, Republic of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Cairo-Egypt-Republic-of/Programme-Policy-officer---VAM_JR126971-1
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Public Information Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791698498496
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] UN Women Programme Support Intern, Karachi, Pakistan, National
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791694907765
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] UN Women Programme Support Intern, Lahore, Pakistan, National
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791694907406
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: Senior Analyst of the International Accountability Platform for Belarus DIGNITY - Danish Institute Against Torture Remote | Copenhagen | Netherlands | Germany | France | Spain | Portugal | Au | United Kingdom | Switzerland Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1238292
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: ECONOMIC AFFAIRS OFFICER UNECA - United Nations Economic Commission for Africa Niamey P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1233928
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Public Information Intern UNDGC - United Nations Department of Global Communications Remote | Beirut Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241139
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Protection Officer - PRoL IRC - International Rescue Committee Bangladesh Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241137
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: UCC Counsellor (M1) ICMPD - International Centre for Migration Policy Development Prague M1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241130
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Nowcasts intern UNCTAD - United Nations Conference on Trade and Development Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241129
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant Economic Affairs Officer (Temporary Job Opening) UNCTAD - United Nations Conference on Trade and Development Geneva P-1, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241128
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Facilities Officer (Residential Real Estate Services) - CSFDF (Contractual) IMF - International Monetary Fund Washington D.C. A09, A10
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241127
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual) IMF - International Monetary Fund Washington D.C. A09, A10
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241126
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: INTERN for the Secretariat of the Group of Human Rights Experts on Nicaragua UN OHCHR - Office of the High Commissioner for Human Rights Panamá Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241125
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Refugee Health Promotion Assistant IRC - International Rescue Committee Wichita Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241124
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Case Management Specialist IRC - International Rescue Committee Remote | Seattle | Washington D.C. Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241123
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Digital Content and Marketing Coordinator IRC - International Rescue Committee Remote | Seattle Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241122
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: South Sudan country-level consultancy for Risk Mapping and Analysis IRC - International Rescue Committee Juba Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241121
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Employment Specialist IRC - International Rescue Committee Remote | Silver Spring Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241120
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Sustainable Development Officer, Regional Liaison, Latin America and the Caribbean UN RCO - United Nations Resident Coordinator's Office New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241119
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: FINANCE AND BUDGET OFFICER UNSOH - UN Support Office in Haiti Port-au-Prince P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241116
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Sustainable Development Officer, Regional Liaison, Europe and Central Asia UN RCO - United Nations Resident Coordinator's Office New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241113
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Information and Evidence Officer UN IIIM Syria- International, Impartial and Independent Mechanism Damascus P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241110
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Outreach Strategy Consultant UN IIIM Syria- International, Impartial and Independent Mechanism Remote | Geneva CON
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241107
+--------------------------------------------------
