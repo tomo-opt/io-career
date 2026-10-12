@@ -1,0 +1,132 @@
+[Organization] United Nations Secretariat
+[Position] Area Mntl Hlth & Psych Sprt (MHPSS) Sprv
+[Location] HEBRON
+[Deadline] 2026-10-26
+[Link] https://careers.un.org/job-openings?job-id=285939
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE ADMINISTRATIVE OFFICER
+[Location] KINGSTON
+[Deadline] 2026-11-26
+[Link] https://careers.un.org/job-openings?job-id=285880
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] POLITICAL AFFAIRS ASSISTANT
+[Location] KUNDUZ
+[Deadline] 2026-10-18
+[Link] https://careers.un.org/job-openings?job-id=286207
+--------------------------------------------------
+[Organization] UNDP
+[Position] BESNET II Research Intern
+[Location] Windhoek, Namibia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37354;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Operations and Finance Analyst (Open to Internal and External Applicants)
+[Location] Islamabad, Pakistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37360;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Operations and Finance Analyst (Open to Internal and External Applicants) Post level NPSA-9 Apply by Oct-25-26 Agency UNDP Location Islamabad, Pakistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37360
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title BESNET II Research Intern Post level N/A Apply by Oct-18-26 Agency UNDP Location Windhoek, Namibia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37354
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Gender Equality, Disability and Social Inclusion)_CST Level 1
+[Location] Vientiane, Laos, The People's Dem. Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Vientiane-Laos-The-Peoples-Dem-Re/Programme-Policy-Officer--Gender-Equality--Disability-and-Social-Inclusion--CST-Level-1_JR127532
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Business Operations Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/business-operations-consultant
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Position: Programme Analyst, FP/RHCS,Malawi,NOB
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-position-programme-analyst-fprhcsmalawinob
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] BESNET II Research Intern, Windhoek
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791792043308
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Head, Internal Oversight and Ethics Office, London
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791765832870
+--------------------------------------------------
+[Organization] Impactpool
+[Position] ECONOMIC AFFAIRS OFFICER UNECA - United Nations Economic Commission for Africa Addis Ababa P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237756
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: BESNET II Research Intern UNDP - United Nations Development Programme Windhoek Not applicable
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241193
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Area Mental Health and Psychosocial Support Supervisor (MHPSS) - Health Department - Area Office Hebron - For internal candidates only - Grade13 UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Hebron Grade 13
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241192
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Field Engineer COFAREADY IOM - International Organization for Migration Palau UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241186
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Associate Office Manager ISA - International Seabed Authority Kingston P-2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241179
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Guidance and Standards Nuclear Security Officer (Tech Lead)(P4) IAEA - International Atomic Energy Agency Vienna P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241176
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Scientist-Innovation Systems ICRISAT - The International Crops Research Institute for the Semi-Arid Tropics Hyderabad | New Delhi | Patancheru Innovation Systems
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241175
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Associate (Cultural Mediator) IOM - International Organization for Migration Doha GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241167
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Green Skills Corridor and Human Capital Investment Framework Senior Consultant IOM - International Organization for Migration Cairo UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241166
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Protection Manager - PRoL IRC - International Rescue Committee Bangladesh Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241163
+--------------------------------------------------
