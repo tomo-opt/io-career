@@ -1,0 +1,246 @@
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-11-26
+[Link] https://careers.un.org/job-openings?job-id=284058
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE DATA SPECIALIST
+[Location] GABORONE
+[Deadline] 2026-10-27
+[Link] https://careers.un.org/job-openings?job-id=283494
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-10-27
+[Link] https://careers.un.org/job-openings?job-id=286068
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Associate Programme Management Officer
+[Location] NEW YORK
+[Deadline] 2026-10-19
+[Link] https://careers.un.org/job-openings?job-id=286153
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DATA ENGINEER
+[Location] NEW YORK
+[Deadline] 2026-10-26
+[Link] https://careers.un.org/job-openings?job-id=286310
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] Associate Programme Management Officer
+[Location] NAIROBI
+[Deadline] 2026-10-24
+[Link] https://careers.un.org/job-openings?job-id=284153
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Operations Intern - Turkish Speaking - Office Based
+[Location] Istanbul, Türkiye
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37401;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Information Technology and Administrative Intern - Turkish Speaking - Office Based - Full Time
+[Location] Istanbul, Türkiye
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37399;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista Técnico/a de Implementación de Infraestructura (Abierto a candidatos internos y externos) Post level NPSA-9 Apply by Oct-19-26 Agency UNDP Location Guatemala City, Guatemala
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37403
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager [Open to internal and external applicants] Post level NPSA-9 Apply by Oct-26-26 Agency UNDP Location Ashkhabad, Turkmenistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37147
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Administrative and Finance Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Oct-16-26 Agency UNDP Location Papua New Guinea
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35340
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Information Technology and Administrative Intern - Turkish Speaking - Office Based - Full Time Post level IN Apply by Nov-8-26 Agency UNDP Location Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37399
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Operations Intern - Turkish Speaking - Office Based Post level IN Apply by Nov-9-26 Agency UNDP Location Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37401
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring Assistant, SC4, Rangamati
+[Location] Rangamati, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rangamati-Bangladesh-The-Peoples-R/Monitoring-Assistant--SC4--Rangamati_JR127537-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Associate, SC6, Engineer, (Multiple locations)
+[Location] Abeche, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Abeche-Chad-The-Republic-Of/Management-Services-Associate--SC6--Engineer---Multiple-locations-_JR127572
+--------------------------------------------------
+[Organization] WFP
+[Position] Community Feedback Mechanism (CFM) Officer, SC8, Cox's Bazar
+[Location] Cox's Bazaar, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Coxs-Bazaar-Bangladesh-The-Peoples-R/Community-Feedback-Mechanism--CFM--Officer--SC8--Cox-s-Bazar_JR127571
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Fortification Technical Advisor)
+[Location] Jakarta, Indonesia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Jakarta-Indonesia-The-Republic-Of/Programme-Policy-Officer--Fortification-Technical-Advisor-_JR127328-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Officer (Risk and Compliance)
+[Location] Dhaka, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dhaka-Bangladesh-The-Peoples-R/Procurement-Officer--Risk-and-Compliance-_JR127542
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant
+[Location] San Salvador, El Salvador, The Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/San-Salvador-El-Salvador-The-Republic/Business-Support-Assistant_JR127036-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Security Associate, G6, Mongo, Chad
+[Location] Mongo, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mongo-Chad-The-Republic-Of/Security-Associate--G6--Mongo--Chad_JR127540
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Assistant SC5, Moussoro, Chad
+[Location] Moussoro, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Moussoro-Chad-The-Republic-Of/Management-Service-Assistant-SC5--Moussoro--Chad_JR127559
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Officer NOB - Bridgetown, Barbados
+[Location] Bridgetown, Barbados
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bridgetown-Barbados/Procurement-Officer-NOB_JR119456
+--------------------------------------------------
+[Organization] WFP
+[Position] Mechanic Assistant SSA-2, Gonaïves, Haïti
+[Location] Gonaives, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Gonaives-Haiti-The-Republic-Of/Mechanic-Assistant-SSA-2--Gonaves--Hati_JR122991
+--------------------------------------------------
+[Organization] WFP
+[Position] Re-advertised - Business Support Assistant (Software Programmer), SSA4
+[Location] Lilongwe, Malawi, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lilongwe-Malawi-The-Republic-Of/Re-advertised---Business-Support-Assistant--Software-Programmer---SSA4_JR127123
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (VAM) SC6
+[Location] Amman, Jordan, Hashemite Kingdom
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Amman-Jordan-Hashemite-Kingdom/Programme-Associate--VAM--SC6_JR127543
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Community-Based Protection Associate
+[Location] Karongi, Rwanda
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Karongi-Rwanda/Community-Based-Protection-Associate_JR2668923-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Senior Technical Advisor (International Consultant), Health Economics and Financing
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/senior-technical-advisor-international-consultant-health-economics-and-financing-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant (Local) : Project Manager, New Delhi, India
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-local-project-manager-new-delhi-india
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: UNFPA Planning, Monitoring and Evaluation Analyst, NOB, Sarajevo, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-unfpa-planning-monitoring-and-evaluation-analyst-nob-sarajevo-bosnia-and
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Assistant Representative, NOC, FTA, Tegucigalpa, Honduras
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/assistant-representative-noc-fta-tegucigalpa-honduras
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA EECARO : Russian-English Interpreters and Translators Roster
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-eecaro-russian-english-interpreters-and-translators-roster
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultancy: Development of Costed Implementation Framework - Somalia…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultancy-development-costed-implementation-framework-somalia-srhr-bcc
+--------------------------------------------------
+[Organization] UNFPA
+[Position] International Consultant for the Inception Phase of the State of Pacific Youth…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/international-consultant-inception-phase-state-pacific-youth-report-2027%E2%80%932028-remote
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Governance, Risk and Compliance Specialist, Supply Chain Management Unit, P-4,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/governance-risk-and-compliance-specialist-supply-chain-management-unit-p-4-copenhagen-209474
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Supply Chain Governance, Risk and Compliance Analyst, Supply Chain Management Unit,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/supply-chain-governance-risk-and-compliance-analyst-supply-chain-management-unit-p-2
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Cartographer Specialist
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Cartographer-Specialist/4548
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Climate Education Specialist (Home based Retainer) - Nassau, Bahamas
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Climate-Education-Specialist-Home-based-Retainer-Nassau-Bahamas/4552
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern (Human Trafficking and Migrant Smuggling)
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791871241984
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Internal Control and Risk Management Assistant - Internal Audit Assistant EC - European Commission Brussels FG III, Function Group 3, Contract Agent - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241428
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Consulting Opportunity | Policy & Government Affairs Remote | Commission-Based | Flexible Schedule
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52047-dmv-dc-meridian-namba-consulting-opportunity-policy-government-affairs-remote-commission-based-flexible-schedule
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor - Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52046-milledgeville-georgia-college-state-university-assistant-professor-political-science
+--------------------------------------------------
