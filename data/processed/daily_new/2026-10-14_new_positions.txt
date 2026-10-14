@@ -1,0 +1,354 @@
+[Organization] United Nations Secretariat
+[Position] Field Pharmaceutical Services Officer
+[Location] FO Jordan
+[Deadline] 2026-10-27
+[Link] https://careers.un.org/job-openings?job-id=286326
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Senior Staff Nurse
+[Location] HEBRON
+[Deadline] 2026-10-28
+[Link] https://careers.un.org/job-openings?job-id=286025
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Senior Staff Nurse
+[Location] HEBRON
+[Deadline] 2026-10-28
+[Link] https://careers.un.org/job-openings?job-id=286027
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LEGAL OFFICER
+[Location] GENEVA
+[Deadline] 2026-10-22
+[Link] https://careers.un.org/job-openings?job-id=286459
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] POLITICAL AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-11-27
+[Link] https://careers.un.org/job-openings?job-id=285601
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES OFFICER
+[Location] NEW YORK
+[Deadline] 2026-11-27
+[Link] https://careers.un.org/job-openings?job-id=284983
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] STAFF ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-11-12
+[Link] https://careers.un.org/job-openings?job-id=286316
+--------------------------------------------------
+[Organization] UNDP
+[Position] Communications Analyst [Open to internal and external applicants]
+[Location] Astana, Kazakhstan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37438;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Manager [Open to internal and external applicants]
+[Location] Gaza, Palestine, State of
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37425;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Inter-Agency PSEAH Specialist [Open to internal and external applicants]
+[Location] Monrovia, Liberia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37443;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Outreach and Events Analyst [Open to internal and external applicants]
+[Location] Islamabad, Pakistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37421;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Operations Intern - Turkish Speaking - Office Based - Full Time
+[Location] Istanbul, Türkiye
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37401;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] M&E and Stakeholder Engagement Analyst [Open to Internal and External Applicants]
+[Location] Ulan Bator, Mongolia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37044;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Manager - Climate Transparency Global Support Programme [Open to internal and external applicants]
+[Location] Bonn, Germany
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37459;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager [Open to internal and external applicants] Post level NPSA-8 Apply by Oct-27-26 Agency UNDP Location Gaza, Palestine, State of
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37425
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Especialista en Cooperación Académica y Movilidad Internacional Post level NPSA-10 Apply by Oct-19-26 Agency UNDP Location Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37302
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title M&E and Stakeholder Engagement Analyst [Open to Internal and External Applicants] Post level IPSA-8 Apply by Oct-20-26 Agency UNDP Location Ulan Bator, Mongolia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37044
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Outreach and Events Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Oct-27-26 Agency UNDP Location Islamabad, Pakistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37421
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager - Climate Transparency Global Support Programme [Open to internal and external applicants] Post level P3 Apply by Oct-20-26 Agency UNDP Location Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37459
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communications Analyst [Open to internal and external applicants] Post level NOB Apply by Oct-20-26 Agency UNDP Location Astana, Kazakhstan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37438
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Management and Coordination Analyst [Open to internal and external applicant] Post level NPSA-9 Apply by Oct-22-26 Agency UNDP Location Kigali, Rwanda
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37372
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Assistente de Cerimonial e Eventos (2 vagas) (Home Based) - [Open to internal and external applicants] Post level NPSA-5 Apply by Oct-27-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37381
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Operations Intern - Turkish Speaking - Office Based - Full Time Post level IN Apply by Nov-9-26 Agency UNDP Location Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37401
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant SC5 - Programme Support, Coordination and Knowledge Management
+[Location] Lusaka, Zambia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lusaka-Zambia-The-Republic-Of/Business-Support-Assistant-SC5---Programme-Support--Coordination-and-Knowledge-Management_JR127583-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate – Financial Services and Insurance
+[Location] Lusaka, Zambia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lusaka-Zambia-The-Republic-Of/Programme-Associate---Financial-Services-and-Insurance_JR127584
+--------------------------------------------------
+[Organization] WFP
+[Position] Communications Officer SSA (Graphic Design)
+[Location] Freetown, Sierra Leone, The Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Freetown-Sierra-Leone-The-Rep-Of/Communications-Officer--Graphic-Design-_JR127554
+--------------------------------------------------
+[Organization] WFP
+[Position] ASU - Senior Aviation Safety Associate G7
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/ASU---Senior-Aviation-Safety-Associate-G7_JR126064
+--------------------------------------------------
+[Organization] WFP
+[Position] Senior Reports Associate, SCL7 - Kathmandu
+[Location] Kathmandu, Nepal,The Fed Dem.Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kathmandu-NepalThe-Fed-DemRepublic/Senior-Reports-Associate--SCL7---Kathmandu_JR127579
+--------------------------------------------------
+[Organization] WFP
+[Position] Readvertisement - HR Assistant - (WFP Volunteer)
+[Location] Dar-es-Salaam, Tanzania, The United Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dar-es-Salaam-Tanzania-The-United-Rep/Readvertisement---HR-Assistant----WFP-Volunteer-_JR127573-2
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Assistant (G5)
+[Location] Kabul, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kabul-AfghanistanThe-Islamic-Re/IT-Operations-Assistant--G5-_JR127551
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Reproductive Health Commodity Security (RHCS) Consultant, Addis Ababa, Ethiopia
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-reproductive-health-commodity-security-rhcs-consultant-addis-ababa-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Travel and Administration Consultant, Programme Division (Nairobi, Kenya)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/travel-and-administration-consultant-programme-division-nairobi-kenya
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] News Writing / Reporting - Public Information Intern - News and Content - English, New York
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1791957646455
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Director of Legal Advice and Public International Law COE - Council of Europe Strasbourg A6 -Director Level - Managerial positions - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1240973
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Regional Adviser (Nutrition, Physical Activity and Obesity) WHO - World Health Organization Copenhagen P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241810
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Medical Officer (Elimination of Mother-to-Child Transmission of HIV, Syphilis and Hepatitis B) WHO - World Health Organization Geneva P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241809
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: International Consultant - Field Epidemiology Training Programmes (FETPs) WHO - World Health Organization Remote | Cairo Band level B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241808
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officer - Employee and Scholar Accounts IRRI - International Rice Research Institute Los Baños Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241806
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: UN Women Project Manager, Homebased, IPSA-11 UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Home Based - May require travel IPSA-11, International Personnel Services Agreement - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241797
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Research Associate CIMMYT - International Maize and Wheat Improvement Center Texcoco Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241788
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Finance Analyst CIMMYT - International Maize and Wheat Improvement Center Texcoco Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241787
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Manager - Climate Transparency Global Support Programme [Open to internal and external applicants] UNDP - United Nations Development Programme Bonn P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241784
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant & IM Officer ICRC - International Committee of the Red Cross Belgrade B2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241779
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Associate Capacity Building ICRC - International Committee of the Red Cross Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241778
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Global Process Owner - Institutional Planning & Budgeting ICRC - International Committee of the Red Cross Geneva Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1241777
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] D.C. City Hall Reporter
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52061-washington-dc-the-post-city-hall-reporter
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] eLearning Course, EU Non-Proliferation and Disarmament
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52060-germany-peace-research-institute-frankfurt-elearning-course-eu-non-proliferation-and-disarmament
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Research Fellow, Global Health and Development
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52059-london-united-kingdom-ambitious-impact-visiting-research-fellow-global-health-and-development
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Research Associate, Nonproliferation and Export Controls
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52058-washington-dc-wisconsin-project-on-nuclear-arms-control-research-associate-nonproliferation-and-export-controls
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Teaching Professor, Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52057-missoula-montana-university-of-assistant-teaching-professor-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director, China Research Center, and Distinguished Tang Chair in China Research
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52056-washington-dc-rand-director-china-research-center-and-distinguished-tang-chair-in
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Programme Officer, Operations
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52055-london-united-kingdom-article-19-programme-officer-operations
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Seasonal Program Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52054-remote-new-york-global-leadership-adventures-seasonal-program-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Joint Strategy Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52053-arlington-virginia-ita-international-senior-joint-strategy-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Campaign Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52052-london-berlin-or-brussels-belgium-environmental-justice-foundation-campaign-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Diligence Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52051-washington-dc-guidehouse-diligence-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] 2026-27 Political Science Lecturer Pool
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52050-irvine-california-university-of-2026-27-political-science-lecturer-pool
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Communications Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52049-baltimore-maryland-the-annie-e-casey-foundation-senior-communications-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Consultant - Partner-Centred Design
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52048-remote-united-kingdom-blue-ventures-consultant-partner-centred-design
+--------------------------------------------------
