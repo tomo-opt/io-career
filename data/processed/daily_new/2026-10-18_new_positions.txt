@@ -1,0 +1,264 @@
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-10-23
+[Link] https://careers.un.org/job-openings?job-id=285608
+--------------------------------------------------
+[Organization] UNDP
+[Position] Well-being Coordinator [Open to internal and external applicants]
+[Location] Bonn, Germany
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37529;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Coordinador/a de Proyecto (Abierto a candidatos internos y externos) Post level NPSA-9 Apply by Oct-26-26 Agency UNDP Location Panama City, Panama
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37551
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Climate Data Analyst), SC8 Port Sudan
+[Location] Port Sudan, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-Sudan-Sudan-The-Republic-Of-The/Programme-Policy-Officer--Climate-Data-Analyst---SC8-Port-Sudan_JR127602-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships Officer NOB, Port-au-Prince, Haiti
+[Location] Port-au-Prince, Haiti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-au-Prince-Haiti-The-Republic-Of/Partnerships-Officer-NOB--Port-au-Prince--Haiti_JR127697
+--------------------------------------------------
+[Organization] WFP
+[Position] Aviation Quality Assurance Officer P3
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Aviation-Quality-Assurance-Officer-P3_JR127695
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer NOA, Protection & AAP, N'Djamena, Chad
+[Location] N'Djamena, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/NDjamena-Chad-The-Republic-Of/Programme-Policy-Officer-NOA--Protection---AAP--N-Djamena--Chad_JR127638
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant: Young and Emerging Evaluator
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-young-and-emerging-evaluator
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Communications Assistant, Nordic Representation Office, G-5, Copenhagen
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/communications-assistant-nordic-representation-office-g-5-copenhagen
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant for Developing Strategic Guideline for Non-Interventional Maternity Services and Respectful Care
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-developing-strategic-guideline-non-interventional-maternity-services-and-respectful
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: UNFPA Planning, Monitoring and Evaluation Analyst, NOB, Sarajevo,…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-unfpa-planning-monitoring-and-evaluation-analyst-nob-sarajevo-bosnia-and
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Reproductive Health Commodity Security (RHCS) Consultant, Addis…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-reproductive-health-commodity-security-rhcs-consultant-addis-ababa-0
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Consultants International Responsible Pédagogique MCM– Formation sur la Gestion des Incidents à Victimes Multiples P4, Yaounde
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299678748
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Roster of International consultant – Antimicrobial Use (AMU), Access and/or Stewardship, New Delhi
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299678132
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Consultants International Formateur sur la Gestion des Incidents à Victimes Multiples (MCM), Yaounde
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299678348
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Country Analysis Unit
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299677908
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Chambers
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299677173
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Archives and Legacy
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299677460
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Chambers/Case Law Database
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299676945
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Counsel Support Section
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299676730
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Database and ERP Administration
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299676510
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Detention Center
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299676235
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant- Nature-based solutions (NbS), One Health, and environmental health policy and evidence synthesis, Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299676105
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - External (Defence or Victims) Legal Teams
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299676012
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant- Nature-based solutions (NbS) for health and well-being, Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299675888
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Finance Section
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299675796
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant- Development of training course on integrating environmental health into One Health for central Asia, Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792299675558
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultant CIP - International Potato Center Lima | San Martín Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242524
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Especialista en Restauración del Paisaje Forestal CIP - International Potato Center Lima | San Martín Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242523
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Especialista en Cadenas de Suministro y Trazabilidad CIP - International Potato Center Lima | San Martín Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242522
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Communications Analyst LATAM CIMMYT - International Maize and Wheat Improvement Center Texcoco Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242513
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: International Consultant- Development of training course on integrating environmental health into One Health for central Asia WHO - World Health Organization Bonn Level B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242512
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Roster of International consultant – Antimicrobial resistance (AMR) surveillance and/or laboratory strengthening for AMR WHO - World Health Organization Remote | New Delhi Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242511
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Roster of International consultant – Strategic planning, costing, monitoring, and evaluation for antimicrobial resistance (AMR) WHO - World Health Organization Remote | New Delhi Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242510
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: International Consultant- Nature-based solutions (NbS), One Health, and environmental health policy and evidence synthesis WHO - World Health Organization Bonn level- B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242509
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: International Consultant- Nature-based solutions (NbS) for health and well-being WHO - World Health Organization Bonn Level B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242508
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MRC Counsellor (M1) ICMPD - International Centre for Migration Policy Development Bishkek M1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242507
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: P&C Operations Training Specialist IRC - International Rescue Committee Remote | Nairobi Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242506
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern | CPCD Office of the Director | Knowledge Management, Automation & Digital Publishing UNDGACM - United Nations Department for General Assembly and Conference Management New York City I-1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242502
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Programme Officer UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242501
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Regional Advisor on Anti-Money Laundering and Combating the Financing of Terrorism – Latin America and the Caribbean, based in Barbados - LEGF2 IMF - International Monetary Fund Barbados A11, A12, A13, A14 - International Professional - Internationally recruited position
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242499
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Android Developer Consultancy UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Remote | Arusha Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242498
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Asociado de Investigación - Banco de Germoplasma UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Mosquera BG06
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242497
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MSC INTERN – MULTIFUNCTIONAL LANDSCAPE UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242496
+--------------------------------------------------
