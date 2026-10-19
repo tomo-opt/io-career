@@ -1,0 +1,240 @@
+[Organization] United Nations Secretariat
+[Position] Human Resources Officer (Services)
+[Location] FO West Bank
+[Deadline] 2026-11-02
+[Link] https://careers.un.org/job-openings?job-id=286539
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] MOVEMENT CONTROL ASSISTANT
+[Location] NAQOURA
+[Deadline] 2026-10-26
+[Link] https://careers.un.org/job-openings?job-id=286399
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PUBLIC INFORMATION OFFICER
+[Location] LIBREVILLE
+[Deadline] 2026-10-26
+[Link] https://careers.un.org/job-openings?job-id=286638
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FINANCE AND BUDGET OFFICER
+[Location] LIBREVILLE
+[Deadline] 2026-10-26
+[Link] https://careers.un.org/job-openings?job-id=286628
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] YPP DEVNET EXAM
+[Location] OTHER
+[Deadline] 2026-12-01
+[Link] https://careers.un.org/job-openings?job-id=285586
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Manager (Open to Internal and External Applicants)
+[Location] Baghdad, Iraq
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37557;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Project Manager [Open to internal and external applicants]
+[Location] Jakarta Pusat, Indonesia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37560;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Manager (Open to Internal and External Applicants) Post level NPSA-10 Apply by Nov-2-26 Agency UNDP Location Baghdad, Iraq
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37557
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Well-being Coordinator [Open to internal and external applicants] Post level IPSA-9 Apply by Oct-24-26 Agency UNDP Location Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37529
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Officer, NOA, Cox's Bazar
+[Location] Cox's Bazaar, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Coxs-Bazaar-Bangladesh-The-Peoples-R/IT-Operations-Officer--NOA--Cox-s-Bazar_JR127702
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Graphic Design and Visual Communication — (Maternity Cover)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-graphic-design-and-visual-communication-%E2%80%94-maternity-cover
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Multimedia Production (Video, Animation and Motion Graphics) - Retainer
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-multimedia-production-video-animation-and-motion-graphics-retainer
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Prevention of Sexual Exploitation and Abuse (PSEA)…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-prevention-sexual-exploitation-and-abuse-psea-specialist
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Sustainable Development Affairs Intern, Bangkok
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792389630414
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] CFCV/2026/037 Intern (Refugee Care Unit), Medan, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792389625995
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Un consultant Expert International CAPI pour l'appui à la cartographie censitaire numérique RGPH4 Madagascar, Antananarivo
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792386044687
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Un consultant international chargé de l'analyse stratégique pour la mutualisation des opérations RGPH4 et du RSU, Antananarivo
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792386044283
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] CFCV/2026/039 Intern (Health Information and Program Engagement), Surabaya
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792382427487
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INT 011/2026 Procurement Intern, Manila
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792382426008
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing tomorrow: ECONOMIC AFFAIRS OFFICER UNECA - United Nations Economic Commission for Africa Addis Ababa P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1237756
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: HCM Payroll Specialist WIPO - World Intellectual Property Organization Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242584
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: User and Application Support Analyst WIPO - World Intellectual Property Organization Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242583
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Client Advisor WIPO - World Intellectual Property Organization Geneva P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242582
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Development Consultant (Fiji Nationals Only) IOM - International Organization for Migration Suva UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242575
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultant: Field Engineer (READY) IOM - International Organization for Migration Pohnpei UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242574
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Associate (Community Resilience) IOM - International Organization for Migration Pohnpei GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242573
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: CFCV/2026/039 Intern (Health Information and Program Engagement), Surabaya IOM - International Organization for Migration Surabaya UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242572
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: VN 103/2026 Sr. Supply Chain Associate IOM - International Organization for Migration Manila GS-7, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242571
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: SVN/2026/038 Programme Assistant (AVRR), Jakarta IOM - International Organization for Migration Jakarta GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242570
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Safe Migration Hotline Coordinator IOM - International Organization for Migration Dushanbe UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242569
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: VN 102/2026 National Accounting Officer IOM - International Organization for Migration Manila NO-C, National Professional Officer - Locally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242568
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: National Program Officer (SMSD) IOM - International Organization for Migration Cox's Bazaar NO-A, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242567
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultant Regional Prevention of Sexual Exploitation, Abuse, and Harassment (PSEAH) - Europe and Central Asia (C) IOM - International Organization for Migration Vienna C-1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242566
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: CFCV/2026/037 Intern (Refugee Care Unit), Medan IOM - International Organization for Migration Medan UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242565
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Protection Officer IOM - International Organization for Migration Battambang UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242564
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Sustainable Development Affairs Intern UNESCAP - United Nations Economic and Social Commission for Asia and the Pacific Bangkok Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242559
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: SUPERVISEUR NUTRITION (2) IRC - International Rescue Committee Butembo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242555
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: SUPERVISEUR SOINS DE SANTE PRIMAIRE IRC - International Rescue Committee Butembo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242554
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: FINANCE MANAGER IRC - International Rescue Committee Butembo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242553
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: OFFICIER PROTECTION IRC - International Rescue Committee Democratic Republic of Congo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1242552
+--------------------------------------------------
