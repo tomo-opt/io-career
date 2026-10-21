@@ -1,0 +1,402 @@
+[Organization] UNDP
+[Position] Laboratory Associate [Open to internal and external candidates]
+[Location] Ashkhabad, Turkmenistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37613;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Joint Project Coordinator [Open to internal and external applicants]
+[Location] Sarajevo, Bosnia and Herzegovina
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37232;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Health Governance Specialist (Open to Internal & External Applicants)
+[Location] Ha Noi, Viet Nam
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37391;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Human Resources Assistant[Ouvert aux candidats Internes & Externes]
+[Location] Niamey, Niger
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36993;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Small Grants Programme Coordinator [Open to internal and external candidates]
+[Location] Mbabane, Eswatini
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37579;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Infirmier(e) [Ouvert aux candidats Internes et Externes]
+[Location] Niamey, Niger
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37539;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Joint Project Coordinator [Open to internal and external applicants] Post level NPSA-9 Apply by Nov-3-26 Agency UNDP Location Sarajevo, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37232
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Small Grants Programme Coordinator [Open to internal and external candidates] Post level NPSA-9 Apply by Nov-3-26 Agency UNDP Location Mbabane, Eswatini
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37579
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Infirmier(e) [Ouvert aux candidats Internes et Externes] Post level G6 Apply by Nov-3-26 Agency UNDP Location Niamey, Niger
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37539
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Laboratory Associate [Open to internal and external candidates] Post level NPSA-7 Apply by Nov-3-26 Agency UNDP Location Ashkhabad, Turkmenistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37613
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Health Governance Specialist (Open to Internal & External Applicants) Post level IPSA-11 Apply by Nov-4-26 Agency UNDP Location Ha Noi, Viet Nam
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37391
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Chief, Investigations [Open to internal and external applicants] Post level P5 Apply by Nov-1-26 Agency UNDP Location Nairobi, Kenya
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36991
+--------------------------------------------------
+[Organization] WFP
+[Position] Internship - Policy Engagement - Programme Policy Team, WFP Beijing Office, China
+[Location] Beijing, China
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beijing-China/Internship---Policy-Engagement---Programme-Policy-Team--WFP-Beijing-Office--China_JR127738-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Internship - Knowledge Management, Due Diligence Team, Supply Chain Division - Rome, Italy
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Internship---Knowledge-Management--Due-Diligence-Team--Supply-Chain-Division---Rome--Italy_JR127744
+--------------------------------------------------
+[Organization] WFP
+[Position] Vam Officer - Economic, Market & Food Security Analyst (Consultant Level II)
+[Location] Mogadiscio, Somalia, The Dem. Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Vam-Officer---Economic--Market---Food-Security-Analyst--Consultant-Level-II-_JR127603
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant on Youth Participation, Leadership and Advisory Mechanisms
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-youth-participation-leadership-and-advisory-mechanisms
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant for Strengthening approaches to prevent GBV and child marriage among adolescents
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-strengthening-approaches-prevent-gbv-and-child-marriage-among-adolescents
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Multimedia Production (Video, Animation and Motion Graphics) -…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-multimedia-production-video-animation-and-motion-graphics-retainer
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Consultant for Developing Strategic Guideline for Non-Interventional Maternity…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/consultant-developing-strategic-guideline-non-interventional-maternity-services-and-respectful
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Health Governance Specialist (Open to Internal & External Applicants), Hanoi
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792562465210
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Public Information Intern, Washington
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792562444376
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Economic Affairs, New York
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792562441464
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant to Support the Finalization and Operationalization of the Inclusive Education Strategy in Uzbekistan, Tashkent
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792558930832
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Consultant international de Haut Niveau Appui à la structuration de l'Offre programmatique du SNU dans le Secteur Minier en République Démocratique du Congo
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792558930375
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Internship - Environment, Climate Change and One Health WHO - World Health Organization Geneva No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243130
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Chemical Demilitarisation Officer (P-4) OPCW - Organisation for the Prohibition of Chemical Weapons P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243129
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Call for freelance graphic designer Transparency International Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243128
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Support for the eLearning courses development on Anti-Corruption Transparency International Remote Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243127
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Parliament Young Fellow (Research and Knowledge Management) UNV - United Nations Volunteers Dhaka Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243125
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Trainee - Compliance & Non Financial Risk EIF - European Investment Fund Luxembourg Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243124
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Regional Community Stabilisation Officer (P) IOM - International Organization for Migration Dakar P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243121
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Regional Protection from Sexual Exploitation and Abuse and Sexual Harassment (PSEAH) Officer (P) IOM - International Organization for Migration Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243120
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultant editing layout type B IOM - International Organization for Migration Tunisia | Italy UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243119
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Safeguarding Officer - 2 Positions IRC - International Rescue Committee Addis Ababa Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243118
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Child Protection Case Worker IRC - International Rescue Committee Renk Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243117
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officier WASH IRC - International Rescue Committee Ruyigi | Muyinga | Bujumbura Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243116
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intake Services Intern Spring 2027 IRC - International Rescue Committee Remote | Baltimore Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243115
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Youth Success Specialist Intern (Spring 2027) IRC - International Rescue Committee Remote | Baltimore Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243114
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Finance Partnership Officer IRC - International Rescue Committee Aden Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243113
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Walk-in Case Management Services Intern (Spring 2027) IRC - International Rescue Committee Remote | Baltimore Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243112
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Extended Services Intern (Spring 2027) IRC - International Rescue Committee Remote | Baltimore Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243111
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Officer IRC - International Rescue Committee Tyre Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243110
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Career and Financial Coaching Intern (Spring 2027) IRC - International Rescue Committee Remote | Baltimore Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243109
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Children's Legal Services Intern ( Spring 2027) IRC - International Rescue Committee Remote | Baltimore Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243108
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Resettlement Case Management Intern ( Spring2027) IRC - International Rescue Committee Remote | Baltimore Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243107
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Prestataire Audit IRC - International Rescue Committee Bamako Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243106
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Refugee Economic Empowerment Intern (Sprin 2027) IRC - International Rescue Committee Silver Spring Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243105
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Refugee Barrier Reduction Intern (Spring 2027) IRC - International Rescue Committee Silver Spring Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243104
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Employment & Skill-Building Intern (Spring 2027) IRC - International Rescue Committee Silver Spring Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243103
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Stagiaire Archiviste IRC - International Rescue Committee Bamako Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243102
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Children's Legal Services Legal Externship ( Spring 2027) IRC - International Rescue Committee Silver Spring Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243101
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Technical Lead – World Bank SHARE II Proposal Development IRC - International Rescue Committee Juba Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243100
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Children's Legal Services Intern (Spring 2027) IRC - International Rescue Committee Silver Spring Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243099
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Case Coordination Caseworker IRC - International Rescue Committee Remote | Tucson Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243098
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Resettlement & Youth Casework Intern (Spring 2027) IRC - International Rescue Committee Silver Spring Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243097
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Call for Expression of Interest –Internship Programme
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52120-rome-italy-food-and-agriculture-organization-of-the-united-nations-fao-call-for-expression-interest-internship-programme
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Partnerships Intern
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52119-copenhagen-denmark-unops-partnerships-intern
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Digital & AI Skills Specialist
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52118-washington-dc-the-world-bank-group-digital-ai-skills-specialist
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Contacter para recaudación de fondos
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52117-buenos-aires-argentina-amnistia-internacional-contacter-para-recaudacion-de-fondos
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Special Assistant, Executive Office
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52116-new-york-orbis-international-special-assistant-executive-office
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Manager of Youth Events & Community Engagement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52115-boston-massachusetts-united-nations-association-of-greater-manager-youth-events-community-engagement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior News Reporter
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52114-washington-dc-u-s-news-world-report-senior-reporter
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Country Director – Lebanon (International)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52113-beirut-lebanon-geneva-call-country-director-international
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52112-mumbai-india-bits-law-school-assistant-professor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Public Policy Manager, Europe
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52111-kronberg-or-brussels-belgium-fidelity-international-senior-public-policy-manager-europe
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Accountant, Financial Reporting
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52110-washington-dc-viya-health-senior-accountant-financial-reporting
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] EU and Bilateral Engagement Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52109-brussels-belgium-scottish-government-eu-and-bilateral-engagement-officer
+--------------------------------------------------
