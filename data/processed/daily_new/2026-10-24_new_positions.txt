@@ -1,0 +1,240 @@
+[Organization] United Nations Secretariat
+[Position] AIR OPERATIONS ASSISTANT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-11-07
+[Link] https://careers.un.org/job-openings?job-id=287067
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] AIR OPERATIONS ASSISTANT
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-11-07
+[Link] https://careers.un.org/job-openings?job-id=287065
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF BRANCH, PROGRAMME
+[Location] NEW YORK
+[Deadline] 2026-10-30
+[Link] https://careers.un.org/job-openings?job-id=287109
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR DATA SPECIALIST
+[Location] NEW YORK
+[Deadline] 2026-12-07
+[Link] https://careers.un.org/job-openings?job-id=286069
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] ADDIS ABABA
+[Deadline] 2026-11-07
+[Link] https://careers.un.org/job-openings?job-id=286976
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HEATING, VENTILATION AND A/C TECHNICIAN
+[Location] NEW YORK
+[Deadline] 2026-11-07
+[Link] https://careers.un.org/job-openings?job-id=286725
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] KHARTOUM
+[Deadline] 2026-11-07
+[Link] https://careers.un.org/job-openings?job-id=287015
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SERVICE, COMMUNICATIONS
+[Location] NEW YORK
+[Deadline] 2026-12-07
+[Link] https://careers.un.org/job-openings?job-id=286814
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Coordinator [Open to internal and external applicants]
+[Location] Manila, Philippines
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37468;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Trust Fund Manager [Open to Internal and External candidates]
+[Location] Afghanistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37699;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Team Lead - Programme Specialist (Open to Internal and External Applicants)
+[Location] Islamabad, Pakistan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37678;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] UNDP/UN House Security Associate [Open to internal and external applicants]
+[Location] Chisinau, Republic of Moldova
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37704;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Analista Desenvolvedor(a) Python (1 vaga) (Home Based) - [Open to internal and external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37687;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Civil Engineer/Architect [Open to internal and external applicants] Post level NPSA-8 Apply by Oct-28-26 Agency UNDP Location Sarajevo, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37528
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Coordinator [Open to internal and external applicants] Post level NPSA-9 Apply by Oct-30-26 Agency UNDP Location Manila, Philippines
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37468
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Team Lead - Programme Specialist (Open to Internal and External Applicants) Post level NPSA-11 Apply by Nov-5-26 Agency UNDP Location Islamabad, Pakistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37678
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title UNDP/UN House Security Associate [Open to internal and external applicants] Post level G6 Apply by Nov-6-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37704
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Trust Fund Manager [Open to Internal and External candidates] Post level P5 Apply by Nov-8-26 Agency UNDP Location Afghanistan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37699
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Administration Associate
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Administration-Associate/4979
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship - Media and Communications, Partnership Team - WFP London Office, UK
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792818111621
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Audit Specialist, Office of Internal Audit (OIA) – (Contractual), USA, Washington DC
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792818102138
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] 2027 Fund Internship Program (FIP) - Economists, USA, Washington DC
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792818100820
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing tomorrow: Avdelningschef till nybildad avdelning på Sida Sida - Swedish International Development Cooperation Agency Sundbyberg Senior Executive - Only open for Swedish residents and/or nationals - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1240673
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Internship in the Legal Affairs Division WTO - World Trade Organization Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243845
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: OSINT Analyst Consultant ICMP - International Commission on Missing Persons Kyiv Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243844
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Market Risk / Stagiaire - Risque de Marché CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243843
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Projects / Stagiaire - Projets CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243842
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Corporate Responsibility / Stagiaire - Responsabilité d'Entreprise CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243841
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Business process and AI innovation / Stagiaire - processus métier et de l'innovation IA CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243840
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Corporate Services CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243839
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Results Data and Analysis CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243838
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Evaluation CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243837
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Long-Term Investments & Liquidity CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243836
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Environmental and Social Sustainability - Climate Change CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243835
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern - Administrative Issues CEB - Council of Europe Development Bank Remote | Paris Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243834
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Manager Safeguarding & PSEA ? IRC - International Rescue Committee Butembo | Beni | Bunia Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243824
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultancy for Graphics Design Consultant IRC - International Rescue Committee Kampala Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243823
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Operations Manager IRC - International Rescue Committee Remote | San José | Oakland Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243822
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Medical Officer IRC - International Rescue Committee Kakuma Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243821
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Operations and Grants Management
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52135-new-york-city-treehouse-family-foundation-director-of-operations-and-grants-management
+--------------------------------------------------
