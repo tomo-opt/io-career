@@ -1,0 +1,150 @@
+[Organization] UNDP
+[Position] Climate Policy Analyst [Open to Internal & External Applicants]
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37434;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Climate Policy Analyst [Open to Internal & External Applicants] Post level NPSA-8 Apply by Nov-9-26 Agency UNDP Location Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37434
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Delivery and Performance Specialist (Open to internal and external applicants) Post level NPSA-10 Apply by Nov-2-26 Agency UNDP Location Bhutan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35648
+--------------------------------------------------
+[Organization] WFP
+[Position] Data Analytic Associate SC-6
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kyiv-Ukraine/Budget---Programming-Associate-SC-6_JR125888
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate, SC6, Bandarban
+[Location] Rangamati, Bangladesh, The People's R
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rangamati-Bangladesh-The-Peoples-R/Programme-Associate--SC6--Bandarban_JR127883
+--------------------------------------------------
+[Organization] WFP
+[Position] Readvertisement - HR Associate, SC 6
+[Location] Dar-es-Salaam, Tanzania, The United Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Dar-es-Salaam-Tanzania-The-United-Rep/Readvertisement---HR-Associate--SC-6_JR127855
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (Nutrition) - G6
+[Location] Jalalabad, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Jalalabad-AfghanistanThe-Islamic-Re/Programme-Associate--Nutrition----G6_JR127888
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Admin) -reannouncement - SC4
+[Location] Mazar-I-Sharif, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mazar-I-Sharif-AfghanistanThe-Islamic-Re/Business-Support-Assistant--Admin---reannouncement---SC4_JR127892
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (Protection, Gender, and Accountability to Affected People – PGAAP) - SC6
+[Location] Kabul, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kabul-AfghanistanThe-Islamic-Re/Programme-Associate--Protection--Gender--and-Accountability-to-Affected-People---PGAAP----SC6_JR127886
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Associate (Workshop Supervisor/Foreman)
+[Location] Herat, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Herat-AfghanistanThe-Islamic-Re/Logistics-Associate--Workshop-Supervisor-Foreman-_JR127890
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Newborn Logistics Management Information System (LMIS) Integration - Lead Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-newborn-logistics-management-information-system-lmis
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Position: Driver, Lagos, Nigeria - Local Service Contract (LSC) - LSC-2
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-position-driver-lagos-nigeria-local-service-contract-lsc-lsc-2
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Youth and Disability Inclusion and Digital Communications Support Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792994483961
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Communication, M&E and Research Specialist Crimes That Affect the Environment Team
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792994483458
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Audit Specialist, Office of Internal Audit (OIA) – (Contractual), USA, Washington DC
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792990957891
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] 2027 Fund Internship Program (FIP) - Economists, USA, Washington DC
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792990955432
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Climate Policy Analyst [Open to Internal & External Applicants], Bangkok
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1792987251266
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Job is closed: Avdelningschef till nybildad avdelning på Sida Sida - Swedish International Development Cooperation Agency Sundbyberg Senior Executive - Only open for Swedish residents and/or nationals - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1240673
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Local Consultant B - Migration Health Nurse IOM - International Organization for Migration Banjul UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243918
+--------------------------------------------------
+[Organization] Impactpool
+[Position] UN Women: Technical Specialist: Integrated Programming and Coordination, Home-Based, International Consultant UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Kabul Mid
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243917
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing tomorrow: Officer, Programs and Operations IFRC - International Federation of Red Cross and Red Crescent Societies Bogotá Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243915
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing tomorrow: Officer, IM Cash/Access RC (Earthquake Emergency Appeal) IFRC - International Federation of Red Cross and Red Crescent Societies Bogotá Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243914
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing tomorrow: Senior Officer, PMER and Quality Assurance (Earthquake Emergency Appeal) IFRC - International Federation of Red Cross and Red Crescent Societies Bogotá Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243913
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Development Economist (Value for Money Assessment) IFRC - International Federation of Red Cross and Red Crescent Societies Ankara Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243912
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Operations Manager, MEAL & Techniology IRC - International Rescue Committee Remote | United States of America | United Kingdom Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243899
+--------------------------------------------------
