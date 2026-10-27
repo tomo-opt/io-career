@@ -1,0 +1,300 @@
+[Organization] United Nations Secretariat
+[Position] SPECIAL ASSISTANT, POLITICAL AFFAIRS
+[Location] NEW YORK
+[Deadline] 2026-11-05
+[Link] https://careers.un.org/job-openings?job-id=286912
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE OFFICER
+[Location] SANTO DOMINGO
+[Deadline] 2026-11-03
+[Link] https://careers.un.org/job-openings?job-id=287206
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] AUDITOR
+[Location] NEW YORK
+[Deadline] 2026-11-09
+[Link] https://careers.un.org/job-openings?job-id=286555
+--------------------------------------------------
+[Organization] UNDP
+[Position] INTERNSHIP | Regional International Waters Team
+[Location] Istanbul, Türkiye
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37724;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] INTERNSHIP | Security Analysis and Operations
+[Location] Istanbul, Türkiye
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37722;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Intern - Communications and Outreach
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37492;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Security Associate [Open to Internal & External Applicants]
+[Location] Jakarta Pusat, Indonesia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37718;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project IT Assistant (Open to internal & external applicants)
+[Location] Suva, Fiji
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37728;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Facility Management Analyst[ouvert aux candidats internes & externes]
+[Location] Bamako, Mali
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37725;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Communications & Public Relations Assistant (Open to internal & external applicants)
+[Location] Suva, Fiji
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37730;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Special Advisor - Climate Action and Energy Transition [Open to internal and external applicants]
+[Location] Rome, Italy
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=35143;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Monitoring, Evaluation, and Knowledge Management Analyst (MEKM) [Open to Internal and External Applicants]
+[Location] Jakarta Pusat, Indonesia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37731;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Human Resources Assistant (1 vaga) (Home based) [Open to internal and external applicants]
+[Location] Brasilia, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37519;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project IT Assistant (Open to internal & external applicants) Post level NPSA-5 Apply by Nov-8-26 Agency UNDP Location Suva, Fiji
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37728
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Communications & Public Relations Assistant (Open to internal & external applicants) Post level NPSA-5 Apply by Nov-9-26 Agency UNDP Location Suva, Fiji
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37730
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst - Strategic Fund Unit, IPSA9, Nairobi, Kenya, UNCDF [Open to internal and external applicants] Post level IPSA-9 Apply by Nov-3-26 Agency UNCDF Location Nairobi, Kenya
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35210
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Special Advisor - Climate Action and Energy Transition [Open to internal and external applicants] Post level P5 Apply by Nov-1-26 Agency UNDP Location Rome, Italy
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35143
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Monitoring, Evaluation, and Knowledge Management Analyst (MEKM) [Open to Internal and External Applicants] Post level NPSA-8 Apply by Nov-3-26 Agency UNDP Location Jakarta Pusat, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37731
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Security Associate [Open to Internal & External Applicants] Post level NPSA-7 Apply by Nov-3-26 Agency UNDP Location Jakarta Pusat, Indonesia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37718
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Facility Management Analyst[ouvert aux candidats internes & externes] Post level NPSA-8 Apply by Nov-9-26 Agency UNDP Location Bamako, Mali
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37725
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Intern - Communications and Outreach Post level IN Apply by Nov-16-26 Agency UNDP Location Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37492
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title INTERNSHIP | Security Analysis and Operations Post level IN Apply by Nov-2-26 Agency UNDP Location Istanbul, Türkiye
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37722
+--------------------------------------------------
+[Organization] WFP
+[Position] Budget & Programming Officer _NOB
+[Location] Port Sudan, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-Sudan-Sudan-The-Republic-Of-The/Budget---Programming-Officer--NOB_JR127907
+--------------------------------------------------
+[Organization] WFP
+[Position] Operation Information Management Officer_SC8
+[Location] Monrovia, Liberia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Monrovia-Liberia-The-Republic-Of/Operation-Information-Management-Officer-SC8_JR127869
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Associate_SC6
+[Location] Monrovia, Liberia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Monrovia-Liberia-The-Republic-Of/Procurement-Associate-SC6_JR127868
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant_(Warehouse Management System)_SC5
+[Location] Monrovia, Liberia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Monrovia-Liberia-The-Republic-Of/Logistics-Assistant--Warehouse-Management-System--SC5_JR127867
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant – Distribution_SC5
+[Location] Monrovia, Liberia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Monrovia-Liberia-The-Republic-Of/Logistics-Assistant---Distribution-SC5_JR127863
+--------------------------------------------------
+[Organization] WFP
+[Position] Budget & Programming Associate_G6
+[Location] Monrovia, Liberia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Monrovia-Liberia-The-Republic-Of/Budget---Programming-Associate-G6_JR127949
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant to the Deputy  Regional Director
+[Location] Panama City, Panama, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Panama-City-Panama-The-Republic-Of/Business-Support-Assistant-to-the-Deputy--Regional-Director_JR127928
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Assistant SSA
+[Location] Lusaka, Zambia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lusaka-Zambia-The-Republic-Of/Logistics-Assistant-SSA_JR127927
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer NOA
+[Location] Lusaka, Zambia, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lusaka-Zambia-The-Republic-Of/Logistics-Officer-NOA_JR127915-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Associate SSA6
+[Location] Amman, Jordan, Hashemite Kingdom
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Amman-Jordan-Hashemite-Kingdom/Finance-Associate-SSA6_JR127891
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate SSA6
+[Location] Beirut, Lebanon, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beirut-Lebanon-The-Republic-Of/Programme-Associate-SSA6_JR127864
+--------------------------------------------------
+[Organization] WFP
+[Position] Budget and Data Analytic Associate SC-6
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kyiv-Ukraine/Budget---Programming-Associate-SC-6_JR125888
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Operations Analyst, NOB, Sarajevo, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-operations-analyst-nob-sarajevo-bosnia-and-herzegovina
+--------------------------------------------------
+[Organization] UNFPA
+[Position] NATIONAL POST: Programme Specialist, Health Systems, NOC, Sarajevo, Bosnia and Herzegovina
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-specialist-health-systems-noc-sarajevo-bosnia-and-herzegovina
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA Finance Associate, G7 (FTA), Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-finance-associate-g7-fta-chisinau-moldova-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Census Programme Coordination Specialist, P4, Kinshasa, Democratic Republic of Congo
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/census-programme-coordination-specialist-p4-kinshasa-democratic-republic-congo
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Finance Associate, G6 , Kinshasa, RD Congo
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/finance-associate-g6-kinshasa-rd-congo
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Logistics Specialist, P3, Kinshasa, Democratic Republic of Congo
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/logistics-specialist-p3-kinshasa-democratic-republic-congo
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Newborn Logistics Management Information System (…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-newborn-logistics-management-information-system-lmis-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Newborn Logistics Management Information System (…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-newborn-logistics-management-information-system-lmis
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Data & Analytics Senior Associate - Marketing Communications & Data (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Data-&-Analytics-Senior-Associate-Marketing-Communications-&-Data-DC-20577/1443729400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Resource Planning & Administration Senior Associate (Washington D.C., US, 20577)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Washington-D_C_-Resource-Planning-&-Administration-Senior-Associate-DC-20577/1443617800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Consultance internationale pour l’appui stratégique aux ressources humaines et à la préparation du CPD 2028-2032 de l'UNICEF au Togo, RH, Lomé
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1793034049055
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern - Communications and Outreach, Bangkok
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1793080856945
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: Officer, Programs and Operations IFRC - International Federation of Red Cross and Red Crescent Societies Bogotá Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243915
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: Officer, IM Cash/Access RC (Earthquake Emergency Appeal) IFRC - International Federation of Red Cross and Red Crescent Societies Bogotá Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243914
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: Senior Officer, PMER and Quality Assurance (Earthquake Emergency Appeal) IFRC - International Federation of Red Cross and Red Crescent Societies Bogotá Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243913
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing tomorrow: Development Economist (Value for Money Assessment) IFRC - International Federation of Red Cross and Red Crescent Societies Ankara Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1243912
+--------------------------------------------------
