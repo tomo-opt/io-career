@@ -1,0 +1,192 @@
+[Organization] United Nations Secretariat
+[Position] Driver
+[Location] FO Jordan
+[Deadline] 2026-11-15
+[Link] https://careers.un.org/job-openings?job-id=287041
+--------------------------------------------------
+[Organization] UNDP
+[Position] Risk Analyst (Open Internal & External Applicants)
+[Location] Mogadiscio, Somalia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37769;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Risk Analyst (Open Internal & External Applicants) Post level NPSA-9 Apply by Nov-8-26 Agency UNDP Location Mogadiscio, Somalia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37769
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Officer, Consultant- Level II, Adre
+[Location] Adre, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Adre-Chad-The-Republic-Of/IT-Operations-Officer--Consultant--Level-II--Adre_JR128068
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Equatorial Guinea, Communications Intern
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/equatorial-guinea-communications-intern
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, Gender, NOB, Dili, Timor Leste
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-gender-nob-dili-timor-leste
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Individual Consultant for Review and Strengthening of the TatoHubs Model:…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/individual-consultant-review-and-strengthening-tatohubs-model-effectiveness-implementation-and
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Risk Analyst (Open Internal & External Applicants), Mogadishu
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1793520047677
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] News Writing / Reporting - Public Information Intern - News and Content - Russian
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1793512844642
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] News writing / Multimedia production - Public Information Intern - News and Content - Arabic
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1793512843444
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Student Research Assistant Traineeship Programme – Financial Research, Frankfurt am Main, Germany
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1793422847480
+--------------------------------------------------
+[Organization] Impactpool
+[Position] CHIEF OF SECTION, ECONOMIC AFFAIRS UNECA - United Nations Economic Commission for Africa Addis Ababa P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245090
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing tomorrow: Partnerships Consultant to Support Member Country Engagement and Strategic Initiatives OPEC Fund for International Development Vienna Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1244700
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: Roster: Programme Management Specialist WHO - World Health Organization Multiple locations P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245423
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: Roster: Programme Management Officer WHO - World Health Organization Multiple locations P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245422
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Regional Adviser (Nutrition, Physical Activity and Obesity) WHO - World Health Organization Copenhagen P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245419
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Operations Support Officer WHO - World Health Organization Apia P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245418
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Medical Officer (Elimination of Mother-to-Child Transmission of HIV, Syphilis and Hepatitis B) WHO - World Health Organization Geneva P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245417
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Technical Officer (Blood Products & Blood System) WHO - World Health Organization Geneva P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245416
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Health Cluster Coordinator WHO - World Health Organization Mogadishu P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245414
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Communications Officer WHO - World Health Organization Phnom Penh P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245413
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: International Consultant- Development of training course on integrating environmental health into One Health for central Asia WHO - World Health Organization Remote | Bonn Level B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245412
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Roster of International consultant – Antimicrobial Use (AMU), Access and/or Stewardship WHO - World Health Organization Remote | New Delhi Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245411
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: International Consultant- Nature-based solutions (NbS), One Health, and environmental health policy and evidence synthesis WHO - World Health Organization Remote | Bonn B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245410
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Closing today: International Consultant- Nature-based solutions (NbS) for health and well-being WHO - World Health Organization Remote | Bonn Level B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245409
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Roster of International consultant – Strategic planning, costing, monitoring, and evaluation for antimicrobial resistance (AMR) WHO - World Health Organization Remote | New Delhi Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245407
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Roster of International consultant – Antimicrobial resistance (AMR) surveillance and/or laboratory strengthening for AMR WHO - World Health Organization Remote | New Delhi Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245406
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Technical Officer (Asia Pacific Observatory) WHO - World Health Organization Manila P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245405
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Technical Officer (Access to Assistive Technologies) WHO - World Health Organization Suva P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245402
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Public health Officer (epidemiology) WHO - World Health Organization Suva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245400
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Technical Officer, Immunization Information Systems WHO - World Health Organization Manila P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245397
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Director, Governance, Languages, Communications and External Relations WHO - World Health Organization Copenhagen D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1245394
+--------------------------------------------------
