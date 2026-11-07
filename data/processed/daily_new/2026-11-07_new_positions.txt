@@ -1,0 +1,270 @@
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS ASSISTANT
+[Location] BOGOTA
+[Deadline] 2026-11-20
+[Link] https://careers.un.org/job-openings?job-id=287709
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Programme Management Assistant
+[Location] NEW YORK
+[Deadline] 2026-11-20
+[Link] https://careers.un.org/job-openings?job-id=287524
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TELECOMMUNICATIONS OFFICER
+[Location] VALENCIA
+[Deadline] 2026-12-21
+[Link] https://careers.un.org/job-openings?job-id=267981
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] MEETINGS SERVICES ASSISTANT
+[Location] GENEVA
+[Deadline] 2026-11-14
+[Link] https://careers.un.org/job-openings?job-id=287947
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS OFFICER
+[Location] BANGUI
+[Deadline] 2026-11-13
+[Link] https://careers.un.org/job-openings?job-id=287791
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] GENEVA
+[Deadline] 2026-11-21
+[Link] https://careers.un.org/job-openings?job-id=285022
+--------------------------------------------------
+[Organization] UNDP
+[Position] Operations Analyst (Open to internal and external candidates)
+[Location] Bonn, Germany
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36834;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Director, Rome Centre [Open to internal and external applicants]
+[Location] Rome, Italy
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37938;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Director, Rome Centre [Open to internal and external applicants] Post level P6 Apply by Nov-13-26 Agency UNDP Location Rome, Italy
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37938
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Small Grants Programme National Coordinator [Open to internal and external applicants] Post level NPSA-9 Apply by Nov-27-26 Agency UNDP Location La Habana, Cuba
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/32799
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Analista de Ciência de Dados (1 vaga) (Home Based) - [Open to internal and external applicants] Post level NPSA-8 Apply by Nov-13-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36821
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Operations Assistant, WCARO, Dakar, Senegal, G5
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/operations-assistant-wcaro-dakar-senegal-g5
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Readvertisment-NATIONAL POST: Partnerships, Resource Mobilization and Advocacy Analyst, NOB, Dili, Timor Leste
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/readvertisment-national-post-partnerships-resource-mobilization-and-advocacy-analyst-nob-dili
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: International Consultant - Health Financing Data, National Health Accounts and Financial Protection, WHO Country Office, Phnom Penh, Cambodia WHO - World Health Organization Remote | Phnom Penh B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246729
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Medical Officer WHO - World Health Organization Geneva P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246728
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Director ORD (Office of Regional Director) WHO - World Health Organization Congo-Brazzaville D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246727
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: VN 032-GN10-2026-National Project Officer (NOA-1) IOM - International Organization for Migration Conakry NO-A, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246720
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Analyst, AI/ML Engineer UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals London Junior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246719
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Principal, Counsel (Equity Funds) UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals London Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246718
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: National Recruited Staff (NRS) CIP - International Potato Center Lima Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246716
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Auxiliar de Campo CIP - International Potato Center Huancayo Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246715
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: INFORMATION SYSTEMS OFFICER (Temporary Job Opening) UNCTAD - United Nations Conference on Trade and Development Bangui P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246713
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Operations Management Support Specialist UNV - United Nations Volunteers Tunisia Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246712
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Operational Assurance Officer IFRC - International Federation of Red Cross and Red Crescent Societies Bunia National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246704
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Operational Assurance Team Coordinator IFRC - International Federation of Red Cross and Red Crescent Societies Bunia National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246703
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Finance Officer IFRC - International Federation of Red Cross and Red Crescent Societies Democratic Republic of Congo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246702
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Driver IFRC - International Federation of Red Cross and Red Crescent Societies Antananarivo National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246701
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Administration Officer IFRC - International Federation of Red Cross and Red Crescent Societies Democratic Republic of Congo Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246700
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officer, Logistics & Procurement IFRC - International Federation of Red Cross and Red Crescent Societies Dakar National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246699
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Operations Manager IFRC - International Federation of Red Cross and Red Crescent Societies Bunia D1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246698
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officer, Finance and Program Support IFRC - International Federation of Red Cross and Red Crescent Societies Dakar National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246697
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Public Policy Manager Intern - Q1 2027, EU Public Policy Team
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52243-brussels-belgium-amazon-public-policy-manager-intern-q1-2027-eu-team
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate Program Officer - Office of International Networks, Cooperation, and Security
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52242-washington-dc-the-national-academies-of-sciences-engineering-and-medicine-associate-program-officer-office-international-networks-cooperation-security
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Strategic Threats Program Manager Senior Associate
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52241-washington-dc-jpmorganchase-strategic-threats-program-manager-senior-associate
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Chief Operating Officer (COO)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52240-brussels-belgium-network-of-european-foundations-chief-operating-officer-coo
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Vice President, Enterprise Transformation & Delivery
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52239-remote-dc-edreports-vice-president-enterprise-transformation-delivery
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Business Development & Operations Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52238-washington-dc-mce-social-capital-business-development-operations-analyst
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Global Burden of Disease Postdoctoral Fellowship
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52237-seattle-washington-the-institute-for-health-metrics-and-evaluation-global-burden-of-disease-postdoctoral-fellowship
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Chief Development Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52236-new-york-village-health-works-chief-development-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Service Management Assistant
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52235-valencia-spain-unicc-service-management-assistant
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Executive Director
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52234-remote-new-york-climate-resilience-funder-collaborative-the-executive-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Impact and System Evaluation Advisor (Part-Time: 50%)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52233-bonn-germany-welthungerhilfe-impact-and-system-evaluation-advisor-part-time-50
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Operations Director – Afghanistan
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52232-taloquan-afghanistan-concern-worldwide-operations-director
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] HQ Procurement Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52231-switzerland-medecins-sans-frontieres-en-suisse-hq-procurement-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adjunct Faculty - SPA Dept of Government (Open Continuous)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52230-washington-dc-american-university-adjunct-faculty-spa-dept-of-government-open-continuous
+--------------------------------------------------
