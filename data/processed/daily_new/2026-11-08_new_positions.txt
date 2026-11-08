@@ -1,0 +1,156 @@
+[Organization] United Nations Secretariat
+[Position] HUMAN RESOURCES OFFICER
+[Location] MONTREAL
+[Deadline] 2026-12-08
+[Link] https://careers.un.org/job-openings?job-id=287993
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] MD Chief of Finance
+[Location] HQ Amman
+[Deadline] 2026-11-22
+[Link] https://careers.un.org/job-openings?job-id=287750
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Employment Services Center Coordinator
+[Location] FO Syria
+[Deadline] 2026-11-22
+[Link] https://careers.un.org/job-openings?job-id=287838
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Analyst Programmer
+[Location] FO Syria
+[Deadline] 2026-11-22
+[Link] https://careers.un.org/job-openings?job-id=287841
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TRANSPORT OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-11-14
+[Link] https://careers.un.org/job-openings?job-id=287987
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] 2027 Fund Internship Program (FIP) - Economists, USA, Washington DC
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794114080585
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Human Resources Specialist (Recruitment & Talent Outreach) ICAO - International Civil Aviation Organization Montreal P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246747
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MEAL Manager IRC - International Rescue Committee Bangladesh Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246745
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MD Chief of Finance (for internal candidates only) UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman ML7
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246741
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Oficial de Salud IRC - International Rescue Committee Ipiales Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246738
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Auxiliar de Salud IRC - International Rescue Committee Samaniego | Ipiales | Cumbitara Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246737
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Enfermero(a) IRC - International Rescue Committee Tumaco | San Andrés Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246736
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Core Services Caseworker IRC - International Rescue Committee Remote | Atlanta Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246735
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Medico(a) IRC - International Rescue Committee Ipiales Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246734
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Media Officer (Digital Content and Production – Creative Lead) - CSFCS IMF - International Monetary Fund Washington D.C. A11, A12
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246731
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Resident Advisor on Financial Market Infrastructures (FMIs) (AFRITAC East, Tanzania) MCMTA IMF - International Monetary Fund Dar es Salaam A11, A12, A13, A14 - International Professional - Internationally recruited position
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246730
+--------------------------------------------------
+[Organization] Impactpool
+[Position] International Consultant - Health Financing Data, National Health Accounts and Financial Protection, WHO Country Office, Phnom Penh, Cambodia WHO - World Health Organization Remote | Phnom Penh B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246729
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Medical Officer WHO - World Health Organization Geneva P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246728
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Director ORD (Office of Regional Director) WHO - World Health Organization Congo-Brazzaville D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246727
+--------------------------------------------------
+[Organization] Impactpool
+[Position] VN 032-GN10-2026-National Project Officer (NOA-1) IOM - International Organization for Migration Conakry NO-A, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246720
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Analyst, AI/ML Engineer UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals London Junior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246719
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Principal, Counsel (Equity Funds) UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals London Senior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246718
+--------------------------------------------------
+[Organization] Impactpool
+[Position] National Recruited Staff (NRS) CIP - International Potato Center Lima Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246716
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Auxiliar de Campo CIP - International Potato Center Huancayo Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246715
+--------------------------------------------------
+[Organization] Impactpool
+[Position] INFORMATION SYSTEMS OFFICER (Temporary Job Opening) UNCTAD - United Nations Conference on Trade and Development Bangui P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246713
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Operations Management Support Specialist UNV - United Nations Volunteers Tunisia Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246712
+--------------------------------------------------
