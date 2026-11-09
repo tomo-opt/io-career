@@ -1,0 +1,258 @@
+[Organization] United Nations Secretariat
+[Position] Field Social Services Officer
+[Location] FO West Bank
+[Deadline] 2026-11-22
+[Link] https://careers.un.org/job-openings?job-id=287545
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Assistant Project Officer
+[Location] FO West Bank
+[Deadline] 2026-11-22
+[Link] https://careers.un.org/job-openings?job-id=287193
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF UNIT, RISK MANAGEMENT AND COMPLIANCE
+[Location] KABUL
+[Deadline] 2026-12-08
+[Link] https://careers.un.org/job-openings?job-id=287883
+--------------------------------------------------
+[Organization] UNDP
+[Position] Internship (Development as Defense: Stakeholder Mapping, Partnerships, and Financing)
+[Location] Home Based
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37982;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Results Based Management/Monitoring & Evaluation Associate (Open to Internal & External Applicants)
+[Location] Cairo, Egypt
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37980;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Information Technology Analyst - AI and Emerging Technologies, IPSA-9, New York, USA, UNCDF [Open to internal and external applicants] Post level IPSA-9 Apply by Nov-16-26 Agency UNCDF Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37681
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Results Based Management/Monitoring & Evaluation Associate (Open to Internal & External Applicants) Post level NPSA-6 Apply by Nov-15-26 Agency UNDP Location Cairo, Egypt
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37980
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Internship (Development as Defense: Stakeholder Mapping, Partnerships, and Financing) Post level IN Apply by Nov-15-26 Agency UNDP Location Home Based
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37982
+--------------------------------------------------
+[Organization] WFP
+[Position] Supply Chain Officer (Commodity Accounting and Retail Management) - Consultant Level II - Mogadishu
+[Location] Mogadiscio, Somalia, The Dem. Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Supply-Chain-Officer--Commodity-Accounting-and-Retail-Management----Consultant-Level-II---Mogadishu_JR128275
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer (Port Operations)
+[Location] Port Sudan, Sudan, The Republic Of The
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Port-Sudan-Sudan-The-Republic-Of-The/Logistics-Officer--Port-Operations-_JR128276
+--------------------------------------------------
+[Organization] WFP
+[Position] VA048-2026 Programme Assistant (Nutrition) (SC5) Qamishli
+[Location] Al Qamishli, Syria, The Arab Republic O
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Al-Qamishli-Syria-The-Arab-Republic-O/VA048-2026-Programme-Assistant--Nutrition---SC5--Qamishli_JR128023-2
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Monitoring and Evaluation (M&E) Consultant
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-monitoring-and-evaluation-me-consultant
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Assistant(e) en Communication et Relations Publiques, LSC-5, Yaoundé, Cameroun
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/assistante-en-communication-et-relations-publiques-lsc-5-yaound%C3%A9-cameroun
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Communications, Partnerships & Resource Mobilization Analyst, Lesotho Country Office, NOA
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/communications-partnerships-resource-mobilization-analyst-lesotho-country-office-noa
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Strategic Data Information Analyst, Lesotho Country Office, NOB
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/strategic-data-information-analyst-lesotho-country-office-nob
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Assistant, GS5, FTA, Guatemala City, Guatemala
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-assistant-gs5-fta-guatemala-city-guatemala
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Fundraising & Donor Retention Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/fundraising-donor-retention-consultancy
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Representative El Salvador, P5, FTA, San Salvador, El Salvador
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/representative-el-salvador-p5-fta-san-salvador-el-salvador
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Readvertisment-NATIONAL POST: Partnerships, Resource Mobilization and Advocacy…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/readvertisment-national-post-partnerships-resource-mobilization-and-advocacy-analyst-nob-dili
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Information Technology Analyst - AI and Emerging Technologies, IPSA-9, New York, USA, UNCDF [Open to internal and external applicants]
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794204054396
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERN - HUMAN RIGHTS
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794204049783
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Video / Graphics - INTERN - PUBLIC INFORMATION – Video Section
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794204049326
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern- AVIATION PROJECT MANAGEMENT
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794204048345
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Economic Affairs Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794204047910
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Public Information Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794204047429
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant to support the Evaluation of the “Enhancing Social Cohesion through Rehabilitation and Empowerment of Marginalized Youth in Liberia (A-YEP) Project, Monrovia
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794200465829
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Internship (Development as Defense: Stakeholder Mapping, Partnerships, and Financing), Home Based
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794196844596
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Roster -Medical Officer (Polio Eradication and Vaccine-Preventable Diseases) WHO - World Health Organization Cairo P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246787
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Logistics Intern DR Congo Goma BN NRC - Norwegian Refugee Council Goma Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246785
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Intern- AVIATION PROJECT MANAGEMENT UN DOS - United Nations Department of Operational Support Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246784
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Aden National Shelter, Lands and Site Coordination (SLSC) Officer (NOA) IOM - International Organization for Migration Aden NO-A, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246781
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MHPSS Response Officer (Assisted Voluntary Return (AVR)) (P) IOM - International Organization for Migration Kigali P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246780
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Protection Coordinator (P) IOM - International Organization for Migration Kigali P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246779
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Public Information Intern UN DGC - United Nations Department of Global Communications New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246776
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Economic Affairs Intern UNDESA - United Nations Department of Economic and Social Affairs New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246775
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: INTERN - HUMAN RIGHTS UN OHCHR - Office of the High Commissioner for Human Rights Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246774
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Video / Graphics - INTERN - PUBLIC INFORMATION – Video Section UN DGC - United Nations Department of Global Communications Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246773
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Field Social Services Officer-Relief and social services programme- Fixed term-for internal cndidates only-grade UNRWA - United Nations Relief and Works Agency for Palestinian Refugees West Bank 16
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246768
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Employment Program Supervisor IRC - International Rescue Committee Dallas Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246764
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Risk Management Officer UNAMA - United Nations Assistance Mission in Afghanistan Kabul P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246762
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Information Management (IM) & Geographic Information Systems (GIS) Officer IOM - International Organization for Migration Damascus UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246761
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Immigration and Border Governance (IBG) International Consultant – HRDDP Risk Assessment for Strengthening Humanitarian Border Management IOM - International Organization for Migration Syria UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246760
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant Projects Officer - For Internal and External Candidates- Limited Duration Contract (LDC)/ Band E "Step 1"- Projects Office- West Bank- Band E RLG UNRWA - United Nations Relief and Works Agency for Palestinian Refugees West Bank Band E
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246751
+--------------------------------------------------
