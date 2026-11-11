@@ -1,0 +1,336 @@
+[Organization] United Nations Secretariat
+[Position] MECHANICAL APPRENTICE
+[Location] NEW YORK
+[Deadline] 2026-11-25
+[Link] https://careers.un.org/job-openings?job-id=285878
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LEGAL OFFICER
+[Location] PORT-AU-PRINCE
+[Deadline] 2026-11-25
+[Link] https://careers.un.org/job-openings?job-id=288215
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] RISK OFFICER
+[Location] NEW YORK
+[Deadline] 2026-12-25
+[Link] https://careers.un.org/job-openings?job-id=288185
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-12-10
+[Link] https://careers.un.org/job-openings?job-id=284583
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ECONOMIC AFFAIRS ASSISTANT
+[Location] BOGOTA
+[Deadline] 2026-11-17
+[Link] https://careers.un.org/job-openings?job-id=288055
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Programme Management Assistant
+[Location] NEW YORK
+[Deadline] 2026-11-17
+[Link] https://careers.un.org/job-openings?job-id=287800
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PUBLIC INFORMATION ASSISTANT
+[Location] NEW YORK
+[Deadline] 2026-11-17
+[Link] https://careers.un.org/job-openings?job-id=286910
+--------------------------------------------------
+[Organization] UNDP
+[Position] Social media video production intern
+[Location] New York, United States
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38018;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Program Associate [Open to internal and external applicants]
+[Location] Dar es Salaam, Tanzania
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37505;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Technical Specialist [Open to internal and external applicants]
+[Location] Vientiane, Lao People's Democratic Republic
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37384;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] AI Innovation Analyst  [Open to internal and external applicants]
+[Location] Bonn, Germany
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38011;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNICEF
+[Position] International Consultant: After-Action Review of UNICEF’s Response to the 2026 Nepal Rasuwa Floods, Bangkok Thailand, Evaluation section, Remote (With Travel)#596919
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/international-consultant-after-action-review-of-unicef-s-response-to-the-2026-nepal-rasuwa-floods-bangkok-thailand-evaluation-section-remote-with-travel-596919-thailand
+--------------------------------------------------
+[Organization] UNICEF
+[Position] National coordinator on teacher/principal appraisal in schools/preschools, Education Section, 1 year 11,6 months, Tashkent, Uzbekistan (Nationals only) Home based with travel
+[Location] building resources to support implementation and promote continuous professional
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/national-coordinator-on-teacher-principal-appraisal-in-schools-preschools-education-section-1-year-11-6-months-tashkent-uzbekistan-nationals-only-home-based-with-travel-uzbekistan
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Consultancy (International-only) for BMZ/KfW Joint Resilience and Social Cohesion Project, Phase II, Maiduguri, Nigeria (office based) 6 months #596910
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/consultancy-international-only-for-bmz-kfw-joint-resilience-and-social-cohesion-project-phase-ii-maiduguri-nigeria-office-based-6-months-596910-nigeria
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Risk and Compliance Manager, P-4, Fixed Term Position, ECAMENA Regional Office, ECAMENA-Office of the Regional Director, Istanbul, Türkiye #00136965
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/risk-and-compliance-manager-p-4-fixed-term-position-ecamena-regional-office-ecamena-office-of-the-regional-director-istanbul-turkiye-00136965-turkiye
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Logistics Assistant, G-5, Temporary Position, 364 days, Supply Division, COPENHAGEN, #00139037 (Open to EU citizens and valid Danish work permit holders)
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/logistics-assistant-g-5-temporary-position-364-days-supply-division-copenhagen-00139037-open-to-eu-citizens-and-valid-danish-work-permit-holders-denmark
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Climate and Energy Consultant, Climate Resilience COE Section, 1 year, Bangkok, Thailand, (Internationals only) Home based with Travel
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/climate-and-energy-consultant-climate-resilience-coe-section-1-year-bangkok-thailand-internationals-only-home-based-with-travel-thailand
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Llamado a integrar un roster de profesionales para consultorías individuales de UNICEF uruguay en el marco del programa de cooperación 2027–2030
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/llamado-a-integrar-un-roster-de-profesionales-para-consultorias-individuales-de-unicef-uruguay-en-el-marco-del-programa-de-cooperacion-2027-2030-uruguay
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Internship programme
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/en-us/listing/
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title AI Innovation Analyst [Open to internal and external applicants] Post level IPSA-9 Apply by Nov-24-26 Agency UNDP Location Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38011
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Divisional Disaster Risk Management Coordination Associate [4 positions - DS Suva, DS Lautoka, DS Nausori & DS Labasa]{Open to internal and external applicants} Post level NPSA-7 Apply by Nov-19-26 Agency UNDP Location Suva, Fiji
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37915
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Technical Specialist [Open to internal and external applicants] Post level IPSA-10 Apply by Nov-20-26 Agency UNDP Location Vientiane, Lao People's Democratic Republic
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37384
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Operations Analyst (Open to internal and external candidates) Post level P2 Apply by Nov-15-26 Agency UNV Location Bonn, Germany
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36834
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Operations Associate, Volunteer Lifecycle Management (Open to internal & external applicants) Post level NPSA-6 Apply by Nov-25-26 Agency UNV Location Tunisia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37092
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Operations Associate, Volunteer Recruitment (Open to internal & external applicants) Post level NPSA-6 Apply by Nov-25-26 Agency UNV Location Tunisia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37586
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Social media video production intern Post level IN Apply by Dec-9-26 Agency UNDP Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38018
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate - Cash-Based Transfers (CBT) SC6,  Moroto
+[Location] Moroto, Uganda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Moroto-Uganda-The-Republic-Of/Programme-Associate---Cash-Based-Transfers--CBT--SC6---Moroto_JR128357
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Livelihood and Technical Training Specialist)_SC8 based at the Ministry of Agriculture and Environment
+[Location] Vientiane, Laos, The People's Dem. Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Vientiane-Laos-The-Peoples-Dem-Re/Programme-Policy-Officer--Livelihood-and-Technical-Training-Specialist--SC8-based-in-the-Department-of-Rural-Development-and-Poverty-Reduction--DRD-PR--of-the-Ministry-of-Agriculture-and-Environment--MAE-_JR128224
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Poverty Graduation Technical Specialist / Team Leader), SC9 based at the Ministry of Agriculture and Environment
+[Location] Vientiane, Laos, The People's Dem. Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Vientiane-Laos-The-Peoples-Dem-Re/Programme-Policy-Officer--Poverty-Graduation-Technical-Specialist---Team-Leader---SC9-based-in-the-Department-of-Rural-Development-and-Poverty-Reduction--DRD-PR--of-the-Ministry-of-Agriculture-and-Environment_JR128223
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer – School Feeding Literacy & Technical Assistance
+[Location] Phnom-Penh, Cambodia
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Phnom-Penh-Cambodia/Programme-Policy-Officer---School-Feeding-Literacy---Technical-Assistance_JR128290
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer – School Feeding
+[Location] Phnom-Penh, Cambodia
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Phnom-Penh-Cambodia/Programme-Policy-Officer---School-Feeding_JR128278
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer - P3 (Global Commodity Tracking)
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Logistics-Officer---P3--Global-Commodity-Tracking-_JR128269
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer P3 – Global Supply Chain Budget Management
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Logistics-Officer-P3---Global-Supply-Chain-Budget-Management_JR128338
+--------------------------------------------------
+[Organization] WFP
+[Position] Consultant Emergency Officer - CST2
+[Location] N'Djamena, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/NDjamena-Chad-The-Republic-Of/Consultant-Emergency-Officer---CST2_JR128065
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Individual Consultant: Situational Analysis and Strengthening GBV Case Management Response Services for Married Girls in the Philippines, Home-based (remote), Philippines
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-individual-consultant-situational-analysis-and-strengthening-gbv-case-management
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Spécialiste Suivi Evaluation; FTA/NOC; Bamako-Mali / Position Nationale
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/sp%C3%A9cialiste-suivi-evaluation-ftanoc-bamako-mali-position-nationale
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Re-Advertisement : NATIONAL POST: Programme Analyst, Youth, Kabul, Afghanistan, NO-B
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/re-advertisement-national-post-programme-analyst-youth-kabul-afghanistan-no-b
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Programme Analyst, Sexual and Reproductive Health Systems, NOB, Manila, Philippines
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/programme-analyst-sexual-and-reproductive-health-systems-nob-manila-philippines
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Administration Associate
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Administration-Associate/5163
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: IIASA Talent Pool - Expression of Interest IIASA - International Institute for Applied Systems Analysis Remote | Laxenburg | Vienna Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247312
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultoría para la actualización de protocolos de identificación, asistencia, protección, referencia y reintegración de víctimas y sobrevivientes de trata de personas, incorporando la respuesta a la trata facilitada por la tecnología IOM - International Organization for Migration UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247307
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: National Consultant: Lead Legal Expert to Review Documentation Procedures for Victims of TIP IOM - International Organization for Migration Chişinău UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247306
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Expedited SVN: Programme Officer (Peace and Recovery) (P) IOM - International Organization for Migration Aden P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247305
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: National Consultant: Expert on Legal and Technical Support to MLSP for Strengthening NRMV Implementation IOM - International Organization for Migration Chişinău UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247304
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: National Consultant: Legal Expert to Support the Review of Documentation Procedures for Victims of TiP IOM - International Organization for Migration Chişinău UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247303
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Administrative Assistant IOM - International Organization for Migration Caracas UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247302
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Information and Communications Technology (ICT) Officer (Information Security Officer) (P) IOM - International Organization for Migration Valencia UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247301
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Asociado de Apoyo Psicosocial (AVRR) IOM - International Organization for Migration Caracas UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247300
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Asistente de Apoyo en Terreno (AVRR) IOM - International Organization for Migration Caracas UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247299
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Asistente de Apoyo a la Reintegración (AVRR) IOM - International Organization for Migration Caracas UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247298
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: INT 2026 003 | Medical Assistant Intern IOM - International Organization for Migration Manila UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247297
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Nutrition Specialist IRC - International Rescue Committee Spokane | Wa Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247294
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Health Officer IRC - International Rescue Committee Al-Dhalee Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247293
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Pasantía ONU Derechos Humanos UN OHCHR - Office of the High Commissioner for Human Rights Santiago Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247289
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Pathogen Elimination & Post-Entry Quarantine Specialist CIP - International Potato Center Lima Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247284
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Indo-Pacific Intelligence Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52259-dc-global-seekers-malaysia-indo-pacific-intelligence-analyst
+--------------------------------------------------
