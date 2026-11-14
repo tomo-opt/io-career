@@ -1,0 +1,348 @@
+[Organization] United Nations Secretariat
+[Position] PRINCIPAL POLITICAL AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-12-28
+[Link] https://careers.un.org/job-openings?job-id=287901
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LANGUAGE TEACHER, FRENCH
+[Location] NEW YORK
+[Deadline] 2026-11-28
+[Link] https://careers.un.org/job-openings?job-id=282985
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE PROCUREMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-12-28
+[Link] https://careers.un.org/job-openings?job-id=287625
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE OFFICER
+[Location] CARACAS
+[Deadline] 2026-11-28
+[Link] https://careers.un.org/job-openings?job-id=288087
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE OFFICER
+[Location] DAKAR
+[Deadline] 2026-12-13
+[Link] https://careers.un.org/job-openings?job-id=287752
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] PANAMA CITY
+[Deadline] 2026-11-28
+[Link] https://careers.un.org/job-openings?job-id=288283
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMANITARIAN AFFAIRS OFFICER
+[Location] DAMASCUS
+[Deadline] 2026-11-28
+[Link] https://careers.un.org/job-openings?job-id=288107
+--------------------------------------------------
+[Organization] UNDP
+[Position] Communications Analyst (Open to internal and external candidates)
+[Location] Home Based
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38070;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Procurement Analyst (Home Based) [Open to Internal and External Applicatns]
+[Location] Bogota, Colombia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37779;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst – Climate Risk, NPSA 8, Dhaka, Bangladesh (UNCDF) - [Open to internal and external applicants]
+[Location] Dhaka, Bangladesh
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=36389;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Operations Officer, NO-2, Fixed Term Position, #118118, Pemba - Mozambique, ESAR
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/operations-officer-no-2-fixed-term-position-118118-pemba-mozambique-esar-mozambique
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Consultant(e)National(e)-appui pour système renforcement de collecte des données sur la protection de l’enfant ,Child Protection section,Antananarivo,6 Mois,au bureau, avec déplacements.596982
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/consultant-e-national-e-appui-pour-systeme-renforcement-de-collecte-des-donnees-sur-la-protection-de-l-enfant-child-protection-section-antananarivo-6-mois-au-bureau-avec-deplacements-596982-m
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Senior Warehouse Associate (G-7), TA, 6 months, #00139112, Juba-South Sudan, ESAR
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/senior-warehouse-associate-g-7-ta-6-months-00139112-juba-south-sudan-esar-south-sudan
+--------------------------------------------------
+[Organization] UNICEF
+[Position] International Health Consultant (remote with travel for 3.5 months)
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/international-health-consultant-remote-with-travel-for-3-5-months-timor-leste
+--------------------------------------------------
+[Organization] UNICEF
+[Position] MHPSS Sub-strategy for Children. Adolescents, and Caregivers Operational Plan and MEAL Framework Consultant, Child Protection Section,8.5 months, Beirut, Lebanon & On-site (Nationals & Internationals)
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/mhpss-sub-strategy-for-children-adolescents-and-caregivers-operational-plan-and-meal-framework-consultant-child-protection-section-8-5-months-beirut-lebanon-on-site-nationals-internationals-l
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Médecin [Ouvert aux candidats Internes et Externes] Post level NOC Apply by Nov-27-26 Agency UNDP Location Niamey, Niger
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37751
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Communications Analyst (Open to internal and external candidates) Post level NPSA-9 Apply by Nov-20-26 Agency UNV Location Home Based
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38070
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Officer NOA
+[Location] Fort-Dauphin, Madagascar, The Democratic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Fort-Dauphin-Madagascar-The-Democratic/Management-Services-Officer-NOA_JR128413
+--------------------------------------------------
+[Organization] UNFPA
+[Position] UNFPA Mexico - Sexual and Reproductive Health (SRH) Analyst
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/unfpa-mexico-sexual-and-reproductive-health-srh-analyst
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Principal, International Tax Adviser, London
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794632657519
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Driver - IITA RWANDA UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Kigali BG02
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247986
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Lead - Kigali RWANDA UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Kigali BG10
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247985
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Research Team Lead – IITA KENYA UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Nairobi BG09
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247984
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Asistente II - Servicios Generales Casa de Huéspedes y Conferencias UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Palmira BG05
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247983
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Field Research Coordinator - Eastern Africa CIMMYT - International Maize and Wheat Improvement Center Lodwar Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247980
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Seed Systems Specialist CIMMYT - International Maize and Wheat Improvement Center Nairobi Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247979
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: SVN2026/047_Project Associate CCCM IOM - International Organization for Migration Port-au-Prince GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247977
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Gestor/a de Caso de Protección IOM - International Organization for Migration Santo Domingo UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247976
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: VN-EC017-2026-M&E Monitoring and evaluation assistant IOM - International Organization for Migration Quito GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247975
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Coordinador (a) Nacional de Proyecto - NOA (DC) ILO - International Labour Organization Santo Domingo NO-A, National Professional Officer - Locally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247973
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: PRINCIPAL POLITICAL AFFAIRS OFFICER UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations New York City D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247971
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Affairs Officer (Anticipatory Approach) UN OCHA - Office for the Coordination of Humanitarian Affairs Panamá P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247970
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Legal Affairs Internship UN IIIM Syria- International, Impartial and Independent Mechanism Remote | Geneva Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247968
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Administrative Officer (Head of Administration Unit) UN OCHA - Office for the Coordination of Humanitarian Affairs Caracas P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247967
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Private Markets Risk Senior Research Intern UNJSPF - United Nations Joint Staff Pension Fund Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247966
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Affairs Officer (Programme) UN OCHA - Office for the Coordination of Humanitarian Affairs Khartoum P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247965
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Associate Finance and Budget Officer UN OCHA - Office for the Coordination of Humanitarian Affairs Khartoum P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247964
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Affairs Officer/ Accountability and Impact Team (AIT) Liaison UN OCHA - Office for the Coordination of Humanitarian Affairs Damascus P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247962
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Affairs Officer (Monitoring) UN OCHA - Office for the Coordination of Humanitarian Affairs Bangui P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247961
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Associate Humanitarian Affairs Officer/Accountability and Impact Team (AIT) Liaison UN OCHA - Office for the Coordination of Humanitarian Affairs Nairobi P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247959
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Affairs Officer / Risk and Compliance Officer UN OCHA - Office for the Coordination of Humanitarian Affairs Maiduguri P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247958
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Affairs Officer (Reporting) UN OCHA - Office for the Coordination of Humanitarian Affairs Maiduguri P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247957
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Security and Safety Analyst (Compliance System Upgrade), IPSA8, Homebased UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women Remote | Home Based - May require travel IPSA-8, International Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247955
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: ASSOCIATE PROCUREMENT OFFICER UN DOS - United Nations Department of Operational Support New York City P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247952
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: 2027 CHAI Internship Intake CHAI - Clinton Health Access Initiative Remote Entry Level - Open for both International and National Professionals - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1247951
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Policy Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52330-new-york-world-animal-protection-policy-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Associate, Energy Systems Innovation
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52329-brussels-belgium-regulatory-assistance-project-rap-associate-energy-systems-innovation
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant, Europe
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52328-new-york-myriad-usa-assistant-europe
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Manager, Government Affairs
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52327-washington-dc-baker-hughes-senior-manager-government-affairs
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant Professor of Political Science
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52326-terre-haute-indiana-state-university-assistant-professor-of-political-science
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Adolescents & Youth Empowerment
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52325-italy-save-the-children-adolescents-youth-empowerment
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Director, Democracy and the Rule of Law (International)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52324-new-york-ford-foundation-program-director-democracy-and-the-rule-of-law-international
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Head of IT Operations - HQ
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52323-netherlands-international-ngo-safety-organisation-head-of-it-operations-hq
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Reporter
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52322-brussels-belgium-eu-perspectives-reporter
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant or Associate Professor and Chair of Political Science and History
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52321-hampton-virginia-university-assistant-or-associate-professor-and-chair-of-political-science-history
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Program Associate, PeaceWorks on Campus
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52320-remote-dc-peaceworks-foundation-program-associate-on-campus
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Operations Associate/Manager
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52319-washington-dc-brzezinski-global-strategies-operations-associate-manager
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Compliance Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52318-paris-france-council-of-europe-development-bank-ceb-compliance-officer
+--------------------------------------------------
