@@ -1,0 +1,210 @@
+[Organization] United Nations Secretariat
+[Position] Finance Associate - Treasury Operations
+[Location] HQ Amman
+[Deadline] 2026-11-30
+[Link] https://careers.un.org/job-openings?job-id=288110
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] TRANSPORT ASSISTANT
+[Location] TRIPOLI (LIBYA)
+[Deadline] 2026-11-22
+[Link] https://careers.un.org/job-openings?job-id=288474
+--------------------------------------------------
+[Organization] UNDP
+[Position] Food Systems Community Intern, Planet Hub, BPPS (Home-based)
+[Location] Panama City, Panama
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38083;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNICEF
+[Position] INTERNAL EXTERNAL ADV: Social Policy Officer (Social Protection), NO-B, Jakarta, Indonesia, Post# 134987
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/internal-external-adv-social-policy-officer-social-protection-no-b-jakarta-indonesia-post-134987-indonesia
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Re-advert: National Consultant to Support the Methodology of Teaching Mathematics Course – Pre-service Component, Phase II (Year 2), Dushanbe, Tajikistan, 13 months, Remote with travel
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/re-advert-national-consultant-to-support-the-methodology-of-teaching-mathematics-course-pre-service-component-phase-ii-year-2-dushanbe-tajikistan-13-months-remote-with-travel-tajikistan
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Conscious Food Systems Alliance (CoFSA) Community Engagement & Hubs Activation Intern, Planet Hub, BPPS (Home-based) Post level IN Apply by Nov-30-26 Agency UNDP Location Panama City, Panama
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38082
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant TEC DTU
+[Location] Nairobi, Kenya, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Business-Support-Assistant-TEC-DTU_JR128365
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer - School Meals/Feeding (NOB)- Mogadishu
+[Location] Mogadiscio, Somalia, The Dem. Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Programme-Policy-Officer---School-Meals-Feeding--NOB---Mogadishu_JR128484
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer (Nutrition) - NOB - Mogadishu
+[Location] Mogadiscio, Somalia, The Dem. Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Programme-Policy-Officer--Nutrition----NOB---Mogadishu_JR128482
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (School Meals/Feeding), G6, Mogadishu
+[Location] Mogadiscio, Somalia, The Dem. Rep. Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Mogadiscio-Somalia-The-Dem-Rep-Of/Programme-Associate--School-Meals-Feeding---G6--Mogadishu_JR128483
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Assistant - SC5 (2 Positions)-2
+[Location] Kabul, Afghanistan,The Islamic Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kabul-AfghanistanThe-Islamic-Re/Finance-Assistant---SC5--2-Positions--2_JR128446
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post, Programme Finance Associate [G6], Tonga
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-programme-finance-associate-g6-tonga-0
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Disability & Inclusion Associate, LSC-6, Kampala Uganda
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-disability-inclusion-associate-lsc-6-kampala-uganda
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant: Technical Specialist (GBV/Gender, HPs, and Youth) to support…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-technical-specialist-gbvgender-hps-and-youth-support-ministry-women-and
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Advisor, Programme oversight and Stakeholder Collaboration
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Advisor-Programme-oversight-and-Stakeholder-Collaboration/4997
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Traineeship - Multimedia Communications & Graphic Design, Geneva, Switzerland
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794742138512
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Communication & Social Media Intern, Nairobi
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794808850945
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Communications Intern, New Delhi
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794808849917
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Program Support Lead CI - Children International Remote | United States Mid/Senior - Mid/Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1246937
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Youth Champions - 16 Days of Activism UNV - United Nations Volunteers Fiji Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248067
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultant international/Vaccination WHO - World Health Organization Niamey No grade
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248060
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultoría de Enlace Sectorial en Cambio Climático y Desplazamiento Interno IOM - International Organization for Migration Lima UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248059
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Global Thematic Specialist (Data and Analysis) (P) IOM - International Organization for Migration Brussels P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248058
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Migrant Protection Officer (Assisted Voluntary Return (AVR)/ Case Management)) (P) IOM - International Organization for Migration Bangui P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248057
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Programme Support Officer (Migration Health) (P) IOM - International Organization for Migration Kinshasa P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248056
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant Protection de l'Enfant IRC - International Rescue Committee Bangui 9A
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248055
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: WPE Response Officer IRC - International Rescue Committee Sittwe Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248054
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Internship Human Resources NATO - North Atlantic Treaty Organization Paris Unclassified
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248052
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: ​Intern - Public Information​ - Prague UN DGC - United Nations Department of Global Communications Prague Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248046
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Communication & Social Media Intern UNON - United Nations Office at Nairobi Nairobi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248045
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Communications intern UN DGC - United Nations Department of Global Communications New Delhi Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248044
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Regional Senior Officer, Programs & Operations IFRC - International Federation of Red Cross and Red Crescent Societies Beirut National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248041
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Coordination Specialist (SPEED), Jakarta, Indonesia, P3 UNFPA - United Nations Population Fund Jakarta P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248040
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Finance Associate - Treasury Operations (for internal and external candidates) UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman Grade 12 - Locally recruited area staff - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248038
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Finance and Administrative Assistant ILO - International Labour Organization Suva | Port Moresby GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248034
+--------------------------------------------------
