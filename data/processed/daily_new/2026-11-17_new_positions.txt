@@ -1,0 +1,294 @@
+[Organization] United Nations Secretariat
+[Position] Senior Programme Management Assistant
+[Location] BONN
+[Deadline] 2026-12-01
+[Link] https://careers.un.org/job-openings?job-id=287288
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR ADMINISTRATIVE ASSISTANT
+[Location] TOKYO
+[Deadline] 2026-12-02
+[Link] https://careers.un.org/job-openings?job-id=287892
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HUMAN RIGHTS OFFICER
+[Location] DAKAR
+[Deadline] 2026-12-21
+[Link] https://careers.un.org/job-openings?job-id=287900
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] BENEFITS OFFICER
+[Location] GENEVA
+[Deadline] 2026-12-31
+[Link] https://careers.un.org/job-openings?job-id=287792
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INFORMATION MANAGEMENT OFFICER
+[Location] GENEVA
+[Deadline] 2026-12-16
+[Link] https://careers.un.org/job-openings?job-id=288191
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROGRAMME MANAGEMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-11-23
+[Link] https://careers.un.org/job-openings?job-id=287997
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] PROCUREMENT OFFICER
+[Location] SANTIAGO
+[Deadline] 2026-12-31
+[Link] https://careers.un.org/job-openings?job-id=283364
+--------------------------------------------------
+[Organization] UNDP
+[Position] Project Analyst -BIOFIN [Open to internal and external applicants]
+[Location] Djibouti, Djibouti
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38089;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Security Operations Officer (Re-advertisement) [Open to internal and external applicants]
+[Location] Port Moresby, Papua New Guinea
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38103;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNICEF
+[Position] WASH Manager (P-4), FT, Kyiv, Ukraine
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/wash-manager-p-4-ft-kyiv-ukraine-ukraine
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Engagement, Uptake and Capacity Building Consultant – Children and the Global Debt Crisis, GPD-Director’s Office, 6 months, NY, USA (Remote) #596993
+[Location] building series with authors and speakers, develop a plan for engagement with ex
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/engagement-uptake-and-capacity-building-consultant-children-and-the-global-debt-crisis-gpd-director-s-office-6-months-ny-usa-remote-596993-united-states-new-york
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Partnerships Lead Consultant, Thimphu, Bhutan, OfficeBased, 8 Months (Open Only For International Candidates) Req#597007
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/partnerships-lead-consultant-thimphu-bhutan-officebased-8-months-open-only-for-international-candidates-req-597007-bhutan
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Budget Officer, P-2, Temporary Position, 364 days, Kabul, Afghanistan, #00138959 (Only non-Afghan can apply)
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/budget-officer-p-2-temporary-position-364-days-kabul-afghanistan-00138959-only-non-afghan-can-apply-afghanistan
+--------------------------------------------------
+[Organization] UNICEF
+[Position] Writer/Editor for UNICEF Bangladesh Country Office (Consultant), International, Remote, 5 months, Dhaka, Bangladesh
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/writer-editor-for-unicef-bangladesh-country-office-consultant-international-remote-5-months-dhaka-bangladesh-bangladesh
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Security Operations Officer (Re-advertisement) [Open to internal and external applicants] Post level NPSA-9 Apply by Nov-24-26 Agency UNDP Location Port Moresby, Papua New Guinea
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38103
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Risk Analyst (Open Internal & External Applicants) Post level NPSA-9 Apply by Nov-23-26 Agency UNDP Location Mogadiscio, Somalia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37769
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Food Systems Community Intern, Planet Hub, BPPS (Home-based) Post level IN Apply by Nov-30-26 Agency UNDP Location Panama City, Panama
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38083
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Analyst -BIOFIN [Open to internal and external applicants] Post level NPSA-8 Apply by Nov-30-26 Agency UNDP Location Djibouti, Djibouti
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38089
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Assistant (Supplier Relationship Management) - G5
+[Location] Islamabad, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Procurement-Assistant--Supplier-Relationship-Management----G5_JR128410
+--------------------------------------------------
+[Organization] WFP
+[Position] Procurement Associate - G6, Islamabad
+[Location] Islamabad, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Procurement-Associate---G6--Islamabad_JR128458
+--------------------------------------------------
+[Organization] WFP
+[Position] Intern (External relations team, WFP Brussels)
+[Location] Brussels, Belgium
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Brussels-Belgium/Intern--External-relations-team--WFP-Brussels-_JR128504-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Monitoring and Evaluation Officer (Anticipatory Action), SC9
+[Location] Nairobi, Kenya, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Nairobi-Kenya-The-Republic-Of/Monitoring-and-Evaluation-Officer--Anticipatory-Action---SC9_JR128499
+--------------------------------------------------
+[Organization] WFP
+[Position] Private and Public Sector Partnerships Officer
+[Location] London, United Kingdom
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/London-United-Kingdom/Private-and-Public-Sector-Partnerships-Officer_JR128494-2
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Security Operations Officer (Re-advertisement) [Open to internal and external applicants], Port Moresby
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794909644486
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant on Geospatial Data for SDG Monitoring and Official Statistics, Bangkok
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1794895252905
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Staff Counsellor WHO - World Health Organization Cairo P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248338
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Operations and Administration Intern - UNPAID IRC - International Rescue Committee Atlanta Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248333
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Referent*in (d/w/m) Bildung I Officer (d/f/m) Education-2 IRC - International Rescue Committee Remote Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248332
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Anti-Trafficking Casework Intern - UNPAID IRC - International Rescue Committee Tallahassee Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248331
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Anti-Trafficking Community Engagement Intern - UNPAID IRC - International Rescue Committee Tallahassee | Miami Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248330
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Immigrant Youth English Cafe Intern - UNPAID IRC - International Rescue Committee Miami Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248329
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Spring Career Development Intern - UNPAID IRC - International Rescue Committee Atlanta Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248328
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Gerente De Proyecto IRC - International Rescue Committee San Salvador Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248327
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Immigrant Youth Casework Intern - UNPAID IRC - International Rescue Committee Miami Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248326
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Learning & Impact Administrative Manager IRC - International Rescue Committee New York City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248325
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Switchboard Intern IRC - International Rescue Committee Remote | United States Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248324
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Team Leader IRC - International Rescue Committee Aden Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248323
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MEAL Lead IRC - International Rescue Committee Aden Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248322
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Finance Lead IRC - International Rescue Committee Aden Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248321
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Deputy Team Leader IRC - International Rescue Committee Aden Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248320
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultant: Emergency Communications Specialist IOM - International Organization for Migration Chuuk UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248315
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Associate IOM - International Organization for Migration Chuuk GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248314
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Consultant - Diaspora Engagement, Partnerships and Investment IOM - International Organization for Migration Banjul UG - Ungraded
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248313
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Operations Associate – DTM IOM - International Organization for Migration Port Moresby GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248312
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Cultural Mediator (Arabic), IPO IOM - International Organization for Migration Dublin GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248311
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Associate IOM - International Organization for Migration Erbil GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248310
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Project Associate IOM - International Organization for Migration Erbil GS-6, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248309
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Associate IOM - International Organization for Migration Mosul GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248308
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Associate IOM - International Organization for Migration Baghdad GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248307
+--------------------------------------------------
