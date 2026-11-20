@@ -1,0 +1,180 @@
+[Organization] United Nations Secretariat
+[Position] DATA ANALYSIS ASSISTANT
+[Location] BONN
+[Deadline] 2026-12-19
+[Link] https://careers.un.org/job-openings?job-id=284442
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DIRECTOR, PROGRAMME MANAGEMENT
+[Location] BERN
+[Deadline] 2026-12-30
+[Link] https://careers.un.org/job-openings?job-id=288773
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SECTION, MOVEMENT CONTROL
+[Location] BRINDISI
+[Deadline] 2027-01-03
+[Link] https://careers.un.org/job-openings?job-id=288058
+--------------------------------------------------
+[Organization] UNDP
+[Position] National Intern - Regional Trade Associate
+[Location] Addis Ababa, Ethiopia
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38157;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Human Resources Associate (Re-advertisement) [Open to internal and external applicants]
+[Location] Suva, Fiji
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38153;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Cientista de Dados (Office Based) [Open to internal and external applicants]
+[Location] Rio de Janeiro, Brazil
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37904;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title National Intern - Regional Trade Associate Post level IN Apply by Nov-27-26 Agency UNDP Location Addis Ababa, Ethiopia
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38157
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Human Resources Associate (Re-advertisement) [Open to internal and external applicants] Post level G7 Apply by Nov-26-26 Agency UNDP Location Suva, Fiji
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38153
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Associado(a) de Projetos de Tecnologia e Gestão do Conhecimento (Presencial) [Aberto a candidatos internos e externos] Post level NPSA-7 Apply by Dec-3-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38169
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Intern – Climate and Energy Project Support - Office based (Rome, Italy) / Home Based: Overview Post level IN Apply by Nov-20-26 Agency UNDP Location Rome, Italy
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37931
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships Officer SC-8 | East Jerusalem, Palestine
+[Location] East Jerusalem, West Bank & Gaza
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/East-Jerusalem-West-Bank--Gaza/Partnerships-Officer-SC-8---East-Jerusalem--Palestine_JR128608
+--------------------------------------------------
+[Organization] WFP
+[Position] Communications Officer
+[Location] Brasilia, Brazil, The Fed. Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Brasilia-Brazil-The-Fed-Republic/Communications-Officer_JR128614
+--------------------------------------------------
+[Organization] WFP
+[Position] IT Operations Associate
+[Location] Brasilia, Brazil, The Fed. Republic
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Brasilia-Brazil-The-Fed-Republic/IT-Operations-Associate_JR128612
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer, P4 (Project Manager - Benazir Nashonuma Programme)
+[Location] Islamabad, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Islamabad-Pakistan-The-Islamic-Rep/Programme-Policy-Officer--P4--Project-Manager---Benazir-Nashonuma-Programme-_JR128609-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer P3 – Global Commodity Tracking Information Analytics
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Logistics-Officer-P3---Global-Commodity-Tracking-Information-Analytics_JR128536
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Policy Officer - Head of Programme
+[Location] 2 Locations
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Beni-Congo-The-Dem-RepOf/Programme-Policy-Officer---Head-of-Programme_JR128417-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Social Media Consultant - Influencer Engagement
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/social-media-consultant-influencer-engagement
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Administration Senior Assistant
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Administration-Senior-Assistant/5263
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern – Climate and Energy Project Support - Office based (Rome, Italy) / Home Based: Overview
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795161644730
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Intern-Partnerships
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795154456617
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Project Management Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795154456026
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Regional Strategy & Business Development Advisor, WCA2 CHAI - Clinton Health Access Initiative Remote | Ouagadougou Associate Level - Open for both International and National Professionals - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1248987
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: INDIVIDUAL CONSULTANTS - Monitoring and Evaluation of Clean Cooking Technologies under the ASCENT Program in Zambia OPEC Fund for International Development Remote | Zambia | Home Based - May require travel Consultant - Contractors Agreement - Consultancy
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249102
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Global Volunteer Program - Training & International Placement HPtP - Humana People to People Denmark Volunteer - Volunteer
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249101
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Ayudante de invernaderos (Reclutada Localmente) CIMMYT - International Maize and Wheat Improvement Center Toluca Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249099
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Director of International Law and Policy BRC - British Red Cross Remote | UK Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249098
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Chief of Section, Movement Control UN DOS - United Nations Department of Operational Support Brindisi P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249097
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Data & Digital Innovation Analyst [Open to Tier 0, 1 & 2 applicants] UNDP - United Nations Development Programme Seoul IPSA-8, International Personnel Services Agreement - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249082
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: HUMAN RIGHTS OFFICER UN OHCHR - Office of the High Commissioner for Human Rights Geneva P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249081
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officier sécurité et Accès Humanitaire IRC - International Rescue Committee Beni Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249069
+--------------------------------------------------
