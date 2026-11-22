@@ -1,0 +1,192 @@
+[Organization] United Nations Secretariat
+[Position] Senior Environmental and Social Officer
+[Location] HQ Amman
+[Deadline] 2026-12-06
+[Link] https://careers.un.org/job-openings?job-id=288729
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Chief Field Education Programme
+[Location] FO Jordan
+[Deadline] 2026-12-06
+[Link] https://careers.un.org/job-openings?job-id=288706
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Head Field Communications Unit
+[Location] AMMAN
+[Deadline] 2026-12-06
+[Link] https://careers.un.org/job-openings?job-id=287548
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] Sabha
+[Deadline] 2026-12-05
+[Link] https://careers.un.org/job-openings?job-id=288667
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Chief Field Education Programme -For Internal candidates only, 20
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795327248292
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Head Field Communications Unit- For Internal and External Candidates UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Amman 18
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249333
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Chief Field Education Programme -For Internal candidates only UNRWA - United Nations Relief and Works Agency for Palestinian Refugees Jordan 20
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249332
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: News Writing / Reporting - Public Information Intern - News and Content - Kiswahili UN DGC - United Nations Department of Global Communications Remote | New York City Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249329
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Middle School Alliance Intern - Spring 2027 IRC - International Rescue Committee Richmond Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249327
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Community Fridge Intern (Unpaid) IRC - International Rescue Committee El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249326
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Asylum Seekers and Families Program Intern (Unpaid) IRC - International Rescue Committee San Diego Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249325
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Workplace Literacy (WPL) Adult Education Intern - UNPAID IRC - International Rescue Committee Remote | Atlanta Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249324
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Immigration Legal Services Intern - UNPAID IRC - International Rescue Committee Atlanta Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249323
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Economic Empowerment Intern - UNPAID IRC - International Rescue Committee Atlanta Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249322
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027 Health and Wellness Intern - UNPAID IRC - International Rescue Committee Atlanta Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249321
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Staff Attorney IRC - International Rescue Committee Missoula | Montana Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249320
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Grants Intern Regional Network Hubs Family Support (RNHFS) Project Intern (Unpaid) IRC - International Rescue Committee Remote | Arizona | San Diego | New York City | California Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249319
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Microenterprise Intern (Unpaid) IRC - International Rescue Committee Remote | San Diego | El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249318
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Asistente de administración IRC - International Rescue Committee Bogotá Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249317
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Refugee Field Work Intern (Unpaid) IRC - International Rescue Committee El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249316
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Resettlement Administrative Intern (Unpaid) IRC - International Rescue Committee El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249315
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Women's Resilience Center Intern (Unpaid) IRC - International Rescue Committee Remote | El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249314
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Workforce and Integration Intern (Unpaid) IRC - International Rescue Committee El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249313
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Communications and Development Intern (Unpaid) IRC - International Rescue Committee San Diego Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249312
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Spring 2027: IRC San Diego - Vocational English as a Second Language (VESL) Intern (Unpaid) IRC - International Rescue Committee El Cajon Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249311
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Finance Coordinator IRC - International Rescue Committee Baltimore Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249310
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Call for expression of interest for trainees - Prudential Regulation and Supervisory Policy Department EBA - European Banking Authority Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249309
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Greenhouse Auxiliary CIMMYT - International Maize and Wheat Improvement Center Mexico Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249307
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Laboratory Research Assistant CIMMYT - International Maize and Wheat Improvement Center Mexico Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249306
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Resident Advisor on Monetary and Foreign Exchange Market Operations (CAPTAC-DR) (MCMTA) IMF - International Monetary Fund Guatemala City A11, A12, A13, A14 - International Professional - Internationally recruited position
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249303
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Re-advertisement: Gender Based Violence Information Management Officer, P3-FTA Port-Sudan Sudan UNFPA - United Nations Population Fund Port Sudan P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249302
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Accounting Clerk UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Rome Junior
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249301
+--------------------------------------------------
