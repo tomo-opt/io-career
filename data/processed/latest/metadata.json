@@ -1,6 +1,6 @@
 {
-  "generated_at_bj": "2026-11-22 17:39:53",
-  "record_count": 12564,
+  "generated_at_bj": "2026-11-23 18:38:34",
+  "record_count": 12617,
   "error_count": 1,
   "errors": [
     "adb_jobs: all source URLs failed (HTTP request failed: https://www.adb.org/work-with-us/careers (403 Client Error: Forbidden for url: https://www.adb.org/work-with-us/careers))"

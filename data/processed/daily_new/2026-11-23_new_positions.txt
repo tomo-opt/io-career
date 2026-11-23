@@ -1,0 +1,318 @@
+[Organization] United Nations Secretariat
+[Position] ADMINISTRATIVE ASSISTANT
+[Location] DAKAR
+[Deadline] 2026-11-30
+[Link] https://careers.un.org/job-openings?job-id=288823
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS ASSISTANT
+[Location] TRIPOLI (LIBYA)
+[Deadline] 2026-11-29
+[Link] https://careers.un.org/job-openings?job-id=288895
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Area Project Officer-ERLP
+[Location] Homs
+[Deadline] 2026-11-30
+[Link] https://careers.un.org/job-openings?job-id=288882
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] INFORMATION SYSTEMS ASSISTANT
+[Location] KABUL
+[Deadline] 2026-12-07
+[Link] https://careers.un.org/job-openings?job-id=288734
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Reports Assistant
+[Location] FO West Bank
+[Deadline] 2026-12-06
+[Link] https://careers.un.org/job-openings?job-id=288665
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Specialist - Inclusive Growth [Open to internal and external applicants]
+[Location] Ha Noi, Viet Nam
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38067;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Programme Specialist - Inclusive Growth [Open to internal and external applicants] Post level NOC Apply by Dec-7-26 Agency UNDP Location Ha Noi, Viet Nam
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38067
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado/a en Gestión de la Información (Abierto a candidatos internos y externos) Post level NPSA-7 Apply by Dec-6-26 Agency UNDP Location Guatemala City, Guatemala
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38196
+--------------------------------------------------
+[Organization] WFP
+[Position] Internship - Partnerships Team, WFP London Global Office, UK
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Internship---Partnerships-Team--WFP-London-Global-Office--UK_JR128640
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate (Information Management) G-6 Yangon
+[Location] Yangon, Myanmar, The Union Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Yangon-Myanmar-The-Union-Of/Programme-Associate--Information-Management--G-6-Yangon_JR128657-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Management Services Assistant SSA4 (Fuel), N'Djamena
+[Location] N'Djamena, Chad, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/NDjamena-Chad-The-Republic-Of/Management-Services-Assistant-SSA4--Fuel---N-Djamena_JR128631
+--------------------------------------------------
+[Organization] WFP
+[Position] Finance Assistant - SC5 - Lahore
+[Location] Lahore, Pakistan, The Islamic Rep.
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Lahore-Pakistan-The-Islamic-Rep/Finance-Assistant---SC5---Lahore_JR128553-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Associate, SC6 based at the Ministry of Labor Social Welfare
+[Location] Vientiane, Laos, The People's Dem. Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Vientiane-Laos-The-Peoples-Dem-Re/Programme-Associate--SC6-based-at-the-Ministry-of-Labor-Social-Welfare_JR128652-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant, SC5 based at the Ministry of Labor Social Welfare (2 Positions)
+[Location] Vientiane, Laos, The People's Dem. Re
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Vientiane-Laos-The-Peoples-Dem-Re/Programme-Assistant--SC5-based-at-the-Ministry-of-Labor-Social-Welfare--2-Positions-_JR128651
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Transport Assistant
+[Location] Beirut, Lebanon
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Beirut-Lebanon/Senior-Transport-Assistant_JR2669494
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Shelter Associate
+[Location] Beirut, Lebanon
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Beirut-Lebanon/Shelter-Associate_JR2669515
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Protection Assistant
+[Location] Jakarta, Indonesia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Jakarta-Indonesia/Senior-Protection-Assistant_JR2669539-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] External Relations Associate
+[Location] Jakarta, Indonesia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Jakarta-Indonesia/External-Relations-Associate_JR2669538-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Protection Assistant
+[Location] Jakarta, Indonesia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Jakarta-Indonesia/Senior-Protection-Assistant_JR2669540-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Community-Based Protection Associate
+[Location] Jakarta, Indonesia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Jakarta-Indonesia/Senior-Community-Based-Protection-Associate_JR2669532-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Assistant Government Liaison Officer (N)
+[Location] Jakarta, Indonesia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Jakarta-Indonesia/Assistant-Government-Liaison-Officer--N-_JR2669533-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Admin / Finance Assistant
+[Location] Hong Kong, China
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Hong-Kong-China/Admin---Finance-Assistant_JR2669250
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Field Associate
+[Location] Taunggyi, Myanmar
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Taunggyi-Myanmar/Field-Associate_JR2669278-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Shelter Associate
+[Location] Sittwe, Myanmar
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Sittwe-Myanmar/Shelter-Associate_JR2669347-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Information Management Officer
+[Location] Kabul (CO), Afghanistan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kabul-CO-Afghanistan/Information-Management-Officer_JR2669014
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Inter- Agency Officer
+[Location] Bangkok (RB), Thailand
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Bangkok-RB-Thailand/Associate-Inter--Agency-Officer_JR2668933-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Operations Support Assistant (NIL/NIL Contract)
+[Location] Tokyo, Japan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Tokyo-Japan/Operations-Support-Assistant--NIL-NIL-Contract-_JR2669316
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Administrative Support Assistant (NIL/NIL Contract)
+[Location] Tokyo, Japan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Tokyo-Japan/Administrative-Support-Assistant--NIL-NIL-Contract-_JR2669254
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Community-Based Protection Associate
+[Location] Kharkiv, Ukraine
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kharkiv-Ukraine/Community-Based-Protection-Associate_JR2669359-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior Livelihood and Economic Inclusion Officer (Entrepreneurship)
+[Location] Geneva, Switzerland
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Geneva-Switzerland/Senior-Livelihood-and-Economic-Inclusion-Officer--Entrepreneurship-_JR2669008
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant to Prepare the Final Project Evaluation Report, synthesizing Project-Specific Evidence Extracted from the Country Programme Evaluation (CPE)
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-prepare-final-project-evaluation-report-synthesizing-project-specific
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Programme Specialist - Inclusive Growth [Open to internal and external applicants], Hanoi
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795420846022
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] INTERNSHIP: Division of Internal Oversight Services, Paris, France
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795385991298
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Drug Control Specialist Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795413657285
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Cybercrime Law and Technology Specialist Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795413656811
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Transnational Organized Crime Specialist Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795413656323
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Drug Control (Drug Policy Studies) Intern
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795413655860
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] Public Information Intern (Outreach)
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795413655388
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: WHE Team Lead WHO - World Health Organization Aden P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249395
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Finance Officer IUCN - International Union for Conservation of Nature Nay Pyi Taw P1
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249393
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Executive-Photography and Videography ICRISAT - The International Crops Research Institute for the Semi-Arid Tropics Patancheru | Hyderabad Photography and Videography
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249388
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: ILRI PhD Graduate Fellowship: Designing a tailored agentic knowledge system and co-scientist ILRI - International Livestock Research Institute Kenya Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249387
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Drug Control Specialist Intern UNODC - United Nations Office on Drugs and Crime Bangkok Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249386
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Public Information Intern (Outreach) UNOV - United Nations Office at Vienna Vienna Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249384
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Transnational Organized Crime Specialist Intern UNODC - United Nations Office on Drugs and Crime Bangkok Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249382
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Cybercrime Law and Technology Specialist Intern UNODC - United Nations Office on Drugs and Crime Bangkok Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249380
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Drug Control (Drug Policy Studies) Intern UNODC - United Nations Office on Drugs and Crime Bangkok Internship - Internship
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249379
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Officer, Lebanon Programme IFRC - International Federation of Red Cross and Red Crescent Societies Beirut National Staff
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249373
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Monitoring, Evaluation, Reporting, Learning, and Accountability (MERLA) Assistant IOM - International Organization for Migration Port Moresby GS-4, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249365
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Chief, Resources Management Unit (P) IOM - International Organization for Migration Kabul P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249364
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Project Associate - Development and Reporting IOM - International Organization for Migration Bangkok GS-5, General Service - No need for Higher Education - Locally recruited position - Administrative support
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249363
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Assistance Advisor (P) IOM - International Organization for Migration Kabul P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249362
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Displacement Tracking Matrix (DTM) Officer (P) IOM - International Organization for Migration Port-au-Prince P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1249361
+--------------------------------------------------
