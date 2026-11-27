@@ -1,0 +1,270 @@
+[Organization] United Nations Secretariat
+[Position] Director, Bureau
+[Location] MONTREAL
+[Deadline] 2027-01-27
+[Link] https://careers.un.org/job-openings?job-id=289143
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE LIAISON OFFICER
+[Location] BOGOTA
+[Deadline] 2026-12-11
+[Link] https://careers.un.org/job-openings?job-id=289174
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] ASSOCIATE LIAISON OFFICER
+[Location] APARTADO
+[Deadline] 2026-12-03
+[Link] https://careers.un.org/job-openings?job-id=289166
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR ECONOMIC AFFAIRS OFFICER
+[Location] BEIRUT
+[Deadline] 2027-01-10
+[Link] https://careers.un.org/job-openings?job-id=289017
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] HEAD OF OFFICE, POLITICAL AFFAIRS
+[Location] CUCUTA
+[Deadline] 2026-12-03
+[Link] https://careers.un.org/job-openings?job-id=289164
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Programme Management Assistant
+[Location] GENEVA
+[Deadline] 2026-12-11
+[Link] https://careers.un.org/job-openings?job-id=288276
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] DRIVER
+[Location] ENTEBBE
+[Deadline] 2026-12-03
+[Link] https://careers.un.org/job-openings?job-id=289225
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF UNIT, FINANCE
+[Location] ADDIS ABABA
+[Deadline] 2026-12-03
+[Link] https://careers.un.org/job-openings?job-id=288810
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SENIOR PROGRAMME MANAGEMENT OFFICER
+[Location] KINSHASA
+[Deadline] 2026-12-03
+[Link] https://careers.un.org/job-openings?job-id=288118
+--------------------------------------------------
+[Organization] UN Careers Portal
+[Position] Associate Programme Management Officer
+[Location] PARIS
+[Deadline] 2026-12-03
+[Link] https://careers.un.org/job-openings?job-id=285629
+--------------------------------------------------
+[Organization] UNDP
+[Position] Climate Communications Social Media intern
+[Location] New York, United States
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38317;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] IT Analyst [Open to internal and external applicants]
+[Location] Cotabato City, Philippines
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38319;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Monitoring & Evaluation Specialist [Open to internal and external applicants]
+[Location] Juba, South Sudan
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37862;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] UNV Human Resources Section-Capacity Development Intern-Remote
+[Location] Home Based
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38313;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNICEF
+[Position] International Individual Consultant: Facilitation and Development of the Country Programme Management Plan (CPMP), Juba, South Sudan, Remote + Travel, 2 Months, #597238
+[Location] 
+[Deadline] 
+[Link] https://jobs.unicef.org/jobs/international-individual-consultant-facilitation-and-development-of-the-country-programme-management-plan-cpmp-juba-south-sudan-remote-travel-2-months-597238-south-sudan
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title IT Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Dec-4-26 Agency UNDP Location Cotabato City, Philippines
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38319
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Monitoring & Evaluation Specialist [Open to internal and external applicants] Post level NPSA-10 Apply by Dec-3-26 Agency UNDP Location Juba, South Sudan
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37862
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Climate Communications Social Media intern Post level IN Apply by Dec-3-26 Agency UNDP Location New York, United States
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38317
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Assistente de Áudio e Vídeo (1 vaga) (Home Based) - [Open to internal and external applicants] Post level NPSA-5 Apply by Dec-3-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38281
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title UNV Human Resources Section-Capacity Development Intern-Remote Post level IN Apply by Dec-3-26 Agency UNV Location Home Based
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38313
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Administrative and Common Premises Associate [Open to Internal and External Applicants] Post level NPSA-7 Apply by Dec-11-26 Agency UNDP Location Nuku'Alofa, Tonga
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38320
+--------------------------------------------------
+[Organization] WFP
+[Position] Supply Chain Officer
+[Location] Bunia, Congo, The Dem. Rep.Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Bunia-Congo-The-Dem-RepOf/Supply-Chain-Officer_JR128788
+--------------------------------------------------
+[Organization] WFP
+[Position] Logistics Officer (Workshop & Spare Parts Store Manager), CST 1, Adama, Ethiopia
+[Location] Adama (Nazareth), Ethiopia, Federal Dem. Rep
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Adama-Nazareth-Ethiopia-Federal-Dem-Rep/Logistics-Officer--Workshop---Spare-Parts-Store-Manager---CST-1--Adama--Ethiopia_JR128789-2
+--------------------------------------------------
+[Organization] WFP
+[Position] Programme Assistant
+[Location] Tadjoura, Djibouti, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Tadjoura-Djibouti-The-Republic-Of/Programme-Assistant_JR128803
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Project Coordination Specialist (SPEED), Jakarta, Indonesia, P3
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/project-coordination-specialist-speed-jakarta-indonesia-p3
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Consultant to Prepare the Final Project Evaluation Report, synthesizing…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-consultant-prepare-final-project-evaluation-report-synthesizing-project-specific
+--------------------------------------------------
+[Organization] UNOPS
+[Position] Administration Associate
+[Location] 
+[Deadline] 
+[Link] https://careers.unops.org/careersmarketplace/JobDetail/Administration-Associate/5283
+--------------------------------------------------
+[Organization] Inter-American Development Bank
+[Position] Research and Development Senior Associate (CAsA Advisory) (Bogotá, CO)
+[Location] 
+[Deadline] 
+[Link] https://jobs.iadb.org/job/Bogot%C3%A1-Research-and-Development-Senior-Associate-%28CAsA-Advisory%29/1454011600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Assistant Project Communication Officer, P.1 (Fixed-term - 1 year) WMO - World Meteorological Organization Singapore P-1, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250388
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Communications and Partnerships Support Officer, P.1 (Fixed-term - 1 year) WMO - World Meteorological Organization Geneva P-1, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250383
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Especialista en Seguridad UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Palmira BG08
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250382
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Asistente de Investigación II UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Palmira BG05
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250381
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Analyst UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Palmira BG06
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250380
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Analista de Compras UNIRMCT - United Nations International Residual Mechanism for Criminal Tribunals Palmira | Valle BG06
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250379
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Director, Air Transport Bureau ICAO - International Civil Aviation Organization Montreal D-2, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250378
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MRC Senior Counsellor (M2) ICMPD - International Centre for Migration Policy Development Duhok M2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250377
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: MRC Senior Counsellor (M2) ICMPD - International Centre for Migration Policy Development Mosul M2
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250376
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Senior Officer, Community Resilience IFRC - International Federation of Red Cross and Red Crescent Societies Bogotá Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250375
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: CHIEF OF UNIT, FINANCE (Temporary Job Opening) UNECA - United Nations Economic Commission for Africa Addis Ababa P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250365
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: OFFICIER(E) GESTION DES RISQUES ET IMPACTS ENVIRONNEMENTAUX ET SOCIAUX IRC - International Rescue Committee Bunia Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250364
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Student Support Specialist IRC - International Rescue Committee Abilene Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250363
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Job is closed: WPE Program Officer IRC - International Rescue Committee Myanmar Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250362
+--------------------------------------------------
+[Organization] Impactpool
+[Position] Job is closed: Assistant Finance Partenariat-2 IRC - International Rescue Committee Bujumbura | Ngozi | Kayanza Junior - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250361
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] Finance Manager for International Programs (60–80%)
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4240256/finance-manager-international-programs-60-80
+--------------------------------------------------
+[Organization] ReliefWeb Aggregator
+[Position] MG 129 – Consultant international : formation de l’ANFA à la modélisation MINIMOD
+[Location] 
+[Deadline] 
+[Link] https://reliefweb.int/job/4239759/mg-129-consultant-international-formation-de-lanfa-la-modelisation-minimod
+--------------------------------------------------
