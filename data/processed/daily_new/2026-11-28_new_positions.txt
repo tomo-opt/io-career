@@ -1,0 +1,396 @@
+[Organization] United Nations Secretariat
+[Position] DEPUTY DIRECTOR, PROGRAMME
+[Location] MONTREAL
+[Deadline] 2027-01-29
+[Link] https://careers.un.org/job-openings?job-id=288790
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] Regional Director
+[Location] BANGKOK
+[Deadline] 2027-01-29
+[Link] https://careers.un.org/job-openings?job-id=288792
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] POLITICAL AFFAIRS OFFICER
+[Location] NEW YORK
+[Deadline] 2026-12-05
+[Link] https://careers.un.org/job-openings?job-id=286314
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CARPENTER
+[Location] NEW YORK
+[Deadline] 2026-12-13
+[Link] https://careers.un.org/job-openings?job-id=287812
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] FIELD SECURITY ASSISTANT
+[Location] BENGHAZI
+[Deadline] 2026-12-28
+[Link] https://careers.un.org/job-openings?job-id=288959
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] LIAISON OFFICER
+[Location] NEW YORK
+[Deadline] 2026-12-05
+[Link] https://careers.un.org/job-openings?job-id=288459
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] SUSTAINABLE DEVELOPMENT OFFICER
+[Location] NEW YORK
+[Deadline] 2026-12-05
+[Link] https://careers.un.org/job-openings?job-id=289149
+--------------------------------------------------
+[Organization] United Nations Secretariat
+[Position] CHIEF OF SECTION, HUMANITARIAN AFFAIRS
+[Location] NEW YORK
+[Deadline] 2027-01-12
+[Link] https://careers.un.org/job-openings?job-id=289003
+--------------------------------------------------
+[Organization] UNDP
+[Position] Security Analysis and Operations Intern
+[Location] Panama City, Panama
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38337;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Portfolio Associate (Open for internal and external candidates)
+[Location] Bangkok, Thailand
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38331;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Portfolio Associate (Open for internal and external candidates)
+[Location] Dakar, Senegal
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38328;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Programme Analyst [Open to internal and external applicants]
+[Location] Paramaribo, Suriname
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=37455;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UNDP
+[Position] Portfolio Associate (Open for internal and external candidates - 2 positions)
+[Location] Panama City, Panama
+[Deadline] None
+[Link] https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=38329;pCalledFrom=FUSESHELL
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Project Associate [Open to internal and external applicants] Post level NPSA-7 Apply by Nov-30-26 Agency UNDP Location Chisinau, Moldova
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/37525
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Asociado(a) Técnico(a) de Gobernanza Oceánica en México [Abierto a candidatos internos y externos] Post level NPSA-7 Apply by Dec-11-26 Agency UNDP Location Mexico, Mexico
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38338
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Portfolio Associate (Open for internal and external candidates) Post level NPSA-6 Apply by Dec-3-26 Agency UNV Location Dakar, Senegal
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38328
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Portfolio Associate (Open for internal and external candidates - 2 positions) Post level NPSA-6 Apply by Dec-3-26 Agency UNV Location Panama City, Panama
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38329
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Portfolio Associate (Open for internal and external candidates) Post level NPSA-6 Apply by Dec-3-26 Agency UNV Location Bangkok, Thailand
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38331
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Associado(a) de Testes (1 vaga) (Home Based) - [Open to internal and external applicants] Post level NPSA-7 Apply by Dec-9-26 Agency UNDP Location Brasilia, Brazil
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35857
+--------------------------------------------------
+[Organization] UN Women
+[Position] Job Title Security Analysis and Operations Intern Post level IN Apply by Dec-11-26 Agency UNDP Location Panama City, Panama
+[Location] 
+[Deadline] 
+[Link] https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/38337
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Aviation) SSA4 Kampala (Kajjansi)
+[Location] Kampala, Uganda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Business-Support-Assistant--Aviation--SSA4-Kampala--Kajjansi-_JR128857-1
+--------------------------------------------------
+[Organization] WFP
+[Position] Aviation Assistant (Finance and Administration) SSA5 Kampala (Kajjansi)
+[Location] Kampala, Uganda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Aviation-Assistant--Finance-and-Administration--SSA5-Kampala--Kajjansi-_JR128858
+--------------------------------------------------
+[Organization] WFP
+[Position] Aviation Assistant SSA5 Kampala ( Kajjansi)
+[Location] Kampala, Uganda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Aviation-Assistant-SSA5-Kampala---Kajjansi-_JR128775
+--------------------------------------------------
+[Organization] WFP
+[Position] Business Support Assistant (Tasking and Booking) SSA4 Kampala (Kajjansi)
+[Location] Kampala, Uganda, The Republic Of
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kampala-Uganda-The-Republic-Of/Business-Support-Assistant--Tasking-and-Booking--SSA4-Kampala--Kajjansi-_JR128773
+--------------------------------------------------
+[Organization] WFP
+[Position] Chief Information Officer and Director, Technology Division, D2
+[Location] Rome, Italy
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Rome-Italy/Chief-Information-Officer-and-Director--Technology-Division--D2_JR128749
+--------------------------------------------------
+[Organization] WFP
+[Position] Partnerships and Investment Officer SC-9
+[Location] Kyiv, Ukraine
+[Deadline] 
+[Link] https://wd3.myworkdaysite.com/job/Kyiv-Ukraine/Partnerships-and-Investment-Officer-SC-9_JR128841
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Administrative Associate
+[Location] Copenhagen (HQ), Denmark
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Copenhagen-HQ-Denmark/Administrative-Associate_JR2669815-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] WASH Associate
+[Location] Cox's Bazaar, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Coxs-Bazaar-Bangladesh/WASH-Associate_JR2669258-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] WASH Associate
+[Location] Cox's Bazaar, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Coxs-Bazaar-Bangladesh/WASH-Associate_JR2669257-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate External Relations Officer
+[Location] Cox's Bazaar, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Coxs-Bazaar-Bangladesh/Associate-External-Relations-Officer_JR2669438-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Donor Relations Officer
+[Location] Dhaka, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Dhaka-Bangladesh/Donor-Relations-Officer_JR2669440-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Associate Protection Officer
+[Location] Cox's Bazaar, Bangladesh
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Coxs-Bazaar-Bangladesh/Associate-Protection-Officer_JR2669436-1
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Partnership Officer
+[Location] Kabul (CO), Afghanistan
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kabul-CO-Afghanistan/Partnership-Officer_JR2669488-2
+--------------------------------------------------
+[Organization] UNHCR
+[Position] Senior PSP Assistant (Donor Care)
+[Location] Kuala Lumpur, Malaysia
+[Deadline] 
+[Link] https://unhcr.wd3.myworkdayjobs.com/job/Kuala-Lumpur-Malaysia/Senior-PSP-Assistant--Donor-Care-_JR2669549-1
+--------------------------------------------------
+[Organization] UNFPA
+[Position] National Post: Driver, Pemba, Cabo Delgado Field Office, 2 Positions, Mozambique, G-2
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/national-post-driver-pemba-cabo-delgado-field-office-2-positions-mozambique-g-2
+--------------------------------------------------
+[Organization] UNFPA
+[Position] Asociado Nacional en Políticas Públicas de Igualdad de Género, Adolescencia y…
+[Location] 
+[Deadline] 
+[Link] https://www.unfpa.org/jobs/asociado-nacional-en-pol%C3%ADticas-p%C3%BAblicas-de-igualdad-de-g%C3%A9nero-adolescencia-y-juventud-lsc7-0
+--------------------------------------------------
+[Organization] UNJobs Aggregator (HTML)
+[Position] International Consultant – Primary Health Care (PHC) Financing, Barcelona, Spain
+[Location] 
+[Deadline] 
+[Link] https://unjobs.org/vacancies/1795842101428
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: International Consultant – Primary Health Care (PHC) Financing WHO - World Health Organization Remote | Barcelona B
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250571
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Deputy Director, Capacity Development and Implementation Bureau ICAO - International Civil Aviation Organization Montreal D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250569
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Regional Director ICAO - International Civil Aviation Organization Bangkok D-1, Director - Internationally recruited position - Senior Executive level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250568
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Security Analysis and Operations Intern UNDP - United Nations Development Programme Panamá IN
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250567
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Associate Director, Cost-effectiveness Funder Analysis IRC - International Rescue Committee Remote | United States Senior - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250563
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Manager, Major Giving Southwest IRC - International Rescue Committee Remote | United States Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250562
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Survivors of Torture Caseworker IRC - International Rescue Committee Remote | New York City Mid - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250561
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Associate Director, Cost-effectiveness Funder Engagement IRC - International Rescue Committee New York City Executive
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250560
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Political Affairs Officer SCAD - The Security Council Affairs Division New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250559
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: LIAISON OFFICER UNVMC - United Nations Verification Mission in Colombia Barrancabermeja P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250556
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Chief of Section, Humanitarian Affairs UN OCHA - Office for the Coordination of Humanitarian Affairs New York City P-5, International Professional - Internationally recruited position - Senior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250554
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Liaison Officer UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations New York City P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250552
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Associate Humanitarian Affairs Officer (Anticipatory Approach) UN OCHA - Office for the Coordination of Humanitarian Affairs Suva P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250550
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Information Management Officer UN OCHA - Office for the Coordination of Humanitarian Affairs Caracas P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250549
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Affairs Officer (Risk Management and Compliance) UN OCHA - Office for the Coordination of Humanitarian Affairs Port-au-Prince P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250548
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: DIGITAL COMMUNICATIONS OFFICER (CONTENT CREATOR) UN OCHA - Office for the Coordination of Humanitarian Affairs New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250546
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Sustainable Development Officer, Innovation (Temporary Job Opening) UN RCO - United Nations Resident Coordinator's Office New York City P-4, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250545
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Humanitarian Affairs Officer (Anticipatory Approach) UN OCHA - Office for the Coordination of Humanitarian Affairs Dakar P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250543
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Political Affairs Officer UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations New York City P-3, International Professional - Internationally recruited position - Mid level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250540
+--------------------------------------------------
+[Organization] Impactpool
+[Position] New job: Associate Environmental Affairs Officer (temporary) UNECE - United Nations Economic Commission for Europe Geneva P-2, International Professional - Internationally recruited position - Junior level
+[Location] 
+[Deadline] 
+[Link] https://www.impactpool.org/jobs/1250539
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Assistant/Associate Professor in History and Comparative Political Systems
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52407-ifrane-morocco-al-akhawayn-university-in-assistant-associate-professor-history-and-comparative-political-systems
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Foreign Affairs Officer
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52406-washington-dc-u-s-department-of-state-foreign-affairs-officer
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Peace Finance Advisor, Peace and Security Investment Hub
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52405-mozambique-interpeace-senior-peace-finance-advisor-and-security-investment-hub
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Public Affairs Content Staff
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52404-arlington-virginia-lockheed-martin-public-affairs-content-staff
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Global Forest Policy Lead
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52403-washington-dc-natural-resources-defense-council-nrdc-global-forest-policy-lead
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Director of Partnerships & Engagement
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52402-washington-dc-solidarity-center-director-of-partnerships-engagement
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Story Editor
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52401-amsterdam-netherlands-occrp-story-editor
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Senior Expert with National Experience for the Agriculture Innovation Project II (AIP II)
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52400-egypt-gfa-consulting-group-senior-expert-with-national-experience-for-the-agriculture-innovation-project-ii-aip
+--------------------------------------------------
+[Organization] Globaljobs
+[Position] Visiting Assistant Professor of Politics
+[Location] 
+[Deadline] 
+[Link] https://www.globaljobs.org/jobs/52399-geneva-new-york-hobart-and-william-smith-colleges-visiting-assistant-professor-of-politics
+--------------------------------------------------
